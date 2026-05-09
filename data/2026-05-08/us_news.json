@@ -10,7 +10,7 @@
       "source": "newsapi",
       "sector": "소비재",
       "sentiment": "negative",
-      "score": 8
+      "score": 9
     },
     {
       "id": "us_5e3d08339f36",
@@ -18,9 +18,9 @@
       "title": "Michael Saylor says remarks about selling Bitcoin were intended to jam short-sellers and ‘haters’",
       "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-says-remarks-selling-154918323.html",
       "source": "newsapi",
-      "sector": "금융",
-      "sentiment": "positive",
-      "score": 6
+      "sector": "IT/소프트웨어",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_c4219402fd4f",
@@ -60,7 +60,7 @@
       "source": "newsapi",
       "sector": "통신/미디어",
       "sentiment": "negative",
-      "score": 9
+      "score": 10
     },
     {
       "id": "us_f4d87e2e50f8",
@@ -100,7 +100,7 @@
       "source": "newsapi",
       "sector": "반도체",
       "sentiment": "positive",
-      "score": 9
+      "score": 10
     },
     {
       "id": "us_0ff67b86470d",
@@ -110,7 +110,7 @@
       "source": "newsapi",
       "sector": "소비재",
       "sentiment": "positive",
-      "score": 7
+      "score": 8
     },
     {
       "id": "us_d39c4e56212a",
@@ -120,7 +120,7 @@
       "source": "newsapi",
       "sector": "에너지",
       "sentiment": "neutral",
-      "score": 5
+      "score": 6
     },
     {
       "id": "us_1d9c2399eb50",
@@ -130,7 +130,7 @@
       "source": "newsapi",
       "sector": "소비재",
       "sentiment": "positive",
-      "score": 8
+      "score": 9
     },
     {
       "id": "us_fa34462ea71e",
@@ -140,7 +140,7 @@
       "source": "newsapi",
       "sector": "금융",
       "sentiment": "positive",
-      "score": 9
+      "score": 10
     },
     {
       "id": "us_6e24b270840e",
@@ -150,7 +150,7 @@
       "source": "newsapi",
       "sector": "IT/소프트웨어",
       "sentiment": "positive",
-      "score": 8
+      "score": 9
     },
     {
       "id": "us_67a7d725f14c",
@@ -158,7 +158,7 @@
       "title": "Coinbase bulls point to crypto legislation and stablecoins after earnings miss",
       "url": "https://www.coindesk.com/markets/2026/05/08/coinbase-bulls-point-to-crypto-legislation-and-stablecoins-after-earnings-miss",
       "source": "newsapi",
-      "sector": "금융",
+      "sector": "IT/소프트웨어",
       "sentiment": "neutral",
       "score": 5
     },
@@ -179,8 +179,8 @@
       "url": "https://www.sportico.com/business/finance/2026/msg-sports-earnings-knicks-rangers-q3-1234892339/",
       "source": "newsapi",
       "sector": "소비재",
-      "sentiment": "negative",
-      "score": 7
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_59a615b580aa",
@@ -190,7 +190,7 @@
       "source": "newsapi",
       "sector": "에너지",
       "sentiment": "positive",
-      "score": 8
+      "score": 9
     },
     {
       "id": "us_a531a55a51bd",
@@ -198,7 +198,7 @@
       "title": "Coinbase (COIN) shares fall after crypto exchange posts quarterly loss",
       "url": "https://investorshub.advfn.com/market-news/article/28013/coinbase-coin-shares-fall-after-crypto-exchange-posts-quarterly-loss",
       "source": "newsapi",
-      "sector": "금융",
+      "sector": "IT/소프트웨어",
       "sentiment": "negative",
       "score": 8
     },
@@ -210,7 +210,7 @@
       "source": "newsapi",
       "sector": "금융",
       "sentiment": "neutral",
-      "score": 5
+      "score": 6
     },
     {
       "id": "us_0bc1fa358863",
@@ -218,9 +218,9 @@
       "title": "Coinbase rebounds as altcoins surge with bitcoin holding above $80,000",
       "url": "https://www.coindesk.com/markets/2026/05/08/coinbase-rebounds-as-altcoins-surge-with-bitcoin-holding-above-usd80-000",
       "source": "newsapi",
-      "sector": "금융",
+      "sector": "IT/소프트웨어",
       "sentiment": "positive",
-      "score": 8
+      "score": 9
     },
     {
       "id": "us_170d84a5950f",
@@ -240,7 +240,7 @@
       "source": "newsapi",
       "sector": "반도체",
       "sentiment": "positive",
-      "score": 9
+      "score": 10
     },
     {
       "id": "us_a3f46d71e16b",
@@ -250,7 +250,7 @@
       "source": "newsapi",
       "sector": "금융",
       "sentiment": "positive",
-      "score": 9
+      "score": 10
     },
     {
       "id": "us_a823ea8de66a",
@@ -288,7 +288,7 @@
       "title": "Oil jumps, stocks fall as US-Iran clashes spark peace talks fears",
       "url": "https://www.digitaljournal.com/world/oil-jumps-stocks-fall-as-us-iran-clashes-spark-peace-talks-fears/article",
       "source": "newsapi",
-      "sector": "에너지",
+      "sector": "금융",
       "sentiment": "negative",
       "score": 8
     },
@@ -300,7 +300,7 @@
       "source": "newsapi",
       "sector": "금융",
       "sentiment": "positive",
-      "score": 8
+      "score": 9
     },
     {
       "id": "us_ec5905aaab45",
