@@ -1,5 +1,116 @@
 {
   "ok": true,
   "date": "2026-05-08",
-  "data": []
+  "data": [
+    {
+      "id": "kr_9110d4566c27",
+      "date": "2026-05-08",
+      "title": "삼성증권은 정말 서양 주식개미를 몰고 왔을까 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNM0gyRkJmNGd3Z21XUW5DYVltN0drMVB1SlltbWt2bHVnM0VKMEpHRlE4MkU2dHJ3S1Y1UFVIOERYXzFaRFkwN05ncWxJeDg?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 4
+    },
+    {
+      "id": "kr_13b031ce6fef",
+      "date": "2026-05-08",
+      "title": "‘K-주식 직구’ 시대 본격화…30년 빗장 푼 한국 증시 ‘인프라 대전환’ - 쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXVEdxcE1Tak9PWHRRRmZCUDJFNFlfOFR0U1UxY1Atb19yTmF5RXVlb2NQb2VYams2bmtpS3kxYzNZQVB3T0N1XzV2VlI4dHFxbEZnbTd3anhQLWx1cWNTRzAtdw?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_b3dff78477e3",
+      "date": "2026-05-08",
+      "title": "한국 증시 저평가 원인이 ‘이익 뻥튀기’라고?...중복상장 금지하는 이유 [뉴스 쉽게보기] - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PZDZtYVJvclhkbGUzVUpReEZqTEJNTW0zR1FhSzgwUmlnY2Z1OU5aXzB2c3BhRDYxNnVzNWJPbDFhU0ltMnpKTmhwcURDQ250WHNLRQ?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 7
+    },
+    {
+      "id": "kr_d77a89bbf161",
+      "date": "2026-05-08",
+      "title": "코스피 7000 찍은 날…美상장 한국 ETF서 6000억 빠졌다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92S0JXd0N6Y2tfd1QwQXVHaVphVzVNc2ZGVl9jbFNJQXVmYWZWSC0ybkNUOFJuazFsaTZfSHdnYWhUSC12dzBWM2hudHY3U1U?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 7
+    },
+    {
+      "id": "kr_6d407af8a670",
+      "date": "2026-05-08",
+      "title": "“코인하던 친구들, 이젠 韓주식 쇼핑”…순매도는 잠깐, 외국인 ‘바이 코리아’ 불 붙을까 - 뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00TmJvM1lwOXVTZDg0cmduQUVnMDc4M3FxbU1fMm9zTHVhWGRJeVpvckZzenpDSnlUSm05ZVdaQnZvOU96clNLbldkVllOcVBpNkFpcmpDVVhCanJ1eXc?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 7
+    },
+    {
+      "id": "kr_1a634fae6d0b",
+      "date": "2026-05-08",
+      "title": "국민연금 국내주식 비중 과열 … 매도폭탄 공포 확산 - 뉴데일리 경제",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14a2w1WWtaUmxFZG9vamVlMUNhNnpqNlV2OWdNMENjQXJQYkdjbkVJdndBT2dBM0I2UUxVOUtCcjg3WUtWN2pIMDFWdjNCb3g2a2hyb0VnVmlwOUdQbW5XUm01eHJyMlVzdDJha1RiQmZsYXEzdmprS0pTWQ?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 9
+    },
+    {
+      "id": "kr_ba06f55a2794",
+      "date": "2026-05-08",
+      "title": "국민연금 85조원 국내주식 매도하나…차익실현·증시충격 사이 5월 기금위 주목 - 이코노미트리뷴",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JVTE0NVpNcFV3SEFkU3QzWTlXU2NJZlN5V1VsZUdyLVl0TDNaSDZjLWJzQ0NZamxzZTEzam95cWc5dHppM056bk1jcHZMcjJpWXA3MDZCQmVtZ2ZQVHUzTV9razNKQmM3ZDduSGRRZ0JjSkViWFVv?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 7
+    },
+    {
+      "id": "kr_2c8ec726bbdb",
+      "date": "2026-05-08",
+      "title": "코스피, 반도체 약세·외인 매도세에 장중 7310선까지 하락···코스닥은 1210선 '강보합' - 뉴스웨이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OWnpPbjNyTmFWVjRLQnNOVDRCR1R3cjZPYjBabkpCbm9KR3JXVE5mVHNSQkZpUHp2TkZMQWkxRXdlX2JMYW0zblRBOUR4VEo5bHlVc05mVHVySDk5VXZXSUJQeURCRk51YWc?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "negative",
+      "score": 7
+    },
+    {
+      "id": "kr_c73a984d9cf9",
+      "date": "2026-05-08",
+      "title": "[AI MY 증시전망] 미·이란 협상 불확실성 재부각…반도체 차익실현 주목 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlZTh1ajZsQWQzMXVING5nZHNrelRsRzI3WEtIM0RQUE52aTdyS2ZtV3EtcklfU2pROWlTRFpCcnQ4LTQzNk84bC1rODFQUnNZVUp1TTdZdWZBaXE3?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "negative",
+      "score": 7
+    },
+    {
+      "id": "kr_b80e278ea492",
+      "date": "2026-05-08",
+      "title": "코스피 시총상위株 혼조…대형 반도체·이차전지 약세 - ebn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1TmREeUFpYUwxa01KUVVUVmJxOW9jVWNJaHc4UGh1N0FacTdGTnJuV1A5aU1qVUhKUDlncHdYVVhFMmRLNWdac0Z2aDlzZUQ5RzloNFUtR0pnZzZTSDFPVENybERKQlNl?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "negative",
+      "score": 7
+    },
+    {
+      "id": "kr_1ecefe62a58d",
+      "date": "2026-05-08",
+      "title": "구조적인 수익성 개선…환율·수주환경 변화가 변수 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpdE5YTkVTN0tvMTlYVUZONGxfc0ZkMklzclA0TTNmSkRxeXZTQS1NT0dnR1RfakZoVlJqSlg4QnZIWjNZZjNnQ1EyZjRQSlJwRndwRnJndWd2UdIBVEFVX3lxTE5rSHdHc3hMRzR5ZUs4SS11Rl9mcUtCRzE5R1RjaGpFdmRxaVZPZjk1eThLQXpLbm13QVZmeDN3QmN2c3NnTHdsRk4waXhtR1NRMU9CNQ?oc=5",
+      "source": "google_news",
+      "sector": "철강/소재",
+      "sentiment": "positive",
+      "score": 6
+    }
+  ]
 }
