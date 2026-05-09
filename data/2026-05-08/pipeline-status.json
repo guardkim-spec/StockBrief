@@ -8,49 +8,49 @@
       {
         "name": "korea_price",
         "status": "success",
-        "ran_at": "2026-05-10T07:13:24.475789+09:00",
-        "duration_sec": 7.3
+        "ran_at": "2026-05-10T07:40:40.954466+09:00",
+        "duration_sec": 7.5
       },
       {
         "name": "korea_news",
         "status": "success",
-        "ran_at": "2026-05-10T07:13:34.646977+09:00",
-        "duration_sec": 5.6
+        "ran_at": "2026-05-10T07:40:52.109063+09:00",
+        "duration_sec": 3.5
       },
       {
         "name": "us_price",
         "status": "success",
-        "ran_at": "2026-05-10T07:13:44.690859+09:00",
-        "duration_sec": 15.6
+        "ran_at": "2026-05-10T07:40:58.472967+09:00",
+        "duration_sec": 9.9
       },
       {
         "name": "us_news",
         "status": "success",
-        "ran_at": "2026-05-10T07:14:02.752743+09:00",
-        "duration_sec": 2.3
+        "ran_at": "2026-05-10T07:41:11.279966+09:00",
+        "duration_sec": 2.7
       },
       {
         "name": "gemini_analysis",
         "status": "success",
-        "ran_at": "2026-05-10T07:14:07.751958+09:00",
+        "ran_at": "2026-05-10T07:41:17.848320+09:00",
         "duration_sec": 0
       },
       {
         "name": "trend_ai_global",
         "status": "success",
-        "ran_at": "2026-05-10T07:14:08.949116+09:00",
-        "duration_sec": 0.7
+        "ran_at": "2026-05-10T07:41:19.857375+09:00",
+        "duration_sec": 2.1
       },
       {
         "name": "charts_report",
         "status": "success",
-        "ran_at": "2026-05-10T07:14:12.216960+09:00",
+        "ran_at": "2026-05-10T07:41:24.983887+09:00",
         "duration_sec": 0.2
       },
       {
         "name": "storage",
         "status": "running",
-        "ran_at": "2026-05-10T07:14:14.901822+09:00",
+        "ran_at": "2026-05-10T07:41:28.136255+09:00",
         "duration_sec": null
       },
       {
