@@ -44,6 +44,12 @@ def _put_file(path: str, content: str, message: str) -> bool:
         payload["sha"] = sha
 
     resp = requests.put(url, headers=_headers(), json=payload)
+    if resp.status_code == 409:
+        # SHA conflict — fetch fresh SHA and retry once
+        fresh_sha = _get_file_sha(path)
+        if fresh_sha:
+            payload["sha"] = fresh_sha
+        resp = requests.put(url, headers=_headers(), json=payload)
     if resp.status_code in (200, 201):
         return True
     logger.error("GitHub put failed [%d]: %s — path: %s", resp.status_code, resp.text[:200], path)

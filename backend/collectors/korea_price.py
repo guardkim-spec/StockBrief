@@ -1,4 +1,4 @@
-﻿"""Collect Korea top-100 stocks by trading value using pykrx."""
+"""Collect Korea top-100 stocks by trading value using pykrx."""
 import logging
 from datetime import datetime, timedelta
 from typing import Any
@@ -31,10 +31,7 @@ def _get_trading_date(dt: datetime) -> str:
 
 @retry(max_attempts=3, delay_sec=30.0)
 def collect_korea_top100(date_str: str | None = None) -> list[dict[str, Any]]:
-    """
-    Collect top-100 Korean stocks by trading value.
-    Returns list of price schema dicts.
-    """
+    """Collect top-100 Korean stocks by trading value."""
     now_kst = datetime.now(KST)
     if date_str:
         target = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=KST)
@@ -51,24 +48,19 @@ def collect_korea_top100(date_str: str | None = None) -> list[dict[str, Any]]:
     results: list[dict] = []
     for market_name in ("KOSPI", "KOSDAQ"):
         try:
-            df = stock.get_market_trading_value_by_ticker(
-                trading_date, trading_date, market_name
-            )
-            if df.empty:
+            # get_market_ohlcv_by_ticker returns: 시가,고가,저가,종가,거래량,거래대금,등락률
+            df = stock.get_market_ohlcv_by_ticker(trading_date, market=market_name)
+            if df is None or df.empty:
                 continue
-
-            ohlcv = stock.get_market_ohlcv_by_ticker(trading_date, market=market_name)
 
             for ticker in df.index:
                 try:
-                    volume_amount = int(df.loc[ticker, "거래대금"])
+                    row = df.loc[ticker]
+                    volume_amount = int(row.get("거래대금", 0))
                     if volume_amount <= 0:
                         continue
 
-                    change_rate = 0.0
-                    if ticker in ohlcv.index and "등락률" in ohlcv.columns:
-                        change_rate = float(ohlcv.loc[ticker, "등락률"])
-
+                    change_rate = float(row.get("등락률", 0.0))
                     is_outlier = abs(change_rate) > OUTLIER_CHANGE_RATE_THRESHOLD
                     name = stock.get_market_ticker_name(ticker)
                     sector = classify_korea_ticker(ticker)

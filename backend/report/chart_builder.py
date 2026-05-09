@@ -48,7 +48,7 @@ def build_sector_bar_chart(
             continue
 
         sectors = [s["sector"] for s in reversed(scores)]
-        values  = [s["score"] for s in reversed(scores)]
+        values  = [s.get("score", s.get("avg_score", 0)) for s in reversed(scores)]
         colors  = [COLOR_UP if s.get("sentiment") == "positive" else COLOR_DOWN if s.get("sentiment") == "negative" else TEXT_SEC for s in reversed(scores)]
 
         bars = ax.barh(sectors, values, color=colors, height=0.6)
