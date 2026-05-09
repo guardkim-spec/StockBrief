@@ -2,7 +2,7 @@
   "ok": true,
   "date": "2026-05-06",
   "data": {
-    "last_updated": "2026-05-10T08:19:29.868381+09:00",
+    "last_updated": "2026-05-10T08:28:26.158990+09:00",
     "pipeline_status": "success",
     "ai_recommendation": {
       "sectors": [
@@ -10,25 +10,25 @@
         "IT/소프트웨어",
         "2차전지"
       ],
-      "reason": "미국 반도체 및 IT/소프트웨어 섹터의 긍정적 뉴스 흐름이 글로벌 투자 심리를 견인할 것으로 보입니다. 한국 시장에서는 반도체가 압도적인 거래대금 1위를 기록하며 강한 매수세를 보였고, 2차전지 또한 높은 거래대금으로 투자자들의 지속적인 관심을 입증했습니다.",
+      "reason": "반도체는 미국에서 압도적인 긍정 뉴스 점수와 한국 시장 내 최고 거래대금을 기록하며 국내외 투자자들의 강력한 관심이 집중되고 있습니다. IT/소프트웨어는 미국에서 긍정적인 뉴스 흐름을 보이며 글로벌 기술 섹터의 강세가 예상되며, 반도체와 연관성이 높아 동반 상승을 기대합니다. 2차전지는 한국 시장에서 높은 거래대금을 유지하며 투자자들의 지속적인 관심과 활발한 매매가 예상됩니다.",
       "confidence": 0.75,
-      "generated_at": "2026-05-10T08:19:29.868381+09:00"
+      "generated_at": "2026-05-10T08:28:26.158990+09:00"
     },
     "korea_sector_ranking": [],
     "us_sector_ranking": [
-      {
-        "sector": "반도체",
-        "score": 8.0,
-        "sentiment": "positive"
-      },
       {
         "sector": "자동차",
         "score": 8.0,
         "sentiment": "positive"
       },
       {
+        "sector": "반도체",
+        "score": 7.75,
+        "sentiment": "positive"
+      },
+      {
         "sector": "IT/소프트웨어",
-        "score": 7.67,
+        "score": 7.08,
         "sentiment": "positive"
       },
       {
@@ -37,22 +37,22 @@
         "sentiment": "positive"
       },
       {
-        "sector": "금융",
-        "score": 5.75,
-        "sentiment": "neutral"
-      },
-      {
         "sector": "에너지",
         "score": 5.5,
         "sentiment": "neutral"
       },
       {
-        "sector": "소비재",
-        "score": 5.33,
+        "sector": "부동산/건설",
+        "score": 5.0,
         "sentiment": "neutral"
       },
       {
-        "sector": "부동산/건설",
+        "sector": "소비재",
+        "score": 5.0,
+        "sentiment": "neutral"
+      },
+      {
+        "sector": "금융",
         "score": 5.0,
         "sentiment": "neutral"
       },
