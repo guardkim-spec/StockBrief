@@ -401,7 +401,7 @@ def _build_dashboard_payload(date_str: str, ctx: dict) -> dict:
 
 
 if __name__ == "__main__":
-    import argparse, sys
+    import argparse, os, sys
     logging.basicConfig(
         level=logging.INFO,
         format="%(asctime)s [%(levelname)s] %(name)s — %(message)s",
@@ -411,5 +411,10 @@ if __name__ == "__main__":
     parser.add_argument("--date",    default=None)
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
-    ok = run_pipeline(date_str=args.date, dry_run=args.dry_run)
+
+    # Fall back to environment variables (used by GitHub Actions workflow)
+    date_str = args.date or os.environ.get("PIPELINE_DATE") or None
+    dry_run  = args.dry_run or os.environ.get("PIPELINE_DRY_RUN", "").lower() == "true"
+
+    ok = run_pipeline(date_str=date_str, dry_run=dry_run)
     sys.exit(0 if ok else 1)
