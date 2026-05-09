@@ -54,6 +54,8 @@ jobs:
           GITHUB_TOKEN:               ${{ secrets.GITHUB_TOKEN }}
           GITHUB_OWNER:               ${{ github.repository_owner }}
           GITHUB_REPO:                ${{ github.event.repository.name }}
+          KRX_ID:                     ${{ secrets.KRX_ID }}
+          KRX_PW:                     ${{ secrets.KRX_PW }}
           PIPELINE_DATE:              ${{ github.event.inputs.date }}
           PIPELINE_DRY_RUN:           ${{ github.event.inputs.dry_run }}
         run: python -m pipeline.orchestrator

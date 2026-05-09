@@ -408,6 +408,13 @@ def _build_dashboard_payload(date_str: str, ctx: dict) -> dict:
 
 if __name__ == "__main__":
     import argparse, os, sys
+    # Load .env into os.environ BEFORE any library (pykrx reads KRX_ID/KRX_PW directly)
+    try:
+        from dotenv import load_dotenv
+        load_dotenv(dotenv_path=os.path.join(os.path.dirname(__file__), "..", ".env"),
+                    override=False)
+    except Exception:
+        pass
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     logging.basicConfig(
         level=logging.INFO,
