@@ -49,9 +49,9 @@
       },
       {
         "name": "storage",
-        "status": "running",
+        "status": "failed",
         "ran_at": "2026-05-09T22:42:04.193419+09:00",
-        "duration_sec": null
+        "duration_sec": 10.6
       },
       {
         "name": "email",
