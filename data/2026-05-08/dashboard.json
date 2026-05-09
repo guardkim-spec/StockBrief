@@ -2,59 +2,75 @@
   "ok": true,
   "date": "2026-05-08",
   "data": {
-    "last_updated": "2026-05-10T08:40:45.564414+09:00",
+    "last_updated": "2026-05-10T08:55:38.889219+09:00",
     "pipeline_status": "success",
     "ai_recommendation": {
       "sectors": [
         "반도체",
         "자동차",
-        "금융"
+        "IT/소프트웨어"
       ],
-      "reason": "반도체는 미국 뉴스 점수 최고치 및 한국 거래대금 2위로 국내외 관심이 집중됩니다. 자동차는 한국 거래대금 3위로 견조한 흐름을 보이며, 금융은 미국 긍정 뉴스 점수로 글로벌 훈풍이 기대됩니다.",
+      "reason": "반도체는 미국 시장의 강력한 긍정적 뉴스 점수와 한국 시장의 압도적인 거래대금으로 주목됩니다. 자동차는 한국 시장 내 높은 거래대금으로 투자자들의 관심이 집중되고 있습니다. IT/소프트웨어는 미국 시장의 긍정적 뉴스 흐름이 한국 관련 섹터에도 영향을 미칠 가능성이 있어 추천합니다.",
       "confidence": 0.75,
-      "generated_at": "2026-05-10T08:40:45.564414+09:00"
+      "generated_at": "2026-05-10T08:55:38.889219+09:00"
     },
-    "korea_sector_ranking": [],
-    "us_sector_ranking": [
-      {
-        "sector": "반도체",
-        "score": 10.0,
-        "sentiment": "positive"
-      },
+    "korea_sector_ranking": [
       {
         "sector": "금융",
-        "score": 7.6,
+        "score": 7.14,
         "sentiment": "positive"
       },
       {
-        "sector": "통신/미디어",
-        "score": 7.5,
-        "sentiment": "positive"
-      },
-      {
-        "sector": "에너지",
-        "score": 7.5,
-        "sentiment": "positive"
-      },
-      {
-        "sector": "IT/소프트웨어",
-        "score": 7.29,
-        "sentiment": "positive"
-      },
-      {
-        "sector": "소비재",
-        "score": 7.2,
-        "sentiment": "positive"
-      },
-      {
-        "sector": "바이오/헬스케어",
+        "sector": "반도체",
         "score": 7.0,
         "sentiment": "positive"
       },
       {
-        "sector": "부동산/건설",
-        "score": 5.0,
+        "sector": "철강/소재",
+        "score": 6.0,
+        "sentiment": "positive"
+      }
+    ],
+    "us_sector_ranking": [
+      {
+        "sector": "반도체",
+        "score": 9.0,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "IT/소프트웨어",
+        "score": 7.33,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "소비재",
+        "score": 6.25,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "금융",
+        "score": 6.14,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "바이오/헬스케어",
+        "score": 6.0,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "에너지",
+        "score": 6.0,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "통신/미디어",
+        "score": 5.33,
         "sentiment": "neutral"
+      },
+      {
+        "sector": "부동산/건설",
+        "score": 3.0,
+        "sentiment": "negative"
       },
       {
         "sector": "기타",
