@@ -21,20 +21,22 @@ _PROMPT_TEMPLATE = """
 ## 공통 섹터 매핑
 {sector_mapping}
 
-각 연관 섹터 쌍에 대해 다음 JSON 형식으로 응답하세요 (배열):
-[
-  {{
-    "us_sector": "섹터명",
-    "us_sentiment": "positive|neutral|negative",
-    "us_score": 0~10,
-    "korea_sector": "섹터명",
-    "predicted_impact": "positive|neutral|negative",
-    "impact_strength": 0.0~1.0,
-    "summary": "한 줄 요약 (100자 이내)",
-    "reasoning": "분석 근거 (200자 이내)"
-  }}
-]
-그리고 마지막에 "overall_summary" 키를 포함한 전체 분석 텍스트를 추가하세요.
+다음 JSON 객체 형식으로 응답하세요:
+{{
+  "linkage_cards": [
+    {{
+      "us_sector": "섹터명",
+      "us_sentiment": "positive|neutral|negative",
+      "us_score": 5,
+      "korea_sector": "섹터명",
+      "predicted_impact": "positive|neutral|negative",
+      "impact_strength": 0.6,
+      "summary": "한 줄 요약 (100자 이내)",
+      "reasoning": "분석 근거 (200자 이내)"
+    }}
+  ],
+  "overall_summary": "전체 한미 연계 분석 요약 (200자 이내)"
+}}
 """
 
 

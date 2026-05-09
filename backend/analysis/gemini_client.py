@@ -21,20 +21,20 @@ def _get_client() -> genai.Client:
 
 
 @retry(max_attempts=3, delay_sec=30.0, exceptions=(Exception,))
-def call_gemini(prompt: str, cache_key: str = "") -> str:
+def call_gemini(prompt: str, cache_key: str = "", json_mode: bool = False) -> str:
     if not settings.gemini_api_key:
         logger.warning("GEMINI_API_KEY not set; returning empty response")
         return _LAST_RESULT_CACHE.get(cache_key, "")
 
     try:
         client = _get_client()
+        config_kwargs: dict = {"max_output_tokens": _MAX_TOKENS, "temperature": 0.3}
+        if json_mode:
+            config_kwargs["response_mime_type"] = "application/json"
         response = client.models.generate_content(
             model=_MODEL_NAME,
             contents=prompt,
-            config=types.GenerateContentConfig(
-                max_output_tokens=_MAX_TOKENS,
-                temperature=0.3,
-            ),
+            config=types.GenerateContentConfig(**config_kwargs),
         )
         result = response.text.strip()
         if cache_key:
@@ -54,16 +54,12 @@ def call_gemini(prompt: str, cache_key: str = "") -> str:
 
 
 def call_gemini_json(prompt: str, cache_key: str = "") -> dict | list:
-    """Call Gemini and parse JSON response. Returns empty dict on failure."""
-    raw = call_gemini(prompt + "\n\nRespond with valid JSON only, no markdown.", cache_key)
+    """Call Gemini in JSON mode (response_mime_type=application/json). Returns empty dict on failure."""
+    raw = call_gemini(prompt, cache_key, json_mode=True)
     if not raw:
         return {}
     try:
-        clean = raw.strip()
-        if clean.startswith("```"):
-            lines = clean.split("\n")
-            clean = "\n".join(lines[1:-1] if lines[-1] == "```" else lines[1:])
-        return json.loads(clean)
+        return json.loads(raw.strip())
     except json.JSONDecodeError as exc:
         logger.warning("Gemini JSON parse error: %s — raw: %.200s", exc, raw)
         return {}
