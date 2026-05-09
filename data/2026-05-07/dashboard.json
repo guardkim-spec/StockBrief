@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "date": "2026-05-07",
+  "data": {
+    "last_updated": "2026-05-09T22:42:13.692119+09:00",
+    "pipeline_status": "success",
+    "ai_recommendation": {
+      "sectors": [],
+      "reason": "뉴스 점수와 거래대금 비중 기반 자동 선정 (Gemini 대체)",
+      "confidence": 0.5,
+      "generated_at": "2026-05-09T22:42:13.692154+09:00"
+    },
+    "korea_sector_ranking": [],
+    "us_sector_ranking": [
+      {
+        "sector": "기타",
+        "score": 0.0,
+        "sentiment": "negative"
+      }
+    ],
+    "korea_sector_volume_distribution": [],
+    "us_sector_volume_distribution": []
+  }
+}
