@@ -42,7 +42,7 @@ def build_email_html(
   .card {{background:#1C2333;border:1px solid #30363D;border-radius:12px;padding:20px;margin-bottom:20px;}}
   .card h2 {{color:#00FF88;font-size:14px;margin:0 0 12px;text-transform:uppercase;letter-spacing:1px;}}
   .summary-lines {{list-style:none;padding:0;margin:0;}}
-  .summary-lines li {{padding:6px 0;border-bottom:1px solid #30363D;font-size:13px;}}
+  .summary-lines li {{padding:6px 0;border-bottom:1px solid #30363D;font-size:13px;color:#c9d1d9;}}
   .summary-lines li:last-child {{border-bottom:none;}}
   .rec-box {{background:#161B22;border:1px solid #00FF88;border-radius:8px;padding:12px;}}
   .rec-sectors {{font-size:18px;font-weight:bold;color:#00FF88;margin:0 0 8px;}}
@@ -124,10 +124,15 @@ def _build_summary(rec: dict, korea_ranking: list[dict]) -> list[str]:
 
 
 def _render_sector_table(rankings: list[dict], title: str) -> str:
-    if not rankings:
-        return ""
+    # Filter out the catch-all "기타" sector — it's just unanalyzed noise
+    filtered = [r for r in rankings if r.get("sector") != "기타"]
+    if not filtered:
+        return f"""<div class="card">
+    <h2>{title}</h2>
+    <p style="color:#8B949E;font-size:13px;margin:0;">섹터 분석 데이터 없음 (뉴스 부족 또는 Gemini 할당량 초과)</p>
+  </div>"""
     rows = ""
-    for item in rankings[:12]:
+    for item in filtered[:12]:
         sent = item.get("sentiment", "neutral")
         cls  = "pos" if sent == "positive" else ("neg" if sent == "negative" else "neu")
         label = "▲" if sent == "positive" else ("▼" if sent == "negative" else "—")

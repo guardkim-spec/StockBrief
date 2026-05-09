@@ -41,7 +41,8 @@ def build_sector_bar_chart(
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 5), facecolor=BG_CARD)
     fig.suptitle(title, color=TEXT_PRIMARY, fontsize=13, y=1.01)
 
-    for ax, scores, label in [(ax1, korea_scores[:8], "한국"), (ax2, us_scores[:8], "미국")]:
+    for ax, scores, label in [(ax1, korea_scores, "한국"), (ax2, us_scores, "미국")]:
+        scores = [s for s in scores if s.get("sector") != "기타"][:8]
         ax.set_facecolor(BG_CARD)
         if not scores:
             ax.text(0.5, 0.5, "데이터 없음", color=TEXT_SEC, ha="center", va="center", transform=ax.transAxes)
