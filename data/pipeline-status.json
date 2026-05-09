@@ -1,26 +1,26 @@
 {
   "ok": true,
-  "date": "2026-05-07",
+  "date": "2026-05-08",
   "data": {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "overall": "running",
     "steps": [
       {
         "name": "korea_price",
-        "status": "success",
-        "ran_at": "2026-05-09T23:21:45.152511+09:00",
-        "duration_sec": 0.1
+        "status": "running",
+        "ran_at": "2026-05-09T23:39:56.015581+09:00",
+        "duration_sec": null
       },
       {
         "name": "korea_news",
-        "status": "success",
-        "ran_at": "2026-05-09T23:21:47.908259+09:00",
-        "duration_sec": 5.4
+        "status": "pending",
+        "ran_at": null,
+        "duration_sec": null
       },
       {
         "name": "us_price",
-        "status": "running",
-        "ran_at": "2026-05-09T23:21:56.148018+09:00",
+        "status": "pending",
+        "ran_at": null,
         "duration_sec": null
       },
       {
