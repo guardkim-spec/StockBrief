@@ -1,10 +1,4 @@
-"""Collect US top-100 stocks by dollar volume.
-
-Primary source: stooq.com (Polish financial data — no auth, reliable)
-Fallback source: yfinance + curl_cffi
-"""
-import csv
-import io
+"""Collect US top-100 stocks by dollar volume via Yahoo Finance chart API (curl_cffi)."""
 import logging
 import random
 import threading
@@ -13,7 +7,6 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta
 from typing import Any
 
-import requests as http_requests
 import pytz
 import holidays as hols
 
@@ -25,43 +18,7 @@ logger = logging.getLogger(__name__)
 KST = pytz.timezone("Asia/Seoul")
 ET  = pytz.timezone("America/New_York")
 
-_STOOQ_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.5",
-    "Referer": "https://stooq.com/",
-}
-
-# Shared session with stooq cookies (warmed up once at module load)
-_stooq_session = http_requests.Session()
-_stooq_session.headers.update(_STOOQ_HEADERS)
-try:
-    _stooq_session.get("https://stooq.com/", timeout=10)
-except Exception:
-    pass
-
-# yfinance fallback (curl_cffi if available)
-_HAS_CURL_CFFI = False
-try:
-    import curl_cffi  # noqa: F401
-    _HAS_CURL_CFFI = True
-except ImportError:
-    pass
-
 _thread_local = threading.local()
-
-
-def _get_yf_session():
-    if not _HAS_CURL_CFFI:
-        return None
-    if not hasattr(_thread_local, "session") or _thread_local.session is None:
-        from curl_cffi import requests as curl_requests
-        _thread_local.session = curl_requests.Session(impersonate="chrome120")
-    return _thread_local.session
-
 
 LIQUID_US_TICKERS = [
     "AAPL","MSFT","NVDA","AMZN","GOOGL","META","TSLA","AVGO","GOOG",
@@ -76,13 +33,24 @@ LIQUID_US_TICKERS = [
 ]
 
 
+def _get_session():
+    if not hasattr(_thread_local, "session") or _thread_local.session is None:
+        from curl_cffi import requests as curl_requests
+        _thread_local.session = curl_requests.Session(impersonate="chrome131")
+    return _thread_local.session
+
+
 def _is_us_holiday(dt: datetime) -> bool:
     us_holidays = hols.country_holidays("US", years=dt.year)
     return dt.date() in us_holidays or dt.weekday() >= 5
 
 
 def _get_us_trading_date(dt: datetime) -> str:
+    # Pipeline runs at 10:00 UTC = ~6 AM ET, before market open.
+    # Only use today's date if it's past 17:00 ET (after close + buffer).
     d = dt.date()
+    if dt.hour < 17:
+        d -= timedelta(days=1)
     while True:
         us_holidays = hols.country_holidays("US", years=d.year)
         if d.weekday() < 5 and d not in us_holidays:
@@ -90,60 +58,35 @@ def _get_us_trading_date(dt: datetime) -> str:
         d -= timedelta(days=1)
 
 
-# ── stooq primary ──────────────────────────────────────────────────────────────
-
-def _fetch_stooq(ticker: str, date_str: str) -> dict | None:
-    """Fetch OHLCV from stooq.com. Returns None on failure."""
-    date_fmt = date_str.replace("-", "")
-    url = (
-        f"https://stooq.com/q/d/l/"
-        f"?s={ticker.lower()}.us&d1={date_fmt}&d2={date_fmt}&i=d"
-    )
+def _fetch_ticker(ticker: str, start_ts: int, end_ts: int) -> dict | None:
+    time.sleep(random.uniform(0.05, 0.15))
     try:
-        resp = _stooq_session.get(url, timeout=15)
-        text = resp.text.strip()
-        if not text or "No data" in text or text.startswith("<"):
+        session = _get_session()
+        resp = session.get(
+            f"https://query1.finance.yahoo.com/v8/finance/chart/{ticker}",
+            params={"period1": start_ts, "period2": end_ts, "interval": "1d"},
+            timeout=10,
+        )
+        if resp.status_code != 200:
+            logger.debug("yahoo %s HTTP %d", ticker, resp.status_code)
             return None
-        reader = csv.DictReader(io.StringIO(text))
-        for row in reader:
-            close  = float(row.get("Close",  0) or 0)
-            volume = float(row.get("Volume", 0) or 0)
-            open_p = float(row.get("Open",   close) or close)
-            if close > 0 and volume > 0:
-                return {"close": close, "volume": volume, "open": open_p}
-    except Exception as exc:
-        logger.debug("stooq failed %s: %s", ticker, exc)
-    return None
-
-
-# ── yfinance fallback ──────────────────────────────────────────────────────────
-
-def _fetch_yfinance(ticker: str, start: str, end: str) -> dict | None:
-    """Fallback: yfinance with curl_cffi session."""
-    try:
-        import yfinance as yf
-        session = _get_yf_session()
-        kwargs  = {"session": session} if session is not None else {}
-        t    = yf.Ticker(ticker, **kwargs)
-        hist = t.history(start=start, end=end, auto_adjust=True)
-        if hist.empty:
+        data = resp.json()
+        results = data.get("chart", {}).get("result") or []
+        if not results:
             return None
-        row    = hist.iloc[-1]
-        close  = float(row.get("Close",  0))
-        volume = float(row.get("Volume", 0))
-        open_p = float(row.get("Open",   close))
-        if close > 0 and volume > 0:
-            return {"close": close, "volume": volume, "open": open_p}
+        quote = results[0].get("indicators", {}).get("quote", [{}])[0]
+        closes  = [c for c in (quote.get("close")  or []) if c is not None]
+        volumes = [v for v in (quote.get("volume") or []) if v is not None]
+        opens   = [o for o in (quote.get("open")   or []) if o is not None]
+        if closes and volumes and closes[0] > 0 and volumes[0] > 0:
+            return {
+                "close":  closes[0],
+                "volume": volumes[0],
+                "open":   opens[0] if opens else closes[0],
+            }
     except Exception as exc:
-        logger.debug("yfinance fallback failed %s: %s", ticker, exc)
+        logger.debug("yahoo fetch failed %s: %s", ticker, exc)
     return None
-
-
-def _fetch_ticker(ticker: str, trading_date: str, next_date: str) -> dict | None:
-    data = _fetch_stooq(ticker, trading_date)
-    if data is None:
-        data = _fetch_yfinance(ticker, trading_date, next_date)
-    return data
 
 
 def _build_record(ticker: str, close: float, volume: float, open_p: float, trading_date: str) -> dict:
@@ -161,9 +104,9 @@ def _build_record(ticker: str, close: float, volume: float, open_p: float, tradi
     }
 
 
-@retry(max_attempts=3, delay_sec=30.0)
+@retry(max_attempts=2, delay_sec=60.0)
 def collect_us_top100(date_str: str | None = None) -> list[dict[str, Any]]:
-    """Collect top-100 US stocks by dollar volume (stooq primary, yfinance fallback)."""
+    """Collect top-100 US stocks by dollar volume via Yahoo Finance chart API."""
     now_kst = datetime.now(KST)
     if date_str:
         target_kst = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=KST)
@@ -176,14 +119,16 @@ def collect_us_top100(date_str: str | None = None) -> list[dict[str, Any]]:
         return []
 
     trading_date = _get_us_trading_date(target_et)
-    next_date    = (datetime.strptime(trading_date, "%Y-%m-%d") + timedelta(days=1)).strftime("%Y-%m-%d")
-    logger.info("Collecting US top-100 for date: %s (via stooq)", trading_date)
+    logger.info("Collecting US top-100 for date: %s (via Yahoo Finance)", trading_date)
+
+    start_ts = int(datetime.strptime(trading_date, "%Y-%m-%d")
+                   .replace(tzinfo=pytz.UTC).timestamp())
+    end_ts   = start_ts + 86400 * 3  # 3-day window
 
     results: list[dict] = []
-
-    with ThreadPoolExecutor(max_workers=5) as executor:
+    with ThreadPoolExecutor(max_workers=3) as executor:
         futures = {
-            executor.submit(_fetch_ticker, ticker, trading_date, next_date): ticker
+            executor.submit(_fetch_ticker, ticker, start_ts, end_ts): ticker
             for ticker in LIQUID_US_TICKERS
         }
         for future in as_completed(futures):
@@ -195,12 +140,15 @@ def collect_us_top100(date_str: str | None = None) -> list[dict[str, Any]]:
                         ticker, data["close"], data["volume"], data["open"], trading_date
                     ))
             except Exception as exc:
-                logger.debug("Future error %s: %s", ticker, exc)
+                logger.debug("future error %s: %s", ticker, exc)
+
+    if not results:
+        logger.warning("US price: 0 stocks collected — Yahoo Finance may be blocking requests for %s", trading_date)
 
     results.sort(key=lambda x: x["volume_amount"], reverse=True)
     top100 = results[:TOP_N_STOCKS]
     for idx, item in enumerate(top100, 1):
         item["rank"] = idx
 
-    logger.info("Collected %d US stocks via stooq", len(top100))
+    logger.info("Collected %d US stocks", len(top100))
     return top100

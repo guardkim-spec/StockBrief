@@ -68,7 +68,7 @@ def upload_report_html(date_str: str, html_content: str) -> str:
         logger.info("Drive upload success: %s", url)
         return url
     except Exception as exc:
-        logger.error("Drive upload failed: %s", exc)
+        logger.warning("Drive upload failed (non-fatal): %s", exc)
         return ""
 
 

@@ -214,10 +214,13 @@ def run_pipeline(date_str: str | None = None, dry_run: bool = False) -> bool:
         save_latest(dashboard_payload)
         save_daily_file(date_str, "dashboard.json", dashboard_payload)
 
-        append_rows("korea_price", ctx["korea_price"])
-        append_rows("us_price",    ctx["us_price"])
-        append_rows("korea_news",  ctx["korea_news"])
-        append_rows("us_news",     ctx["us_news"])
+        try:
+            append_rows("korea_price", ctx["korea_price"])
+            append_rows("us_price",    ctx["us_price"])
+            append_rows("korea_news",  ctx["korea_news"])
+            append_rows("us_news",     ctx["us_news"])
+        except Exception as exc:
+            logger.warning("Sheets append_rows failed (non-fatal): %s", exc)
 
     run_step("storage", _save_all)
 
