@@ -49,8 +49,8 @@
       },
       {
         "name": "storage",
-        "status": "pending",
-        "ran_at": null,
+        "status": "running",
+        "ran_at": "2026-05-09T22:42:04.193419+09:00",
         "duration_sec": null
       },
       {
