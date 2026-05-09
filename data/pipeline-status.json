@@ -3,7 +3,7 @@
   "date": "2026-05-07",
   "data": {
     "date": "2026-05-07",
-    "overall": "running",
+    "overall": "pending",
     "steps": [
       {
         "name": "korea_price",
@@ -43,9 +43,9 @@
       },
       {
         "name": "charts_report",
-        "status": "running",
+        "status": "success",
         "ran_at": "2026-05-09T23:11:42.411923+09:00",
-        "duration_sec": null
+        "duration_sec": 0.1
       },
       {
         "name": "storage",
