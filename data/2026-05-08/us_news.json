@@ -8,9 +8,9 @@
       "title": "Whirlpool keeps ending up on the wrong side of the economy. Now its stock is circling the drain.",
       "url": "https://www.businessinsider.com/whirlpool-stock-price-iran-war-earnings-impact-consumer-sentiment-demand-2026-5",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "소비재",
+      "sentiment": "negative",
+      "score": 8
     },
     {
       "id": "us_5e3d08339f36",
@@ -18,9 +18,9 @@
       "title": "Michael Saylor says remarks about selling Bitcoin were intended to jam short-sellers and ‘haters’",
       "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-says-remarks-selling-154918323.html",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 6
     },
     {
       "id": "us_c4219402fd4f",
@@ -28,9 +28,9 @@
       "title": "Goldman Sachs says South Korea's red-hot stock rally still has room to run",
       "url": "https://www.businessinsider.com/goldman-sachs-south-korea-kospi-stock-market-outlook-ai-boom-2026-5",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "us_74f5fa4ef023",
@@ -38,9 +38,9 @@
       "title": "Can a thriving city get cheaper? New York's about to find out.",
       "url": "https://www.businessinsider.com/how-zohran-mamdanis-plans-for-buses-rent-childcare-have-worked-2026-5",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "부동산/건설",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_913d2fd84d89",
@@ -48,9 +48,9 @@
       "title": "Akamai surges on big LLM deal as Cloudflare dims",
       "url": "https://www.theregister.com/networks/2026/05/09/akamai-surges-on-big-llm-deal-as-cloudflare-dims/5237552",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "us_cc8f76f31f38",
@@ -58,9 +58,9 @@
       "title": "Trump Media, Parent of Truth Social, Reports Q1 Sales of $871,000 and $405.9 Million Net Loss",
       "url": "https://variety.com/2026/digital/news/trump-media-truth-social-q1-2026-earnings-sales-net-loss-1236742097/",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "통신/미디어",
+      "sentiment": "negative",
+      "score": 9
     },
     {
       "id": "us_f4d87e2e50f8",
@@ -68,9 +68,9 @@
       "title": "Telephone and Data Systems, Inc. Q1 2026 Earnings Call Summary",
       "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-telephone-and-data-systems-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "통신/미디어",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_5de761b34106",
@@ -78,9 +78,9 @@
       "title": "Hershey Stock Outlook: Is Wall Street Bullish or Bearish?",
       "url": "https://www.barchart.com/story/news/1796551/hershey-stock-outlook-is-wall-street-bullish-or-bearish",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "소비재",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_4a54b68f058e",
@@ -88,9 +88,9 @@
       "title": "Jim Cramer Highlights Acquisition By Waters Corporation Following Quarterly Results",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-acquisition-waters-150652527.html",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "바이오/헬스케어",
+      "sentiment": "positive",
+      "score": 7
     },
     {
       "id": "us_7f3ba8168d2d",
@@ -98,9 +98,9 @@
       "title": "Intel Stock Hits All-Time High After Report of Apple Chip Manufacturing Talks",
       "url": "https://www.ghacks.net/2026/05/08/intel-stock-hits-all-time-high-after-report-of-apple-chip-manufacturing-talks/",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_0ff67b86470d",
@@ -108,9 +108,9 @@
       "title": "Fast Food Chains—McDonald’s, Taco Bell, Burger King—Win As Low-Income Diners Crack Under Rising Gas Prices",
       "url": "https://www.forbes.com/sites/aliciapark/2026/05/08/fast-food-chains-mcdonalds-taco-bell-burger-king-win-as-low-income-diners-crack-under-rising-gas-prices/",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "소비재",
+      "sentiment": "positive",
+      "score": 7
     },
     {
       "id": "us_d39c4e56212a",
@@ -118,9 +118,9 @@
       "title": "Precision Drilling (PDS) Gets A Target Hike—But That May Not Be The Real Signal",
       "url": "https://finance.yahoo.com/sectors/energy/articles/precision-drilling-pds-gets-target-173603662.html",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "에너지",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_1d9c2399eb50",
@@ -128,9 +128,9 @@
       "title": "Jim Cramer on Monarch Casino: “This Thing Deserves Its Incredible Rally”",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-monarch-casino-thing-150718914.html",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "소비재",
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "us_fa34462ea71e",
@@ -138,9 +138,9 @@
       "title": "‘Jobs and 401(k)s are booming’: Trump applauds all-time high for US stock market as he posts snapshot of soaring Dow",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jobs-401-k-booming-trump-141500208.html",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_6e24b270840e",
@@ -148,9 +148,9 @@
       "title": "Coforge shares surge 6%, rally 16% in three days post Q4 results. What's ahead for investors?",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-surge-6-rally-16-in-three-days-post-q4-results-whats-ahead-for-investors/articleshow/130952721.cms",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "us_67a7d725f14c",
@@ -158,9 +158,9 @@
       "title": "Coinbase bulls point to crypto legislation and stablecoins after earnings miss",
       "url": "https://www.coindesk.com/markets/2026/05/08/coinbase-bulls-point-to-crypto-legislation-and-stablecoins-after-earnings-miss",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_97a08dcde223",
@@ -168,9 +168,9 @@
       "title": "Here’s Why Conestoga Capital Advisors Exited Its Position in I3 Verticals (IIIV)",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-conestoga-capital-advisors-exited-120454087.html",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "negative",
+      "score": 7
     },
     {
       "id": "us_643c38a2ebe9",
@@ -178,9 +178,9 @@
       "title": "Even With a Strong Q3, MSG Sports Misses the Goal on Earnings",
       "url": "https://www.sportico.com/business/finance/2026/msg-sports-earnings-knicks-rangers-q3-1234892339/",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "소비재",
+      "sentiment": "negative",
+      "score": 7
     },
     {
       "id": "us_59a615b580aa",
@@ -188,9 +188,9 @@
       "title": "Cheniere Raises 2026 Guidance as LNG Exports Hit Record Highs",
       "url": "https://finance.yahoo.com/sectors/energy/articles/cheniere-raises-2026-guidance-lng-020104016.html",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "에너지",
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "us_a531a55a51bd",
@@ -198,9 +198,9 @@
       "title": "Coinbase (COIN) shares fall after crypto exchange posts quarterly loss",
       "url": "https://investorshub.advfn.com/market-news/article/28013/coinbase-coin-shares-fall-after-crypto-exchange-posts-quarterly-loss",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 8
     },
     {
       "id": "us_59431947082b",
@@ -208,9 +208,9 @@
       "title": "S&P 500 call options volume surges to record $2.6 trillion. Here's what it means for bitcoin",
       "url": "https://www.coindesk.com/markets/2026/05/08/s-and-p-500-call-options-volume-surges-to-record-usd2-6-trillion-here-s-what-it-means-for-bitcoin",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_0bc1fa358863",
@@ -218,9 +218,9 @@
       "title": "Coinbase rebounds as altcoins surge with bitcoin holding above $80,000",
       "url": "https://www.coindesk.com/markets/2026/05/08/coinbase-rebounds-as-altcoins-surge-with-bitcoin-holding-above-usd80-000",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "us_170d84a5950f",
@@ -228,9 +228,9 @@
       "title": "Retail Investors Are Doubling Down And Fear May Be Driving The Rally",
       "url": "https://www.forbes.com/sites/rahkimsabree/2026/05/08/retail-investors-are-doubling-down-and-fear-may-be-driving-the-rally/",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_5ebb96b9a57b",
@@ -238,9 +238,9 @@
       "title": "Intel spikes 19% on news of a deal to make chips for Apple devices",
       "url": "https://www.businessinsider.com/intel-stock-price-intc-rally-apple-chip-deal-ai-tech-2026-5",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_a3f46d71e16b",
@@ -248,9 +248,9 @@
       "title": "US stocks today: S&P 500 and Nasdaq notch records, boosted by AI and earnings optimism",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-and-nasdaq-notch-records-boosted-by-ai-and-earnings-optimism/articleshow/130966593.cms",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_a823ea8de66a",
@@ -258,9 +258,9 @@
       "title": "US stock market rally today: Why are the S&P 500, Dow Jones, and Nasdaq nearing record highs as NVIDIA and Apple explode higher on strong US jobs data and unstoppable AI-fueled tech surge?",
       "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-rally-hard-today-why-are-the-sp-500-dow-jones-and-nasdaq-nearing-record-highs-as-nvidia-and-apple-explode-higher-on-strong-us-jobs-data-and-unstoppable-ai-fueled-tech-surge/articleshow/130962974.cms",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 10
     },
     {
       "id": "us_92ccb83e7251",
@@ -268,9 +268,9 @@
       "title": "U.S Stock Market on Friday: S&P 500, Dow Jones, Nasdaq to end week in high at Wall Street? Check share market forecast",
       "url": "https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-on-friday-sp-500-dow-jones-nasdaq-to-end-week-in-high-at-wall-street-check-share-market-forecast/articleshow/130938589.cms",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_e3bcbe0eb904",
@@ -278,9 +278,9 @@
       "title": "NZ sharemarket down 0.7%, up more than 1% for week - Market close",
       "url": "https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-down-07-up-more-than-1-for-week-market-close/premium/DVL2OISX5ZFGHHE4UXOBZ7EE7M/",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_07953a369a91",
@@ -288,9 +288,9 @@
       "title": "Oil jumps, stocks fall as US-Iran clashes spark peace talks fears",
       "url": "https://www.digitaljournal.com/world/oil-jumps-stocks-fall-as-us-iran-clashes-spark-peace-talks-fears/article",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "에너지",
+      "sentiment": "negative",
+      "score": 8
     },
     {
       "id": "us_c066bac53033",
@@ -298,9 +298,9 @@
       "title": "S&P 500 Rises 54 Points to 7,391 as Tech and AI Stocks Drive Broad Market Gains",
       "url": "https://www.ibtimes.com.au/sp-500-rises-54-points-7391-tech-ai-stocks-drive-broad-market-gains-1868431",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "us_ec5905aaab45",
