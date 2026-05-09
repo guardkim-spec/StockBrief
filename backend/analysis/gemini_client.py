@@ -11,7 +11,7 @@ from pipeline.retry import retry
 
 logger = logging.getLogger(__name__)
 
-_MODEL_NAME = "gemini-2.0-flash"
+_MODEL_NAME = "gemini-2.5-flash"
 _MAX_TOKENS = 8192
 _LAST_RESULT_CACHE: dict[str, Any] = {}
 
@@ -46,6 +46,9 @@ def call_gemini(prompt: str, cache_key: str = "") -> str:
             logger.warning("Gemini quota exceeded. Using cached result for key: %s", cache_key)
             if cache_key and cache_key in _LAST_RESULT_CACHE:
                 return _LAST_RESULT_CACHE[cache_key]
+            return ""
+        if "404" in error_str or "not_found" in error_str:
+            logger.error("Gemini model not found: %s — check _MODEL_NAME in gemini_client.py", exc)
             return ""
         raise
 
