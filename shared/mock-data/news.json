@@ -1,0 +1,134 @@
+{
+  "ok": true,
+  "date": "2025-05-09",
+  "data": {
+    "market": "korea",
+    "date": "2025-05-09",
+    "items": [
+      {
+        "id": "kr_001",
+        "date": "2025-05-09",
+        "title": "SK하이닉스, HBM3E 12단 양산 본격화…엔비디아 공급 계약 확정",
+        "url": "https://n.news.naver.com/article/001",
+        "source": "naver",
+        "sector": "반도체",
+        "sentiment": "positive",
+        "score": 9
+      },
+      {
+        "id": "kr_002",
+        "date": "2025-05-09",
+        "title": "삼성전자 파운드리, 2nm 수율 개선 성공…TSMC 추격 박차",
+        "url": "https://n.news.naver.com/article/002",
+        "source": "naver",
+        "sector": "반도체",
+        "sentiment": "positive",
+        "score": 8
+      },
+      {
+        "id": "kr_003",
+        "date": "2025-05-09",
+        "title": "셀트리온 ADC 파이프라인, 임상 3상 중간 결과 긍정적",
+        "url": "https://n.news.naver.com/article/003",
+        "source": "naver",
+        "sector": "바이오/헬스케어",
+        "sentiment": "positive",
+        "score": 8
+      },
+      {
+        "id": "kr_004",
+        "date": "2025-05-09",
+        "title": "LG에너지솔루션, GM 합작 얼티엄셀즈 3공장 착공",
+        "url": "https://n.news.naver.com/article/004",
+        "source": "naver",
+        "sector": "2차전지",
+        "sentiment": "positive",
+        "score": 7
+      },
+      {
+        "id": "kr_005",
+        "date": "2025-05-09",
+        "title": "카카오, AI 서비스 카나나 정식 출시…MAU 목표 1천만",
+        "url": "https://n.news.naver.com/article/005",
+        "source": "naver",
+        "sector": "IT/소프트웨어",
+        "sentiment": "positive",
+        "score": 7
+      },
+      {
+        "id": "kr_006",
+        "date": "2025-05-09",
+        "title": "한국전력, 전기요금 추가 인상 불가 방침 발표",
+        "url": "https://n.news.naver.com/article/006",
+        "source": "naver",
+        "sector": "에너지",
+        "sentiment": "negative",
+        "score": 3
+      },
+      {
+        "id": "kr_007",
+        "date": "2025-05-09",
+        "title": "현대차·기아, 미국 관세 영향 우려…수출 전략 재조정",
+        "url": "https://n.news.naver.com/article/007",
+        "source": "naver",
+        "sector": "자동차",
+        "sentiment": "negative",
+        "score": 4
+      },
+      {
+        "id": "kr_008",
+        "date": "2025-05-09",
+        "title": "한화오션, 대형 LNG선 5척 수주…수주 잔고 역대 최고",
+        "url": "https://n.news.naver.com/article/008",
+        "source": "naver",
+        "sector": "조선/방산",
+        "sentiment": "positive",
+        "score": 8
+      }
+    ],
+    "sector_summary": [
+      {
+        "sector": "반도체",
+        "positive_count": 4,
+        "negative_count": 0,
+        "avg_score": 8.5
+      },
+      {
+        "sector": "바이오/헬스케어",
+        "positive_count": 2,
+        "negative_count": 0,
+        "avg_score": 7.8
+      },
+      {
+        "sector": "2차전지",
+        "positive_count": 2,
+        "negative_count": 1,
+        "avg_score": 6.3
+      },
+      {
+        "sector": "IT/소프트웨어",
+        "positive_count": 1,
+        "negative_count": 0,
+        "avg_score": 7.0
+      },
+      {
+        "sector": "자동차",
+        "positive_count": 0,
+        "negative_count": 2,
+        "avg_score": 4.0
+      },
+      {
+        "sector": "에너지",
+        "positive_count": 0,
+        "negative_count": 1,
+        "avg_score": 3.0
+      },
+      {
+        "sector": "조선/방산",
+        "positive_count": 2,
+        "negative_count": 0,
+        "avg_score": 7.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "ok": true,
+  "date": "2025-05-09",
+  "data": {
+    "date": "2025-05-09",
+    "overall": "failed",
+    "steps": [
+      {
+        "name": "korea_price",
+        "status": "success",
+        "ran_at": "2025-05-09T19:02:11+09:00",
+        "duration_sec": 48
+      },
+      {
+        "name": "korea_news",
+        "status": "success",
+        "ran_at": "2025-05-09T19:11:03+09:00",
+        "duration_sec": 31
+      },
+      {
+        "name": "us_price",
+        "status": "failed",
+        "ran_at": "2025-05-09T19:21:44+09:00",
+        "duration_sec": null
+      },
+      {
+        "name": "us_news",
+        "status": "skipped",
+        "ran_at": null,
+        "duration_sec": null
+      },
+      {
+        "name": "gemini_analysis",
+        "status": "pending",
+        "ran_at": null,
+        "duration_sec": null
+      },
+      {
+        "name": "trend_ai_global",
+        "status": "pending",
+        "ran_at": null,
+        "duration_sec": null
+      },
+      {
+        "name": "charts_report",
+        "status": "pending",
+        "ran_at": null,
+        "duration_sec": null
+      },
+      {
+        "name": "storage",
+        "status": "pending",
+        "ran_at": null,
+        "duration_sec": null
+      },
+      {
+        "name": "email",
+        "status": "pending",
+        "ran_at": null,
+        "duration_sec": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+﻿name: StockBrief Nightly Pipeline
+
+on:
+  schedule:
+    # 19:00 KST = 10:00 UTC (summer), 10:00 UTC (winter)
+    # Run at 10:00 UTC daily — steps self-time via orchestrator
+    - cron: "0 10 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "날짜 (YYYY-MM-DD, 기본: 오늘)"
+        required: false
+        default: ""
+      dry_run:
+        description: "드라이런 (true: 실제 발송/저장 안 함)"
+        required: false
+        default: "false"
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: backend/requirements.txt
+
+      - name: Install dependencies
+        working-directory: backend
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        working-directory: backend
+        env:
+          GEMINI_API_KEY:             ${{ secrets.GEMINI_API_KEY }}
+          NEWSAPI_KEY:                ${{ secrets.NEWSAPI_KEY }}
+          GMAIL_OAUTH_TOKEN:          ${{ secrets.GMAIL_OAUTH_TOKEN }}
+          GMAIL_SENDER:               ${{ secrets.GMAIL_SENDER }}
+          GMAIL_RECIPIENT:            ${{ secrets.GMAIL_RECIPIENT }}
+          GOOGLE_SHEETS_ID:           ${{ secrets.GOOGLE_SHEETS_ID }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          GOOGLE_DRIVE_FOLDER_ID:     ${{ secrets.GOOGLE_DRIVE_FOLDER_ID }}
+          GITHUB_TOKEN:               ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_OWNER:               ${{ github.repository_owner }}
+          GITHUB_REPO:                ${{ github.event.repository.name }}
+        run: |
+          DATE_ARG=""
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            DATE_ARG="--date ${{ github.event.inputs.date }}"
+          fi
+          DRY_RUN=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            DRY_RUN="--dry-run"
+          fi
+          python -m pipeline.orchestrator $DATE_ARG $DRY_RUN
+
+      - name: Upload logs on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pipeline-logs-${{ github.run_id }}
+          path: backend/logs/
+          retention-days: 7

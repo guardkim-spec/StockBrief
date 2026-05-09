@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "date": "2025-05-09",
+  "data": {
+    "date": "2025-05-09",
+    "linkage_cards": [
+      {
+        "us_sector": "반도체",
+        "us_sentiment": "positive",
+        "us_score": 9,
+        "korea_sector": "반도체",
+        "predicted_impact": "positive",
+        "impact_strength": 0.92,
+        "summary": "NVIDIA 어닝 서프라이즈 이후 글로벌 AI 반도체 수요 확대 기대감이 SK하이닉스·삼성전자에 직접적인 수혜로 연결될 가능성이 롭습니다.",
+        "reasoning": "HBM3E 납품 계약 구조상 NVIDIA 매출 증가 → SK하이닉스 직납 물량 확대 주도로 국내 반도체 섬터 동반 상승 패턴이 반복."
+      },
+      {
+        "us_sector": "IT/소프트웨어",
+        "us_sentiment": "positive",
+        "us_score": 8,
+        "korea_sector": "IT/소프트웨어",
+        "predicted_impact": "positive",
+        "impact_strength": 0.71,
+        "summary": "미국 빅테크 클라우드 성장이 카카오·NAVER AI 서비스 기대감과 맞물려 IT 섬터 관심이 높아지고 있습니다.",
+        "reasoning": "글로벌 AI 투자 확대 사이클이 국내 AI 플랫폼 기업들의 밸류에이션 리레이팅으로 이어지는 상관관계."
+      },
+      {
+        "us_sector": "자동차",
+        "us_sentiment": "negative",
+        "us_score": 4,
+        "korea_sector": "자동차",
+        "predicted_impact": "negative",
+        "impact_strength": 0.65,
+        "summary": "미국 관세 정책 불확실성으로 포드·GM 주가 약세가 지속되면서 현대차·기아의 수출 전략에도 부정적 영향이 예상됩니다.",
+        "reasoning": "한국 자동차 수출의 30%가 미국 시장으로, 관세 리스크는 즉각적인 실적 하방 압력으로 작용."
+      }
+    ],
+    "gemini_overall_summary": "전반적으로 미국 AI 반도체·빅테크 강세가 국내 반도체·IT 섬터의 상승 동력으로 작용할 가능성이 롭습니다. 단, 자동차 관세 이슈는 단기 부정적 변수로 남아 있으며, 바이오 섬터는 개별 이벤트(임상 결과) 중심 전략이 유효합니다."
+  }
+}

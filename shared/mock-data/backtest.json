@@ -1,0 +1,217 @@
+{
+  "ok": true,
+  "date": "2025-05-09",
+  "data": {
+    "cumulative_accuracy": 0.67,
+    "records": [
+      {
+        "date": "2025-05-09",
+        "recommended_sectors": [
+          "반도체",
+          "바이오/헬스케어",
+          "2차전지"
+        ],
+        "actual_top_sectors": [
+          "반도체",
+          "조선/방산",
+          "바이오/헬스케어"
+        ],
+        "accuracy": 0.67,
+        "hit_sectors": [
+          "반도체",
+          "바이오/헬스케어"
+        ],
+        "miss_sectors": [
+          "2차전지"
+        ]
+      },
+      {
+        "date": "2025-05-08",
+        "recommended_sectors": [
+          "IT/소프트웨어",
+          "반도체",
+          "자동차"
+        ],
+        "actual_top_sectors": [
+          "반도체",
+          "IT/소프트웨어",
+          "2차전지"
+        ],
+        "accuracy": 0.67,
+        "hit_sectors": [
+          "IT/소프트웨어",
+          "반도체"
+        ],
+        "miss_sectors": [
+          "자동차"
+        ]
+      },
+      {
+        "date": "2025-05-07",
+        "recommended_sectors": [
+          "2차전지",
+          "반도체",
+          "조선/방산"
+        ],
+        "actual_top_sectors": [
+          "반도체",
+          "2차전지",
+          "바이오/헬스케어"
+        ],
+        "accuracy": 0.67,
+        "hit_sectors": [
+          "2차전지",
+          "반도체"
+        ],
+        "miss_sectors": [
+          "조선/방산"
+        ]
+      },
+      {
+        "date": "2025-05-02",
+        "recommended_sectors": [
+          "바이오/헬스케어",
+          "IT/소프트웨어",
+          "금융"
+        ],
+        "actual_top_sectors": [
+          "바이오/헬스케어",
+          "반도체",
+          "IT/소프트웨어"
+        ],
+        "accuracy": 0.67,
+        "hit_sectors": [
+          "바이오/헬스케어",
+          "IT/소프트웨어"
+        ],
+        "miss_sectors": [
+          "금융"
+        ]
+      },
+      {
+        "date": "2025-04-30",
+        "recommended_sectors": [
+          "반도체",
+          "2차전지",
+          "IT/소프트웨어"
+        ],
+        "actual_top_sectors": [
+          "반도체",
+          "IT/소프트웨어",
+          "2차전지"
+        ],
+        "accuracy": 1.0,
+        "hit_sectors": [
+          "반도체",
+          "2차전지",
+          "IT/소프트웨어"
+        ],
+        "miss_sectors": []
+      },
+      {
+        "date": "2025-04-29",
+        "recommended_sectors": [
+          "조선/방산",
+          "반도체",
+          "바이오/헬스케어"
+        ],
+        "actual_top_sectors": [
+          "반도체",
+          "2차전지",
+          "IT/소프트웨어"
+        ],
+        "accuracy": 0.33,
+        "hit_sectors": [
+          "반도체"
+        ],
+        "miss_sectors": [
+          "조선/방산",
+          "바이오/헬스케어"
+        ]
+      },
+      {
+        "date": "2025-04-28",
+        "recommended_sectors": [
+          "반도체",
+          "2차전지",
+          "자동차"
+        ],
+        "actual_top_sectors": [
+          "반도체",
+          "2차전지",
+          "조선/방산"
+        ],
+        "accuracy": 0.67,
+        "hit_sectors": [
+          "반도체",
+          "2차전지"
+        ],
+        "miss_sectors": [
+          "자동차"
+        ]
+      },
+      {
+        "date": "2025-04-25",
+        "recommended_sectors": [
+          "IT/소프트웨어",
+          "반도체",
+          "금융"
+        ],
+        "actual_top_sectors": [
+          "반도체",
+          "IT/소프트웨어",
+          "에너지"
+        ],
+        "accuracy": 0.67,
+        "hit_sectors": [
+          "IT/소프트웨어",
+          "반도체"
+        ],
+        "miss_sectors": [
+          "금융"
+        ]
+      },
+      {
+        "date": "2025-04-24",
+        "recommended_sectors": [
+          "반도체",
+          "바이오/헬스케어",
+          "2차전지"
+        ],
+        "actual_top_sectors": [
+          "반도체",
+          "2차전지",
+          "바이오/헬스케어"
+        ],
+        "accuracy": 1.0,
+        "hit_sectors": [
+          "반도체",
+          "바이오/헬스케어",
+          "2차전지"
+        ],
+        "miss_sectors": []
+      },
+      {
+        "date": "2025-04-23",
+        "recommended_sectors": [
+          "2차전지",
+          "자동차",
+          "반도체"
+        ],
+        "actual_top_sectors": [
+          "반도체",
+          "2차전지",
+          "IT/소프트웨어"
+        ],
+        "accuracy": 0.67,
+        "hit_sectors": [
+          "2차전지",
+          "반도체"
+        ],
+        "miss_sectors": [
+          "자동차"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "ok": true,
+  "date": "2025-05-09",
+  "data": {
+    "market": "korea",
+    "date": "2025-05-09",
+    "top100": [
+      {
+        "rank": 1,
+        "ticker": "005930",
+        "name": "삼성전자",
+        "market": "KOSPI",
+        "sector": "반도체",
+        "volume_amount": 9800000000000,
+        "change_rate": 2.35,
+        "is_outlier": false
+      },
+      {
+        "rank": 2,
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "market": "KOSPI",
+        "sector": "반도체",
+        "volume_amount": 5200000000000,
+        "change_rate": 3.87,
+        "is_outlier": false
+      },
+      {
+        "rank": 3,
+        "ticker": "373220",
+        "name": "LG에너지솔루션",
+        "market": "KOSPI",
+        "sector": "2차전지",
+        "volume_amount": 4100000000000,
+        "change_rate": 1.52,
+        "is_outlier": false
+      },
+      {
+        "rank": 4,
+        "ticker": "207940",
+        "name": "삼성바이오로직스",
+        "market": "KOSPI",
+        "sector": "바이오/헬스케어",
+        "volume_amount": 3900000000000,
+        "change_rate": 2.11,
+        "is_outlier": false
+      },
+      {
+        "rank": 5,
+        "ticker": "035420",
+        "name": "NAVER",
+        "market": "KOSPI",
+        "sector": "IT/소프트웨어",
+        "volume_amount": 3200000000000,
+        "change_rate": 1.78,
+        "is_outlier": false
+      },
+      {
+        "rank": 6,
+        "ticker": "005380",
+        "name": "현대차",
+        "market": "KOSPI",
+        "sector": "자동차",
+        "volume_amount": 2800000000000,
+        "change_rate": -1.23,
+        "is_outlier": false
+      },
+      {
+        "rank": 7,
+        "ticker": "006400",
+        "name": "삼성SDI",
+        "market": "KOSPI",
+        "sector": "2차전지",
+        "volume_amount": 2600000000000,
+        "change_rate": 0.95,
+        "is_outlier": false
+      },
+      {
+        "rank": 8,
+        "ticker": "035720",
+        "name": "카카오",
+        "market": "KOSPI",
+        "sector": "IT/소프트웨어",
+        "volume_amount": 2400000000000,
+        "change_rate": 2.34,
+        "is_outlier": false
+      },
+      {
+        "rank": 9,
+        "ticker": "042660",
+        "name": "한화오션",
+        "market": "KOSPI",
+        "sector": "조선/방산",
+        "volume_amount": 2200000000000,
+        "change_rate": 4.12,
+        "is_outlier": false
+      },
+      {
+        "rank": 10,
+        "ticker": "068270",
+        "name": "셈트리온",
+        "market": "KOSPI",
+        "sector": "바이오/헬스케어",
+        "volume_amount": 2000000000000,
+        "change_rate": 1.89,
+        "is_outlier": false
+      }
+    ],
+    "candle_data": [
+      {
+        "sector": "반도체",
+        "ticker": "005930",
+        "name": "삼성전자",
+        "trend": "우상향",
+        "momentum_score": 8,
+        "candles": [
+          {
+            "date": "2025-04-11",
+            "open": 71200,
+            "high": 72500,
+            "low": 70800,
+            "close": 72100,
+            "volume": 15000000
+          },
+          {
+            "date": "2025-04-14",
+            "open": 72100,
+            "high": 73200,
+            "low": 71600,
+            "close": 72800,
+            "volume": 16200000
+          },
+          {
+            "date": "2025-04-15",
+            "open": 72800,
+            "high": 74000,
+            "low": 72400,
+            "close": 73500,
+            "volume": 18400000
+          },
+          {
+            "date": "2025-04-16",
+            "open": 73500,
+            "high": 74800,
+            "low": 73000,
+            "close": 74200,
+            "volume": 17100000
+          },
+          {
+            "date": "2025-04-17",
+            "open": 74200,
+            "high": 75500,
+            "low": 73800,
+            "close": 75000,
+            "volume": 19800000
+          },
+          {
+            "date": "2025-04-18",
+            "open": 75000,
+            "high": 75800,
+            "low": 74200,
+            "close": 74800,
+            "volume": 14500000
+          },
+          {
+            "date": "2025-04-21",
+            "open": 74800,
+            "high": 76200,
+            "low": 74600,
+            "close": 75900,
+            "volume": 21000000
+          },
+          {
+            "date": "2025-04-22",
+            "open": 75900,
+            "high": 77000,
+            "low": 75500,
+            "close": 76500,
+            "volume": 22300000
+          },
+          {
+            "date": "2025-04-23",
+            "open": 76500,
+            "high": 77800,
+            "low": 76200,
+            "close": 77300,
+            "volume": 20100000
+          },
+          {
+            "date": "2025-04-24",
+            "open": 77300,
+            "high": 78200,
+            "low": 76800,
+            "close": 77800,
+            "volume": 18700000
+          },
+          {
+            "date": "2025-04-25",
+            "open": 77800,
+            "high": 79000,
+            "low": 77500,
+            "close": 78600,
+            "volume": 23400000
+          },
+          {
+            "date": "2025-04-28",
+            "open": 78600,
+            "high": 80000,
+            "low": 78200,
+            "close": 79400,
+            "volume": 25600000
+          },
+          {
+            "date": "2025-04-29",
+            "open": 79400,
+            "high": 80500,
+            "low": 79000,
+            "close": 80200,
+            "volume": 24100000
+          },
+          {
+            "date": "2025-04-30",
+            "open": 80200,
+            "high": 81000,
+            "low": 79600,
+            "close": 80800,
+            "volume": 22800000
+          },
+          {
+            "date": "2025-05-02",
+            "open": 80800,
+            "high": 82000,
+            "low": 80400,
+            "close": 81500,
+            "volume": 26300000
+          },
+          {
+            "date": "2025-05-07",
+            "open": 81500,
+            "high": 83000,
+            "low": 81200,
+            "close": 82600,
+            "volume": 28900000
+          },
+          {
+            "date": "2025-05-08",
+            "open": 82600,
+            "high": 84000,
+            "low": 82300,
+            "close": 83400,
+            "volume": 30100000
+          },
+          {
+            "date": "2025-05-09",
+            "open": 83400,
+            "high": 85000,
+            "low": 83000,
+            "close": 84500,
+            "volume": 32500000
+          }
+        ],
+        "ma5": [
+          {
+            "date": "2025-04-17",
+            "value": 73520
+          },
+          {
+            "date": "2025-04-18",
+            "value": 74060
+          },
+          {
+            "date": "2025-04-21",
+            "value": 74680
+          },
+          {
+            "date": "2025-04-22",
+            "value": 75280
+          },
+          {
+            "date": "2025-04-23",
+            "value": 75680
+          },
+          {
+            "date": "2025-04-24",
+            "value": 76280
+          },
+          {
+            "date": "2025-04-25",
+            "value": 76900
+          },
+          {
+            "date": "2025-04-28",
+            "value": 77620
+          },
+          {
+            "date": "2025-04-29",
+            "value": 78500
+          },
+          {
+            "date": "2025-04-30",
+            "value": 79160
+          },
+          {
+            "date": "2025-05-02",
+            "value": 79960
+          },
+          {
+            "date": "2025-05-07",
+            "value": 81100
+          },
+          {
+            "date": "2025-05-08",
+            "value": 82100
+          },
+          {
+            "date": "2025-05-09",
+            "value": 83000
+          }
+        ],
+        "ma20": [
+          {
+            "date": "2025-04-30",
+            "value": 76420
+          },
+          {
+            "date": "2025-05-02",
+            "value": 77380
+          },
+          {
+            "date": "2025-05-07",
+            "value": 78890
+          },
+          {
+            "date": "2025-05-08",
+            "value": 80120
+          },
+          {
+            "date": "2025-05-09",
+            "value": 81340
+          }
+        ]
+      },
+      {
+        "sector": "바이오/헬스케어",
+        "ticker": "207940",
+        "name": "삼성바이오로직스",
+        "trend": "우상향",
+        "momentum_score": 7,
+        "candles": [
+          {
+            "date": "2025-04-11",
+            "open": 985000,
+            "high": 998000,
+            "low": 982000,
+            "close": 994000,
+            "volume": 280000
+          },
+          {
+            "date": "2025-04-14",
+            "open": 994000,
+            "high": 1008000,
+            "low": 990000,
+            "close": 1002000,
+            "volume": 310000
+          },
+          {
+            "date": "2025-04-15",
+            "open": 1002000,
+            "high": 1018000,
+            "low": 998000,
+            "close": 1012000,
+            "volume": 295000
+          },
+          {
+            "date": "2025-04-16",
+            "open": 1012000,
+            "high": 1025000,
+            "low": 1008000,
+            "close": 1020000,
+            "volume": 320000
+          },
+          {
+            "date": "2025-04-17",
+            "open": 1020000,
+            "high": 1035000,
+            "low": 1016000,
+            "close": 1028000,
+            "volume": 340000
+          }
+        ],
+        "ma5": [
+          {
+            "date": "2025-04-17",
+            "value": 1011200
+          }
+        ],
+        "ma20": [
+          {
+            "date": "2025-04-30",
+            "value": 1005000
+          }
+        ]
+      }
+    ]
+  }
+}

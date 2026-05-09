@@ -1,0 +1,193 @@
+{
+  "baseUrl": "VITE_API_BASE_URL",
+  "endpoints": {
+    "dashboard": {
+      "method": "GET",
+      "path": "/api/dashboard",
+      "description": "메인 대시보드 전체 데이터 (단일 호출로 부트스트랩)",
+      "response": {
+        "ok": true,
+        "date": "2025-05-09",
+        "data": {
+          "last_updated": "2025-05-09T21:00:00+09:00",
+          "pipeline_status": "success",
+          "ai_recommendation": {
+            "sectors": ["반도체", "바이오/헬스케어", "2차전지"],
+            "reason": "반도체 섹터는 ...",
+            "confidence": 0.82,
+            "generated_at": "2025-05-09T20:00:00+09:00"
+          },
+          "korea_sector_ranking": [
+            { "sector": "반도체", "score": 8.2, "sentiment": "positive" }
+          ],
+          "us_sector_ranking": [
+            { "sector": "반도체", "score": 7.9, "sentiment": "positive" }
+          ],
+          "korea_sector_volume_distribution": [
+            { "sector": "반도체", "volume_amount": 9800000000000, "ratio": 0.31 }
+          ],
+          "us_sector_volume_distribution": [
+            { "sector": "IT/소프트웨어", "volume_amount": 45000000000, "ratio": 0.22 }
+          ]
+        }
+      }
+    },
+    "news": {
+      "method": "GET",
+      "path": "/api/news",
+      "queryParams": ["market", "date"],
+      "description": "뉴스 목록 + 섹터 요약",
+      "response": {
+        "ok": true,
+        "date": "2025-05-09",
+        "data": {
+          "market": "korea",
+          "date": "2025-05-09",
+          "items": [
+            {
+              "id": "abc123",
+              "title": "삼성전자, 반도체 신규 투자 발표",
+              "url": "https://...",
+              "source": "naver",
+              "sector": "반도체",
+              "sentiment": "positive",
+              "score": 8
+            }
+          ],
+          "sector_summary": [
+            { "sector": "반도체", "positive_count": 5, "negative_count": 1, "avg_score": 7.8 }
+          ]
+        }
+      }
+    },
+    "market": {
+      "method": "GET",
+      "path": "/api/market",
+      "queryParams": ["market", "date"],
+      "description": "Top100 테이블 + 캔들 데이터",
+      "response": {
+        "ok": true,
+        "date": "2025-05-09",
+        "data": {
+          "market": "korea",
+          "date": "2025-05-09",
+          "top100": [
+            {
+              "rank": 1, "ticker": "005930", "name": "삼성전자",
+              "market": "KOSPI", "sector": "반도체",
+              "volume_amount": 980000000000, "change_rate": 2.35, "is_outlier": false
+            }
+          ],
+          "candle_data": [
+            {
+              "sector": "반도체", "ticker": "005930", "name": "삼성전자",
+              "trend": "우상향",
+              "momentum_score": 8,
+              "candles": [
+                { "date": "2025-04-11", "open": 71200, "high": 72500, "low": 70800, "close": 72100, "volume": 15000000 }
+              ],
+              "ma5": [{ "date": "2025-04-15", "value": 71540 }],
+              "ma20": [{ "date": "2025-04-30", "value": 70980 }]
+            }
+          ]
+        }
+      }
+    },
+    "global": {
+      "method": "GET",
+      "path": "/api/global",
+      "queryParams": ["date"],
+      "description": "한미 연계 분석 카드 목록",
+      "response": {
+        "ok": true,
+        "date": "2025-05-09",
+        "data": {
+          "date": "2025-05-09",
+          "linkage_cards": [
+            {
+              "us_sector": "반도체", "us_sentiment": "positive", "us_score": 8,
+              "korea_sector": "반도체", "predicted_impact": "positive",
+              "impact_strength": 0.85,
+              "summary": "미국 반도체 강세가 한국 반도체 섹터에 긍정적 영향 예상",
+              "reasoning": "NVIDIA 실적 발표 이후 ..."
+            }
+          ],
+          "gemini_overall_summary": "전반적으로 미국 기술 섹터 강세가 다음 날 한국 시장에 영향을 줄 것으로 예상됩니다."
+        }
+      }
+    },
+    "backtest": {
+      "method": "GET",
+      "path": "/api/backtest",
+      "queryParams": ["limit"],
+      "description": "백테스팅 기록 + 누적 정확도",
+      "response": {
+        "ok": true,
+        "date": "2025-05-09",
+        "data": {
+          "cumulative_accuracy": 0.67,
+          "records": [
+            {
+              "date": "2025-05-09",
+              "recommended_sectors": ["반도체", "바이오/헬스케어", "2차전지"],
+              "actual_top_sectors": ["반도체", "조선/방산", "바이오/헬스케어"],
+              "accuracy": 0.67,
+              "hit_sectors": ["반도체", "바이오/헬스케어"],
+              "miss_sectors": ["2차전지"]
+            }
+          ]
+        }
+      }
+    },
+    "report": {
+      "method": "GET",
+      "path": "/api/report",
+      "queryParams": ["date"],
+      "description": "리포트 HTML + 발송 상태",
+      "response": {
+        "ok": true,
+        "date": "2025-05-09",
+        "data": {
+          "html_content": "<h1>StockBrief 리포트</h1><p>내용...</p>",
+          "email_sent": true,
+          "sent_at": "2025-05-09T21:30:00+09:00"
+        }
+      }
+    },
+    "resend_report": {
+      "method": "POST",
+      "path": "/api/report/resend",
+      "body": { "date": "2025-05-09" },
+      "description": "이메일 재발송 요청",
+      "response": {
+        "ok": true,
+        "date": "2025-05-09",
+        "data": { "success": true }
+      }
+    },
+    "pipeline_status": {
+      "method": "GET",
+      "path": "/api/pipeline/status",
+      "description": "파이프라인 9단계 진행 상태",
+      "response": {
+        "ok": true,
+        "date": "2025-05-09",
+        "data": {
+          "date": "2025-05-09",
+          "overall": "success",
+          "steps": [
+            { "name": "korea_price",     "status": "success", "ran_at": "2025-05-09T19:02:11+09:00", "duration_sec": 48 },
+            { "name": "korea_news",      "status": "success", "ran_at": "2025-05-09T19:11:03+09:00", "duration_sec": 31 },
+            { "name": "us_price",        "status": "success", "ran_at": "2025-05-09T19:21:44+09:00", "duration_sec": 52 },
+            { "name": "us_news",         "status": "success", "ran_at": "2025-05-09T19:31:09+09:00", "duration_sec": 29 },
+            { "name": "gemini_analysis", "status": "success", "ran_at": "2025-05-09T19:41:55+09:00", "duration_sec": 74 },
+            { "name": "trend_ai_global", "status": "success", "ran_at": "2025-05-09T20:01:22+09:00", "duration_sec": 118 },
+            { "name": "charts_report",   "status": "success", "ran_at": "2025-05-09T20:31:00+09:00", "duration_sec": 95 },
+            { "name": "storage",         "status": "success", "ran_at": "2025-05-09T21:00:12+09:00", "duration_sec": 33 },
+            { "name": "email",           "status": "success", "ran_at": "2025-05-09T21:30:05+09:00", "duration_sec": 12 }
+          ]
+        }
+      }
+    }
+  }
+}

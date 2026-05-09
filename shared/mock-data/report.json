@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "date": "2025-05-09",
+  "data": {
+    "date": "2025-05-09",
+    "sent_at": "2025-05-09T21:30:05+09:00",
+    "send_status": "sent",
+    "html_preview_url": "https://drive.google.com/file/d/mock-id/view",
+    "html_content": "<html><body style='background:#0D1117;color:#fff;font-family:sans-serif'><h2>StockBrief 2025-05-09</h2></body></html>",
+    "summary_lines": [
+      "반도체 섹터가 강한 상승 모멘텀을 보이며 내일도 주목이 필요합니다.",
+      "미국 빅테크 실적 발표 영향으로 IT/소프트웨어 섹터 관심이 높아지고 있습니다.",
+      "2차전지는 관망세 지속으로 단기 추천에서 신중한 접근이 필요합니다."
+    ]
+  }
+}

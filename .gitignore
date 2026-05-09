@@ -1,0 +1,45 @@
+# ── 환경변수 (절대 커밋 금지) ──────────────────────────────────────────
+.env
+backend/.env
+*.env
+
+# ── 인증 파일 ──────────────────────────────────────────────────────────
+credentials.json
+*.json.key
+service_account*.json
+token.json
+
+# ── Python ────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# ── Node / Frontend ───────────────────────────────────────────────────
+node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.production
+
+# ── 파이프라인 자동 생성 데이터 (수동 커밋 금지) ──────────────────────
+data/
+
+# ── OS / IDE ──────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
