@@ -1,4 +1,4 @@
-﻿"""Nightly pipeline orchestrator — runs all 9 steps in order."""
+﻿"""Nightly pipeline orchestrator -runs all 9 steps in order."""
 import json
 import logging
 import threading
@@ -198,7 +198,11 @@ def run_pipeline(date_str: str | None = None, dry_run: bool = False) -> bool:
         save_daily_file(date_str, "pipeline-status.json",{"ok":True,"date":date_str,"data":{"date":date_str,"overall":"success","steps":steps}})
 
         if ctx.get("report_html"):
-            drive_url = upload_report_html(date_str, ctx["report_html"])
+            drive_url = ""
+            try:
+                drive_url = upload_report_html(date_str, ctx["report_html"])
+            except Exception as exc:
+                logger.warning("Drive upload failed (non-fatal): %s", exc)
             report_payload = _build_report_payload(date_str, ctx, drive_url)
             save_daily_file(date_str, "report.json", report_payload)
             with open(settings.data_dir / date_str / "report.html", "w", encoding="utf-8") as fh:
@@ -233,7 +237,7 @@ def run_pipeline(date_str: str | None = None, dry_run: bool = False) -> bool:
         logger.info("=== Pipeline COMPLETE: %s ===", date_str)
     else:
         failed = [s["name"] for s in steps if s["status"] == "failed"]
-        logger.error("=== Pipeline PARTIAL FAILURE: %s — failed: %s ===", date_str, failed)
+        logger.error("=== Pipeline PARTIAL FAILURE: %s -failed: %s ===", date_str, failed)
 
     return all_ok
 
@@ -402,9 +406,10 @@ def _build_dashboard_payload(date_str: str, ctx: dict) -> dict:
 
 if __name__ == "__main__":
     import argparse, os, sys
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     logging.basicConfig(
         level=logging.INFO,
-        format="%(asctime)s [%(levelname)s] %(name)s — %(message)s",
+        format="%(asctime)s [%(levelname)s] %(name)s - %(message)s",
         stream=sys.stdout,
     )
     parser = argparse.ArgumentParser()
