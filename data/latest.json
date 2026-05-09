@@ -2,13 +2,17 @@
   "ok": true,
   "date": "2026-05-08",
   "data": {
-    "last_updated": "2026-05-09T23:40:59.240171+09:00",
+    "last_updated": "2026-05-09T23:57:27.681866+09:00",
     "pipeline_status": "success",
     "ai_recommendation": {
-      "sectors": [],
+      "sectors": [
+        "기타",
+        "반도체",
+        "자동차"
+      ],
       "reason": "뉴스 점수와 거래대금 비중 기반 자동 선정 (Gemini 대체)",
       "confidence": 0.5,
-      "generated_at": "2026-05-09T23:40:59.240171+09:00"
+      "generated_at": "2026-05-09T23:57:27.681866+09:00"
     },
     "korea_sector_ranking": [],
     "us_sector_ranking": [
@@ -18,7 +22,63 @@
         "sentiment": "negative"
       }
     ],
-    "korea_sector_volume_distribution": [],
+    "korea_sector_volume_distribution": [
+      {
+        "sector": "기타",
+        "volume_amount": 18844595185552,
+        "ratio": 0.4432
+      },
+      {
+        "sector": "반도체",
+        "volume_amount": 14250511249300,
+        "ratio": 0.3352
+      },
+      {
+        "sector": "자동차",
+        "volume_amount": 4771710665867,
+        "ratio": 0.1122
+      },
+      {
+        "sector": "조선/방산",
+        "volume_amount": 1522110461025,
+        "ratio": 0.0358
+      },
+      {
+        "sector": "2차전지",
+        "volume_amount": 987262506400,
+        "ratio": 0.0232
+      },
+      {
+        "sector": "부동산/건설",
+        "volume_amount": 753627963733,
+        "ratio": 0.0177
+      },
+      {
+        "sector": "통신/미디어",
+        "volume_amount": 488329149450,
+        "ratio": 0.0115
+      },
+      {
+        "sector": "금융",
+        "volume_amount": 442658382000,
+        "ratio": 0.0104
+      },
+      {
+        "sector": "철강/소재",
+        "volume_amount": 240903290000,
+        "ratio": 0.0057
+      },
+      {
+        "sector": "바이오/헬스케어",
+        "volume_amount": 123664092500,
+        "ratio": 0.0029
+      },
+      {
+        "sector": "소비재",
+        "volume_amount": 93662876250,
+        "ratio": 0.0022
+      }
+    ],
     "us_sector_volume_distribution": []
   }
 }
