@@ -402,6 +402,11 @@ def _build_dashboard_payload(date_str: str, ctx: dict) -> dict:
 
 if __name__ == "__main__":
     import argparse, sys
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s [%(levelname)s] %(name)s — %(message)s",
+        stream=sys.stdout,
+    )
     parser = argparse.ArgumentParser()
     parser.add_argument("--date",    default=None)
     parser.add_argument("--dry-run", action="store_true")
