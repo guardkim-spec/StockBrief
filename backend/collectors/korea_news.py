@@ -1,8 +1,9 @@
-﻿"""Collect Korean stock news from Naver RSS."""
+"""Collect Korean stock news from Google News RSS."""
 import logging
 import random
 import time
 import hashlib
+import time as _time
 from datetime import datetime
 from typing import Any
 
@@ -14,18 +15,10 @@ from pipeline.retry import retry
 logger = logging.getLogger(__name__)
 KST = pytz.timezone("Asia/Seoul")
 
-NAVER_RSS_URLS = [
-    "https://finance.naver.com/news/news_list.naver?mode=LSS2D&section_id=101&section_id2=258",
-    "https://finance.naver.com/news/news_list.naver?mode=LSS2D&section_id=101&section_id2=259",
-]
-
-NAVER_RSS_FEEDS = [
-    "https://finance.naver.com/news/news_list.naver?mode=LSPN&category=market_news",
-]
-
-STOCK_KEYWORDS = [
-    "속보", "단독", "특징주", "급등", "급락", "신고가", "신저가", "상한가", "하한가",
-    "실적", "수주", "계약", "투자", "증자", "분기", "호재", "악재", "M&A", "상장",
+GOOGLE_NEWS_RSS = [
+    "https://news.google.com/rss/search?q=주식+증시+한국&hl=ko&gl=KR&ceid=KR:ko",
+    "https://news.google.com/rss/search?q=코스피+코스닥+반도체&hl=ko&gl=KR&ceid=KR:ko",
+    "https://news.google.com/rss/search?q=한국주식+실적+수주&hl=ko&gl=KR&ceid=KR:ko",
 ]
 
 HEADERS = {
@@ -41,6 +34,17 @@ def _make_id(url: str) -> str:
     return "kr_" + hashlib.md5(url.encode()).hexdigest()[:12]
 
 
+def _pub_date_str(entry) -> str:
+    """Return YYYY-MM-DD from feedparser entry, using published_parsed for RFC 2822 dates."""
+    if hasattr(entry, "published_parsed") and entry.published_parsed:
+        return _time.strftime("%Y-%m-%d", entry.published_parsed)
+    if hasattr(entry, "published") and entry.published:
+        raw = entry.published
+        if len(raw) >= 10 and raw[4] == "-":
+            return raw[:10]
+    return ""
+
+
 def _parse_feed(url: str, today_str: str) -> list[dict]:
     items = []
     try:
@@ -51,10 +55,7 @@ def _parse_feed(url: str, today_str: str) -> list[dict]:
             if not title or not link:
                 continue
 
-            pub_date = ""
-            if hasattr(entry, "published"):
-                pub_date = entry.published[:10] if entry.published else ""
-
+            pub_date = _pub_date_str(entry)
             if pub_date and pub_date != today_str:
                 continue
 
@@ -63,10 +64,10 @@ def _parse_feed(url: str, today_str: str) -> list[dict]:
                 "date": today_str,
                 "title": title,
                 "url": link,
-                "source": "naver",
-                "sector": "",       # filled by Gemini later
-                "sentiment": "",    # filled by Gemini later
-                "score": 0,         # filled by Gemini later
+                "source": "google_news",
+                "sector": "",
+                "sentiment": "",
+                "score": 0,
             })
     except Exception as exc:
         logger.warning("Feed parse error %s: %s", url, exc)
@@ -75,7 +76,7 @@ def _parse_feed(url: str, today_str: str) -> list[dict]:
 
 @retry(max_attempts=3, delay_sec=30.0)
 def collect_korea_news(date_str: str | None = None) -> list[dict[str, Any]]:
-    """Collect today's Korea stock news from Naver RSS. Returns raw items (sector/sentiment TBD)."""
+    """Collect Korea stock news from Google News RSS."""
     now_kst = datetime.now(KST)
     today = date_str or now_kst.strftime("%Y-%m-%d")
     logger.info("Collecting Korea news for %s", today)
@@ -83,16 +84,13 @@ def collect_korea_news(date_str: str | None = None) -> list[dict[str, Any]]:
     all_items: list[dict] = []
     seen_ids: set[str] = set()
 
-    for url in NAVER_RSS_FEEDS:
+    for url in GOOGLE_NEWS_RSS:
         items = _parse_feed(url, today)
         for item in items:
             if item["id"] not in seen_ids:
                 seen_ids.add(item["id"])
                 all_items.append(item)
-        time.sleep(random.uniform(3.0, 7.0))
-
-    if not all_items:
-        logger.info("No Korea news found for %s", today)
+        time.sleep(random.uniform(1.0, 2.0))
 
     logger.info("Collected %d Korea news articles", len(all_items))
     return all_items
