@@ -2,20 +2,60 @@
   "ok": true,
   "date": "2026-05-08",
   "data": {
-    "last_updated": "2026-05-10T08:08:58.685562+09:00",
+    "last_updated": "2026-05-10T08:12:07.167488+09:00",
     "pipeline_status": "success",
     "ai_recommendation": {
       "sectors": [
-        "기타",
         "반도체",
-        "자동차"
+        "IT/소프트웨어",
+        "금융"
       ],
-      "reason": "뉴스 점수와 거래대금 비중 기반 자동 선정 (Gemini 대체)",
-      "confidence": 0.5,
-      "generated_at": "2026-05-10T08:08:58.685582+09:00"
+      "reason": "반도체는 미국 뉴스 최고 점수(9.0)와 한국 거래대금 최상위(33.52%)로 글로벌 및 국내 관심 집중. IT/소프트웨어는 미국 뉴스 양호(7.67)하며 반도체와 동반 상승 기대. 금융은 미국 뉴스 긍정 건수(7건)가 압도적으로 많아 글로벌 금융 시장 개선 기대.",
+      "confidence": 0.75,
+      "generated_at": "2026-05-10T08:12:07.167505+09:00"
     },
     "korea_sector_ranking": [],
     "us_sector_ranking": [
+      {
+        "sector": "반도체",
+        "score": 9.0,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "IT/소프트웨어",
+        "score": 7.67,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "소비재",
+        "score": 7.0,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "금융",
+        "score": 7.0,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "통신/미디어",
+        "score": 7.0,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "바이오/헬스케어",
+        "score": 7.0,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "에너지",
+        "score": 7.0,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "부동산/건설",
+        "score": 5.0,
+        "sentiment": "neutral"
+      },
       {
         "sector": "기타",
         "score": 0.0,
