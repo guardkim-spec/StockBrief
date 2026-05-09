@@ -3,7 +3,7 @@
   "date": "2026-05-07",
   "data": {
     "date": "2026-05-07",
-    "overall": "running",
+    "overall": "pending",
     "steps": [
       {
         "name": "korea_price",
@@ -25,9 +25,9 @@
       },
       {
         "name": "us_news",
-        "status": "running",
+        "status": "success",
         "ran_at": "2026-05-09T23:20:24.955994+09:00",
-        "duration_sec": null
+        "duration_sec": 2.3
       },
       {
         "name": "gemini_analysis",
