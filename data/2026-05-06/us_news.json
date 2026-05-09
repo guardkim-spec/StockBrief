@@ -1,0 +1,726 @@
+{
+  "ok": true,
+  "date": "2026-05-06",
+  "data": [
+    {
+      "id": "us_8c289036f836",
+      "date": "2026-05-06",
+      "title": "Michael Saylor’s Bitcoin Treasury Company Posts $12.5 Billion Loss, Boasts That People Are Still Giving It Money",
+      "url": "https://gizmodo.com/michael-saylors-bitcoin-treasury-company-posts-12-5-billion-loss-boasts-that-people-are-still-giving-it-money-2000755338",
+      "source": "newsapi",
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 8
+    },
+    {
+      "id": "us_47a52797f5ef",
+      "date": "2026-05-06",
+      "title": "DoorDash Stock: Is Wall Street Bullish or Bearish?",
+      "url": "https://www.barchart.com/story/news/1744287/doordash-stock-is-wall-street-bullish-or-bearish",
+      "source": "newsapi",
+      "sector": "소비재",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "us_9822613d1d12",
+      "date": "2026-05-06",
+      "title": "Is Wall Street Bullish or Bearish on Centene Stock?",
+      "url": "https://www.barchart.com/story/news/1742217/is-wall-street-bullish-or-bearish-on-centene-stock",
+      "source": "newsapi",
+      "sector": "바이오/헬스케어",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "us_07a05a51b84c",
+      "date": "2026-05-06",
+      "title": "Healthpeak Properties, Inc. Q1 2026 Earnings Call Summary",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-healthpeak-properties-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
+      "source": "newsapi",
+      "sector": "부동산/건설",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "us_a2e7c333d1cf",
+      "date": "2026-05-06",
+      "title": "Weyco Group, Inc. Q1 2026 Earnings Call Summary",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-weyco-group-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
+      "source": "newsapi",
+      "sector": "소비재",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "us_dca8e91f9b65",
+      "date": "2026-05-06",
+      "title": "Trimble Inc. Q1 2026 Earnings Call Summary",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-trimble-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
+      "source": "newsapi",
+      "sector": "IT/소프트웨어",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "us_55f4d41d3be8",
+      "date": "2026-05-06",
+      "title": "Coinbase CEO Warns American Workers: Mass Layoffs Are Coming to ‘Every Company’",
+      "url": "https://247wallst.com/investing/2026/05/06/coinbase-ceo-warns-american-workers-mass-layoffs-are-coming-to-every-company/",
+      "source": "newsapi",
+      "sector": "IT/소프트웨어",
+      "sentiment": "negative",
+      "score": 9
+    },
+    {
+      "id": "us_95647c3ab032",
+      "date": "2026-05-06",
+      "title": "Elanco (ELAN) shares climb after strong quarterly results and higher full-year outlook",
+      "url": "https://investorshub.advfn.com/market-news/article/27809/elanco-elan-shares-climb-after-strong-quarterly-results-and-higher-full-year-outlook",
+      "source": "newsapi",
+      "sector": "바이오/헬스케어",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "us_6e6308dd187d",
+      "date": "2026-05-06",
+      "title": "Why The Dip In TEM Stock Is A Buying Window",
+      "url": "https://www.trefis.com/articles/598465/why-the-dip-in-tem-stock-is-a-buying-window/2026-05-06",
+      "source": "newsapi",
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 7
+    },
+    {
+      "id": "us_67a03d2a0f84",
+      "date": "2026-05-06",
+      "title": "Uber Q1 2026 earnings: revenue miss, stock pops on guidance",
+      "url": "https://qz.com/uber-q1-2026-earnings-revenue-miss-bookings-guidance-050626",
+      "source": "newsapi",
+      "sector": "소비재",
+      "sentiment": "positive",
+      "score": 6
+    },
+    {
+      "id": "us_c0865bdaa522",
+      "date": "2026-05-06",
+      "title": "Twilio Just Reported Its Fastest Growth Since 2022. AI Is Helping, Not Hurting, TWLO Stock.",
+      "url": "https://www.barchart.com/story/news/1744807/twilio-just-reported-its-fastest-growth-since-2022-ai-is-helping-not-hurting-twlo-stock",
+      "source": "newsapi",
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "us_5e2be07fc240",
+      "date": "2026-05-06",
+      "title": "Samsung’s valuation hits historic $1 trillion mark, thanks to the AI boom",
+      "url": "https://www.sammobile.com/news/samsung-valuation-usd-1-trillion-mark-ai-boom/",
+      "source": "newsapi",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "us_1006a4fb763a",
+      "date": "2026-05-06",
+      "title": "Wall Street is rushing to raise price targets for AMD stock after earnings. Here's the bull case from 6 top firms.",
+      "url": "https://www.businessinsider.com/amd-stock-price-target-chip-earnings-ai-tech-market-investing-2026-5",
+      "source": "newsapi",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "us_7dd20c34fa9e",
+      "date": "2026-05-06",
+      "title": "What Are Wall Street Analysts' Target Price for U.S. Bancorp Stock?",
+      "url": "https://www.barchart.com/story/news/1736683/what-are-wall-street-analysts-target-price-for-u-s-bancorp-stock",
+      "source": "newsapi",
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "us_99b20445d759",
+      "date": "2026-05-06",
+      "title": "BMW Q1 2026 earnings fall 25% as China, tariffs weigh",
+      "url": "https://qz.com/bmw-q1-2026-earnings-profit-china-tariffs-050626",
+      "source": "newsapi",
+      "sector": "자동차",
+      "sentiment": "negative",
+      "score": 8
+    },
+    {
+      "id": "us_fa6cff8fde15",
+      "date": "2026-05-06",
+      "title": "Broadcom guidance reveals one signal getting unusual attention",
+      "url": "https://www.thestreet.com/investing/stocks/broadcom-guidance-reveals-one-signal-getting-unusual-attention",
+      "source": "newsapi",
+      "sector": "반도체",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "us_8d011daa1d68",
+      "date": "2026-05-06",
+      "title": "Here’s What Led Tyler Technologies’ (TYL) Relative Weakness",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/led-tyler-technologies-tyl-relative-143853705.html",
+      "source": "newsapi",
+      "sector": "IT/소프트웨어",
+      "sentiment": "negative",
+      "score": 7
+    },
+    {
+      "id": "us_bba68d354ade",
+      "date": "2026-05-06",
+      "title": "What Are Wall Street Analysts' Target Price for Texas Instruments Stock?",
+      "url": "https://www.barchart.com/story/news/1741157/what-are-wall-street-analysts-target-price-for-texas-instruments-stock",
+      "source": "newsapi",
+      "sector": "반도체",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "us_cb2fdec68fc7",
+      "date": "2026-05-06",
+      "title": "PAR Technology Corporation (PAR) Declined in Q1 Despite Healthy Business Performance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/par-technology-corporation-par-declined-135906748.html",
+      "source": "newsapi",
+      "sector": "IT/소프트웨어",
+      "sentiment": "negative",
+      "score": 7
+    },
+    {
+      "id": "us_a3ba169bb823",
+      "date": "2026-05-06",
+      "title": "How much interest will a $150,000 CD account earn now?",
+      "url": "https://www.cbsnews.com/news/how-much-interest-150000-cd-account-earn-may-2026/",
+      "source": "newsapi",
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "us_d799d0bcf8f4",
+      "date": "2026-05-06",
+      "title": "S&P 500 Extends Record Run as Semis Soar, Oil Falls and Strait Traffic Flows",
+      "url": "https://247wallst.com/investing/2026/05/06/sp-500-extends-record-run-as-semis-soar-oil-falls-and-strait-traffic-flows/",
+      "source": "newsapi",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "us_752aeb9ef0b1",
+      "date": "2026-05-06",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures tread water while crude oil sinks in wait for Iran-US deal update",
+      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-dow-sp-500-nasdaq-futures-tick-up-as-crude-oil-falls-in-wait-for-iran-us-deal-update-231446172.html",
+      "source": "newsapi",
+      "sector": "에너지",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "us_c59dcc0468db",
+      "date": "2026-05-06",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq tick up as crude oil falls in wait for Iran-US deal update",
+      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-dow-sp-500-nasdaq-tick-up-as-crude-oil-falls-in-wait-for-iran-us-deal-update-231446182.html",
+      "source": "newsapi",
+      "sector": "에너지",
+      "sentiment": "positive",
+      "score": 6
+    },
+    {
+      "id": "us_2a83393ff650",
+      "date": "2026-05-06",
+      "title": "AI boom drives a rally in buying of tech shares, pushing South Korea's Kospi",
+      "url": "https://abcnews.com/Technology/wireStory/ai-boom-drives-rally-buying-tech-shares-pushing-132696811",
+      "source": "newsapi",
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "us_d417ed1de110",
+      "date": "2026-05-06",
+      "title": "US stocks today: S&P 500 and Nasdaq notch records; AMD results spark AI stock rally",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-and-nasdaq-notch-records-amd-results-spark-ai-stock-rally/articleshow/130869531.cms",
+      "source": "newsapi",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "us_190a4b1a95d0",
+      "date": "2026-05-06",
+      "title": "US stocks today: US market opens higher as Middle East peace hopes, AI optimism boost sentiment",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-market-opens-higher-as-middle-east-peace-hopes-ai-optimism-boost-sentiment/articleshow/130858565.cms",
+      "source": "newsapi",
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "us_6ff6108122d1",
+      "date": "2026-05-06",
+      "title": "Samsung Electronics' market cap surpasses $1 trln after US AI chip stocks surge",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/update-1-samsung-electronics-market-cap-surpasses-1-trln-after-us-ai-chip-stocks-surge/articleshow/130843578.cms",
+      "source": "newsapi",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "us_778a12bf76d1",
+      "date": "2026-05-06",
+      "title": "How major US stock indexes fared Wednesday 5/6/2026",
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-562026-132723641",
+      "source": "newsapi",
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "us_ea3c5da728f7",
+      "date": "2026-05-06",
+      "title": "Nasdaq Futures Rally on Upbeat AMD Earnings and U.S.-Iran Peace Deal Optimism",
+      "url": "https://www.barchart.com/story/news/1735729/nasdaq-futures-rally-on-upbeat-amd-earnings-and-u-s-iran-peace-deal-optimism",
+      "source": "newsapi",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "us_b666d3398f86",
+      "date": "2026-05-06",
+      "title": "AI boom drives a rally in buying of tech shares, pushing South Korea's Kospi to a record",
+      "url": "https://abcnews.com/US/wireStory/ai-boom-drives-rally-buying-tech-shares-pushing-132696809",
+      "source": "newsapi",
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "us_1c78c508542f",
+      "date": "2026-05-06",
+      "title": "U.S. Stock Market on Wednesday: Will S&P 500, Dow Jones, Nasdaq, Russell 2000 slip? Factors that will decide Wall street trading",
+      "url": "https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-on-wednesday-will-sp-500-dow-jones-nasdaq-russell-2000-slip-factors-that-will-decide-wall-street-trading/articleshow/130841894.cms",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_40f9d1a76a70",
+      "date": "2026-05-06",
+      "title": "US stock market today: Why are Dow Jones, S&P 500, and Nasdaq surging as AMD stock explodes and oil prices crash on Iran peace hopes?",
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-why-are-dow-jones-sp-500-and-nasdaq-surging-as-amd-stock-explodes-and-oil-prices-crash-on-iran-peace-hopes/articleshow/130861123.cms",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_b330ea5c80a8",
+      "date": "2026-05-06",
+      "title": "Markets soar, oil prices plummet as hopes rise for U.S.-Iran peace",
+      "url": "https://www.cbc.ca/news/business/markets-may-6-9.7189370",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_557a7a1b4a1f",
+      "date": "2026-05-06",
+      "title": "Berkshire Hathaway’s nearly $400B in cash reserves turn heads on Wall Street",
+      "url": "https://nypost.com/2026/05/06/business/berkshire-hathaways-nearly-400b-in-cash-reserves-turn-heads-on-wall-street/",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_d5691ddb31c1",
+      "date": "2026-05-06",
+      "title": "Global Market Today: Asian stocks rise, oil falls as US cites Iran progress",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-oil-falls-as-us-cites-iran-progress/articleshow/130841793.cms",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_c8152fd7bd04",
+      "date": "2026-05-06",
+      "title": "5 things to watch on the ASX 200 on Thursday",
+      "url": "https://www.fool.com.au/2026/05/07/5-things-to-watch-on-the-asx-200-on-thursday-07-may-2026/",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_4f57a3293a2b",
+      "date": "2026-05-06",
+      "title": "St Louis Fed's Musalem more worried about inflation than jobs now, sees holding rates for 'some time'",
+      "url": "https://finance.yahoo.com/economy/policy/article/st-louis-feds-musalem-more-worried-about-inflation-than-jobs-now-sees-holding-rates-for-some-time-151347167.html",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_5a26a47f088c",
+      "date": "2026-05-06",
+      "title": "The Quiet Rate Shift Powering One of This Year’s Strongest Trades",
+      "url": "https://247wallst.com/investing/2026/05/06/the-quiet-rate-shift-powering-one-of-this-years-strongest-trades/",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_cca62f9fad0e",
+      "date": "2026-05-06",
+      "title": "$15,000 CD vs. $15,000 high-yield savings account vs. $15,000 money market account: Here's which is most profitable now",
+      "url": "https://www.cbsnews.com/news/15000-cd-vs-high-yield-savings-account-vs-money-market-account-most-profitable-now/",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_ec1ba39aceaf",
+      "date": "2026-05-06",
+      "title": "Would you rather hand over $300 a month to your bank or the government?",
+      "url": "https://www.abc.net.au/news/2026-05-07/what-if-we-used-taxes-or-superannuation-to-control-inflation/106645404",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_b621a62f3f11",
+      "date": "2026-05-06",
+      "title": "401(k) loan vs. debt relief: Which is better for getting rid of credit card debt now?",
+      "url": "https://www.cbsnews.com/news/401k-loan-vs-debt-relief-better-option-credit-card-debt/",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_7dc9d1aa6a5e",
+      "date": "2026-05-06",
+      "title": "Treasury raises Series I bond rate after CPI shocks markets",
+      "url": "https://www.thestreet.com/investing/stocks/treasury-raises-series-i-bond-rate-after-cpi-shocks-markets",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_3df623e1cd33",
+      "date": "2026-05-06",
+      "title": "The Reserve Bank boss finally said it. She spoke truth to power. But is the one person who could stop inflation in Australia listening?",
+      "url": "https://www.dailymail.com/news/article-15793587/The-Reserve-Bank-boss-finally-said-spoke-truth-power-one-person-stop-inflation-Australia-listening.html",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_a36016f66107",
+      "date": "2026-05-06",
+      "title": "Gold, Silver Surge as US-Iran Truce Hopes Ease Inflation Risks",
+      "url": "https://finance.yahoo.com/news/gold-rises-as-trump-touts-progress-with-iran-and-dollar-falls-014918942.html",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_88fc64e68563",
+      "date": "2026-05-06",
+      "title": "Economic Management in War: Professor Michael Hudson in Discussion with Ian Proud",
+      "url": "https://www.nakedcapitalism.com/2026/05/economic-management-in-war-professor-michael-hudson-in-discussion-with-ian-proud.html",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_e7929b7230ff",
+      "date": "2026-05-06",
+      "title": "Best CD rates today, May 6, 2026 (Earn up to 4.05% APY)",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-may-6-2026-100000487.html",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_32d6e117bfe3",
+      "date": "2026-05-06",
+      "title": "Kevin Hassett Says It’s Good Sign Americans Using Credit Cards More As Iran War Blows Up Their Budgets",
+      "url": "https://dailycaller.com/2026/05/06/kevin-hassett-credit-cards-iran-war-economy/",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_d2d469a1b3d5",
+      "date": "2026-05-06",
+      "title": "Bitcoin holds $81K amid flat derivatives markets: Is the rally sustainable?",
+      "url": "https://cointelegraph.com/markets/bitcoin-holds-81k-amid-flat-derivatives-markets-is-the-rally-sustainable",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_f6ccf7051477",
+      "date": "2026-05-06",
+      "title": "US Stock Market | Bond markets signal rising odds of Fed rate hike before cuts",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-bond-markets-signal-rising-odds-of-fed-rate-hike-before-cuts/articleshow/130844727.cms",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_91295aadc89c",
+      "date": "2026-05-06",
+      "title": "US Stock Market: Jobs data to test Fed’s rate outlook amid resilient economy and inflation risks",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-jobs-data-to-test-feds-rate-outlook-amid-resilient-economy-and-inflation-risks/articleshow/130843994.cms",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_8a40c60af85e",
+      "date": "2026-05-06",
+      "title": "CME Group Launches New Benchmark to Track Overnight Funding Costs",
+      "url": "https://www.prnewswire.com/news-releases/cme-group-launches-new-benchmark-to-track-overnight-funding-costs-302764084.html",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_99cd6f6dfe47",
+      "date": "2026-05-06",
+      "title": "Why The Taylor Rule Still Matters",
+      "url": "https://www.thefreedomfrequency.org/p/why-the-taylor-rule-still-matters",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_dc6a09b580c2",
+      "date": "2026-05-06",
+      "title": "Dollar hits 30-year low as Trump hints at possible Iran deal",
+      "url": "https://cryptobriefing.com/dollar-hits-30-year-low-as-trump-hints-at-possible-iran-deal/",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_47bb6fd66865",
+      "date": "2026-05-06",
+      "title": "Global Bonds Rally as Oil Falls on Mounting Hopes for Peace Deal",
+      "url": "https://financialpost.com/pmn/business-pmn/global-bonds-rally-as-oil-falls-on-mounting-hopes-for-peace-deal",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_e383951175d9",
+      "date": "2026-05-06",
+      "title": "Private payrolls rose by 109,000 in April, topping expectations, ADP says",
+      "url": "https://www.cnbc.com/2026/05/06/private-payrolls-rose-by-109000-in-april-topping-expectations-adp-says.html",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_d849941b4274",
+      "date": "2026-05-06",
+      "title": "We now have a price tag for Elon Musk's ambitious Texas chip project",
+      "url": "https://www.businessinsider.com/spacex-terafab-project-cost-texas-elon-musk-2026-5",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_142203a637be",
+      "date": "2026-05-06",
+      "title": "Musk has never built a wafer fab, but he wants to burn $119B on one anyway",
+      "url": "https://www.theregister.com/systems/2026/05/06/spacex-plots-119b-wafer-fab-to-make-elons-orbital-ai-dream-come-true/5231202",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_438dd443d594",
+      "date": "2026-05-06",
+      "title": "A Michigan farm town voted down plans for a giant OpenAI-Oracle data center. Weeks later, construction began",
+      "url": "https://finance.yahoo.com/economy/policy/articles/michigan-farm-town-voted-down-070000429.html",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_a401bfd3d1e7",
+      "date": "2026-05-06",
+      "title": "The world's hottest stock market just minted a trillion-dollar tech giant",
+      "url": "https://www.businessinsider.com/south-korea-stock-market-samsung-1-trillion-club-ai-boom-2026-5",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_6f96c459c430",
+      "date": "2026-05-06",
+      "title": "Seaport Research Calls Applied Materials (AMAT) Best Positioned Among Wafer Equipment Suppliers",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/seaport-research-calls-applied-materials-215954669.html",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_2780d59f2336",
+      "date": "2026-05-06",
+      "title": "AEM CEO says AI upends semiconductor testing",
+      "url": "https://www.digitimes.com/news/a20260506PD224/equipment-mobile-technology-testing.html",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_c3cbd4da5059",
+      "date": "2026-05-06",
+      "title": "S Korea's KOSPI breaks 7,000 as AI chip rally lifts Samsung into $1 trillion club",
+      "url": "https://www.channelnewsasia.com/business/s-koreas-kospi-breaks-7000-ai-chip-rally-lifts-samsung-1-trillion-club-6102511",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_9750a5867f58",
+      "date": "2026-05-06",
+      "title": "SpaceX files plans for $55 billion Terafab chip plant in Texas",
+      "url": "https://qz.com/spacex-terafab-chip-plant-texas-050626",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_c434453d149f",
+      "date": "2026-05-06",
+      "title": "U.S. Works to Ease Memory Chip Shortage Through Supply Chain Coalition",
+      "url": "https://www.naturalnews.com/2026-05-06-us-works-to-ease-memory-chip-shortage.html",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_355bd3f41277",
+      "date": "2026-05-06",
+      "title": "Intel Stock Is Up 190% in 2026 and Trump Says the U.S. Has Made $30 Billion. The Early Innings for INTC May Be Over.",
+      "url": "https://www.barchart.com/story/news/1742194/intel-stock-is-up-190-in-2026-and-trump-says-the-u-s-has-made-30-billion-the-early-innings-for-intc-may-be-over",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_50b4f69c02a9",
+      "date": "2026-05-06",
+      "title": "Terafab's Cost Could Reach $119 Billion as First Phase Starts at $55 Billion",
+      "url": "https://www.techpowerup.com/348808/terafabs-cost-could-reach-usd-119-billion-as-first-phase-starts-at-usd-55-billion",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_29f22e5d0174",
+      "date": "2026-05-06",
+      "title": "Samsung Electronics market value tops US$1 trillion on chip boom",
+      "url": "https://www.channelnewsasia.com/business/samsung-electronics-market-value-ai-chip-boom-6102711",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_180f5653d162",
+      "date": "2026-05-06",
+      "title": "Tech Stocks Rocket Higher on Chip Strength, Easing Oil and Iran Deal Hopes",
+      "url": "https://247wallst.com/investing/2026/05/06/tech-stocks-rocket-higher-on-chip-strength-easing-oil-and-iran-deal-hopes/",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_c345156dcef3",
+      "date": "2026-05-06",
+      "title": "Schneider Electric to launch Southeast Asia training hub in Malaysia",
+      "url": "https://www.channelnewsasia.com/business/schneider-electric-launch-southeast-asia-training-hub-in-malaysia-6103881",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_bd09be80f4a3",
+      "date": "2026-05-06",
+      "title": "China to Invest in DeepSeek at $50 Billion Valuation",
+      "url": "https://www.wsj.com/tech/ai/china-to-invest-in-deepseek-at-50-billion-valuation-045041d0",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_4bac6a0ab8fd",
+      "date": "2026-05-06",
+      "title": "Samsung hits $1T market cap amid AI chip demand surge",
+      "url": "https://cryptobriefing.com/samsung-hits-1t-market-cap-amid-ai-chip-demand-surge/",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_53541a383921",
+      "date": "2026-05-06",
+      "title": "AMD’s stock rises on surging demand for CPUs and GPUs for AI workloads",
+      "url": "https://siliconangle.com/2026/05/05/amds-stock-rises-surging-demand-cpus-gpus-ai-workloads/",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    }
+  ]
+}
