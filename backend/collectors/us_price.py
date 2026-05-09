@@ -32,7 +32,16 @@ _STOOQ_HEADERS = {
     ),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.5",
+    "Referer": "https://stooq.com/",
 }
+
+# Shared session with stooq cookies (warmed up once at module load)
+_stooq_session = http_requests.Session()
+_stooq_session.headers.update(_STOOQ_HEADERS)
+try:
+    _stooq_session.get("https://stooq.com/", timeout=10)
+except Exception:
+    pass
 
 # yfinance fallback (curl_cffi if available)
 _HAS_CURL_CFFI = False
@@ -91,7 +100,7 @@ def _fetch_stooq(ticker: str, date_str: str) -> dict | None:
         f"?s={ticker.lower()}.us&d1={date_fmt}&d2={date_fmt}&i=d"
     )
     try:
-        resp = http_requests.get(url, headers=_STOOQ_HEADERS, timeout=15)
+        resp = _stooq_session.get(url, timeout=15)
         text = resp.text.strip()
         if not text or "No data" in text or text.startswith("<"):
             return None
