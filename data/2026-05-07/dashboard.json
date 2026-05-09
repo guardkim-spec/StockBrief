@@ -2,7 +2,7 @@
   "ok": true,
   "date": "2026-05-07",
   "data": {
-    "last_updated": "2026-05-10T07:34:06.795742+09:00",
+    "last_updated": "2026-05-10T07:43:59.082431+09:00",
     "pipeline_status": "success",
     "ai_recommendation": {
       "sectors": [
@@ -12,7 +12,7 @@
       ],
       "reason": "뉴스 점수와 거래대금 비중 기반 자동 선정 (Gemini 대체)",
       "confidence": 0.5,
-      "generated_at": "2026-05-10T07:34:06.795742+09:00"
+      "generated_at": "2026-05-10T07:43:59.082431+09:00"
     },
     "korea_sector_ranking": [],
     "us_sector_ranking": [
@@ -84,6 +84,72 @@
         "ratio": 0.003
       }
     ],
-    "us_sector_volume_distribution": []
+    "us_sector_volume_distribution": [
+      {
+        "sector": "반도체",
+        "volume_amount": 131102195420,
+        "ratio": 0.4273
+      },
+      {
+        "sector": "기타",
+        "volume_amount": 54280496725,
+        "ratio": 0.1769
+      },
+      {
+        "sector": "IT/소프트웨어",
+        "volume_amount": 39791645939,
+        "ratio": 0.1297
+      },
+      {
+        "sector": "통신/미디어",
+        "volume_amount": 19624194081,
+        "ratio": 0.064
+      },
+      {
+        "sector": "2차전지",
+        "volume_amount": 19016212598,
+        "ratio": 0.062
+      },
+      {
+        "sector": "소비재",
+        "volume_amount": 16893429958,
+        "ratio": 0.0551
+      },
+      {
+        "sector": "바이오/헬스케어",
+        "volume_amount": 9882673986,
+        "ratio": 0.0322
+      },
+      {
+        "sector": "금융",
+        "volume_amount": 6670124991,
+        "ratio": 0.0217
+      },
+      {
+        "sector": "조선/방산",
+        "volume_amount": 3297072787,
+        "ratio": 0.0107
+      },
+      {
+        "sector": "에너지",
+        "volume_amount": 3022192697,
+        "ratio": 0.0099
+      },
+      {
+        "sector": "철강/소재",
+        "volume_amount": 1638831875,
+        "ratio": 0.0053
+      },
+      {
+        "sector": "자동차",
+        "volume_amount": 883612108,
+        "ratio": 0.0029
+      },
+      {
+        "sector": "부동산/건설",
+        "volume_amount": 693069525,
+        "ratio": 0.0023
+      }
+    ]
   }
 }
