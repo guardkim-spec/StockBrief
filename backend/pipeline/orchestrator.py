@@ -205,7 +205,9 @@ def run_pipeline(date_str: str | None = None, dry_run: bool = False) -> bool:
                 logger.warning("Drive upload failed (non-fatal): %s", exc)
             report_payload = _build_report_payload(date_str, ctx, drive_url)
             save_daily_file(date_str, "report.json", report_payload)
-            with open(settings.data_dir / date_str / "report.html", "w", encoding="utf-8") as fh:
+            report_html_path = settings.data_dir / date_str / "report.html"
+            report_html_path.parent.mkdir(parents=True, exist_ok=True)
+            with open(report_html_path, "w", encoding="utf-8") as fh:
                 fh.write(ctx["report_html"])
 
         dashboard_payload = _build_dashboard_payload(date_str, ctx)
