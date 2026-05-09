@@ -1,7 +1,9 @@
-"""Collect US top-100 stocks by dollar volume using yfinance."""
+"""Collect US top-100 stocks by dollar volume using yfinance + curl_cffi."""
 import logging
 import random
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta
 from typing import Any
 
@@ -16,6 +18,28 @@ from pipeline.retry import retry
 logger = logging.getLogger(__name__)
 KST = pytz.timezone("Asia/Seoul")
 ET = pytz.timezone("America/New_York")
+
+# curl_cffi impersonates Chrome to bypass Yahoo Finance anti-bot blocks.
+# One session per thread to avoid thread-safety issues.
+_thread_local = threading.local()
+_HAS_CURL_CFFI = False
+try:
+    import curl_cffi  # noqa: F401
+    _HAS_CURL_CFFI = True
+    logger.debug("curl_cffi available — will impersonate Chrome for Yahoo Finance")
+except ImportError:
+    logger.warning("curl_cffi not installed; Yahoo Finance requests may be blocked")
+
+
+def _get_session():
+    """Return a thread-local curl_cffi session, or None if unavailable."""
+    if not _HAS_CURL_CFFI:
+        return None
+    if not hasattr(_thread_local, "session") or _thread_local.session is None:
+        from curl_cffi import requests as curl_requests
+        _thread_local.session = curl_requests.Session(impersonate="chrome120")
+    return _thread_local.session
+
 
 LIQUID_US_TICKERS = [
     "AAPL","MSFT","NVDA","AMZN","GOOGL","META","TSLA","AVGO","GOOG",
@@ -45,9 +69,11 @@ def _get_us_trading_date(dt: datetime) -> str:
 
 
 def _fetch_ticker(ticker: str, start: str, end: str) -> dict | None:
-    """Fetch single ticker OHLCV. Returns None on failure."""
+    """Fetch single ticker OHLCV using curl_cffi-backed session."""
     try:
-        t = yf.Ticker(ticker)
+        session = _get_session()
+        kwargs = {"session": session} if session is not None else {}
+        t = yf.Ticker(ticker, **kwargs)
         hist = t.history(start=start, end=end, auto_adjust=True)
         if hist.empty:
             return None
@@ -61,100 +87,6 @@ def _fetch_ticker(ticker: str, start: str, end: str) -> dict | None:
     except Exception as exc:
         logger.debug("yfinance fetch failed %s: %s", ticker, exc)
         return None
-
-
-@retry(max_attempts=3, delay_sec=30.0)
-def collect_us_top100(date_str: str | None = None) -> list[dict[str, Any]]:
-    """Collect top-100 US stocks by dollar volume."""
-    now_kst = datetime.now(KST)
-    if date_str:
-        target_kst = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=KST)
-    else:
-        target_kst = now_kst
-
-    target_et = target_kst.astimezone(ET)
-    if _is_us_holiday(target_et):
-        logger.info("US market holiday: %s. Skipping.", target_et.date())
-        return []
-
-    trading_date = _get_us_trading_date(target_et)
-    next_date = (datetime.strptime(trading_date, "%Y-%m-%d") + timedelta(days=1)).strftime("%Y-%m-%d")
-    logger.info("Collecting US top-100 for date: %s", trading_date)
-
-    # Try batch download first (faster), fall back to individual if batch fails
-    results: list[dict] = []
-    batch_size = 20
-
-    for i in range(0, len(LIQUID_US_TICKERS), batch_size):
-        batch = LIQUID_US_TICKERS[i: i + batch_size]
-        batch_results = _fetch_batch(batch, trading_date, next_date)
-        results.extend(batch_results)
-        time.sleep(random.uniform(1.5, 3.0))
-
-    results.sort(key=lambda x: x["volume_amount"], reverse=True)
-    top100 = results[:TOP_N_STOCKS]
-    for idx, item in enumerate(top100, 1):
-        item["rank"] = idx
-
-    logger.info("Collected %d US stocks", len(top100))
-    return top100
-
-
-def _fetch_batch(batch: list[str], trading_date: str, next_date: str) -> list[dict]:
-    results = []
-    try:
-        raw = yf.download(
-            tickers=" ".join(batch),
-            start=trading_date,
-            end=next_date,
-            auto_adjust=True,
-            progress=False,
-        )
-        if raw.empty:
-            raise ValueError("empty batch result")
-
-        # yfinance 1.x: columns are (price_type, ticker) MultiIndex
-        # yfinance 0.x with group_by="ticker": columns are (ticker, price_type)
-        # Detect which format we have
-        cols = raw.columns
-        if hasattr(cols, "levels"):
-            first_level = list(cols.get_level_values(0))
-            if first_level[0] in ("Close", "Open", "High", "Low", "Volume"):
-                # yfinance 1.x format: (price_type, ticker)
-                for ticker in batch:
-                    try:
-                        close = float(raw["Close"][ticker].dropna().iloc[-1])
-                        volume = float(raw["Volume"][ticker].dropna().iloc[-1])
-                        open_p = float(raw["Open"][ticker].dropna().iloc[-1])
-                        if close > 0 and volume > 0:
-                            results.append(_build_record(ticker, close, volume, open_p, trading_date))
-                    except Exception:
-                        pass
-            else:
-                # yfinance 0.x format: (ticker, price_type)
-                for ticker in batch:
-                    try:
-                        df_t = raw[ticker].dropna(how="all")
-                        if df_t.empty:
-                            continue
-                        row = df_t.iloc[-1]
-                        close = float(row["Close"])
-                        volume = float(row["Volume"])
-                        open_p = float(row["Open"])
-                        if close > 0 and volume > 0:
-                            results.append(_build_record(ticker, close, volume, open_p, trading_date))
-                    except Exception:
-                        pass
-        return results
-    except Exception as exc:
-        logger.warning("Batch download failed (%s), falling back to individual: %s", batch[0], exc)
-        # Fallback: individual fetches
-        for ticker in batch:
-            data = _fetch_ticker(ticker, trading_date, next_date)
-            if data:
-                results.append(_build_record(ticker, data["close"], data["volume"], data["open"], trading_date))
-            time.sleep(random.uniform(0.5, 1.5))
-        return results
 
 
 def _build_record(ticker: str, close: float, volume: float, open_p: float, trading_date: str) -> dict:
@@ -172,3 +104,51 @@ def _build_record(ticker: str, close: float, volume: float, open_p: float, tradi
         "change_rate": change_rate,
         "is_outlier": is_outlier,
     }
+
+
+@retry(max_attempts=3, delay_sec=30.0)
+def collect_us_top100(date_str: str | None = None) -> list[dict[str, Any]]:
+    """Collect top-100 US stocks by dollar volume (individual fetches, parallel)."""
+    now_kst = datetime.now(KST)
+    if date_str:
+        target_kst = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=KST)
+    else:
+        target_kst = now_kst
+
+    target_et = target_kst.astimezone(ET)
+    if _is_us_holiday(target_et):
+        logger.info("US market holiday: %s. Skipping.", target_et.date())
+        return []
+
+    trading_date = _get_us_trading_date(target_et)
+    next_date = (datetime.strptime(trading_date, "%Y-%m-%d") + timedelta(days=1)).strftime("%Y-%m-%d")
+    logger.info("Collecting US top-100 for date: %s", trading_date)
+
+    results: list[dict] = []
+
+    # Parallel individual fetches (max 3 workers to respect rate limits)
+    with ThreadPoolExecutor(max_workers=3) as executor:
+        futures = {
+            executor.submit(_fetch_ticker, ticker, trading_date, next_date): ticker
+            for ticker in LIQUID_US_TICKERS
+        }
+        for future in as_completed(futures):
+            ticker = futures[future]
+            try:
+                data = future.result()
+                if data:
+                    results.append(_build_record(
+                        ticker, data["close"], data["volume"], data["open"], trading_date
+                    ))
+            except Exception as exc:
+                logger.debug("Futures error for %s: %s", ticker, exc)
+            # Light delay between completions to avoid overwhelming Yahoo Finance
+            time.sleep(random.uniform(0.05, 0.15))
+
+    results.sort(key=lambda x: x["volume_amount"], reverse=True)
+    top100 = results[:TOP_N_STOCKS]
+    for idx, item in enumerate(top100, 1):
+        item["rank"] = idx
+
+    logger.info("Collected %d US stocks", len(top100))
+    return top100
