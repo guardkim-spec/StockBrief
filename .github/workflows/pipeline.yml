@@ -36,12 +36,14 @@ jobs:
 
       - name: Install dependencies
         working-directory: backend
+        shell: pwsh
         run: |
           pip install --upgrade pip setuptools
           pip install -r requirements.txt
 
       - name: Run pipeline
         working-directory: backend
+        shell: pwsh
         env:
           GEMINI_API_KEY:             ${{ secrets.GEMINI_API_KEY }}
           NEWSAPI_KEY:                ${{ secrets.NEWSAPI_KEY }}
@@ -55,14 +57,14 @@ jobs:
           GITHUB_OWNER:               ${{ github.repository_owner }}
           GITHUB_REPO:                ${{ github.event.repository.name }}
         run: |
-          DATE_ARG=""
-          if [ -n "${{ github.event.inputs.date }}" ]; then
-            DATE_ARG="--date ${{ github.event.inputs.date }}"
-          fi
-          DRY_RUN=""
-          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
-            DRY_RUN="--dry-run"
-          fi
+          $DATE_ARG = ""
+          if ("${{ github.event.inputs.date }}" -ne "") {
+            $DATE_ARG = "--date ${{ github.event.inputs.date }}"
+          }
+          $DRY_RUN = ""
+          if ("${{ github.event.inputs.dry_run }}" -eq "true") {
+            $DRY_RUN = "--dry-run"
+          }
           python -m pipeline.orchestrator $DATE_ARG $DRY_RUN
 
       - name: Upload logs on failure
