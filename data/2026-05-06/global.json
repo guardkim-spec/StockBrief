@@ -5,16 +5,6 @@
     "date": "2026-05-06",
     "linkage_cards": [
       {
-        "us_sector": "반도체",
-        "us_sentiment": "neutral",
-        "us_score": 5,
-        "korea_sector": "반도체",
-        "predicted_impact": "neutral",
-        "impact_strength": 0.6,
-        "summary": "미국 반도체 동향이 한국 반도체 섹터에 영향을 줄 수 있습니다.",
-        "reasoning": "동일 섹터 글로벌 공급망 연계 (Gemini 대체)"
-      },
-      {
         "us_sector": "자동차",
         "us_sentiment": "neutral",
         "us_score": 5,
@@ -22,6 +12,16 @@
         "predicted_impact": "neutral",
         "impact_strength": 0.6,
         "summary": "미국 자동차 동향이 한국 자동차 섹터에 영향을 줄 수 있습니다.",
+        "reasoning": "동일 섹터 글로벌 공급망 연계 (Gemini 대체)"
+      },
+      {
+        "us_sector": "반도체",
+        "us_sentiment": "neutral",
+        "us_score": 5,
+        "korea_sector": "반도체",
+        "predicted_impact": "neutral",
+        "impact_strength": 0.6,
+        "summary": "미국 반도체 동향이 한국 반도체 섹터에 영향을 줄 수 있습니다.",
         "reasoning": "동일 섹터 글로벌 공급망 연계 (Gemini 대체)"
       },
       {
@@ -45,13 +45,13 @@
         "reasoning": "동일 섹터 글로벌 공급망 연계 (Gemini 대체)"
       },
       {
-        "us_sector": "금융",
+        "us_sector": "에너지",
         "us_sentiment": "neutral",
         "us_score": 5,
-        "korea_sector": "금융",
+        "korea_sector": "에너지",
         "predicted_impact": "neutral",
         "impact_strength": 0.6,
-        "summary": "미국 금융 동향이 한국 금융 섹터에 영향을 줄 수 있습니다.",
+        "summary": "미국 에너지 동향이 한국 에너지 섹터에 영향을 줄 수 있습니다.",
         "reasoning": "동일 섹터 글로벌 공급망 연계 (Gemini 대체)"
       }
     ],
