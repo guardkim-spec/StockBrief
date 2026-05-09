@@ -51,7 +51,7 @@ def build_email_html(
   .chart-img   {{width:100%;border-radius:8px;margin-top:8px;}}
   table {{width:100%;border-collapse:collapse;font-size:12px;}}
   th {{background:#161B22;color:#8B949E;text-align:left;padding:8px;}}
-  td {{padding:7px 8px;border-bottom:1px solid #30363D;}}
+  td {{padding:7px 8px;border-bottom:1px solid #30363D;color:#c9d1d9;}}
   tr:nth-child(even) td {{background:#161B22;}}
   .pos {{color:#FF3B3B;}} .neg {{color:#3B8BFF;}} .neu {{color:#8B949E;}}
   .footer {{text-align:center;color:#8B949E;font-size:11px;margin-top:32px;padding-top:16px;border-top:1px solid #30363D;}}
@@ -118,7 +118,7 @@ def _build_summary(rec: dict, korea_ranking: list[dict]) -> list[str]:
         top = korea_ranking[0]
         lines.append(f"한국 최고 섹터: {top['sector']} (점수 {top['score']:.1f})")
     if rec.get("reason"):
-        brief = rec["reason"][:80] + "..." if len(rec["reason"]) > 80 else rec["reason"]
+        brief = rec["reason"]
         lines.append(brief)
     return lines or ["오늘 분석 데이터를 확인하세요."]
 
