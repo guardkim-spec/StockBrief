@@ -1,5 +1,96 @@
 {
   "ok": true,
   "date": "2026-05-06",
-  "data": []
+  "data": [
+    {
+      "id": "kr_7565c55fe1ab",
+      "date": "2026-05-06",
+      "title": "\"10년전 일본과 똑 닮았다\"…한국 주식시장도 행동주의 '천국' 될까 - 인베스트조선",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd29fUnpLcWlmS2FaREg5UW1feUg0TFNWYVRLWWFqN01xd2szVzdBZlZPenViZHRvZUVUdzl0QzZ3V3pNQVdVMXNWR2FYNFl5Ul93ck1od0R2ZUhGNW1zMUV3VW5wblFRVE1fbWVQVDRKNlJCMkxCejRkOTdoV3U1T2d5QQ?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 6
+    },
+    {
+      "id": "kr_fffcad3b8319",
+      "date": "2026-05-06",
+      "title": "외국인 자금 밀물…이젠 해외 개미들이 K주식 ‘직구’ - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoN21rc21CeS1wajVTMVRuN1QxREd4TEhRbVNsMTM5LWdnal96eGVMSlhmb3pBTHBmaTVNdzF5bUdwUUl5NEVFU0hkcUJGTG11M1E?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "kr_1e498d7bb1fc",
+      "date": "2026-05-06",
+      "title": "AI 붐으로 시가총액 71% 증가, 한국 증시는 왜 세계 7위로 도약했는가? - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNczREdlMyTlpLcnhfYVFEbk9hSWt0dThTSlQ1VGRKMnh0TlN3LTM2SzJNMGVESEh5UFpPbmtYS0VHWThKQU5CWV91UHZWc0xzZEdlVzQ4eXFESE4tOUplb0RGd0xtblViVnFLM3dBelhnWWhfU0FxZHNKcldQSGg0NXB0RXpnelJjUGZVTmJoaEtKNlVZZ2ljbzVZZlpjeUg1UzhfclNQcFRBZkJGUjc1VGk2T1o5SE9BdWNmMkRB?oc=5",
+      "source": "google_news",
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_0152a1ff08e4",
+      "date": "2026-05-06",
+      "title": "\"삼성전자가 이 가격에?\"‥미국 개미들 몰려온다 - MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVU1dMTUR4QzdhdFQ3cFNESHZGMTlYY0ctSjM0QTVaVzB6cUhnb0Q0LW5xYl9aYjJ3NFVaUGFwSW4tVGtUSG1tc1k4Rloyb3p4MlQ0VW1INlAxeWFUMW95Y21vUEN4YXhLb0hWN2ZYVWpCTTlydjF4VFdR0gF6QVVfeXFMTUNFcFhBVXlZRW9jZFVnVElETVRuY1A3c216X3Q5OTJFZWk5a0V4bVFnOHBzZDlfUmxfR1hIUkp2UHhRNUFabzQ3ZVhWQWdZUnBCa0QtQUo0ME52N1Qyb2wzOWRNTjZiSE9Yb2VfN3ExQkZHcVFYX0FXdkE?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "kr_bcd186641dd8",
+      "date": "2026-05-06",
+      "title": "일본 및 한국 증시 신고가 경신. 일본 증시는 연휴 이후 급격한 추격 랠리를 보였으며 한국은 세계 7위 시장으로 도약 - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUZ3YzdweElha2NreFVob3U4VE9xSDhyWURiLXpacktEckVfYXlKTHZzREtXeldjNUNKVVJJdUlLS3A1TnhLcnF2ZTZZdDcwa3NZei1MLUU3NWUxUmk0NXlnc0JZYnlZRnZSVXZlUUZONlExQktVbVBzVW1nTmktckhLMFc1YkphOTJCSkJqMGhNM0p3ZXdFRzJTLWRDdXljdi1ZTkNWNGVudDVPM1gxdF9JZ3Q?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_7e82734d185f",
+      "date": "2026-05-06",
+      "title": "반도체가 주도한 '칠천피'…26만전자·160만닉스 현실화 - 중소기업신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pZE1xX3FFMlJsOHJHMjJZeFNnQ2UtOWtFTjc5bndzS09XOWlGQmdPQTZsbFF2TVVrVzNXTlNWMEw0aml0WEdhelEzZ3JUb2hodkZ0cHBlRzJaekZ3dTZpLXNtLWFSQXRiU3Q5MDV3?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 10
+    },
+    {
+      "id": "kr_88c13e9077ae",
+      "date": "2026-05-06",
+      "title": "코스피, 사상 첫 7000선 돌파…반도체 투톱 삼성전자·SK하이닉스 쌍끌이 - 한국금융신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IYlFrT1JydnJ0LUNiNWNPLUtoTDVON05jT3Y2N2ZfZkxnZjdvOS1oWmQ3ZUU2YzRIaXV3OWhUTU53OEJzQkFQdDNCam1ZSjZVU1JmNHFhUTB2WXlCeDlqYktTeE9kX0w4bTBSaUt2Z2tWbWItbjVSSHhTYk4?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 10
+    },
+    {
+      "id": "kr_d7389308b789",
+      "date": "2026-05-06",
+      "title": "코스피, 반도체 훈풍에 7300선 뚫고 사상최고치···코스닥 0.29%↓ - 동양뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBidVcta2RVb21TQU0xeTJSemh0Y21RXzRBLUlqb2FOYlloX3ZIVTBheGluVG41UnN4SjBTM1cxaG14M3ZXenh1ZGV3eV8wdzNnLW1EcUZ2aXlBd3l1RHRCaQ?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_7c3785bc1472",
+      "date": "2026-05-06",
+      "title": "[개장 시황] 코스피, 7000 돌파 급등…반도체 랠리 기대에 외국인 순매수 이어져 - 필드뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DUmJIOVVNd0daQ1l6UExocjlVUmpUdzlqOHoyNEI5QVB1cXZ1OFR0aFpNVGVheVA1dGstN0RPWFRXUWNhaXFxaVVsQmxXSGtLT1FSc0diNlBITWptOGFjc0ZJdFpCZjI30gFsQVVfeXFMUFFIaWM0Umd0SHlkXzJUS3QwU3Z5bzRPOUxLSjhXRksyZ1hGWS1Kc1hWS3lSNW9xcXgtRzJvZnl2ZDFCd0syVl9Kd2dRT2p5XzlhYjduU1UwZmY2c0JLSVhQeWtLTWhUM2E5VDl3?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    }
+  ]
 }
