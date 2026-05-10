@@ -9,9 +9,9 @@
       "2차전지"
     ],
     "actual_top_sectors": [
-      "금융",
-      "IT/소프트웨어",
-      "반도체"
+      "반도체",
+      "자동차",
+      "금융"
     ],
     "accuracy": 0.33,
     "hit_sectors": [
