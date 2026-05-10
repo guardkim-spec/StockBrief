@@ -302,22 +302,12 @@ def _analyze_news(raw: list[dict], lang: str, dry_run: bool) -> list[dict]:
     from analysis.gemini_client import call_gemini_json
     from config.sectors import get_sector_list
 
-    # Deduplicate by title, then send only the first 30 to Gemini
-    seen_titles: set[str] = set()
-    candidates: list[dict] = []
-    for item in raw:
-        t = item.get("title", "").strip()
-        if t and t not in seen_titles:
-            seen_titles.add(t)
-            candidates.append(item)
-
-    batch = candidates[:30]
     sectors_str = ", ".join(get_sector_list())
-    prompt_lines = "\n".join(f'{i+1}. "{item["title"]}"' for i, item in enumerate(batch))
+    prompt_lines = "\n".join(f'{i+1}. "{item["title"]}"' for i, item in enumerate(raw[:30]))
     prompt = f"""다음 뉴스 제목들을 분석하여 각각에 대해 섹터, 감성, 점수를 JSON 배열로 반환하세요.
 섹터는 반드시 다음 중 하나: {sectors_str}
-감성: positive(호재), negative(악재), neutral(중립)
-점수: 1~10 (10이 가장 강한 호재/악재 — 방향은 감성 필드로만 표현, 점수는 강도만)
+감성: positive, negative, neutral
+점수: 1~10 (10이 가장 강한 호재/악재)
 
 뉴스 목록:
 {prompt_lines}
@@ -330,12 +320,11 @@ JSON 배열 형식:
         return raw
 
     result_map = {item.get("index"): item for item in result if isinstance(item, dict)}
-    for i, news in enumerate(batch, 1):
-        mapped = result_map.get(i)
-        if mapped:
-            news["sector"]    = mapped.get("sector", "기타")
-            news["sentiment"] = mapped.get("sentiment", "neutral")
-            news["score"]     = int(mapped.get("score", 5))
+    for i, news in enumerate(raw[:30], 1):
+        if i in result_map:
+            news["sector"]    = result_map[i].get("sector", "기타")
+            news["sentiment"] = result_map[i].get("sentiment", "neutral")
+            news["score"]     = int(result_map[i].get("score", 5))
     return raw
 
 
@@ -370,12 +359,7 @@ def _load_backtest(date_str: str) -> list[dict]:
 
 
 def _to_ranking(scores: list[dict]) -> list[dict]:
-    result = []
-    for s in scores:
-        score = s.get("net_score", s.get("avg_score", 0))
-        sentiment = "positive" if score >= 6 else ("negative" if score < 4 else "neutral")
-        result.append({"sector": s["sector"], "score": round(score, 1), "sentiment": sentiment})
-    return result
+    return [{"sector": s["sector"], "score": s.get("avg_score", 0), "sentiment": "positive" if s.get("avg_score", 0) >= 6 else ("negative" if s.get("avg_score", 0) < 4 else "neutral")} for s in scores]
 
 
 def _wrap(date_str: str, data: Any) -> dict:
@@ -388,7 +372,7 @@ def _build_analysis_payload(date_str: str, ctx: dict) -> dict:
         sector = item["sector"]
         vol = next((v for v in ctx.get("korea_volume_dist", []) if v["sector"] == sector), {})
         trend = next((t for t in ctx.get("candle_data", []) if t["sector"] == sector), {})
-        news_score   = item.get("net_score", item.get("avg_score", 5))
+        news_score   = item.get("avg_score", 5)
         volume_score = round(vol.get("ratio", 0) * 100, 1)
         trend_score  = trend.get("momentum_score", 5)
         total        = round((news_score * 0.4 + volume_score * 0.3 + trend_score * 0.3), 2)
@@ -463,7 +447,7 @@ def _build_backtest_record(date_str: str, ctx: dict) -> dict | None:
         logger.info("Backtest skipped for %s: no prior recommendation found", date_str)
         return None
 
-    # Today's actual top 3 sectors by net_score (기타 excluded, list already sorted)
+    # Today's actual top 3 sectors by avg_score (기타 excluded, list already sorted)
     actual_top = [
         s["sector"] for s in ctx.get("korea_news_scores", [])
         if s.get("sector") != "기타"

@@ -44,45 +44,25 @@ def aggregate_sector_volume(stocks: list[dict[str, Any]]) -> list[dict[str, Any]
 
 
 def aggregate_sector_news_scores(news_items: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    """Aggregate news by sector -> net sentiment score and counts."""
+    """Aggregate news by sector -> average score and sentiment counts."""
     agg: dict[str, dict] = {}
     for item in news_items:
-        sector    = item.get("sector") or "기타"
-        sentiment = item.get("sentiment") or "neutral"
+        sector = item.get("sector") or "기타"
         if sector not in agg:
-            agg[sector] = {"positive": 0, "negative": 0, "neutral": 0,
-                           "pos_scores": [], "neg_scores": []}
-        if sentiment in ("positive", "negative", "neutral"):
-            agg[sector][sentiment] += 1
+            agg[sector] = {"positive": 0, "negative": 0, "neutral": 0, "scores": []}
+        sentiment = item.get("sentiment", "neutral")
         score = item.get("score", 5)
-        if sentiment == "positive":
-            agg[sector]["pos_scores"].append(score)
-        elif sentiment == "negative":
-            agg[sector]["neg_scores"].append(score)
+        agg[sector][sentiment] = agg[sector].get(sentiment, 0) + 1
+        agg[sector]["scores"].append(score)
 
     result = []
-    for sector, data in agg.items():
-        pos_scores = data["pos_scores"]
-        neg_scores = data["neg_scores"]
-        total      = data["positive"] + data["negative"] + data["neutral"]
-        pos_sum    = sum(pos_scores)
-        neg_sum    = sum(neg_scores)
-        avg_score  = round((pos_sum + neg_sum) / max(len(pos_scores) + len(neg_scores), 1), 2)
-
-        # Normalised net score [0, 10].
-        # Divides by (total * 10) so reaching 10 requires all articles to be
-        # positive at maximum strength — not just 1-2 high-score items.
-        max_possible = total * 10
-        net = round(max(0.0, min(10.0,
-              5 + (pos_sum - neg_sum) / max_possible * 5)), 2) if max_possible else 5.0
-
+    for sector, data in sorted(agg.items(), key=lambda x: sum(x[1]["scores"]) / max(len(x[1]["scores"]), 1), reverse=True):
+        scores = data["scores"]
+        avg = round(sum(scores) / len(scores), 2) if scores else 0
         result.append({
-            "sector":         sector,
-            "positive_count": data["positive"],
-            "negative_count": data["negative"],
-            "avg_score":      avg_score,
-            "net_score":      net,
+            "sector": sector,
+            "positive_count": data.get("positive", 0),
+            "negative_count": data.get("negative", 0),
+            "avg_score": avg,
         })
-
-    result.sort(key=lambda x: x["net_score"], reverse=True)
     return result
