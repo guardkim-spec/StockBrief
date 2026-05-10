@@ -31,9 +31,9 @@
       },
       {
         "name": "gemini_analysis",
-        "status": "pending",
-        "ran_at": null,
-        "duration_sec": null
+        "status": "success",
+        "ran_at": "2026-05-10T13:51:09.781702+09:00",
+        "duration_sec": 0
       },
       {
         "name": "trend_ai_global",
