@@ -3,7 +3,7 @@
   "date": "2026-05-08",
   "data": {
     "date": "2026-05-08",
-    "overall": "pending",
+    "overall": "running",
     "steps": [
       {
         "name": "korea_price",
@@ -37,8 +37,8 @@
       },
       {
         "name": "trend_ai_global",
-        "status": "pending",
-        "ran_at": null,
+        "status": "running",
+        "ran_at": "2026-05-10T11:46:36.370373+09:00",
         "duration_sec": null
       },
       {
