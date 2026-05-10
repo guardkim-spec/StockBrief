@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "date": "2026-05-08",
+  "data": {
+    "date": "2026-05-08",
+    "recommended_sectors": [
+      "반도체",
+      "조선/방산",
+      "2차전지"
+    ],
+    "actual_top_sectors": [
+      "금융",
+      "IT/소프트웨어",
+      "반도체"
+    ],
+    "accuracy": 0.33,
+    "hit_sectors": [
+      "반도체"
+    ],
+    "miss_sectors": [
+      "조선/방산",
+      "2차전지"
+    ]
+  }
+}
