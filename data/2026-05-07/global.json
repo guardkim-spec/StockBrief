@@ -5,16 +5,36 @@
     "date": "2026-05-07",
     "linkage_cards": [
       {
-        "us_sector": "기타",
+        "us_sector": "반도체",
+        "us_sentiment": "positive",
+        "us_score": 9,
+        "korea_sector": "반도체",
+        "predicted_impact": "positive",
+        "impact_strength": 0.9,
+        "summary": "미국 반도체 시장의 강력한 긍정적 흐름이 한국 반도체 섹터의 추가 상승 모멘텀을 제공할 것입니다.",
+        "reasoning": "미국 반도체 섹터는 높은 긍정 지표(avg_score 9.0)를 보이며 강세를 유지하고 있습니다. 한국 반도체 섹터 역시 견조한 긍정적 흐름(avg_score 8.5)을 이어가고 있어, 미국 시장의 긍정적 분위기가 한국 시장에 직접적으로 반영되어 추가적인 상승 동력을 얻을 것으로 분석됩니다."
+      },
+      {
+        "us_sector": "금융",
+        "us_sentiment": "neutral",
+        "us_score": 7,
+        "korea_sector": "금융",
+        "predicted_impact": "neutral",
+        "impact_strength": 0.4,
+        "summary": "미국 금융 섹터의 중립적 흐름은 한국 금융 시장의 상승세를 제한할 수 있으나, 한국 자체의 긍정적 모멘텀은 유지될 것입니다.",
+        "reasoning": "미국 금융 섹터는 긍정/부정 뉴스가 혼재되어 중립적인 분위기(avg_score 6.5)를 보입니다. 반면 한국 금융 섹터는 긍정 뉴스가 우세하며 견조한 흐름(avg_score 7.06)을 이어가고 있습니다. 미국 시장의 중립적 영향이 한국 금융 섹터의 강한 상승세를 둔화시킬 가능성은 있으나, 자체적인 긍정적 요인으로 큰 하락 압력은 없을 것으로 예상됩니다."
+      },
+      {
+        "us_sector": "바이오/헬스케어",
         "us_sentiment": "neutral",
         "us_score": 5,
-        "korea_sector": "기타",
+        "korea_sector": "바이오/헬스케어",
         "predicted_impact": "neutral",
-        "impact_strength": 0.6,
-        "summary": "미국 기타 동향이 한국 기타 섹터에 영향을 줄 수 있습니다.",
-        "reasoning": "동일 섹터 글로벌 공급망 연계 (Gemini 대체)"
+        "impact_strength": 0.2,
+        "summary": "미국 바이오/헬스케어 섹터의 특별한 동향 부재로 한국 시장에 미칠 영향은 미미할 것입니다.",
+        "reasoning": "미국 바이오/헬스케어 섹터는 긍정/부정 뉴스 없이 중립적인 점수(avg_score 5.0)를 기록했습니다. 한국 시장에서도 해당 섹터에 대한 특별한 동향이 관찰되지 않아, 다음날 한국 바이오/헬스케어 섹터에 미치는 영향은 제한적일 것으로 판단됩니다."
       }
     ],
-    "gemini_overall_summary": "Gemini API 미사용 — 규칙 기반 연계 분석 결과입니다."
+    "gemini_overall_summary": "미국 반도체 섹터의 강한 긍정적 흐름은 한국 반도체 시장에 강력한 상승 동력을 제공할 것입니다. 금융 섹터는 미국 중립, 한국 긍정으로 상승폭이 제한될 수 있으며, 바이오/헬스케어는 중립적입니다. 전반적으로 미국 시장의 반도체 강세가 한국 시장을 견인할 주요 요인으로 작용할 것으로 분석됩니다."
   }
 }
