@@ -25,6 +25,6 @@ def resend_report(body: ResendRequest):
     d = body.date or today_str()
     try:
         queue_resend(d)
-        return {"ok": True, "data": {"queued": True, "message": "재발송 요청이 접수되었습니다.", "date": d}}
+        return {"ok": True, "data": {"success": True, "message": "재발송 요청이 접수되었습니다.", "date": d}}
     except Exception as exc:
         raise HTTPException(status_code=500, detail=str(exc))

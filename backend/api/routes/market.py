@@ -11,8 +11,10 @@ def get_market(market: str = Query("korea", pattern="^(korea|us)$"), date: str |
     filename = f"{market}_price.json"
     price_raw = _read_data_file(d, filename)
     if price_raw:
-        candle_file = _read_data_file(d, "candle_data.json")
-        candle_list = candle_file.get("data", {}).get("candle_data", []) if candle_file else []
+        candle_list = []
+        if market == "korea":
+            candle_file = _read_data_file(d, "candle_data.json")
+            candle_list = candle_file.get("data", {}).get("candle_data", []) if candle_file else []
         return {
             "ok": True,
             "date": d,
