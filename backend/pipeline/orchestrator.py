@@ -52,11 +52,17 @@ def _finish_step(step: dict, start_ts: float, success: bool) -> None:
     step["duration_sec"] = round(time.time() - start_ts, 1)
 
 
-def run_pipeline(date_str: str | None = None, dry_run: bool = False) -> bool:
+def run_pipeline(date_str: str | None = None, dry_run: bool = False, force: bool = False) -> bool:
     """Run full nightly pipeline. Returns True if all steps succeeded."""
     import time
     date_str = date_str or _today()
-    logger.info("=== StockBrief Pipeline START: %s (dry_run=%s) ===", date_str, dry_run)
+    logger.info("=== StockBrief Pipeline START: %s (dry_run=%s, force=%s) ===", date_str, dry_run, force)
+
+    if not force and not dry_run:
+        done_marker = settings.data_dir / date_str / "dashboard.json"
+        if done_marker.exists():
+            logger.info("Pipeline already completed for %s — skipping. Use PIPELINE_FORCE=true to re-run.", date_str)
+            return True
 
     is_hol, market = _is_holiday(date_str)
     if is_hol:
@@ -406,6 +412,7 @@ def _build_report_payload(date_str: str, ctx: dict, drive_url: str) -> dict:
             "date": date_str,
             "sent_at": datetime.now(KST).isoformat(),
             "send_status": "sent",
+            "email_sent": True,
             "html_preview_url": drive_url,
             "html_content": ctx.get("report_html", ""),
             "summary_lines": [
@@ -515,6 +522,7 @@ if __name__ == "__main__":
     # Fall back to environment variables (used by GitHub Actions workflow)
     date_str = args.date or os.environ.get("PIPELINE_DATE") or None
     dry_run  = args.dry_run or os.environ.get("PIPELINE_DRY_RUN", "").lower() == "true"
+    force    = os.environ.get("PIPELINE_FORCE", "").lower() == "true"
 
-    ok = run_pipeline(date_str=date_str, dry_run=dry_run)
+    ok = run_pipeline(date_str=date_str, dry_run=dry_run, force=force)
     sys.exit(0 if ok else 1)

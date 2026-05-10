@@ -15,6 +15,10 @@ on:
         description: "드라이런 (true: 실제 발송/저장 안 함)"
         required: false
         default: "false"
+      force:
+        description: "강제 재실행 (true: 이미 완료된 날짜도 재실행)"
+        required: false
+        default: "false"
 
 jobs:
   pipeline:
@@ -44,13 +48,10 @@ jobs:
         working-directory: backend
         env:
           GEMINI_API_KEY:             ${{ secrets.GEMINI_API_KEY }}
-          NEWSAPI_KEY:                ${{ secrets.NEWSAPI_KEY }}
           GMAIL_OAUTH_TOKEN:          ${{ secrets.GMAIL_OAUTH_TOKEN }}
           GMAIL_SENDER:               ${{ secrets.GMAIL_SENDER }}
           GMAIL_RECIPIENT:            ${{ secrets.GMAIL_RECIPIENT }}
-          GOOGLE_SHEETS_ID:           ${{ secrets.GOOGLE_SHEETS_ID }}
           GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
-          GOOGLE_DRIVE_FOLDER_ID:     ${{ secrets.GOOGLE_DRIVE_FOLDER_ID }}
           GITHUB_TOKEN:               ${{ secrets.GITHUB_TOKEN }}
           GITHUB_OWNER:               ${{ github.repository_owner }}
           GITHUB_REPO:                ${{ github.event.repository.name }}
@@ -58,6 +59,7 @@ jobs:
           KRX_PW:                     ${{ secrets.KRX_PW }}
           PIPELINE_DATE:              ${{ github.event.inputs.date }}
           PIPELINE_DRY_RUN:           ${{ github.event.inputs.dry_run }}
+          PIPELINE_FORCE:             ${{ github.event.inputs.force }}
           SKIP_US_PRICE:              "true"
         run: python -m pipeline.orchestrator
 
