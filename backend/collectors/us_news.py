@@ -1,7 +1,7 @@
-﻿"""Collect US stock market news from NewsAPI."""
+"""Collect US stock market news from NewsAPI."""
 import logging
 import hashlib
-from datetime import datetime
+from datetime import datetime, timedelta
 from typing import Any
 
 import pytz
@@ -16,10 +16,12 @@ KST = pytz.timezone("Asia/Seoul")
 NEWSAPI_BASE = "https://newsapi.org/v2/everything"
 
 US_MARKET_QUERIES = [
-    "stock market earnings",
-    "Wall Street S&P 500 Nasdaq",
-    "Federal Reserve interest rate",
-    "semiconductor chip AI",
+    "stock market earnings Wall Street",
+    "S&P 500 Nasdaq Dow Jones",
+    "Federal Reserve interest rate inflation",
+    "semiconductor chip AI technology",
+    "energy oil pharma biotech",
+    "consumer retail automotive",
 ]
 
 HEADERS = {
@@ -46,9 +48,14 @@ def collect_us_news(date_str: str | None = None) -> list[dict[str, Any]]:
     today = date_str or now_kst.strftime("%Y-%m-%d")
     logger.info("Collecting US news for %s", today)
 
+    # Expand date range slightly to handle timezone differences and past-date runs
+    target_dt = datetime.strptime(today, "%Y-%m-%d")
+    from_date = (target_dt - timedelta(days=1)).strftime("%Y-%m-%d")
+    to_date = today
+
     all_items: list[dict] = []
     seen_ids: set[str] = set()
-    remaining_requests = 25  # stay well under 100/day limit
+    remaining_requests = 20  # stay well under 100/day free tier limit
 
     for query in US_MARKET_QUERIES:
         if remaining_requests <= 0:
@@ -58,11 +65,11 @@ def collect_us_news(date_str: str | None = None) -> list[dict[str, Any]]:
                 NEWSAPI_BASE,
                 params={
                     "q": query,
-                    "from": today,
-                    "to": today,
+                    "from": from_date,
+                    "to": to_date,
                     "language": "en",
                     "sortBy": "relevancy",
-                    "pageSize": 20,
+                    "pageSize": 50,
                     "apiKey": settings.newsapi_key,
                 },
                 headers=HEADERS,
@@ -75,7 +82,7 @@ def collect_us_news(date_str: str | None = None) -> list[dict[str, Any]]:
             for article in data.get("articles", []):
                 url = article.get("url", "").strip()
                 title = article.get("title", "").strip()
-                if not url or not title or url == "[Removed]":
+                if not url or not title or url == "[Removed]" or title == "[Removed]":
                     continue
 
                 item_id = _make_id(url)

@@ -4,7 +4,7 @@ import random
 import time
 import hashlib
 import time as _time
-from datetime import datetime
+from datetime import datetime, timedelta
 from typing import Any
 
 import feedparser
@@ -16,9 +16,18 @@ logger = logging.getLogger(__name__)
 KST = pytz.timezone("Asia/Seoul")
 
 GOOGLE_NEWS_RSS = [
+    # General market
     "https://news.google.com/rss/search?q=주식+증시+한국&hl=ko&gl=KR&ceid=KR:ko",
-    "https://news.google.com/rss/search?q=코스피+코스닥+반도체&hl=ko&gl=KR&ceid=KR:ko",
+    "https://news.google.com/rss/search?q=코스피+코스닥+거래&hl=ko&gl=KR&ceid=KR:ko",
     "https://news.google.com/rss/search?q=한국주식+실적+수주&hl=ko&gl=KR&ceid=KR:ko",
+    # Sector-specific
+    "https://news.google.com/rss/search?q=반도체+삼성전자+SK하이닉스&hl=ko&gl=KR&ceid=KR:ko",
+    "https://news.google.com/rss/search?q=바이오+제약+헬스케어+임상&hl=ko&gl=KR&ceid=KR:ko",
+    "https://news.google.com/rss/search?q=자동차+현대차+기아+전기차&hl=ko&gl=KR&ceid=KR:ko",
+    "https://news.google.com/rss/search?q=2차전지+배터리+LG에너지솔루션&hl=ko&gl=KR&ceid=KR:ko",
+    "https://news.google.com/rss/search?q=금융+은행+증권+보험&hl=ko&gl=KR&ceid=KR:ko",
+    "https://news.google.com/rss/search?q=IT+인터넷+카카오+네이버&hl=ko&gl=KR&ceid=KR:ko",
+    "https://news.google.com/rss/search?q=조선+방산+철강+소재&hl=ko&gl=KR&ceid=KR:ko",
 ]
 
 HEADERS = {
@@ -45,7 +54,8 @@ def _pub_date_str(entry) -> str:
     return ""
 
 
-def _parse_feed(url: str, today_str: str) -> list[dict]:
+def _parse_feed(url: str, cutoff: str) -> list[dict]:
+    """Parse a Google News RSS feed. Keeps articles published on or after cutoff date."""
     items = []
     try:
         feed = feedparser.parse(url, request_headers=HEADERS)
@@ -56,12 +66,13 @@ def _parse_feed(url: str, today_str: str) -> list[dict]:
                 continue
 
             pub_date = _pub_date_str(entry)
-            if pub_date and pub_date != today_str:
+            # Drop articles older than cutoff; keep if date is unknown
+            if pub_date and pub_date < cutoff:
                 continue
 
             items.append({
                 "id": _make_id(link),
-                "date": today_str,
+                "date": pub_date,
                 "title": title,
                 "url": link,
                 "source": "google_news",
@@ -81,16 +92,23 @@ def collect_korea_news(date_str: str | None = None) -> list[dict[str, Any]]:
     today = date_str or now_kst.strftime("%Y-%m-%d")
     logger.info("Collecting Korea news for %s", today)
 
+    # Accept articles within 3 days of the target date (handles past-date runs)
+    target_dt = datetime.strptime(today, "%Y-%m-%d")
+    cutoff = (target_dt - timedelta(days=2)).strftime("%Y-%m-%d")
+
     all_items: list[dict] = []
     seen_ids: set[str] = set()
 
     for url in GOOGLE_NEWS_RSS:
-        items = _parse_feed(url, today)
+        items = _parse_feed(url, cutoff)
         for item in items:
             if item["id"] not in seen_ids:
                 seen_ids.add(item["id"])
+                # Normalize date field to target date if unknown
+                if not item["date"]:
+                    item["date"] = today
                 all_items.append(item)
-        time.sleep(random.uniform(1.0, 2.0))
+        time.sleep(random.uniform(0.5, 1.5))
 
     logger.info("Collected %d Korea news articles", len(all_items))
     return all_items
