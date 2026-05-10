@@ -223,6 +223,10 @@ def run_pipeline(date_str: str | None = None, dry_run: bool = False) -> bool:
         save_latest(dashboard_payload)
         save_daily_file(date_str, "dashboard.json", dashboard_payload)
 
+        backtest_record = _build_backtest_record(date_str, ctx)
+        if backtest_record:
+            save_daily_file(date_str, "backtest.json", _wrap(date_str, backtest_record))
+
         try:
             append_rows("korea_price", ctx["korea_price"])
             append_rows("us_price",    ctx["us_price"])
@@ -417,6 +421,61 @@ def _build_report_payload(date_str: str, ctx: dict, drive_url: str) -> dict:
                 rec.get("reason", "")[:100] if rec.get("reason") else "",
             ],
         }
+    }
+
+
+def _build_backtest_record(date_str: str, ctx: dict) -> dict | None:
+    """Compare the most recent prior AI recommendation against today's actual top sectors."""
+    import json
+    from datetime import datetime as _dt, timedelta
+
+    target_dt = _dt.strptime(date_str, "%Y-%m-%d")
+
+    # Search back up to 7 days for the most recent saved recommendation
+    recommended: list[str] = []
+    for delta in range(1, 8):
+        prior_date = (target_dt - timedelta(days=delta)).strftime("%Y-%m-%d")
+        prior_path = settings.data_dir / prior_date / "dashboard.json"
+        if not prior_path.exists():
+            continue
+        try:
+            with open(prior_path, encoding="utf-8") as f:
+                dash = json.load(f)
+            recommended = dash.get("data", {}).get("ai_recommendation", {}).get("sectors", [])
+            if recommended:
+                break
+        except Exception:
+            continue
+
+    if not recommended:
+        logger.info("Backtest skipped for %s: no prior recommendation found", date_str)
+        return None
+
+    # Today's actual top 3 sectors by net_score (기타 excluded, list already sorted)
+    actual_top = [
+        s["sector"] for s in ctx.get("korea_news_scores", [])
+        if s.get("sector") != "기타"
+    ][:3]
+
+    if not actual_top:
+        logger.info("Backtest skipped for %s: no actual sector data", date_str)
+        return None
+
+    hit  = [s for s in recommended if s in actual_top]
+    miss = [s for s in recommended if s not in actual_top]
+    accuracy = round(len(hit) / len(recommended), 2) if recommended else 0
+
+    logger.info(
+        "Backtest %s: recommended=%s actual=%s accuracy=%.0f%%",
+        date_str, recommended, actual_top, accuracy * 100,
+    )
+    return {
+        "date": date_str,
+        "recommended_sectors": recommended,
+        "actual_top_sectors":  actual_top,
+        "accuracy":            accuracy,
+        "hit_sectors":         hit,
+        "miss_sectors":        miss,
     }
 
 
