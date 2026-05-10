@@ -62,6 +62,11 @@ jobs:
           PIPELINE_FORCE:             ${{ github.event.inputs.force }}
         run: python -m pipeline.orchestrator
 
+      - name: Sync local data directory
+        if: success()
+        shell: powershell
+        run: git -C D:\StockBrief pull origin main
+
       - name: Upload logs on failure
         if: failure()
         uses: actions/upload-artifact@v4
