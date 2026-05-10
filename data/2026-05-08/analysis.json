@@ -5,50 +5,50 @@
     {
       "date": "2026-05-08",
       "sector": "바이오/헬스케어",
-      "news_score": 9.14,
+      "news_score": 9.0,
       "volume_score": 0.3,
       "trend_score": 4,
-      "total_score": 4.95,
+      "total_score": 4.89,
+      "recommendation": true,
+      "confidence": 0.85
+    },
+    {
+      "date": "2026-05-08",
+      "sector": "반도체",
+      "news_score": 8.33,
+      "volume_score": 33.5,
+      "trend_score": 5,
+      "total_score": 14.88,
       "recommendation": true,
       "confidence": 0.85
     },
     {
       "date": "2026-05-08",
       "sector": "소비재",
-      "news_score": 8.42,
+      "news_score": 7.94,
       "volume_score": 0.2,
       "trend_score": 4,
-      "total_score": 4.63,
+      "total_score": 4.44,
       "recommendation": true,
       "confidence": 0.85
     },
     {
       "date": "2026-05-08",
       "sector": "IT/소프트웨어",
-      "news_score": 8.0,
+      "news_score": 7.0,
       "volume_score": 0,
       "trend_score": 5,
-      "total_score": 4.7,
+      "total_score": 4.3,
       "recommendation": false,
       "confidence": 0.85
     },
     {
       "date": "2026-05-08",
-      "sector": "반도체",
-      "news_score": 7.5,
-      "volume_score": 33.5,
-      "trend_score": 5,
-      "total_score": 14.55,
-      "recommendation": true,
-      "confidence": 0.85
-    },
-    {
-      "date": "2026-05-08",
       "sector": "통신/미디어",
-      "news_score": 7.0,
+      "news_score": 6.0,
       "volume_score": 1.1,
       "trend_score": 5,
-      "total_score": 4.63,
+      "total_score": 4.23,
       "recommendation": false,
       "confidence": 0.85
     },
