@@ -2,19 +2,39 @@
   "ok": true,
   "date": "2026-05-08",
   "data": {
-    "last_updated": "2026-05-10T12:32:29.933116+09:00",
+    "last_updated": "2026-05-10T13:04:23.194793+09:00",
     "pipeline_status": "success",
     "ai_recommendation": {
       "sectors": [
-        "기타",
         "반도체",
-        "자동차"
+        "자동차",
+        "금융"
       ],
-      "reason": "뉴스 점수와 거래대금 비중 기반 자동 선정 (Gemini 대체)",
-      "confidence": 0.5,
-      "generated_at": "2026-05-10T12:32:29.933116+09:00"
+      "reason": "반도체는 한국 내 뉴스 점수, 거래대금, 모멘텀 모두 최상위로 강력한 흐름이 예상됩니다. 자동차는 높은 뉴스 점수와 견조한 거래대금, 양호한 모멘텀으로 꾸준한 주목이 기대됩니다. 금융은 압도적인 한국 내 긍정 뉴스 수(22건)가 향후 시장의 관심을 유발할 가능성이 높으며, 모멘텀도 양호합니다.",
+      "confidence": 0.8,
+      "generated_at": "2026-05-10T13:04:23.194793+09:00"
     },
     "korea_sector_ranking": [
+      {
+        "sector": "반도체",
+        "score": 9.8,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "자동차",
+        "score": 9.0,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "금융",
+        "score": 8.43,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "IT/소프트웨어",
+        "score": 7.0,
+        "sentiment": "positive"
+      },
       {
         "sector": "기타",
         "score": 0.0,
@@ -22,6 +42,26 @@
       }
     ],
     "us_sector_ranking": [
+      {
+        "sector": "IT/소프트웨어",
+        "score": 8.71,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "반도체",
+        "score": 6.0,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "금융",
+        "score": 5.85,
+        "sentiment": "neutral"
+      },
+      {
+        "sector": "에너지",
+        "score": 5.5,
+        "sentiment": "neutral"
+      },
       {
         "sector": "기타",
         "score": 0.0,
@@ -85,6 +125,72 @@
         "ratio": 0.0022
       }
     ],
-    "us_sector_volume_distribution": []
+    "us_sector_volume_distribution": [
+      {
+        "sector": "반도체",
+        "volume_amount": 155590445347,
+        "ratio": 0.4234
+      },
+      {
+        "sector": "기타",
+        "volume_amount": 64076945962,
+        "ratio": 0.1744
+      },
+      {
+        "sector": "IT/소프트웨어",
+        "volume_amount": 50898066652,
+        "ratio": 0.1385
+      },
+      {
+        "sector": "통신/미디어",
+        "volume_amount": 22118880069,
+        "ratio": 0.0602
+      },
+      {
+        "sector": "2차전지",
+        "volume_amount": 21746797519,
+        "ratio": 0.0592
+      },
+      {
+        "sector": "소비재",
+        "volume_amount": 19327299445,
+        "ratio": 0.0526
+      },
+      {
+        "sector": "바이오/헬스케어",
+        "volume_amount": 11511873109,
+        "ratio": 0.0313
+      },
+      {
+        "sector": "금융",
+        "volume_amount": 8742303773,
+        "ratio": 0.0238
+      },
+      {
+        "sector": "에너지",
+        "volume_amount": 5104269484,
+        "ratio": 0.0139
+      },
+      {
+        "sector": "조선/방산",
+        "volume_amount": 4519969861,
+        "ratio": 0.0123
+      },
+      {
+        "sector": "철강/소재",
+        "volume_amount": 1892656223,
+        "ratio": 0.0052
+      },
+      {
+        "sector": "자동차",
+        "volume_amount": 1061912050,
+        "ratio": 0.0029
+      },
+      {
+        "sector": "부동산/건설",
+        "volume_amount": 855932346,
+        "ratio": 0.0023
+      }
+    ]
   }
 }
