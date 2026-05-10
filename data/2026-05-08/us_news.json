@@ -3,14 +3,24 @@
   "date": "2026-05-08",
   "data": [
     {
-      "id": "us_a26c75d53c8e",
-      "date": "2026-05-09",
-      "title": "POET peer LITE stock dips premarket despite earnings beat — retail only gets more bullish - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQR1c3UE51TEZDYTlfVFRVOXNwT2hWSDVhYnBtN1JLamZyZG1OQklXekhac1NpejFuY0d6bGtYT0lLa3g2RXhGMW5xVlVjOGw4cUVYSHNJcnVJcmg1azBYY2F5Q0IyMkVSZ2QyRkNMOUxfMjhJTF9NeXhDYUFxUFdMeklWT0tEWFBpTEhNc0I0UjVqN21LQXE1V1Vyd19UcndTVlNRVzNrd2xFeEZEV1VnMUhWU01fUHNYYkJ5aThPT0s3VjRqU2V2c2xkR291bC0wTThPaEhIZHkwYkZTT21pYklCT2xGZ0p0RjNrQl9OSC1uNlJUYTROMlJNRQ?oc=5",
+      "id": "us_05997eff0178",
+      "date": "2026-05-10",
+      "title": "Strong retail and international passenger growth boosts Wellington Airport’s FY2026 revenue growth - Moodie Davitt Report",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUzRtZXYzMjRjQTJISGc3eHhQcXp1QjhIdmdlb0RONURfM2x6ckM2WmtrUEJFaklTSUJ2STVqaTNTREtneGhEU1pyTHFnbWtMa09Va1puUzdLY0hpQWxsQ1ZEaE9xcm9IRW04UFZPZzdvcjlpVnh2VDZvRGtoZzhpWnZhYXJiMW9DNGNRcXhrZkwwWWdJSUNHTHpHR3lqbWtCQThIT0w0VkZLRmp0clpUb1VydTBiNkdhYVVoNW93dUQ1Sndwd1BTdA?oc=5",
       "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "negative",
-      "score": 4
+      "sector": "소비재",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "us_8ef4475572d4",
+      "date": "2026-05-06",
+      "title": "Daimler Truck strengthens its Own Retail Business in Europe: Expanding into the UK through the acquisition of eStar Truck & Van Ltd. - Daimler Truck",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNSWgta0ZaRVRLaGZGOTB0ejFnLXgyekE3VlhleU9FYndiUWlnc1Z6S3VtanFOMjU5aTZsSE4zSU1FQy13Qkl0N2N5SHhEWHJMVng1TURXTThqaGttdGlVUllSUWZqRmxBdHRtZFZxd0p6TExvNzRtdUhWNUtnd2NTYUw0NV9UYTF3NTdWR055MkJBZ19EQzBiZ0ZsUVVIdENLNnJPM2ZKanJvZ3Y0V0VvXzFLTjBXRkVwYUVDXzRUam1yQ2FPRXNyZnhraE1tNVRwVGdNdmJyMDFMVkVLVmFzaGwyc1V5SWd5UVNFb2YzMVc5bER1c2ZzX1ZaT1dDOHBNUm5HU3pzTDRoZ2dzWXR2QXBhbUVmSHpRa2Yw?oc=5",
+      "source": "google_news",
+      "sector": "자동차",
+      "sentiment": "positive",
+      "score": 7
     },
     {
       "id": "us_48eca3fe75ed",
@@ -53,16 +63,6 @@
       "score": 7
     },
     {
-      "id": "us_689d4ca89e8f",
-      "date": "2026-05-08",
-      "title": "Marketplace Events Acquires Consumer Travel Show Series - Trade Show News Network",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRHJuZFdfX1JScGVhVEVFN3pidVFxN2dNeERxUEdITXY2bEVwQzBRVFFLQV9qMGZGdWJxR3B2OGFpR1pqZkFiTHBHbnVYZElCOUlMMW1XSWxqOWFnR2MwV1M1bklXSVRrSlJWVjFodG4wTGVreUpRd2NQMXc0akQ1RjJMSE9TcmE5a2tMOUE1cmJzR2hpS0V6amh1dXoxci1HOVFIQnNTbnA1cjdMaTMyQ3dLNl9qT0VpSDlGQTEwWXoxek0?oc=5",
-      "source": "google_news",
-      "sector": "통신/미디어",
-      "sentiment": "positive",
-      "score": 6
-    },
-    {
       "id": "us_0c9e5c842804",
       "date": "2026-05-06",
       "title": "Carter's Q1 Earnings Beat Estimates, Retail Segment Sales Rise 12.8% - Yahoo Finance",
@@ -80,7 +80,7 @@
       "source": "google_news",
       "sector": "반도체",
       "sentiment": "negative",
-      "score": 4
+      "score": 6
     },
     {
       "id": "us_8d3cfe46ccf6",
@@ -140,7 +140,17 @@
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "positive",
-      "score": 8
+      "score": 9
+    },
+    {
+      "id": "us_f2542b43fad0",
+      "date": "2026-05-07",
+      "title": "Super Retail boss leaves door open to KMD Brands acquisition - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS0hDcXBVck9CRjRTZWlRcWVGRU01WE5MYjAybDdlODgxdi1iOGxHckx4OHhHcEN2OTczek4yZmxVdnNkRmtrSHFCSUVOWG5ITlpobWNubWFQY1hyY2EyQUF6a3Y1R0dRQk03a0xxZjU3OF9GTEpaNzRUcFp4X3lKcF95Vk9UTC1rNmlLcm1ZOWlfV2wtZTJYR2JJamR1Q0MyNW1JcEJ2dzdqdURwT2J4LUVXSlRUNWxhQk9JaGpNb3pFMG9obFFZZjBxUWV2NUlFS2t4RXVkTUVFb0pxSzYtSE8yODBXMmQxZzYw0gHwAUFVX3lxTE1hQUxyUGF0ZWdsVWRkQ1FZUFRFNFl0bjktVERoWDJMZ3hUN1lJdzREa1R2UWlxejJDaEt2ejVhWGZCNFE3R0pnZlRaUGU3YW1WU1hZX0dRT0oxcTROSnNyQllIMTk5RXVnM3hLLXRyQUR2M2hPVF9pMzZLamQ4WFdhVGRHYUtfSDhOc3lJTUZDZWQxMk5sWXc3RVdHZjlYUWNQbFZXWi1sX1JRaXNuRU1QUDVHUkltUlN0NUNxZGUwS1VmbXNhTEVSWEJTRldxMy1KdDZNN0hibHJGS1VjdWRDQVRtNHMzVXpYNEtlLUIzLQ?oc=5",
+      "source": "google_news",
+      "sector": "소비재",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_420ae4c1f2bd",
@@ -160,7 +170,7 @@
       "source": "google_news",
       "sector": "부동산/건설",
       "sentiment": "positive",
-      "score": 6
+      "score": 7
     },
     {
       "id": "us_f9cdd2eb776d",
@@ -171,36 +181,6 @@
       "sector": "소비재",
       "sentiment": "positive",
       "score": 8
-    },
-    {
-      "id": "us_9094d7db8d3a",
-      "date": "2026-05-08",
-      "title": "Titan Stock Hits 52-Week High on Record Sales, But Margins Squeeze - Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMk9LcmZiaFJwMVdyWlYzZ2UzVnNLclBYaGJURmVhZjZHbkxxRENnbGJ0NUVJaXRWcklLanV1WmlYMXZXY1dzVU50dVpUUDNZbE1mS1BlYlpQSWtLVGFxTko4c3E5bEl2cVhjOGZaN2VJaHM0ZEpCRFBWU21hVy1EbkRXTUhHRXFNOXQtbUxXaUQwblYyMzJFR0thWV8wVXpoYlhraWQyakk5UVlNNXBULUNoajdXczh6UlNEUG9WRlVKNlZpdGhYU0ZyMlVGSThiaVFFTjNzdl8yMWc3ckphUUNn?oc=5",
-      "source": "google_news",
-      "sector": "소비재",
-      "sentiment": "positive",
-      "score": 9
-    },
-    {
-      "id": "us_f2542b43fad0",
-      "date": "2026-05-07",
-      "title": "Super Retail boss leaves door open to KMD Brands acquisition - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS0hDcXBVck9CRjRTZWlRcWVGRU01WE5MYjAybDdlODgxdi1iOGxHckx4OHhHcEN2OTczek4yZmxVdnNkRmtrSHFCSUVOWG5ITlpobWNubWFQY1hyY2EyQUF6a3Y1R0dRQk03a0xxZjU3OF9GTEpaNzRUcFp4X3lKcF95Vk9UTC1rNmlLcm1ZOWlfV2wtZTJYR2JJamR1Q0MyNW1JcEJ2dzdqdURwT2J4LUVXSlRUNWxhQk9JaGpNb3pFMG9obFFZZjBxUWV2NUlFS2t4RXVkTUVFb0pxSzYtSE8yODBXMmQxZzYw0gHwAUFVX3lxTE1hQUxyUGF0ZWdsVWRkQ1FZUFRFNFl0bjktVERoWDJMZ3hUN1lJdzREa1R2UWlxejJDaEt2ejVhWGZCNFE3R0pnZlRaUGU3YW1WU1hZX0dRT0oxcTROSnNyQllIMTk5RXVnM3hLLXRyQUR2M2hPVF9pMzZLamQ4WFdhVGRHYUtfSDhOc3lJTUZDZWQxMk5sWXc3RVdHZjlYUWNQbFZXWi1sX1JRaXNuRU1QUDVHUkltUlN0NUNxZGUwS1VmbXNhTEVSWEJTRldxMy1KdDZNN0hibHJGS1VjdWRDQVRtNHMzVXpYNEtlLUIzLQ?oc=5",
-      "source": "google_news",
-      "sector": "소비재",
-      "sentiment": "neutral",
-      "score": 5
-    },
-    {
-      "id": "us_c80c2c4e6ffc",
-      "date": "2026-05-06",
-      "title": "Reynolds Consumer Products Reports Strong Q1 2026 Results with 7% Revenue Growth and 90% Net Income Increase, Reiterates Full-Year Outlook - Minichart",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQVIzNW9VU3JsSUZrdDB0YTMtUjJQcUIyUWN2V2lJN3NJY05EVlExcnZOcDdmNWRMRXpFLVB0TDJTS01xMUx4TUE2Y1VmSF9YVzBscXJ0WXJmUHZuTGtrNjh1X3djaGp0NkNfblB4dUx0SEtKWV94Z0drVzY4azhlUGdfMXpTOE9aNVdGYUpuWGR1ZEZXa0NLSHZPWVFZaW5jWEE5X1RjQWNMWWFiUTNxcS1CSW1Db2k1eEVKbnAzNzk4UjVQRldubm5vSng5LUNxTEI0bmNBNHU4QndTZkFqX1Vxa1JZdV9JMXRwTHpOMkdQbVFTb0F2ci1saE1iLVNIb2I4OTRfUQ?oc=5",
-      "source": "google_news",
-      "sector": "소비재",
-      "sentiment": "positive",
-      "score": 9
     },
     {
       "id": "us_d81e3a5cf75f",
@@ -230,13 +210,13 @@
       "source": "google_news",
       "sector": "금융",
       "sentiment": "negative",
-      "score": 7
+      "score": 8
     },
     {
-      "id": "us_2ebec8cca0b8",
-      "date": "2026-05-06",
-      "title": "NVIDIA and Corning Announce Long-Term Partnership to Strengthen US Manufacturing for AI Infrastructure - NVIDIA Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ0ZxZHZ5VG96czVMOGU0RzZIaW5JdmtmZmdxM0tJUE1ybXFPME8tdllfdXZYYmstWDNieGF2eDJtZnNmbzBjSjYxNkZiWEdjRzVkdXhEQ293ajFaWHI0UnJuUV8xNEFET1ZNY0J3N1FRbE5vaHo4V2UtN3B2RVlNSEo2bGRqYnZ0S0ZkeDc4bWhHa01ER21OS3dDMmxqYmFTQmxMSGdsSGpqaUhnTkI4YUZESFh0SEh1dWs4NGxRbXE3RzhvM2hLVG9EcDI1STNVdENZ?oc=5",
+      "id": "us_d35b6845fee6",
+      "date": "2026-05-08",
+      "title": "NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure - NVIDIA Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWUlUT1F5eFJRbjBvYVA2bzhUV3NUSExnMTNFVDVHZWlISzR2SV9mcXQzN2ZmRzJPcE84Z2xXVjVRTzhzd21ubkFuX0UxdHhPeG96dE5McTJJcklMR2VWWnNYV0FlZHRsUkZwNlg2NERiaTRGbFQ3WWs4V1dPbjdzdVNBcmlXWVVyczNuS2hwcTRSZEJnS0hVYXp5amZ3R0habHc3bktzeW9aMC1hY3RKUnBibVZlS2JaZTNnQmVjT3lkbnNjUlB0SnE4SGtaRm9Bd1I3REY1SnRMRGNmLTV4bWtn?oc=5",
       "source": "google_news",
       "sector": "반도체",
       "sentiment": "positive",
@@ -258,16 +238,6 @@
       "title": "IREN Stock Rallies On Nvidia Partnership For AI Deployments - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNFdLZEUtQzRSd0dUM09oc3IzWlA5TzIzcHBidFJpNUZVVnJEcWViNkpmU1R0OWFUV054cmZNQ0I0dzFyU1ZVcEFkQVZIYzFCZDJobEh6VDRDRmZEX25yWlhwRm9LRm5tTEhuaGxneTJKVTBsNDA4OVN4Qk56M0txZHludTBydGgzaERQek9aOTM5YjM2Q1JuM2x4ajhMRTg?oc=5",
       "source": "google_news",
-      "sector": "IT/소프트웨어",
-      "sentiment": "positive",
-      "score": 9
-    },
-    {
-      "id": "us_d5171433ef1c",
-      "date": "2026-05-10",
-      "title": "A Look At Corning (GLW) Valuation After The NVIDIA AI Infrastructure Partnership And Share Price Surge - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSThsNjU2Z3FPb2hiWE1VUTBWVExpam5NSjVWa2MxaFpXODlibThlbUxqUmI2NTFwU2lncUN6Nk9iSWc4dVNwYXJaOUFLTWxJaFo5UHhDSy15Z3dnVkZsVHk1eXVBbWdaUVpub2NFMVpwZ2RHRmxPZ0x4YXFCRWluX1Z6bTkxbU41cWZOOEJnbTNUY1pWWFFLWFlRQnUzR1gwNFdDLU1OTy1rU3UxeVdZSmNWZmRYejBaV3I00gHAAUFVX3lxTFBRazlsYmxTeFh4bnBwVk03SWJmdXV0RU12LXAzM3MwTnVmSEp5Y0FlZm5PTXpfT2JwX1NNSXZiVFVJemFwOTE1d1Z4OWJRZm9TQjFIRE1yZTB2bnVsb0ozTGxCdW5vczQyTnhVS2c3cjVKa1ZxdlRCVkdxLXB5b2NvNG1PR0JXTVUtRUhTRUNBdGx3dUJ3VlJJa25TOVZHX21KUzVHWnN3N2diSldGeTRJVEM5WXZFTnVOOE40MEVlWQ?oc=5",
-      "source": "google_news",
       "sector": "반도체",
       "sentiment": "positive",
       "score": 9
@@ -277,6 +247,16 @@
       "date": "2026-05-08",
       "title": "Intel Could Be Moving Closer to an Apple Partnership—and Its Stock Is Racing Higher - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZjNxQU53VVFwM0dBNXkwQ0c2QzFjUjJaNENrS1E5bkdBekJNek9JbmxSMjVObk8wdkdOTC11MlJvSlhSOE9iWHZUQkNQdnh0WnAtT1J0dDRUWWZyWUtCc2VIWjBpcDIwVzI3VjktbjJXeUo3NnhfLTJwVFJrenVCeGxKejhZUXZCRGhOMUlraEVXcXBRdWNnR3V4MGhUVWhBZ2tiT0FPb1FnZm5SX2xJd05kR1EzSWx3UFRBYnA0RHNEbXhDekFYWHByVQ?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "us_d5171433ef1c",
+      "date": "2026-05-10",
+      "title": "A Look At Corning (GLW) Valuation After The NVIDIA AI Infrastructure Partnership And Share Price Surge - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSThsNjU2Z3FPb2hiWE1VUTBWVExpam5NSjVWa2MxaFpXODlibThlbUxqUmI2NTFwU2lncUN6Nk9iSWc4dVNwYXJaOUFLTWxJaFo5UHhDSy15Z3dnVkZsVHk1eXVBbWdaUVpub2NFMVpwZ2RHRmxPZ0x4YXFCRWluX1Z6bTkxbU41cWZOOEJnbTNUY1pWWFFLWFlRQnUzR1gwNFdDLU1OTy1rU3UxeVdZSmNWZmRYejBaV3I00gHAAUFVX3lxTFBRazlsYmxTeFh4bnBwVk03SWJmdXV0RU12LXAzM3MwTnVmSEp5Y0FlZm5PTXpfT2JwX1NNSXZiVFVJemFwOTE1d1Z4OWJRZm9TQjFIRE1yZTB2bnVsb0ozTGxCdW5vczQyTnhVS2c3cjVKa1ZxdlRCVkdxLXB5b2NvNG1PR0JXTVUtRUhTRUNBdGx3dUJ3VlJJa25TOVZHX21KUzVHWnN3N2diSldGeTRJVEM5WXZFTnVOOE40MEVlWQ?oc=5",
       "source": "google_news",
       "sector": "반도체",
       "sentiment": "positive",
@@ -293,24 +273,14 @@
       "score": 10
     },
     {
-      "id": "us_fa9fc779b331",
-      "date": "2026-05-10",
-      "title": "Learn All Crypto Topics | Phemex Blog - Phemex",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qODlqREI0MXVGWV9VblJLUzZpVFEyUkVGTDhmOU93bnlJR190dDVrUWU2V1JSZ28ydmlvajItZU5zN0tnTHU1YnJKM01LMi1BT1hpQng0aUVtYnYzZmg5bGFmWG1RQ3JQZnAtUXVKdFVCUW1sZlE?oc=5",
+      "id": "us_2ebec8cca0b8",
+      "date": "2026-05-06",
+      "title": "NVIDIA and Corning Announce Long-Term Partnership to Strengthen US Manufacturing for AI Infrastructure - NVIDIA Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ0ZxZHZ5VG96czVMOGU0RzZIaW5JdmtmZmdxM0tJUE1ybXFPME8tdllfdXZYYmstWDNieGF2eDJtZnNmbzBjSjYxNkZiWEdjRzVkdXhEQ293ajFaWHI0UnJuUV8xNEFET1ZNY0J3N1FRbE5vaHo4V2UtN3B2RVlNSEo2bGRqYnZ0S0ZkeDc4bWhHa01ER21OS3dDMmxqYmFTQmxMSGdsSGpqaUhnTkI4YUZESFh0SEh1dWs4NGxRbXE3RzhvM2hLVG9EcDI1STNVdENZ?oc=5",
       "source": "google_news",
-      "sector": "금융",
-      "sentiment": "neutral",
-      "score": 3
-    },
-    {
-      "id": "us_d35b6845fee6",
-      "date": "2026-05-08",
-      "title": "NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure - NVIDIA Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWUlUT1F5eFJRbjBvYVA2bzhUV3NUSExnMTNFVDVHZWlISzR2SV9mcXQzN2ZmRzJPcE84Z2xXVjVRTzhzd21ubkFuX0UxdHhPeG96dE5McTJJcklMR2VWWnNYV0FlZHRsUkZwNlg2NERiaTRGbFQ3WWs4V1dPbjdzdVNBcmlXWVVyczNuS2hwcTRSZEJnS0hVYXp5amZ3R0habHc3bktzeW9aMC1hY3RKUnBibVZlS2JaZTNnQmVjT3lkbnNjUlB0SnE4SGtaRm9Bd1I3REY1SnRMRGNmLTV4bWtn?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_dfe74064060b",
@@ -318,15 +288,25 @@
       "title": "Corning to build 3 new optical plants in the U.S. with a little ($500M) help from Nvidia - Fierce Network",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZXFNM0xXdWhURDYxdnZLQm9jbURkSHlXdmxNa3prOE8zSzYxeFcyZ1VFZTA1SVA4U1NGT2VsanBaOG5ySnBaa2I5TEdycjU3ckJsUTRLZFFfUTdzWFMxWkhRVVYyUjZaUVh5bndiV21VUFJwbDk4NUVKSWpUeERoYTk3N1BVdHNzYnExamFMT2M0ZnBOa041dExzMTluQ2JRS19wLQ?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "us_802424dc58d9",
       "date": "2026-05-06",
       "title": "Amazon (NASDAQ: AMZN) CEO Reaffirms Nvidia Partnership as AI Infrastructure Demand Accelerates - foreignpolicyjournal.com",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN1p2MHozb3NJRnNIbUFvUG52eDM5cXo1STV3Nm1JNjhSNGtRZjBlNU04SXhrRzlSbFBKN3p2WFVoZk5YdHc5UUZ3dHA0OEhMcXpya21fYVZpY1AzcDZVRDFIVmpjbVJ5cVY0MHlSaTl5OGdsOFljWndVVEhMTVVhdDZqWTR6c19TMFpPZXlHdjdZU2U5b1BUNkFGWDJZMy1rdzFpYXZPcTNCN0dScmh3NGs0TTIyOVZPYzRPendkRHdlMXZIa0VvYjkwdzhqYVF0U2Z1cTdNSQ?oc=5",
+      "source": "google_news",
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "us_fa9fc779b331",
+      "date": "2026-05-10",
+      "title": "Learn All Crypto Topics | Phemex Blog - Phemex",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qODlqREI0MXVGWV9VblJLUzZpVFEyUkVGTDhmOU93bnlJR190dDVrUWU2V1JSZ28ydmlvajItZU5zN0tnTHU1YnJKM01LMi1BT1hpQng0aUVtYnYzZmg5bGFmWG1RQ3JQZnAtUXVKdFVCUW1sZlE?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -353,16 +333,6 @@
       "score": 0
     },
     {
-      "id": "us_aa9201044262",
-      "date": "2026-05-08",
-      "title": "Intel could be moving closer to an Apple partnership—and its stock is racing higher - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd25wcUQ2ZHZ3dVpUQWhrc3VoOGV4RllwUjlCWTZ6Tjl2YVBTT1FCdkRvT0FHNmVicTRpX2MyT0duZGhLN2YxZWNvZmN6YXVJbGs0aGZDcHNoSU96OWZlT1ZsRDBpY01NVzA4MTNKYUxDRHIzaWhUbWFoTXVVSkdBSmx4UG1nQVB5MjNkbDhUWkQ4eC0yZmVXSFJWLU1hck45UVN4VllxZjBSSWYwTTNwRG5McG1ZaE5LaVNuQk1zVHVkaW5IZ25TaUVneEJFWUZiYS1R?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_aeff2a6b2733",
       "date": "2026-05-08",
       "title": "New Microsoft partnership prepares union workers for high-paying roles in the AI economy - Cleveland.com",
@@ -377,16 +347,6 @@
       "date": "2026-05-09",
       "title": "Iren Stock Jumps After Multi-Year Nvidia Deal and AI Cloud Plans - News and Statistics - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPam84VU1JRnRGX2dMN0dnb20xNlE3eUhGcVlrYUx3WWZleTJ1dkYwcjlrTVBFWk1obU4wTndtOENmRFM5bktfd3ptZWpEVWtHMlUtVU9zYkxpUm9RM1B0Zk1CWHVadVBWS3M4cXU3UEtGSmROSGR2VGtEcGpyVmNNZHVfbVBOYk1WMV9MWWY2eW5nRDB6V2hHei1hb0s?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_b3fa8ec11d59",
-      "date": "2026-05-09",
-      "title": "How Lattice's Earnings Beat and AMI Deal Could Reshape Lattice Semiconductor (LSCC) Investors' Risk-Reward Profile - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbkdBV0VLOU1mdWJ5NnZQVHJpeDJ5R29LMUdDa253Xzg5cTlPUnVKUExXbVQyd1MxWm5sQV9DRm1wdXFfUzNtd05panZlcWppUmhtcnZsQjJmYU5tR21zeWwwRldielZ1MmtFNjFGVjRBN2JnbzM2bXZDVTUxaDNRMDVYakVLTmN4cFZEUTMwa3RfaTJENjUtT1NPRnVULWVOd25mTDA4T01oOU5menJYcWo4N3ZEcnlPU3dxMWdWN2FzcFBKaWkxLUpDVzh0ZUE1ZGFoVEk4X0VVenRBZ1Y40gHkAUFVX3lxTFB4RGcwTkY2dmxCM3hiTnFKM0tWZXZKWHRlUkJQNGJPeERMLTg5azE0QUV2cjE4Z25MQmpGTEVHR1ZQVVRrTE41M3ZjZjdGT3VBNndIUEUzSkpnR3AxLUFHdE9uanVLR2V6M1NQd2ZjOGlHMno4YU0wY0swcnNvZmJ6LVppVkJzdFI2WHRiR0VabHNvVDYyMDBYWWJpZXNTdFVVNjJNMGhLUkJZOS1VbVBkdTl0YjJVM3plaE1hVTNFWS1ETWg4ZTBpSVFUa2o5UGhOTVhnVTlEVF8tNE9VVnJtelByTA?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -413,6 +373,16 @@
       "score": 0
     },
     {
+      "id": "us_b3fa8ec11d59",
+      "date": "2026-05-09",
+      "title": "How Lattice's Earnings Beat and AMI Deal Could Reshape Lattice Semiconductor (LSCC) Investors' Risk-Reward Profile - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbkdBV0VLOU1mdWJ5NnZQVHJpeDJ5R29LMUdDa253Xzg5cTlPUnVKUExXbVQyd1MxWm5sQV9DRm1wdXFfUzNtd05panZlcWppUmhtcnZsQjJmYU5tR21zeWwwRldielZ1MmtFNjFGVjRBN2JnbzM2bXZDVTUxaDNRMDVYakVLTmN4cFZEUTMwa3RfaTJENjUtT1NPRnVULWVOd25mTDA4T01oOU5menJYcWo4N3ZEcnlPU3dxMWdWN2FzcFBKaWkxLUpDVzh0ZUE1ZGFoVEk4X0VVenRBZ1Y40gHkAUFVX3lxTFB4RGcwTkY2dmxCM3hiTnFKM0tWZXZKWHRlUkJQNGJPeERMLTg5azE0QUV2cjE4Z25MQmpGTEVHR1ZQVVRrTE41M3ZjZjdGT3VBNndIUEUzSkpnR3AxLUFHdE9uanVLR2V6M1NQd2ZjOGlHMno4YU0wY0swcnNvZmJ6LVppVkJzdFI2WHRiR0VabHNvVDYyMDBYWWJpZXNTdFVVNjJNMGhLUkJZOS1VbVBkdTl0YjJVM3plaE1hVTNFWS1ETWg4ZTBpSVFUa2o5UGhOTVhnVTlEVF8tNE9VVnJtelByTA?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_51c5f554ca9e",
       "date": "2026-05-07",
       "title": "Nvidia CEO Jensen Huang says Corning partnership will 'revitalize American manufacturing' - CNBC",
@@ -433,16 +403,6 @@
       "score": 0
     },
     {
-      "id": "us_9f48045627bb",
-      "date": "2026-05-09",
-      "title": "Sapience AI Advances European Sovereign GPU Cloud Strategy With NVIDIA Partnership - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaGY1N1lLUThjRHo2ZnBhRGhNTlBfRDJjRFBvWVhPVEJHX3JKeTRJNUxjQ0cwQlViZjRDSFFmNjJlNW5qWUdHa3d3ekxWUEZWX0ZsYnRiMGVNakVnS3N1S0RMZV9SQnJHRGgzZEk2YXRybGh2QTF1VFNDWGhOQzVCUklPQlM3S2R5YVotTWtEaTUxbHpKdVFLOWhkRWpyY1hscENoMTBDcDQ4Qnc1NVN1QnJoUGY2dlJ0UjFFTW5QODd0cFBPODRHMzdR?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_89314ebd85ae",
       "date": "2026-05-06",
       "title": "Nvidia Deal Will Help Corning Increase Optical Capacity Tenfold. Its Stock Gets a Boost, Too. - Barron's",
@@ -457,16 +417,6 @@
       "date": "2026-05-08",
       "title": "A Look At Corning (GLW) Valuation After The NVIDIA AI Data Center Partnership - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGEtaDdGZHdzVkVlUWQwcm1nc0NWbzduVkpwSk9xREhtR0xIWUs3VWEwU3lTdWV1VjdmSDV0MUdPMkFxa1ZJLVlXVkRGQlRrV3Bac3hsM2xBRkR5d1VqZXFHaUpqQ09iVk9ZRm9sSTVyeFZaTGdKMF9OQWZIckdXY180aDdqOW9Fc29UT2RaS2lSYlNyLWhIS05ialNZalk?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_a462ca31080f",
-      "date": "2026-05-08",
-      "title": "Sitan Semiconductor, Changelight Form Partnership, Deepening Micro-LED Industry Chain Collaboration - Gasgoo",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZnQtOUdYUExPbHEybTA5NHllOHRzalpvN0hvVk41ZzE5LVdhVnB5ZDExcEVDRy1GQU8zdndlMFhUU0dlcnpIMVo5aW9CVmZBclRUSXQ5NnJpWElzVmRXeWhuUlVpclJ5ZTlaODNOSm9mYUlocjRza3lWZXJleDgwOUpINmluOFVxYkF5blBvc0Z6ZnNQZWFFTzVZTloyYzhUcG53ZTZZWURXMHZsLXZtQnY4c3UzTjBfcVBHWE0zbTljR3ptYThCa0Z3allSYXN3WWdkVHZsdDJfbnRUZWxaYmVTam9vaEtpMnE4dlBtaEY?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -503,20 +453,20 @@
       "score": 0
     },
     {
-      "id": "us_c20dbcb2236d",
-      "date": "2026-05-07",
-      "title": "Jim Cramer sits down with the CEOs of Nvidia and Corning to talk partnership - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQWhwcGp5c2hzYU1zMUJzYlRfZTA3MjNjUTV5QjE0ZWRZX3ZKVGI4M1RyczFqRkhhSWlHQ0Y0aFlhVWNKMWpsMVNFLTNCNnFwcGJzX09rbXpmVi13Qm8xM0NYcm1TcjFOM19wVklMRXVTblhVcFJKMHU0WkNiYXUxczNfdVhSVHVjQlVSNUZsaU5aMnpVNW1qOXd6cWNrQnRuR3o2czRSTlpNcEU1S0d1YzA2M3BxRUdtRy1V?oc=5",
+      "id": "us_9f48045627bb",
+      "date": "2026-05-09",
+      "title": "Sapience AI Advances European Sovereign GPU Cloud Strategy With NVIDIA Partnership - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaGY1N1lLUThjRHo2ZnBhRGhNTlBfRDJjRFBvWVhPVEJHX3JKeTRJNUxjQ0cwQlViZjRDSFFmNjJlNW5qWUdHa3d3ekxWUEZWX0ZsYnRiMGVNakVnS3N1S0RMZV9SQnJHRGgzZEk2YXRybGh2QTF1VFNDWGhOQzVCUklPQlM3S2R5YVotTWtEaTUxbHpKdVFLOWhkRWpyY1hscENoMTBDcDQ4Qnc1NVN1QnJoUGY2dlJ0UjFFTW5QODd0cFBPODRHMzdR?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_1abda4504028",
-      "date": "2026-05-09",
-      "title": "Intel nears chip-making partnership deal with Apple: report - malaysiasun.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWlIY0duSUw0aDZUa0hjVm9aNVZWdlExZTIzSWcya1lPVzZ1WUQxWXY1RktVZ3dadm1COHVkcG9vdWFaNkpNWnl1ZWttWXg2cGhWbXlabHRMZ08yYWlUX2VaT2pfVDFzM2JZdkZZX3hIOHNaQXdud1JmUlRZVExkUnpEVDlRaGZJUlFodkRWRVZ4X0E4SzNhVzA5SVRNNF95Q3c?oc=5",
+      "id": "us_c20dbcb2236d",
+      "date": "2026-05-07",
+      "title": "Jim Cramer sits down with the CEOs of Nvidia and Corning to talk partnership - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQWhwcGp5c2hzYU1zMUJzYlRfZTA3MjNjUTV5QjE0ZWRZX3ZKVGI4M1RyczFqRkhhSWlHQ0Y0aFlhVWNKMWpsMVNFLTNCNnFwcGJzX09rbXpmVi13Qm8xM0NYcm1TcjFOM19wVklMRXVTblhVcFJKMHU0WkNiYXUxczNfdVhSVHVjQlVSNUZsaU5aMnpVNW1qOXd6cWNrQnRuR3o2czRSTlpNcEU1S0d1YzA2M3BxRUdtRy1V?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -543,20 +493,20 @@
       "score": 0
     },
     {
-      "id": "us_885061636333",
-      "date": "2026-05-06",
-      "title": "Nvidia, Corning partner on 3 U.S. fiber optic factories for AI - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YamctZWRIYnNhMmZUdURsWENUemRkNnlWWEJrT1Z0T1pMMHdicm5iMUtpNVBUckJKd3F2amFtT2cxTmFUTGJZOTVFN1NHbHY4WlpJc3ptQ3FwR3JpWk5qN2d5SGtSOHpqRHdfVVNkekN6Zw?oc=5",
+      "id": "us_7f57614cfde6",
+      "date": "2026-05-08",
+      "title": "NVIDIA, IREN Announce Strategic Partnership to Deploy Large-Scale AI Infrastructure - The Fast Mode",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSVJmT1N2d200MmFsNEs2ZHk0WVFYOG9ndElYVnV0bF9XdXVXYzR2RW55RmZ0SDRma0w4ckF3WW9SbVdlVGw5MDRQemxweXZ0NlotckhHRHNET05SWUIxbnhKNWdLTmpUbDExVWZ1TlBjX1pGQTlBLUxIQWYzaGZ1dWdaVXlNNnV6X1YyNFV5MUNuWFpULWV0TVB1X1RRSUhQVTlCLUJQOFpqbjgxTWhLaGd5M25wSUNZNXd2QlM4dS1YeGVkS3hOaEl2eG5jbG16Sm9j?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_7f57614cfde6",
-      "date": "2026-05-08",
-      "title": "NVIDIA, IREN Announce Strategic Partnership to Deploy Large-Scale AI Infrastructure - The Fast Mode",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSVJmT1N2d200MmFsNEs2ZHk0WVFYOG9ndElYVnV0bF9XdXVXYzR2RW55RmZ0SDRma0w4ckF3WW9SbVdlVGw5MDRQemxweXZ0NlotckhHRHNET05SWUIxbnhKNWdLTmpUbDExVWZ1TlBjX1pGQTlBLUxIQWYzaGZ1dWdaVXlNNnV6X1YyNFV5MUNuWFpULWV0TVB1X1RRSUhQVTlCLUJQOFpqbjgxTWhLaGd5M25wSUNZNXd2QlM4dS1YeGVkS3hOaEl2eG5jbG16Sm9j?oc=5",
+      "id": "us_885061636333",
+      "date": "2026-05-06",
+      "title": "Nvidia, Corning partner on 3 U.S. fiber optic factories for AI - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YamctZWRIYnNhMmZUdURsWENUemRkNnlWWEJrT1Z0T1pMMHdicm5iMUtpNVBUckJKd3F2amFtT2cxTmFUTGJZOTVFN1NHbHY4WlpJc3ptQ3FwR3JpWk5qN2d5SGtSOHpqRHdfVVNkekN6Zw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -593,20 +543,20 @@
       "score": 0
     },
     {
-      "id": "us_a5db7405265e",
-      "date": "2026-05-06",
-      "title": "Why Amazon Might Be the Real Winner of the Microsoft and OpenAI Partnership Shakeup - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMkZKVGVpQ0pDVGxRS0diMUw5MFZIQlM5a3NOa3ZlcUowdUxWWWRrRlUtZUJUeUZJcEs1N2RiOTVYU21wVDN1bWZhVWNaNjRjZFlyR0MtRWZ4S25xTWd1LUI4UnpqdUxpb3BlTkh6S1pqZ1AzbUVEYU5yYVBPQUNZM045NlR4N1k1SU0wandNby1haTZONkZtZQ?oc=5",
+      "id": "us_ea3a37a99108",
+      "date": "2026-05-07",
+      "title": "NVIDIA and IREN map AI data center buildout that could hit 5 gigawatts - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXRKd01Wc2RDa2NJR1lpaEYyQjVVLWQyMGhfcWhjdnBZblFOSnBqbVNyc0s1ZTVxWlhiQjJwY0NNMlVOTHBwelAtVDJZcG1LSFE1VHotYWgzNzdEckFkOEFhcTRSSGh2WnIza3RZckV0d3dhZmk3N19pQTRzU0xjZHZUYVgycVJ6ejY2c21XNXlzQ2dFNlVjNHlOR1VKVkFXUFdRQVdIdGdUUFRTRmp5SnBadzZsZw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_ea3a37a99108",
-      "date": "2026-05-07",
-      "title": "NVIDIA and IREN map AI data center buildout that could hit 5 gigawatts - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXRKd01Wc2RDa2NJR1lpaEYyQjVVLWQyMGhfcWhjdnBZblFOSnBqbVNyc0s1ZTVxWlhiQjJwY0NNMlVOTHBwelAtVDJZcG1LSFE1VHotYWgzNzdEckFkOEFhcTRSSGh2WnIza3RZckV0d3dhZmk3N19pQTRzU0xjZHZUYVgycVJ6ejY2c21XNXlzQ2dFNlVjNHlOR1VKVkFXUFdRQVdIdGdUUFRTRmp5SnBadzZsZw?oc=5",
+      "id": "us_a5db7405265e",
+      "date": "2026-05-06",
+      "title": "Why Amazon Might Be the Real Winner of the Microsoft and OpenAI Partnership Shakeup - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMkZKVGVpQ0pDVGxRS0diMUw5MFZIQlM5a3NOa3ZlcUowdUxWWWRrRlUtZUJUeUZJcEs1N2RiOTVYU21wVDN1bWZhVWNaNjRjZFlyR0MtRWZ4S25xTWd1LUI4UnpqdUxpb3BlTkh6S1pqZ1AzbUVEYU5yYVBPQUNZM045NlR4N1k1SU0wandNby1haTZONkZtZQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -673,10 +623,30 @@
       "score": 0
     },
     {
+      "id": "us_f69bddf43e12",
+      "date": "2026-05-09",
+      "title": "Intel nears chip-making partnership deal with Apple: report - malaysiasun.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzZROW9DR3MzTFMtT29oQkIyUXNGanZHRmZZd1hKSHlxMUVHZ29wZVNDbnNqak1BVjJmYkU0U2s4bS02REQ4OXFlOHBBbFd0WE1tNExEVHBhaEVUOHEydGF3ay1SazhzN2lCNDRIOHNfdGg5cmdaV1Bkc3ZxSjN2VUFyVnFWb0lTazBtcXJwNkRYdUdYcTF0X1ExLUx6MVhkclE?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_7e8a0b0ebc96",
       "date": "2026-05-06",
       "title": "Creators of Grok, the AI Chatbot - xAI",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UeXJISXh5Yzdram9KLUFBT1RQdFMxdzhLYWdoaUl0WExaYkNIaE5DQy1UNTU3dEtHZHdielFMOGlPXzlvMWMtbVRMS1dTVDRhZWtUR1E1Q3dVdGc?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_68421ab57e55",
+      "date": "2026-05-07",
+      "title": "Morrisey announces DMV, Apple partnership and SNAP, food bank update - MSN",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxObVFoWHA1cVRPZldyaDN6Y3dhVWVQYUF1ODRhU1g4eF9IOXZ0MlBaNUVmaHZsVktWVUFlanVYcllXemZETXBKREduQklyV0MtZDV3OEdDMlQ5NXRaRDFaTzNaYmV1djBXcGhmUHljRmExQVEtVTNDak05WTdKVHdnNGRSSTFIMVNiM3dsTGVGSUo4aldPMUt1d2lEaVBWYVk2d1VLTVQxdm9NbUhQQVNWMk5xeVhScnpYRVZKWE9sRnR5MXhrb2VsSU1McnlhYkh6eVEzOVBEMmhKbDE3VENOM0Q3MFM4dFFwVy03RXF3R3paM0FnMG1BU2VnQ0hPMVpYODhKVzB4aGxUeWJYUzJDOHU2V0RHdWhIOU1SZDVaOHlzRno4SExHRWxCOTA4OHFUaVpqMVVKMkNOaDJzT2FFc1NNak1kMUk?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -693,20 +663,20 @@
       "score": 0
     },
     {
-      "id": "us_98eaca1b52cc",
-      "date": "2026-05-09",
-      "title": "Nvidia Funnels Billions Into Corning Factories in Another AI Infrastructure Partnership - Tekedia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSzRWYzNSVlFZd2hPdXl1ZG1ic055Y01FeVYtSmI5X0p2eHQ5WHd1YVRNRGZxbjBmdk5TY29XQXprNm1WbG1KZnQtMHJvZWVOeEl5THd0VXBNRmtxQmdITWxiaS1CYlhRT3NSUDQ3Yk9rNnBwdWxpT2F6WnNMc2xrdWV1Y2FMQzh1Sl96VDN5WnVTMDBTVHp0UTJoLWRWNFJlcmx3NjgxOUhlRzVCZ2tkNkRn?oc=5",
+      "id": "us_c3c90c5a2e9d",
+      "date": "2026-05-06",
+      "title": "Corning: Partnership With Nvidia May Lead To A Re-Rating To The Upside, Keep Riding (GLW) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFFJTEV4MVRGSWg2SUhDOS1zX1lYaVBwXzlDbkNYM0RpRGxxOTV0dUdMNVFiVjdrVERCOWFCRnRMSEtWd3piaTBRSm9nQjNLSGNrWXg3NDNhYklBZWtmNGoyTDdTbFJXQUV0WkxSSDFhczR1Q3ZfeHFtaWs4UmY5OWkwNmNCYTdLUG15NVpkZGFxWU1zUEhmWEJXUE5MR3JSUVlWTlo0RzFhNWhiNEpSelE1LXVMelBrZk9kN3hvYw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_c3c90c5a2e9d",
-      "date": "2026-05-06",
-      "title": "Corning: Partnership With Nvidia May Lead To A Re-Rating To The Upside, Keep Riding (GLW) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFFJTEV4MVRGSWg2SUhDOS1zX1lYaVBwXzlDbkNYM0RpRGxxOTV0dUdMNVFiVjdrVERCOWFCRnRMSEtWd3piaTBRSm9nQjNLSGNrWXg3NDNhYklBZWtmNGoyTDdTbFJXQUV0WkxSSDFhczR1Q3ZfeHFtaWs4UmY5OWkwNmNCYTdLUG15NVpkZGFxWU1zUEhmWEJXUE5MR3JSUVlWTlo0RzFhNWhiNEpSelE1LXVMelBrZk9kN3hvYw?oc=5",
+      "id": "us_6ba5ecd7c0b0",
+      "date": "2026-05-07",
+      "title": "Nike Apple Partnership - Jomo Kenyatta University of Agriculture and Technology",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRHR4dmppa3FrYXhfek1YLWcxdHFDZlJhTFFMdk4zZDJBcDVtMXUwZUZuOWx6UG9xRS04Rnh5aTVKZkhfdzJIUEhmdWNMZXlvanBrUXBjb1U0TVZHR0FDcFMwNGQyblZXdVY5UTJnaHBZLUVyU0dwb1NPWmozM1I3NGxTVkdkdTBYTTh6VFE5TEE?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -727,6 +697,16 @@
       "date": "2026-05-06",
       "title": "Corning plans 3 new plants, 3,000 jobs in NVIDIA AI buildout - Stock Titan",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON0F0aXE2M0g0eTdRSWg2cGVIdHlxemZBdnMxR0hTU1RsUjZZVk1Mc1BzdGVOQktQeW1hVXd0WU9jeEVJSkhKUlVvUzBEc2E4TXJyS1JlWGtJeVhLMlZSTlJycC12WWJFR2ppbkpWZ3JDQ09sbG9IbVc2dzd3QUQ0ODd4VWN0TVNLdnhBN2xqdnJBWkRQWi1nWFhEemh3U0FzTk1qVmJndnJycDVvb292X05hY0VKbVVNZkZ0bjZR?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_98eaca1b52cc",
+      "date": "2026-05-09",
+      "title": "Nvidia Funnels Billions Into Corning Factories in Another AI Infrastructure Partnership - Tekedia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSzRWYzNSVlFZd2hPdXl1ZG1ic055Y01FeVYtSmI5X0p2eHQ5WHd1YVRNRGZxbjBmdk5TY29XQXprNm1WbG1KZnQtMHJvZWVOeEl5THd0VXBNRmtxQmdITWxiaS1CYlhRT3NSUDQ3Yk9rNnBwdWxpT2F6WnNMc2xrdWV1Y2FMQzh1Sl96VDN5WnVTMDBTVHp0UTJoLWRWNFJlcmx3NjgxOUhlRzVCZ2tkNkRn?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -843,16 +823,6 @@
       "score": 0
     },
     {
-      "id": "us_ef0c2323dbcf",
-      "date": "2026-05-08",
-      "title": "Nvidia stock rises as IREN Limited AI infrastructure partnership fuels optimism - Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRFZkSHVNT2RXUnlFTi1nN25Hek9MZEwwZldVQkNlZzI0Q3djcHhoLWczMWtuNGMxV0pjX1FQTGpEY3psQXUzdXRkVVRmSHdMY2dsMnJCZTREaEcxbXRZaEVMdXBna1oyTzlOZlNjVDRWVlRyNlFqcktISm1FLTIxa1N1V3g0Ujhlb1FmT1VJejRCbEZRY0R6MUZKZ3g?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_5e4cbbbe948c",
       "date": "2026-05-07",
       "title": "Apple and BOE reportedly deepen OLED partnership as BOE targets 35 million iPhone display shipments in 2026 - TechNode",
@@ -873,10 +843,10 @@
       "score": 0
     },
     {
-      "id": "us_7913f5e5188f",
+      "id": "us_76452d802f26",
       "date": "2026-05-10",
-      "title": "Why Guardians pulled the lever for Bailey acquisition - MLB.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WNU5DV3BlTlFLSlVSakZlZ055UllqUHlmbFVxRnVCUHN2RTZQbWU0S1NtcVV0Y0UxZkxaRy1NNEllYTJ0bG9OUjZWdUQyTEFza24yV0xTZDd1c3cxT2Fwa1FhRU44ZXFIZTJrMlY4R04wSk43T040?oc=5",
+      "title": "Stock-Split Follow-Up: How Nvidia, Alphabet, Amazon, Netflix, and Tesla Have Performed Since Their Historic Splits - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdkdZTGw1V2dIaFFsSWxmTlJXRXdpTy1jd0lvVGF5Q09lOVZvMnN3dExYd2pScHJWQmFmTlpOYk1nQUM0VzRIX2JRNzdLR1kwS05rZW9KT3pmbkVQT3ZHdkdnbVdrSVNfMWdvQ3Q0cTc5QWtzTlR4SVF3VTJNd0FkcXU2TUdncUI2WFJ3a0dQSS1fOFF1a2ZZ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -893,10 +863,20 @@
       "score": 0
     },
     {
-      "id": "us_bbc26d6f306b",
-      "date": "2026-05-09",
-      "title": "Expert to Lead DoD’s Acquisition, Technology, Logistics Reorganization Effort - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa3BvY0RfTmZBWUhMbERsX1REdDFXb2hvQWdJNlR1cENLSllfblNQSDd2NkpuYWc5bWdweGEzRVI5cVZ4eVVpWnNHclB0TThRREtMM2tqWmZHWmo4b0VtdFZJTXNLMGN2UUN1TjF5Wk1yMF9Rb0cxN1FaeF8tMHJSQXJ4Y3c3TVcxMnp3c2ZYSTdxSlpOTlVxT1VJTy1UdzltTFlEY3MyNXhvOEwzOHFIWmQxaWM3Ry11ZW13Q1lXNk5ad0VQcVhKX202TnlXc0FKeFBn?oc=5",
+      "id": "us_c897a0bcd5ee",
+      "date": "2026-05-10",
+      "title": "A Look At Atlanticus Holdings (ATLC) Valuation After Q1 2026 Earnings Beat And Mercury Integration Progress - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMXBtdk5VZWdNQjc5QVdkd2ZSZGhlaUpmVDhBR1dGODRQcTQxVVlBcGl0UXc2VXhza3BEclRqdXU1bjZCSy1KQktYNW5lM2dGTnBpM1VIN0pMdGxTNHJNaVd3eWJaUDRyZ1Iyai12RWg3Xzd4enZNck9McVFISnlScEhBd2xBZlI5UzBING9n?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_7913f5e5188f",
+      "date": "2026-05-10",
+      "title": "Why Guardians pulled the lever for Bailey acquisition - MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WNU5DV3BlTlFLSlVSakZlZ055UllqUHlmbFVxRnVCUHN2RTZQbWU0S1NtcVV0Y0UxZkxaRy1NNEllYTJ0bG9OUjZWdUQyTEFza24yV0xTZDd1c3cxT2Fwa1FhRU44ZXFIZTJrMlY4R04wSk43T040?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -913,10 +893,10 @@
       "score": 0
     },
     {
-      "id": "us_a3f5d5d54b06",
+      "id": "us_bbc26d6f306b",
       "date": "2026-05-09",
-      "title": "Calpine Acquisition Strengthens Constellation Energy Corporation (CEG) as a High-Growth Utility Stock - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ010dEVBenpwSzNmT29rTGswb1BpaEFqbFBzWExaOGREWEcwb2ZTV1g2eUROOFpTMGd5dkxIU2g4M1JqVTdCWEI4M0ZQTWhGOGZtMGdiMVdYd1oxUHhaV0xVaUhha01BYmQyY1hIeWFHTjkzWDVkT3FIMW1KN3NQY3p4ZDZsWGJNVDhXUDREM0x2YkpuT3dWRUNIb3VjcjlxYWotYTR6aVJYT2NSZEJJZXBWZEZZeE51?oc=5",
+      "title": "Expert to Lead DoD’s Acquisition, Technology, Logistics Reorganization Effort - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa3BvY0RfTmZBWUhMbERsX1REdDFXb2hvQWdJNlR1cENLSllfblNQSDd2NkpuYWc5bWdweGEzRVI5cVZ4eVVpWnNHclB0TThRREtMM2tqWmZHWmo4b0VtdFZJTXNLMGN2UUN1TjF5Wk1yMF9Rb0cxN1FaeF8tMHJSQXJ4Y3c3TVcxMnp3c2ZYSTdxSlpOTlVxT1VJTy1UdzltTFlEY3MyNXhvOEwzOHFIWmQxaWM3Ry11ZW13Q1lXNk5ad0VQcVhKX202TnlXc0FKeFBn?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -933,10 +913,20 @@
       "score": 0
     },
     {
-      "id": "us_ceb2f86e2894",
-      "date": "2026-05-08",
-      "title": "Jackson Walker Represents T-Bar Fence in Acquisition by Fenceworks - Jackson Walker",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zMTFtV3hEM0JCakhNNWlmam95Rnh6N29veVhWZVNSSzRnSHRudHN6U3N2OFIxVU1ReWNhaDJ0d3k0WjBrZjlyWVo1NXdMRjRnbGduV2xUbFF5Z0lNaTdUaUItdVg0UGFDd09OMXV0ZU1JZw?oc=5",
+      "id": "us_50cd0190d23b",
+      "date": "2026-05-10",
+      "title": "What Pfizer (PFE)'s Earnings Beat, Reaffirmed Guidance and Oncology Wins Mean For Shareholders - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVXBhbDZyN0ZnYzZaRWpKdU80bHhNejNKbm5Fd2JSZ1VQUVZxdk5Oc0hQYkpiOVpxdzB5ajkwemdZWXRhUWZURXhSeWRkQ3RMTUhTY25oc2ZiNlc5Y1B1WDB3TDd4V1dlb3gyV0RXTEpsdS1EZHZmeHhKWFI2aldhUGlCclhlY2RmV2ZFZGZGZ0x0cTdRM1BONGVTVmkzSGZCb3JYZUlsR0tmSk5tQl9ta05tN2s5QU5LQU5La3JGWG5mT0dJVGs2aXU0VWJlZnNidTNV0gHYAUFVX3lxTE1Kbk5UYk5BNXdwZi0tUkZ5ei1abXE2bmJETEtZdmMwc3FQdzlGS3ZrNmoxZGVmTEJEeGx3aV9zZlljYVZNYzc1V196N2tlLUlQLVlXNGg2MERQNFJodHE0T2dZTjZ1YV9tNy14X192WU9kNEVuY0pNVnlUaWFKV293d1IwcnZnOEd1OWJHVDl4UFpjYmJ0WW04cWs4QUVoa0ZyYmFpbVIxckN1amI5dXdDbE0tOUQ2RlNueDNSbHNRMWRPMDVGOG5feHRydmZ3SERYNGhjWmt1aQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_d4275d7101da",
+      "date": "2026-05-10",
+      "title": "Flossmoor approves acquisition of Dixie Highway parcels for redevelopment - HF Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPak1vamU0T3BkQVJxbklXVXdtdkdOUkhzTlIzZ0J6YmVWNjVJZ0dWNUtaVXAzRHZvRUlVMi1sVmdpRm93NXh0dU15cXJ2RUZQU2Z6Vzc3VGtvTFVfQkd1cHcwbml2aHQxcFdpQXZYNTA0RDREbkNtREJSZm94NFZVTjhaalkySnZYdk9JR2ZJYUJnQkc1b0ZwWDhDcEQ3WEpZUHFNRUVKUncwQ0w4VmpkbWFFaw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -953,40 +943,10 @@
       "score": 0
     },
     {
-      "id": "us_50cd0190d23b",
-      "date": "2026-05-10",
-      "title": "What Pfizer (PFE)'s Earnings Beat, Reaffirmed Guidance and Oncology Wins Mean For Shareholders - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVXBhbDZyN0ZnYzZaRWpKdU80bHhNejNKbm5Fd2JSZ1VQUVZxdk5Oc0hQYkpiOVpxdzB5ajkwemdZWXRhUWZURXhSeWRkQ3RMTUhTY25oc2ZiNlc5Y1B1WDB3TDd4V1dlb3gyV0RXTEpsdS1EZHZmeHhKWFI2aldhUGlCclhlY2RmV2ZFZGZGZ0x0cTdRM1BONGVTVmkzSGZCb3JYZUlsR0tmSk5tQl9ta05tN2s5QU5LQU5La3JGWG5mT0dJVGs2aXU0VWJlZnNidTNV0gHYAUFVX3lxTE1Kbk5UYk5BNXdwZi0tUkZ5ei1abXE2bmJETEtZdmMwc3FQdzlGS3ZrNmoxZGVmTEJEeGx3aV9zZlljYVZNYzc1V196N2tlLUlQLVlXNGg2MERQNFJodHE0T2dZTjZ1YV9tNy14X192WU9kNEVuY0pNVnlUaWFKV293d1IwcnZnOEd1OWJHVDl4UFpjYmJ0WW04cWs4QUVoa0ZyYmFpbVIxckN1amI5dXdDbE0tOUQ2RlNueDNSbHNRMWRPMDVGOG5feHRydmZ3SERYNGhjWmt1aQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_051db3d827ea",
       "date": "2026-05-09",
       "title": "Guardians manager Stephen Vogt pumped to bring Patrick Bailey to team - Akron Beacon Journal",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdW1tX21MT3hNeURucGRHMzR2SGdhT3pNc01XUmsyM1AtSG9KMDBHY2NlWkx0OGtXcFJSRWJtVVllNk1vWnp5V3JzbUdJUjZEcWd2VXZLQnktTmczT2wwZGs0b2ZQaFZvT21TVG5jUUp3Mlg3dzFqX25fZVZXUkVkZWtmdmp2QTYwbnhpY3NqeUtvT2JGMGsxQVU2UTJhWHprNWJIclZrOTFWQTY3QkUzbUZITnhEZ3RTWjhIenlTQXFHcGY4Z1pucjhHTHBJTWszM3JqR0Zha0QyaFRWLXQzSA?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_e7c317efb7e3",
-      "date": "2026-05-09",
-      "title": "David K. Lee: Servier Pharmaceuticals Finalizes Acquisition of Day One Biopharmaceuticals - Oncodaily",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjQlcxdV9saDhONWdQMkJQNjYxQ051WTZaYlA2SjQ4c1ZTcGI4S190aDMzQlVfQ3RUdFJrY0dfTlZfTVpKangtR0ZjRmEzS25mMEVBVlNNX21ZM00?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_d4275d7101da",
-      "date": "2026-05-10",
-      "title": "Flossmoor approves acquisition of Dixie Highway parcels for redevelopment - HF Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPak1vamU0T3BkQVJxbklXVXdtdkdOUkhzTlIzZ0J6YmVWNjVJZ0dWNUtaVXAzRHZvRUlVMi1sVmdpRm93NXh0dU15cXJ2RUZQU2Z6Vzc3VGtvTFVfQkd1cHcwbml2aHQxcFdpQXZYNTA0RDREbkNtREJSZm94NFZVTjhaalkySnZYdk9JR2ZJYUJnQkc1b0ZwWDhDcEQ3WEpZUHFNRUVKUncwQ0w4VmpkbWFFaw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1013,10 +973,20 @@
       "score": 0
     },
     {
-      "id": "us_dae91655b3f0",
+      "id": "us_a3f5d5d54b06",
+      "date": "2026-05-09",
+      "title": "Calpine Acquisition Strengthens Constellation Energy Corporation (CEG) as a High-Growth Utility Stock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ010dEVBenpwSzNmT29rTGswb1BpaEFqbFBzWExaOGREWEcwb2ZTV1g2eUROOFpTMGd5dkxIU2g4M1JqVTdCWEI4M0ZQTWhGOGZtMGdiMVdYd1oxUHhaV0xVaUhha01BYmQyY1hIeWFHTjkzWDVkT3FIMW1KN3NQY3p4ZDZsWGJNVDhXUDREM0x2YkpuT3dWRUNIb3VjcjlxYWotYTR6aVJYT2NSZEJJZXBWZEZZeE51?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_e88159118c44",
       "date": "2026-05-10",
-      "title": "Treace Medical Concepts earnings beat by $0.03, revenue topped estimates - Investing.com Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTIyZ3dhLVBEbHd4a3daQVFaWDlnMmZRcGlHSUtuZHNGbHpKd20zeUQ4N2o0T2ltRVM0ZFlCdmc4NldJZW50Y1N6cW12TWViYjRPMkFubU1Bd0dxXy1GdHhoVkNNSkxSZTZfVElvRTVkeldnTjM1T1dsOXVmdWo2TmZPOF9MaW1PYWVSZ0gzb3cya2FSSmtqMlhJZHFYXzBnM29RX3Q3RU4zWnY2WG1XTDdNMlExOHM?oc=5",
+      "title": "Does EQT’s (EQT) Earnings Beat Reframe Its Core Profitability Story Or Just Timing Benefits? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFhoY1BTVmhBNk9RQnFPcTZUNVNzTUZtRFJ2eXR3UUF6VExjWk9zQ0NRZ05rc1BMTFltQnM1blJZWEIxWF9Fd3VOcTFnMFR3eWhTejk1eVVxWV9qWmV6MjdiQzAyRWpnWm5sMjdQdFZ2X2NTOThER3ZpbFNKOUgxVDRyM2o4OXlnQmpFSDZKLWthblZZNkVwQ0U3eUFaUmJ1V2hCRGNlOHhwam5NdkpVS01FRzFaRFpM0gG-AUFVX3lxTE9iRnJUYVU5aFJ0ZGdOUlFIdDJfM29GYlZrcTJYR1NmM3Nhbnoxd2R2SzNkdGFJUEhxVnpLaTdJd0lhYzZIYllWbTZmcWNBX1JRdHVQME9zSHpLeTlIcE42dDE2a0piVm1DUUQ1blRPc0tkRzZkLUU5eTNlWXFVeE9UYTlkTUlsbS0xLWJ5NmxqTUxNVjJFTG1vVWROZDdpU3ZmQXlmUjFmXzBMc2Q3QkVEM3RyVnVrZGE0QWdaNXc?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1033,30 +1003,10 @@
       "score": 0
     },
     {
-      "id": "us_3328e4fc0ba4",
+      "id": "us_f3e15881eeae",
       "date": "2026-05-10",
-      "title": "A Look At GigaCloud Technology (GCT) Valuation After Earnings Beat Guidance And Buybacks - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNXZHdGRTY1E0UHJMd1J5R3oxcWw3UGoxWlo5ZktSUjZNMmFlenVQQ3Q0eGpZR3gwc013Sm0wc2l6d21XYlMzN05hUzF1bUlhaWN1RFpNcE92QlVOV1RQNV9sOU95Rmp3TXBqVlpkdU1aNjdtZzdyZU4zMzZFazdsRGJmYnp6R0dkUXJtcGhwdHdDcDJzLVR3UGlkRHZsanRvN24xcXYyT01BTDJCcE4yektQdUcxTHI5S0k3VjJFMUt3Zlk5bHYwR1pnTU45LUhBLWNF0gHYAUFVX3lxTE41c1dUay03MF9rTkQ0cG92U2lmYjZseXJlT0Z4OHJwaURmZFJ0cnBiQzdjR3FkVUVrSlQwMEMwYWVHQlQ5dzhTX0QyckxjaHlxd185bVFQOHcyVGUtekpoZDB5R3lRYVFlVTBwZHRYVXZ3LVFfNGVyNEpGOEM2bllVbWlEdzZoX0ZYN0hpMXJhaWJKWUJkQnV0VW8tbmhaVDZNMXR0Ymt5Nk04MmdkQU5haHpsOVZ6dEN6a2UyY2Q0Vm1pb2tWTGJfcjJwc09MS0tVa0ZtVTRMNQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_d2f68605bbf1",
-      "date": "2026-05-09",
-      "title": "Should ICU Medical’s Q1 Earnings Beat And Return To Profitability Require Action From ICUI Investors? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3k5WUYzRnpQaGFYdTRLTWhEZE9OU19RVHVoX1J5V2VoR3JHTmc2YjFlTG5UWnJrNWNOT2JJbkdUT2FlendFV2g2eFFzN2t5TFktT2JjYjFHUXM1YzVidlNPNHRxaEd0SU9LZmdYRlBtT3J5SGV2MnNScUx1bFdlY19wcm1xTFNuczlxcERWbVFGUUc4RGNTaw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_65137f091e3a",
-      "date": "2026-05-10",
-      "title": "A Look At Graphic Packaging Holding’s Valuation After Its Q1 2026 Earnings Beat And Reaffirmed Guidance - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOEx5Uy1pN1lxMWRTc200a25lYW1HX1hXaGpPbFlXd3I0NTRGTjRyUUhTcnJGYnBtcks0U2ozS0dfTWlXZjU3TDZOSUxTbWVHUENXdmZjeHJQQ0lsQXRNV3E4cGZKNXlkZ3ZTLV9ZdjlRU3UzVUZVMjNDT1AtU3RnSk1wMlR3XzFTY1VGQXlkV3EzeFo4Rm1NbklmWEFpVkR3dkVxUFk2amI5NGdzZld4TkU0WDdJSnJUZzNHSndTQjFaOHJtTDBnU09rN2hWNWRZbld2NndmTC3SAd4BQVVfeXFMTjlVLWZ6dFJGX3R4Qkp5UDl0Qk0tdk56S0E1MHUzc2lMVXdfendWVmdqdXBhMnRBbnR2RmY3eVdEejJSUWdTaTBSazQtWHFvenM0cjIyQ0lrWXF6TC1fZ2ZDZ3pBRkgwem9lM3g4VTZOMlFvZGVKTUN5a3V4ZHUwRnloNlhaSkRneTJ4ei1NZWNWaXhWQkhTNmNVaHp6alRBajJ4MTdzcW85eVlCWXh2ejFqeGwteVZNZkJBLXRvX2xYWVlETzZMdmE3NFhjMUFMV1RrUTUya21rR3ZpcG1B?oc=5",
+      "title": "A Look At Allison Transmission (ALSN) Valuation After Dana Off Highway Acquisition Reshapes Q1 2026 Results - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTm5OV3MzcHQ2XzNNX2JJRS1yY2p5dmxNMmRRWUpHcjd1STRIZUNnZEtOVVpIajZJSHZYd3FKeG1KblBHVHBjMUhwU3owc3FZUWJPdGgtOW1HaFdvRzNTNDNnYzMtUW51NmZjN2FSM0gtNGN4R284THQ5YkU5c1RqWjlnUlFiVDRKeVdlbjZsTlU5YklWT0w3bzZQbXd1U1hsNWRIS0dTTUZoazM4UHlpLTBka0V0UUd2NmVBR0wwM3VxSktCQk83RFZxX0Z6V1V0WXYxUW53MmdnYnpCOHdpaHdLQUREdS1a0gHuAUFVX3lxTE4ybjZLRjJISU1iTTZQUzhCMmluaVA1bnhIZnM2WVpjWWxQWE5CVnZ6SFo4ZUwwYmVHamJkYlpmNGR6eXMydHVBQkNGdXZramdFcDJEZEQxdHdPRWs2NVVPUVpsMVJNNC1CUVRoUlFEYjBsUFNwd1dpbE00U2Z2RVNtTzlPZy1GZncxOUxhSTlET2hBUmFBYTBnSmlwQmNxZ1BXc2RGLUpiZERNQV9IT194ekpwN1cySE9KZFJSYUQ1bGJmVGVEdE5JRGNidGswMUMzdnFrZ1hqRWp5SXFTZ0lIYnBDQm0wb0tHVktxWUE?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1073,20 +1023,20 @@
       "score": 0
     },
     {
-      "id": "us_68cf92489208",
-      "date": "2026-05-09",
-      "title": "PPG Q1 2026 slides: aerospace drives earnings beat amid inflation - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUJJTnFBTHZ3cFY2TUctYjcwd1NFZ1dvMmptc25NczB5UnU2RzRhSHdvX1BkUDV6X08wd2o5XzJWSnM5T056MnBHaGR5WHc5NU5qVE1ubFBzc1lPLWg3UVpsUUgzeVZOcWVrbXdHZlg3SzlzQWkxSkdtZThvNDkxalYtN01XNlk3M1gxeUNuMTA4WXZHNkZNeEExNUt5dE9kRjdHSXFnSHU1Vi1lMEtOel9OVS0xT0l6cEZjZXJn?oc=5",
+      "id": "us_c3115581a834",
+      "date": "2026-05-10",
+      "title": "A Look At Celsius Holdings (CELH) Valuation After Strong Q1 2026 Earnings Beat And Integration Progress - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVkgtMmp0dnBkckVIdnBiTk02eEdzM1h0ckhWNk1uSlNMM05rLVVSWW82VFRzS0ZHaXBPaWdER1daR0RadG9aMWlOWlo0b2o4d19YaFJyQXBxUndoSzhyZzVTYTVteGg0MmZWOWZjRVpSaHJMMVY0Q3FSbjFTQ2l3OTJfOWgxSkFUX0VlTzFibzVLdGxCLVc3R1NQbXFnUmxhXzltaFU4YjRSTUN2VV9jQlU5OWwtaDdCNGZNMTlWM2RxVzJWclNfekNWQ01laFJfdlIxMm02RUptbjVabENhQnp30gHnAUFVX3lxTE1GOENCRG83SVl5ZGpMTi1xNHZGdWY2aFlYYlhBTGlIVk1VWGRBUVhscU54UGlvZ2hqT3Y5b21ENHBsRExEVHNnX1IySHNOQ19lbkkxeC1PTUxPaXRzRVF2NWphRnFuZWdkaDk4SXFJelNOamlmVU9lSjhZUGdjZ3V5ekFIbnhpWjlsVTRvQ1B5ZXJqaGwzYm82WjZwam1jTXVCOHJKaER2QkV6eGFhWWhxUHh3SzY0YWhMZ0tBQXdjb19fXzlsWEo1dmxtc2ZleEtVZllaR04tdXBLLXF3emxvcWdFNW16Yw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_4a8b431036b1",
-      "date": "2026-05-10",
-      "title": "Assessing ITT (ITT) Valuation After Q1 2026 Earnings Beat And Acquisition Momentum - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPajlsYUZLTmdxbDM2VFVQNGdRMWc3NjVpaXZXcmlONlhocm5IdTNnSmN2Q1VLTTBHcnNqc01BTXYtU1hsLVdkZFEtSTRVSG1DUlBLNHpnNW03TEQ1UDFaM29ZbXVNVjhEbkxnOHR0OTYzbGdFLWFnOXloVkdBek5neHpzWGpmTEctUHMxMGQyZEhnWWdmc1E1c2w2ZElJYVdMdDR4NTJXNU9VcVR2aF96eWpfMWhSVFhJMk5mR3FMbmfSAcYBQVVfeXFMUFhWMWVjUVVKMks1eVZsU29TSEpJOGd5VFdqUDEyTzY4N1pMRUdyckhjbENOOUcwRW5QalhzMGlVUUU5LVduUWhNa2liel92OFJfUW5tUmFEU0FEeGY5SGhCb0h3UkpBTWw5UnRoNUNLUTZEdlJNdWlqT0JqRU1qdDFpZFd0NEZISlRKMTVOUzM4ekl3dm5PZHVSbDFTdTBueF9ZZDRHdTZUNzd6U2lFcV83S1NhcERRR2tCZnRHVVo2SENYOWVB?oc=5",
+      "id": "us_d2f68605bbf1",
+      "date": "2026-05-09",
+      "title": "Should ICU Medical’s Q1 Earnings Beat And Return To Profitability Require Action From ICUI Investors? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3k5WUYzRnpQaGFYdTRLTWhEZE9OU19RVHVoX1J5V2VoR3JHTmc2YjFlTG5UWnJrNWNOT2JJbkdUT2FlendFV2g2eFFzN2t5TFktT2JjYjFHUXM1YzVidlNPNHRxaEd0SU9LZmdYRlBtT3J5SGV2MnNScUx1bFdlY19wcm1xTFNuczlxcERWbVFGUUc4RGNTaw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1113,10 +1063,70 @@
       "score": 0
     },
     {
+      "id": "us_dae91655b3f0",
+      "date": "2026-05-10",
+      "title": "Treace Medical Concepts earnings beat by $0.03, revenue topped estimates - Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTIyZ3dhLVBEbHd4a3daQVFaWDlnMmZRcGlHSUtuZHNGbHpKd20zeUQ4N2o0T2ltRVM0ZFlCdmc4NldJZW50Y1N6cW12TWViYjRPMkFubU1Bd0dxXy1GdHhoVkNNSkxSZTZfVElvRTVkeldnTjM1T1dsOXVmdWo2TmZPOF9MaW1PYWVSZ0gzb3cya2FSSmtqMlhJZHFYXzBnM29RX3Q3RU4zWnY2WG1XTDdNMlExOHM?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_3328e4fc0ba4",
+      "date": "2026-05-10",
+      "title": "A Look At GigaCloud Technology (GCT) Valuation After Earnings Beat Guidance And Buybacks - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNXZHdGRTY1E0UHJMd1J5R3oxcWw3UGoxWlo5ZktSUjZNMmFlenVQQ3Q0eGpZR3gwc013Sm0wc2l6d21XYlMzN05hUzF1bUlhaWN1RFpNcE92QlVOV1RQNV9sOU95Rmp3TXBqVlpkdU1aNjdtZzdyZU4zMzZFazdsRGJmYnp6R0dkUXJtcGhwdHdDcDJzLVR3UGlkRHZsanRvN24xcXYyT01BTDJCcE4yektQdUcxTHI5S0k3VjJFMUt3Zlk5bHYwR1pnTU45LUhBLWNF0gHYAUFVX3lxTE41c1dUay03MF9rTkQ0cG92U2lmYjZseXJlT0Z4OHJwaURmZFJ0cnBiQzdjR3FkVUVrSlQwMEMwYWVHQlQ5dzhTX0QyckxjaHlxd185bVFQOHcyVGUtekpoZDB5R3lRYVFlVTBwZHRYVXZ3LVFfNGVyNEpGOEM2bllVbWlEdzZoX0ZYN0hpMXJhaWJKWUJkQnV0VW8tbmhaVDZNMXR0Ymt5Nk04MmdkQU5haHpsOVZ6dEN6a2UyY2Q0Vm1pb2tWTGJfcjJwc09MS0tVa0ZtVTRMNQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_68cf92489208",
+      "date": "2026-05-09",
+      "title": "PPG Q1 2026 slides: aerospace drives earnings beat amid inflation - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUJJTnFBTHZ3cFY2TUctYjcwd1NFZ1dvMmptc25NczB5UnU2RzRhSHdvX1BkUDV6X08wd2o5XzJWSnM5T056MnBHaGR5WHc5NU5qVE1ubFBzc1lPLWg3UVpsUUgzeVZOcWVrbXdHZlg3SzlzQWkxSkdtZThvNDkxalYtN01XNlk3M1gxeUNuMTA4WXZHNkZNeEExNUt5dE9kRjdHSXFnSHU1Vi1lMEtOel9OVS0xT0l6cEZjZXJn?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_65137f091e3a",
+      "date": "2026-05-10",
+      "title": "A Look At Graphic Packaging Holding’s Valuation After Its Q1 2026 Earnings Beat And Reaffirmed Guidance - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOEx5Uy1pN1lxMWRTc200a25lYW1HX1hXaGpPbFlXd3I0NTRGTjRyUUhTcnJGYnBtcks0U2ozS0dfTWlXZjU3TDZOSUxTbWVHUENXdmZjeHJQQ0lsQXRNV3E4cGZKNXlkZ3ZTLV9ZdjlRU3UzVUZVMjNDT1AtU3RnSk1wMlR3XzFTY1VGQXlkV3EzeFo4Rm1NbklmWEFpVkR3dkVxUFk2amI5NGdzZld4TkU0WDdJSnJUZzNHSndTQjFaOHJtTDBnU09rN2hWNWRZbld2NndmTC3SAd4BQVVfeXFMTjlVLWZ6dFJGX3R4Qkp5UDl0Qk0tdk56S0E1MHUzc2lMVXdfendWVmdqdXBhMnRBbnR2RmY3eVdEejJSUWdTaTBSazQtWHFvenM0cjIyQ0lrWXF6TC1fZ2ZDZ3pBRkgwem9lM3g4VTZOMlFvZGVKTUN5a3V4ZHUwRnloNlhaSkRneTJ4ei1NZWNWaXhWQkhTNmNVaHp6alRBajJ4MTdzcW85eVlCWXh2ejFqeGwteVZNZkJBLXRvX2xYWVlETzZMdmE3NFhjMUFMV1RrUTUya21rR3ZpcG1B?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_4a8b431036b1",
+      "date": "2026-05-10",
+      "title": "Assessing ITT (ITT) Valuation After Q1 2026 Earnings Beat And Acquisition Momentum - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPajlsYUZLTmdxbDM2VFVQNGdRMWc3NjVpaXZXcmlONlhocm5IdTNnSmN2Q1VLTTBHcnNqc01BTXYtU1hsLVdkZFEtSTRVSG1DUlBLNHpnNW03TEQ1UDFaM29ZbXVNVjhEbkxnOHR0OTYzbGdFLWFnOXloVkdBek5neHpzWGpmTEctUHMxMGQyZEhnWWdmc1E1c2w2ZElJYVdMdDR4NTJXNU9VcVR2aF96eWpfMWhSVFhJMk5mR3FMbmfSAcYBQVVfeXFMUFhWMWVjUVVKMks1eVZsU29TSEpJOGd5VFdqUDEyTzY4N1pMRUdyckhjbENOOUcwRW5QalhzMGlVUUU5LVduUWhNa2liel92OFJfUW5tUmFEU0FEeGY5SGhCb0h3UkpBTWw5UnRoNUNLUTZEdlJNdWlqT0JqRU1qdDFpZFd0NEZISlRKMTVOUzM4ekl3dm5PZHVSbDFTdTBueF9ZZDRHdTZUNzd6U2lFcV83S1NhcERRR2tCZnRHVVo2SENYOWVB?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_31d7138cebcb",
       "date": "2026-05-09",
       "title": "A Look At Alarm.com (ALRM) Valuation After Earnings Beat Guidance Raise And New AI Tools - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbV9IcTlxNmtOTHNyOEhLODNCSXBIcUp5djY1U0NBaW0wUjdjZWVyZmlSRDdQOGtOSjRjS3BEbDNvcl92UGhkaDVQVlNxc0ptWkItR2NKam04SlRiLW80THA3TTdQWi1kcEZFRng2eFNLWGJmZEt4WU1uaW5PTWdMSnVNd09xdGNaaVRSTVI3QzlnNmlXaThGNkFR?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_e7c317efb7e3",
+      "date": "2026-05-09",
+      "title": "David K. Lee: Servier Pharmaceuticals Finalizes Acquisition of Day One Biopharmaceuticals - Oncodaily",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjQlcxdV9saDhONWdQMkJQNjYxQ051WTZaYlA2SjQ4c1ZTcGI4S190aDMzQlVfQ3RUdFJrY0dfTlZfTVpKangtR0ZjRmEzS25mMEVBVlNNX21ZM00?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1133,10 +1143,90 @@
       "score": 0
     },
     {
+      "id": "us_e5ea21ac8846",
+      "date": "2026-05-07",
+      "title": "KLA Corporation Announces Ten-to-One Stock Split and Quarterly Cash Dividend Payment - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc18yZEItYk9zM3czekFLX1BqZnB4OXJPell4cldwNS0yd1lHSkJvbTBwckdXaXpieWNxVG9VdnpNX0ZpU0F1d1dTRHJ1Z0xMM3hyUV8wakJkOXRpRjBkU2d4bmZmQ3hBVHVrUzJfd0t0elZGSGlnVVlPR0NzRmcwcHBnOU1SaGJYeVZKLXptRkJpNGFyMC1yZ0ViUlg0aGVoX0x1bnVMczkwX1F6dkxKMWJteGlMQ1V0Yk00RHE2UEVBNGJNTjU3SXhwdmVPX1ZaTWNmbzBnZw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_97c5e2ad0ce4",
       "date": "2026-05-09",
       "title": "A Look At RTX (RTX) Valuation After Q1 Earnings Beat And Major Defense Contract Wins - simplywall.st",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc0s4em9KZTY1SG1UODk1OWlFeHVLdTZSbks3emZoaVlmUm1LR180UTgwdjJDZWFPcmp0bTN4OHZDd243M2FwQUsySTJYQlVpbG1WVURVWkh6TTRNOHVReXFaU3Rac19ySUdYZ0pzeGVRX1pVWUwxYmpMZjR4dzZnRUY1OW9Tb3hURFctT015N3RHNEZ1cl9PTlZLb2YwWF8yUm01d0plbnV0eG5RNk1yelZvU0ZrR1Z4VXE5eEtBQVdOZ9IBxwFBVV95cUxORFdLNV9SZDI2SDdkc2RLWEwyNENnYW9xblVzMV9BMEJrcmFFRnhKdElFZXZXbk9jQlI4M2M5R1NWS2w4N0c2RU9Ka2tqRUdpTUZHLUswVDMySHZLUmZ2RUJRdE9DVTktYXh6TDV0VV9Sa0NfSEI5eWVKUWhQS2RuZEc3N2plRE9kd1B1NDRVLWhmVm5kQV9aZW5hcWRwZlcwbDY5RXZKNHdBSTNDSEx4TXdFTVRjWDJsNFpmeENtMzdhWUxrNGVV?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_673b35c46920",
+      "date": "2026-05-08",
+      "title": "Shell Q1 Earnings Beat on Trading Strength, Revenues Miss - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNWtRbEJqZmhHdU41MVVLUmJKSzNLbHZFRDVOcWpBRzhGU0w4UTdXWXlYSUNMUFRud3Q3ZzNpX2Y2TGQ4YWdFY09LSjNzRF9Md1lQbzFjYlRNbjAzeElsM3FIOVlaNVF2TjE5cDhKcjJKYV9HOWYtUndNRW9fdEtfUzBLUjFKVU5ya2hQT0w3a2FWVnpBWk4tajJtdw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_cbb08fd81285",
+      "date": "2026-05-08",
+      "title": "Kraken parent boosts card capabilities in $600M Reap acquisition - Banking Dive",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnpIMmc2TzVic2t3TGtFeXdJMDNiTmhGNkdTZUJPZE5pOEIzX3JwcUV0dks4NnJQblJhS2hiMDktVWEtdG16R0s3X29tbzEyZHZxRjN4TnctS0VVdjNQNVN5NVZQV1ZGZ2xwQ2Z2RGcxSzZVSlc0RUVKSC12cEgwb2FDdTZaVzBNX1hGN3VxTEd5OGM5OHQ5ZDM2V0MxWU1CYlJv?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_5111b984a469",
+      "date": "2026-05-09",
+      "title": "A Look At Beam Therapeutics (BEAM) Valuation After Earnings Beat And Positive Clinical Updates - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2tXX0FGbVBYUGFQZmRxQjhlcGdrZkd4SmZISWJnMjhiZ25GdHVkVkVnSHMyRlVrbFpKNk53SjBZNHk3Y1pPbVJJV2hQZnd2QTdWNzNoeERHUVdwanVjVE5rZHR3VzFxMGFNSUFZSlB6T3hzTUJ1NEZBNkYyOTJSQmtFaDJvcHZSQm1ndWVUZ1kxRElmaDVkQXhKdEVFZ2x5NzdxMXdGdlhOa1BDNmw2Ul8zM1d1S2k1SXd3U01nTkpSanZhVEhjX2hyQWFwY2ZjSGVqNzdZaXA2ZjhUYmNqQWt5NWdXUdIB6wFBVV95cUxQVWhoeUNmN242Q2k1Xy1pcjZSNGpvOXV3SEo0VHZsU2gzR2h4bGtfY0FpN0ZRSURfMHozT2RuTVZVaFlOQlViZExfNkZ1ZndxMXM2NDIyazV2UTZxM0hYcU5NUVFYczliRHRmNEJUdDFrNkNfWFFXbXNmamlJSTBLMVpzd2Y0VW1hVWVOZUktLWxZc2pDT2xwRU52M3N5amZYU1ZidXEwOE5KX1pWUWVmbXpIU3JyYUNuMklMQXNSbHRxazBCMkdkNlpzbVVEQUZjTS1zZGgxSFZNZTN3YXhkaUhRUXNuSmZtR2Qw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_86a61b338c0c",
+      "date": "2026-05-08",
+      "title": "Monster Beverage's Q1 Earnings Beat, Energy Drinks Unit Sales Up 27.6% - Zacks Investment Research",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUC04a1YtVnpfV2JtTXlwUEF0ZU9xZnhySXZVMDJWOENpa3BWZXdUOGdFbk5MLVFMbTBSNzhRYjdfVXg1WWFiMUJLc3B3ZC0wNko0Tm1zZlN6MWFBeFRIdzlmeEFGVktBVjJpZkdWVUZ2V0gxSUUyREhNTjBXRTFwLTdQOXRxV1dIamh1Um03V0dIM25HdmNMb0F2TmU3ZWNOLXcwVW02SHpVdWs?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_a3ee8dd71b9a",
+      "date": "2026-05-09",
+      "title": "Plains All American Pipeline earnings beat by $0.01, revenue topped estimates - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdGJVcjNxTFlnZUUwU0M1Z1BGZWxkM2w2VWlRaHVjMDZPSk10NXQ1ZGVYdld1UFNZaTRLUnBxNkt2UU84TC00QzhHMG00Sy1oYUp2S3BvYUkyRlY2NG5rX1lGVWJLb0NEQjBTUkZWQVhFSEE2R3VaRFladzJEWnhGWUZxQ05FWXhmRnRoNExLV2oxNEkwN2kyZmdoVHJKSjVFdW4tNm04aWFUOXNQaHE5bDlHYTVfdnhKOFRQOXNfNA?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_438c2ea2ddaf",
+      "date": "2026-05-09",
+      "title": "Koppers earnings beat by $0.12, revenue topped estimates - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYlktWHlBSWFPWmxxN0t5QTRkbENRcW1sdTdzWlZYazF4MGc0UURoYTlFdWg0enVDM0tqUTRGNm5GdXphc0ZfY0VvWXdmLW03MGJSUkJ4bEo0czRlYTViZWNwWlV4R0M4a0QwaFdzajBKVVNRRy1fU0pIX3BQQWNwWGdfVXhqTG0weERNTWdhc3luZmZjTTBycjZ4YTRJOVZYWjhj?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_82fb8c416d0d",
+      "date": "2026-05-07",
+      "title": "eXp enters the franchise business with NextHome acquisition - RealEstateNews.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlBJeHh0TFM0RnBKakg0YkRCR2JGYkpMbDZqWFBYbG9QUjRVdVl4dmxaanVNYnNobUtaaEs5a1RIeG95QlNPb25JcWRHQ1d0OVp1QjRRX0loZEV1X1BydUw1cVBpYTFELTZxeklNeEFtYnFOWGtVbU1MZzFvVnFqUE9RcTlfelFqcV9HemhtaDU3Wk54VDE1OE4zNnpHM2NVa3hz?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1153,10 +1243,50 @@
       "score": 0
     },
     {
+      "id": "us_23094bc284d7",
+      "date": "2026-05-08",
+      "title": "Joy Bridge Kids Steps into Adult Services Space with New Acquisition - Behavioral Health Business",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOanBQRTlpOUNjdnhYQ0taUmdZNXV2ZXFUNnk3cW1jcE1Tdk02cGxSQ3VUQTI5UDBQXzItNXdMV3FTRTE5S0cydTFTdnN6QzJvdHFBd1dRZVZIOEZaVmtHMUZOeXF3ZmFBblpBRGdGMXVCcFhfbDJmM3A3SlRESDJ3cDBTOEdYZWc2ZjNJLXVRXzVjYTJVTFlSaWl3el9DVlNTWXc5d1d3?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_0955be52b301",
       "date": "2026-05-09",
       "title": "Earnings Beat: Acadian Timber Corp. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU3RTWGg1aWhDd185N05OakY2Vk8wMXFsYnB4TXkxRnFTTW5DTGM5a2FaTGc0Q0dZSkFfQzREMml2VllHZTZES0NHNFFwWVI5cDJGWUFCVk90MW9pSFRFb2t5Ujc4ZGJfODkxakxpem9aOHQ2YjE5Q0FVVGxtS1luUGNtQmE5R2FreldQTkNyWmFQVGk4Yk42bWtEMEFnRjQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_c1ab8913b5d8",
+      "date": "2026-05-09",
+      "title": "Assessing Flex (FLEX) Valuation After Earnings Beat And Planned Cloud And Power Infrastructure Spin Off - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVUpWSGZHdTd3Yy0wbldmQWtkWVdCNU9pOHI3MDZibERTdnB1Z2h5S1ZkUnFaTzhlLU83c0lSb09JTXVLdVV3aU9tQy0xX3dwY0dSZE1uN3FZRFpQa3RMNEZhc3lRSE82MHVoc1ZZZXhzaV9oOWVRNTZtMkoyVVM5Wk51UU1ISXhZdDE3cElnNkFWRHNLYkFlSk1zbGR2QUxGOG9xdEFFbGhjdVNoeTAtcFQ5ak5mZXdzbkNn0gHAAUFVX3lxTE9iNTFvUEhraTFQbTd3Rlg5bmI1QU83WEp3dWs3cVFVWXNiejJCM2o4aGJ2d2pqQ0U4aFA1YlVYOXlIMkk4Rm1GRGVHNTZuajBadk0wZHVXZV96Zk9vdG8zUHBMcE9iYzdXMk45Z1FMa3d1Y1BweGF4WXZxclN1XzhCVlBMNFlyTDhCT1NCbmFPT2FLYXNjaTBianBMWjR4QkJub2I3UzRlYU9nWndBWDgycW83UmhNY1NZV3dQNExoUw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_83d5eeb8be03",
+      "date": "2026-05-09",
+      "title": "The Bull Case For Nucor (NUE) Could Change Following Earnings Beat, Guidance Hike And Insider Selling - Learn Why - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUzhPYXJYZUg3UEZFbUJHTUZjdGJfQjh3X3dIQm4tZ05JZnpWR1VFa25RMDZUbEFKcmE0V0JXQWJULTNPZzBtLUpXSTYtSDBxQnhXQlpjakZ6eFFrSjZpV2VVaXRNMXJoSW1ndEVMWHA3ZkgySWprLVRVYi1lX3RiRmZtNGNpTXdFRzRlOHVMdHNSeTJER0FsaXFoUWs4VlhySmc1ejY4NnJwb0JCeVlwZFlLLXY5X2N5QVR2aWxR0gHDAUFVX3lxTE1TbnM1bS1CWkhOSUxBRUV4SnJSRW9hWkpoOFZWRTZwQWZUdmZvLVJnbTJSamMyQ2VZRFN5NmZqM1ZVd0tjMWl5VUp3UG5LbEoxdWxTTnpMbWQzcW5MN195b2VEbUdJaXBLNV9MQWxiWGx1T1ZsWUU4RHBsUDdkTUIyWmRMNHdacXRBbGdxbkoybmhBTFVVVXpuWFBoMzFqTU9zUWlTUXI0UHpseXBoQU1Ocmp5cXVxZGJYUmkwTkZVME9wVQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_6163ca56d207",
+      "date": "2026-05-07",
+      "title": "Shale producer Devon Energy approves $8 billion share buyback plan - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVFg5SkhTVjl2Q1NWTXdVdUFzMVk3UEpVSU5KSjcxT3hIVDBWZWNia0pmRkFkS19Ic05kZ3dWTjdoZGZRZXV0Xy1GQXJtLU5IUllmSk5ISFprRE5CN0drMXZ2YU9jcWpha2R3cUM3SF9MMnVVTzluaV9uWHRUdm9QWVFCN2FmczVtWUZjLTBvS2NvOE1GV3RKZWdwS3VWSF9pWU9ZekhVN1MzZXQ2TDVENjRzdnRIR241bWc?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1183,190 +1313,10 @@
       "score": 0
     },
     {
-      "id": "us_5111b984a469",
-      "date": "2026-05-09",
-      "title": "A Look At Beam Therapeutics (BEAM) Valuation After Earnings Beat And Positive Clinical Updates - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2tXX0FGbVBYUGFQZmRxQjhlcGdrZkd4SmZISWJnMjhiZ25GdHVkVkVnSHMyRlVrbFpKNk53SjBZNHk3Y1pPbVJJV2hQZnd2QTdWNzNoeERHUVdwanVjVE5rZHR3VzFxMGFNSUFZSlB6T3hzTUJ1NEZBNkYyOTJSQmtFaDJvcHZSQm1ndWVUZ1kxRElmaDVkQXhKdEVFZ2x5NzdxMXdGdlhOa1BDNmw2Ul8zM1d1S2k1SXd3U01nTkpSanZhVEhjX2hyQWFwY2ZjSGVqNzdZaXA2ZjhUYmNqQWt5NWdXUdIB6wFBVV95cUxQVWhoeUNmN242Q2k1Xy1pcjZSNGpvOXV3SEo0VHZsU2gzR2h4bGtfY0FpN0ZRSURfMHozT2RuTVZVaFlOQlViZExfNkZ1ZndxMXM2NDIyazV2UTZxM0hYcU5NUVFYczliRHRmNEJUdDFrNkNfWFFXbXNmamlJSTBLMVpzd2Y0VW1hVWVOZUktLWxZc2pDT2xwRU52M3N5amZYU1ZidXEwOE5KX1pWUWVmbXpIU3JyYUNuMklMQXNSbHRxazBCMkdkNlpzbVVEQUZjTS1zZGgxSFZNZTN3YXhkaUhRUXNuSmZtR2Qw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_a3ee8dd71b9a",
-      "date": "2026-05-09",
-      "title": "Plains All American Pipeline earnings beat by $0.01, revenue topped estimates - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdGJVcjNxTFlnZUUwU0M1Z1BGZWxkM2w2VWlRaHVjMDZPSk10NXQ1ZGVYdld1UFNZaTRLUnBxNkt2UU84TC00QzhHMG00Sy1oYUp2S3BvYUkyRlY2NG5rX1lGVWJLb0NEQjBTUkZWQVhFSEE2R3VaRFladzJEWnhGWUZxQ05FWXhmRnRoNExLV2oxNEkwN2kyZmdoVHJKSjVFdW4tNm04aWFUOXNQaHE5bDlHYTVfdnhKOFRQOXNfNA?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_9c6549d4c2ce",
-      "date": "2026-05-09",
-      "title": "D Wave Quantum Acquisition And Supremacy Milestone Test Commercial Potential - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaVg0SGFkRDVxdHdQdVFTdl9wMG01dzR0bVpVVGZjODN3Vngza2JNeC0wclNCcWVPV05vZXV1akR1UHk1c2ZiaWF4Tm5qRWFDRWNWY25xQlU4c1NrSXdsUnJWc1JDRGhUaURpdXhrSVg1VmlfS2x4ZkJndXRvRjhsY3A4UmtBWlJLWktrY3BR?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_83d5eeb8be03",
-      "date": "2026-05-09",
-      "title": "The Bull Case For Nucor (NUE) Could Change Following Earnings Beat, Guidance Hike And Insider Selling - Learn Why - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUzhPYXJYZUg3UEZFbUJHTUZjdGJfQjh3X3dIQm4tZ05JZnpWR1VFa25RMDZUbEFKcmE0V0JXQWJULTNPZzBtLUpXSTYtSDBxQnhXQlpjakZ6eFFrSjZpV2VVaXRNMXJoSW1ndEVMWHA3ZkgySWprLVRVYi1lX3RiRmZtNGNpTXdFRzRlOHVMdHNSeTJER0FsaXFoUWs4VlhySmc1ejY4NnJwb0JCeVlwZFlLLXY5X2N5QVR2aWxR0gHDAUFVX3lxTE1TbnM1bS1CWkhOSUxBRUV4SnJSRW9hWkpoOFZWRTZwQWZUdmZvLVJnbTJSamMyQ2VZRFN5NmZqM1ZVd0tjMWl5VUp3UG5LbEoxdWxTTnpMbWQzcW5MN195b2VEbUdJaXBLNV9MQWxiWGx1T1ZsWUU4RHBsUDdkTUIyWmRMNHdacXRBbGdxbkoybmhBTFVVVXpuWFBoMzFqTU9zUWlTUXI0UHpseXBoQU1Ocmp5cXVxZGJYUmkwTkZVME9wVQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_e5ea21ac8846",
-      "date": "2026-05-07",
-      "title": "KLA Corporation Announces Ten-to-One Stock Split and Quarterly Cash Dividend Payment - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc18yZEItYk9zM3czekFLX1BqZnB4OXJPell4cldwNS0yd1lHSkJvbTBwckdXaXpieWNxVG9VdnpNX0ZpU0F1d1dTRHJ1Z0xMM3hyUV8wakJkOXRpRjBkU2d4bmZmQ3hBVHVrUzJfd0t0elZGSGlnVVlPR0NzRmcwcHBnOU1SaGJYeVZKLXptRkJpNGFyMC1yZ0ViUlg0aGVoX0x1bnVMczkwX1F6dkxKMWJteGlMQ1V0Yk00RHE2UEVBNGJNTjU3SXhwdmVPX1ZaTWNmbzBnZw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c1ab8913b5d8",
-      "date": "2026-05-09",
-      "title": "Assessing Flex (FLEX) Valuation After Earnings Beat And Planned Cloud And Power Infrastructure Spin Off - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVUpWSGZHdTd3Yy0wbldmQWtkWVdCNU9pOHI3MDZibERTdnB1Z2h5S1ZkUnFaTzhlLU83c0lSb09JTXVLdVV3aU9tQy0xX3dwY0dSZE1uN3FZRFpQa3RMNEZhc3lRSE82MHVoc1ZZZXhzaV9oOWVRNTZtMkoyVVM5Wk51UU1ISXhZdDE3cElnNkFWRHNLYkFlSk1zbGR2QUxGOG9xdEFFbGhjdVNoeTAtcFQ5ak5mZXdzbkNn0gHAAUFVX3lxTE9iNTFvUEhraTFQbTd3Rlg5bmI1QU83WEp3dWs3cVFVWXNiejJCM2o4aGJ2d2pqQ0U4aFA1YlVYOXlIMkk4Rm1GRGVHNTZuajBadk0wZHVXZV96Zk9vdG8zUHBMcE9iYzdXMk45Z1FMa3d1Y1BweGF4WXZxclN1XzhCVlBMNFlyTDhCT1NCbmFPT2FLYXNjaTBianBMWjR4QkJub2I3UzRlYU9nWndBWDgycW83UmhNY1NZV3dQNExoUw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_0aed1e1a52aa",
-      "date": "2026-05-09",
-      "title": "Fidelity National Info earnings beat by $0.07, revenue topped estimates - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGcteEZMVjlLSTVrZHlRRE84VzhOQXNpSFlTRHlzMTlvRDljRnd0ckx2VXl3WVprc2JnbDVCZXM4bkFqSG1TajBSS2FUS21YRmVIbFVLZ0RpeVh2d3M2ZzJPVWVmQ0VESjBpRmNvcFhJazVTb3RUeHhTLUxJRWhfM3FMdGZwWTRseDNZdFUxUG5GdjhVQTZaSTNrcjhtS2ZkeVhBSExyY002VmhZVGNCZ0Zrb3U3REU?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_cbb08fd81285",
+      "id": "us_41fd49df3cbf",
       "date": "2026-05-08",
-      "title": "Kraken parent boosts card capabilities in $600M Reap acquisition - Banking Dive",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnpIMmc2TzVic2t3TGtFeXdJMDNiTmhGNkdTZUJPZE5pOEIzX3JwcUV0dks4NnJQblJhS2hiMDktVWEtdG16R0s3X29tbzEyZHZxRjN4TnctS0VVdjNQNVN5NVZQV1ZGZ2xwQ2Z2RGcxSzZVSlc0RUVKSC12cEgwb2FDdTZaVzBNX1hGN3VxTEd5OGM5OHQ5ZDM2V0MxWU1CYlJv?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_7317b829fff0",
-      "date": "2026-05-09",
-      "title": "Grand Hyatt hotel acquisition sees Paradise Q1 profit down 56% despite higher gaming revenues - IAG – Inside Asian Gaming",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFRZU2tIeG5yNEdtVHZBOE94Q3RGYWF0bldHQVdKdXgwSDQtbFgtYjlzRGpBYXJSeVRDeGVHR0haOVUwS1JpcFgxSTVNRkV5eVhWSnctZVk2Rk5BckJxTjdBelZHRHBpSnJab3k2RDhRTkdrV3otdUVfWVoySTMxVnRfUEJNRzQxLVVCRjB5SzNqdFo5T2taNTlEWU9KQ3d4eFlIS01PbUxxTDh2eHhGTjctdkZFNEVYU0lEU0R1cw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_86a61b338c0c",
-      "date": "2026-05-08",
-      "title": "Monster Beverage's Q1 Earnings Beat, Energy Drinks Unit Sales Up 27.6% - Zacks Investment Research",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUC04a1YtVnpfV2JtTXlwUEF0ZU9xZnhySXZVMDJWOENpa3BWZXdUOGdFbk5MLVFMbTBSNzhRYjdfVXg1WWFiMUJLc3B3ZC0wNko0Tm1zZlN6MWFBeFRIdzlmeEFGVktBVjJpZkdWVUZ2V0gxSUUyREhNTjBXRTFwLTdQOXRxV1dIamh1Um03V0dIM25HdmNMb0F2TmU3ZWNOLXcwVW02SHpVdWs?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_82fb8c416d0d",
-      "date": "2026-05-07",
-      "title": "eXp enters the franchise business with NextHome acquisition - RealEstateNews.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlBJeHh0TFM0RnBKakg0YkRCR2JGYkpMbDZqWFBYbG9QUjRVdVl4dmxaanVNYnNobUtaaEs5a1RIeG95QlNPb25JcWRHQ1d0OVp1QjRRX0loZEV1X1BydUw1cVBpYTFELTZxeklNeEFtYnFOWGtVbU1MZzFvVnFqUE9RcTlfelFqcV9HemhtaDU3Wk54VDE1OE4zNnpHM2NVa3hz?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_23094bc284d7",
-      "date": "2026-05-08",
-      "title": "Joy Bridge Kids Steps into Adult Services Space with New Acquisition - Behavioral Health Business",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOanBQRTlpOUNjdnhYQ0taUmdZNXV2ZXFUNnk3cW1jcE1Tdk02cGxSQ3VUQTI5UDBQXzItNXdMV3FTRTE5S0cydTFTdnN6QzJvdHFBd1dRZVZIOEZaVmtHMUZOeXF3ZmFBblpBRGdGMXVCcFhfbDJmM3A3SlRESDJ3cDBTOEdYZWc2ZjNJLXVRXzVjYTJVTFlSaWl3el9DVlNTWXc5d1d3?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_1256e7238406",
-      "date": "2026-05-09",
-      "title": "Assessing Repligen (RGEN) Valuation After Earnings Beat Guidance Raise And Portfolio Moves - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObkZwVFNPa1R1VElUc3hGQXRNMlFBOHNqc1A4UTkwNXFyMFFIYVVXYTBQX3RtMnpCc2hiNTB1ejhOMXhEYWc5QUxrQ2doZ28wMTJhajF6eVVYNkRLZVNjSkx2RHJWeFd3Q2REQkRpcURJVmdUTXc5OFU3QkpINTJaYTRqOG1TQWdxU0syUGo2ZmwxekEzRDNsbmxNVFd0SkJ5MEEyT1J1ZHJ0ZUIxNjg0SHdFVEl6WjNWV0M2WG92YVY1bkFMQV92V0huQzRlRHAyUUZmc3Y0WGpzQdIB3wFBVV95cUxOV0wtTGJFcmJUVmx3c0xzdGYwNFFLRDBld0swOUdSYkc4eEg1UmFrN2xrLWNyMElGSlJLS3QxNjVESWZRakNzOVU1djNYVEY1cG5MOGI1Wm90LW1UbGNENjdJRHZJZERidEtTNFh5NUw3RjBmekF1ekdzZHcwRTExYjQtNXhYenBVWTBlVF9yc3k1RVhfU0ZtclNuQTFBTWxpWkRlUEJ3YlNac1YxLVUzclNiM2diSXgwdFJxdjYybEtyRU93b2dQSWh0Um56dVVzbWNNSDZPd3hEQWVvWWpn?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_0e38642945a7",
-      "date": "2026-05-09",
-      "title": "Essent Group Ltd earnings beat by $0.13, revenue topped estimates - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0xhSF9uVG5nV0NtWGJ0aVM5OUw4SThYV3ZZZGtZVFlKVVE5dlBrWFZxWU56VlZmc29qV093RjE3d0p0NnNaaUt1dmIwTnc3Q2ZhZ0lCSWRCdExMamowNzFBMnRhVnRLTWJTMFlTMy0wSVBhc2pXSTdKU0I5Tlo1SnhfU2gtUjVOa0djU3ItQVRSdDl5b0pOYXdob3YtQ09DWVJ2aGpzVmJBSzdtQjNF?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_90d876e5d611",
-      "date": "2026-05-10",
-      "title": "Aurora Acquisition Corp. Details Growth Amid Rate Headwinds - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYjZMVDJVRm5vUGsycE5Eby10d2U3ak9lSV9uNU1DWWNKMWFxMllNeFpBVzM3QmNvaEEtU3VBMVVoVGc2RmF4MnZsN0g2cE5WdlkwbFNFbGV4bDZnSlQxMWNOZFFBY2hnSHdlX2hxMm5MdGJGd3ZFaHBuRXk0TDFYWXpyNlZudUJYbS1tVTFZeDh4c180d3pmNkZQamZPMW54b2dpMVVSSnZYRmYyU2g4VWdZdzB4RlVUcWI0X0x2cmlSQ3BURnFyLTd5ekhRa1pXamdpWmRB?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_70e516573b35",
-      "date": "2026-05-09",
-      "title": "Ubiquiti earnings beat by $0.94, revenue topped estimates - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0wydDdEOF91ZFRYeHZzU0x2eVZpLUxOVmNfU09zdGdBQkg3bEtreE5DSzd2T0NULS13MTd1UFhNLS1kNjVTZFlZNnRfYlpQTkNGR1hIdzR2WGJMZVdHR1FXcndiMmozNUR0WFVGOFN4NDNOQ2dIM2pGaHVCRXozcjVhUkRsVldGei1wR0g3TGx6QlNlSDVpYWxzdXZPWXJfM1JXYg?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_1a7d24910d10",
-      "date": "2026-05-09",
-      "title": "A Look At Howmet Aerospace (HWM) Valuation After Earnings Beat Guidance Hike And Acquisitions - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdUlmbjlqYURHdmZXU01fb2V3TEo0TGFLbWVMRnFfajUzUzBmSFpZaldZWGxIQ2NzbHA4Ukg5WDAtUUd5Xy1jbHE2ZWVqQkVaZXA1alI1NG1QWFk3VU9qa3ZMUzhBaW9icU02dTNEczBfV19yYXpra3V2ZUltMEFwYXVIOS0xUS1QeGpsUURkM2doNkZWUm1QU2E5RXBUMGpubk8tdnlXdzBESUxMR0NTWEJmR280TE1pQnFFeXdGd1VWS1dObzN6Tm1pTjBmYWEwMVVDWElR0gHbAUFVX3lxTE5rbzlJV0lsQzFodUFramg1alRJdnMzaTZ2YmFTOGs3OUlNX2FYTjNHVzYwR3FsWFB0NVM0TFZSOEFVZ0F2MVFmSTFqQUdYYmhERmFvMnpCMmZ4ZFhqNFVGNVViMTZFNmhnM24wMnlocTVua1h1SWdBaHJ3VERDcWVlS0pPNGFJUkp5T3NyN01nbU5DVEgyU2xSUnVVMTQ0SnVCcURDQ0RyRTBfZndra21wY0hBMGZWYXhoX3JQb29kRWFuQXhoUC0zaEZPcVZrbGdkRW56VHZOWUd1OA?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_6163ca56d207",
-      "date": "2026-05-07",
-      "title": "Shale producer Devon Energy approves $8 billion share buyback plan - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVFg5SkhTVjl2Q1NWTXdVdUFzMVk3UEpVSU5KSjcxT3hIVDBWZWNia0pmRkFkS19Ic05kZ3dWTjdoZGZRZXV0Xy1GQXJtLU5IUllmSk5ISFprRE5CN0drMXZ2YU9jcWpha2R3cUM3SF9MMnVVTzluaV9uWHRUdm9QWVFCN2FmczVtWUZjLTBvS2NvOE1GV3RKZWdwS3VWSF9pWU9ZekhVN1MzZXQ2TDVENjRzdnRIR241bWc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_56b1f7a67a66",
-      "date": "2026-05-09",
-      "title": "Assessing SM Energy (SM) Valuation After Merger Synergies Earnings Beat And New Capital Return Plans - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc18yendLV25yRV9Xc3RxQU9zLS03aVppNnIzam0zZ1B1ZExsREZiRFVUNy1YejV2aDRGNmJFWHN5NnRNakFxcko5MWxoX2F0UXYyYjE1MkhESVNyWjBJQkxXVUZJX05RMXQ5ZVZoclpEWUpaRTdmR21WTzNQM19HZ3VEM1lyQUlVVEZXV2ZjNUowa0Z0aXZyVV8zMDNKdw?oc=5",
+      "title": "Stryker closes Amplitude Vascular acquisition - MedTech Dive",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGlHRVYwbmhfN3VDVWttZUZRcEdZUk5ERVZaMWxzZjAtd3ZlVFhpbEpIdVBxQ0pYSk15SDVjMUVyMU12a2lMTXZfNng0Y0VnWmhwdVNkckxuSFd1ZTRVTGJSdzB0MUxfMVBjNG1kRk9WcjRLZnlKRmxFSXNmd2RqcmhJR05MZThDOG9CUW8xQQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1383,80 +1333,10 @@
       "score": 0
     },
     {
-      "id": "us_41fd49df3cbf",
-      "date": "2026-05-08",
-      "title": "Stryker closes Amplitude Vascular acquisition - MedTech Dive",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGlHRVYwbmhfN3VDVWttZUZRcEdZUk5ERVZaMWxzZjAtd3ZlVFhpbEpIdVBxQ0pYSk15SDVjMUVyMU12a2lMTXZfNng0Y0VnWmhwdVNkckxuSFd1ZTRVTGJSdzB0MUxfMVBjNG1kRk9WcjRLZnlKRmxFSXNmd2RqcmhJR05MZThDOG9CUW8xQQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_76681c461d39",
-      "date": "2026-05-08",
-      "title": "PRAA Q1 Earnings Beat Estimates on Higher Cash Collections - Zacks Investment Research",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGRTVVJQY0VXSzJ1N1dWMGR1RDNfenZqY1U2R004ZzRTZ3RwbWpxX1poUG5WRzNWLWtFeUFiR2diRmNjR2x2U2EzQkFKQ0oyY0ozTVZnc1pZdjliSGZoSVl6Nmt5Skp3WE9Ta1cwUWtJR2JZU0cxcTRBX0IxdUxsUWVTRGFERHJlUWExOXVwMmFEeDZzLWtmYTI4T1NROGVX?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_a97358f01e9f",
+      "id": "us_9c6549d4c2ce",
       "date": "2026-05-09",
-      "title": "A Look At Global-E Online (GLBE) Valuation After Strong Earnings Beat And Raised 2024 Outlook - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUE5aYjd2VVRyQ3VvR3ZCbzhaMkpWV0ltdndDVEpyZmR3RGRDYkthZmxZME44ejlOMVBLNHF2SUtvbnZrMVNJTlB0YWIzb0x0dHpGQVplX1NiS2tubW1xamEzc3Z6eDZoc3JoZmNXZkRFUlpLSXFWMVBUeFllbWtqSWxhZE9MMkYyN0JORnFRZFlSNEFoR2cwcmdaRkVIUHZtN3MxLTN0LXlIbWJreTFqTW9zVHRKOTFib3kyT2FaLUFuOUZKVGszZzdRVjnSAdIBQVVfeXFMTmpZenhnazN0cWhBTHdJZ0VET2lzeG5oZzV2cDZKc25Wa2hmTzB5VHBIOFJlQTVVU2oyM1ZzLUtnUU9HVklTSElTcUdjcE16U0JlV3RmS1JsMVp1TEUxYW9femxNX0pZQ3pNd2kwTlFmTjZTd2xfS0wwOTdYcWRERlBQZklUVjR6WDlPNFBkY1FiWElYc3prcWhiSnA2TVdodDYwajhqc2pqOGp0bzM1ZnRaS2NMNlRCdS13YVVocTI1X0YzdTgwYUdHSFMydERaMGtB?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_0f81ace9ad94",
-      "date": "2026-05-09",
-      "title": "The Wendy’s Co earnings beat by $0.02, revenue topped estimates - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVBhQ3hiWU9mSWJZMkUzNWhFLThlbHBZdURlaC0wOGlfSXhfQUtzT19fV1k3OGhpTE1nalQ2dDhLckdKT3gzYk5PRlBROElxTzBlQVZDeU1EWDdiMEFENFZyYWY0UHVxSnREZmU4UzVMTzk4SFdvUjhZeUw0MlRxWExLYk5zYlFFak9GRmFYWFgzLWFsZ0dGclg0dk9HTl91aDkxaEY5blVJSlE?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_99c81226ae70",
-      "date": "2026-05-09",
-      "title": "ANI Pharma earnings beat by $0.60, revenue topped estimates - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUlCVzhzNVRDMnNTU2xxbnNEaVlpWmhBOXFqbnMyMklwd3hRbTlqRzNVekpjNFNSTUhMZXd6dnhSSktsTHV4Z3RwVlRFMWRGeTNwLVdpS1M1bDNVZGFGclA5SDlXY1h4VDNZNWhiZVZtQ0FZbzNXSkN0dzhtV2xHZFM2NUYxc2s2eHplcng1WF9PczIwcWc4V0c1ZUplSlNKMnRtdW9xMA?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_3a73fbc684b5",
-      "date": "2026-05-09",
-      "title": "How Investors Are Reacting To DoorDash (DASH) Earnings Beat, AI Push And Share Buybacks - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0drbFBqbzdGc3NjZlZIdDFTWUh6MWZYTF9EQnpjSUxEYUpsUm10NUtsVTluX2FwdmZkNHk2V1B4cGpaSkprOVVROHhxbnp4YV9GeTJFckM3WDBzaFhORWxyUWJCcTVYbG53Y1NGMEoxTnF0ZVotSEJzUXRfdF9kN3hHZlFldTZiXzdoRzl4anQyVVNCUEtjRW12dWpTNUJNUFBLTHc0MzBrUQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_81ae9b90cdce",
-      "date": "2026-05-09",
-      "title": "New to The Street Broadcasts Show #752 on Bloomberg Television Featuring Graphene Manufacturing Group (OTCQX:GMGRF), T-REX Acquisition Corp (NASDAQ:TRXA), KITON, and Roadzen (NASDAQ:RDZN) - newswire.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORXRwM2MyYVdQU1V3QjlpNF9va05mb3ZUNHNCbWR2V3k0ZnBnRkhYRG50UlZYaFdKMmVsT0c2M3hmVUxyWnNkZm45cWRtNlpBUGRKb0VYY1AzMDdzY2dyZndIWnJfcmJ1OEl0Q0h2Z1cydHNaX0ljYURXQUtqM21KQkhDcHNmN0U3SVdWbTNCc3NwcmFUX0dhTlRMSWpGcVJlQ08w?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_edeaf5df940b",
-      "date": "2026-05-08",
-      "title": "Expedia Q1 2026 earnings beat but stock falls on weak guidance - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSFAyajdicjRselkzYUphS3VNVldHSWV1d05QbU9MWFJvRE1UYS1pY2VRaWxJZWtzenFQbWlrbkl3c0NLblZpNGVaZnVXX1p6cGx3RzlnVFBsams1NE40VVhlN1lSTkNIaHpmdzNGa2ZyRDdKRTduX2FKZE1ibGlhOVZDa2owUmE3NS04R2tHcw?oc=5",
+      "title": "D Wave Quantum Acquisition And Supremacy Milestone Test Commercial Potential - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaVg0SGFkRDVxdHdQdVFTdl9wMG01dzR0bVpVVGZjODN3Vngza2JNeC0wclNCcWVPV05vZXV1akR1UHk1c2ZiaWF4Tm5qRWFDRWNWY25xQlU4c1NrSXdsUnJWc1JDRGhUaURpdXhrSVg1VmlfS2x4ZkJndXRvRjhsY3A4UmtBWlJLWktrY3BR?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1473,6 +1353,16 @@
       "score": 0
     },
     {
+      "id": "us_edeaf5df940b",
+      "date": "2026-05-08",
+      "title": "Expedia Q1 2026 earnings beat but stock falls on weak guidance - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSFAyajdicjRselkzYUphS3VNVldHSWV1d05QbU9MWFJvRE1UYS1pY2VRaWxJZWtzenFQbWlrbkl3c0NLblZpNGVaZnVXX1p6cGx3RzlnVFBsams1NE40VVhlN1lSTkNIaHpmdzNGa2ZyRDdKRTduX2FKZE1ibGlhOVZDa2owUmE3NS04R2tHcw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_98d756b835df",
       "date": "2026-05-07",
       "title": "IREN Expands AI Cloud Platform to Europe with Acquisition of Nostrum Group - GlobeNewswire",
@@ -1483,30 +1373,30 @@
       "score": 0
     },
     {
-      "id": "us_cac1076e2184",
-      "date": "2026-05-08",
-      "title": "Gilead Stock Falls After Earnings. A Big Acquisition Spree Is Coming at a Cost. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNElfc2RiRWJOaDRBb2ZoY0hfalk1N0cwdFYzLWlWSUpvZjZST1JvbFVIMlhVOVJnYnBFcGljcExhWk1qR3NPendzRkk0X2ZfM0xOQmtmQ2ZEUXBrTEQtNHVwTE1VbjFORmRhbTZQeW1HeXZ3T2kzNVRTaW40RkJZVk1yQTA?oc=5",
+      "id": "us_0e38642945a7",
+      "date": "2026-05-09",
+      "title": "Essent Group Ltd earnings beat by $0.13, revenue topped estimates - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0xhSF9uVG5nV0NtWGJ0aVM5OUw4SThYV3ZZZGtZVFlKVVE5dlBrWFZxWU56VlZmc29qV093RjE3d0p0NnNaaUt1dmIwTnc3Q2ZhZ0lCSWRCdExMamowNzFBMnRhVnRLTWJTMFlTMy0wSVBhc2pXSTdKU0I5Tlo1SnhfU2gtUjVOa0djU3ItQVRSdDl5b0pOYXdob3YtQ09DWVJ2aGpzVmJBSzdtQjNF?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_528ca8437e23",
+      "id": "us_70e516573b35",
       "date": "2026-05-09",
-      "title": "Treace Medical Concepts earnings beat by $0.03, revenue topped estimates - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ2YtZnk3S19YdVhsWTMxdjFFbGMwTnVUU05aX3ozZDNWVW5OVkhqT3JSaEswM1ltVmFUdFdCdzhFUnZsOUdKeGIxLVR0akhuOWtSQjMtdklWLWtNU290anhHRFhUSEVEX1g3SUROQmRnTUVmd2NVNEduQWZQVlA4QXR1ZEEyWDFqSnRfWXhpZVVCUzRFa3BucVh3U2pWRThmNW13ejVPczhZVGE0aTV5LVAxVXJ0U3ZI?oc=5",
+      "title": "Ubiquiti earnings beat by $0.94, revenue topped estimates - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0wydDdEOF91ZFRYeHZzU0x2eVZpLUxOVmNfU09zdGdBQkg3bEtreE5DSzd2T0NULS13MTd1UFhNLS1kNjVTZFlZNnRfYlpQTkNGR1hIdzR2WGJMZVdHR1FXcndiMmozNUR0WFVGOFN4NDNOQ2dIM2pGaHVCRXozcjVhUkRsVldGei1wR0g3TGx6QlNlSDVpYWxzdXZPWXJfM1JXYg?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_de4d160214e5",
+      "id": "us_7317b829fff0",
       "date": "2026-05-09",
-      "title": "M Tron Industries earnings beat by $0.05, revenue topped estimates - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRnppdWdUNkpYdnE5TFYtcEtpbTV2cVpWYkVEWmh6Y2MxR1NGWWIzV3RzVG5TUVNOVmF2Q3lYME9lc0NSdE5kdFN0SnJjME1QODQzaTFEZkg3czZ6d2RDd0ladF9pRi0zZklnYWhIckhYdkRsMmhxT25XNzdickhwRFR3SWRCdlNfX1RIazJTTl9SeUNfdFBYdTY1YjRWdGFyc3ZwT05Ydl9mMzV5ZVJQTQ?oc=5",
+      "title": "Grand Hyatt hotel acquisition sees Paradise Q1 profit down 56% despite higher gaming revenues - IAG – Inside Asian Gaming",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFRZU2tIeG5yNEdtVHZBOE94Q3RGYWF0bldHQVdKdXgwSDQtbFgtYjlzRGpBYXJSeVRDeGVHR0haOVUwS1JpcFgxSTVNRkV5eVhWSnctZVk2Rk5BckJxTjdBelZHRHBpSnJab3k2RDhRTkdrV3otdUVfWVoySTMxVnRfUEJNRzQxLVVCRjB5SzNqdFo5T2taNTlEWU9KQ3d4eFlIS01PbUxxTDh2eHhGTjctdkZFNEVYU0lEU0R1cw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1533,80 +1423,70 @@
       "score": 0
     },
     {
-      "id": "us_07aee8a3bea2",
+      "id": "us_1256e7238406",
       "date": "2026-05-09",
-      "title": "York Space Systems Acquisition And Contracts Put Valuation And Volatility In Focus - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbVduaFl2dEdHLW5XN3plWUJsdjZKbXhfRjBmTlZVaVZISV9PZEZMYmczUjVpVUJuZUxwT2hjaGFfZjZOSk9UdFhFWGhJRXFnc0xrZDZVRkJlLXRyX0Z3X00xUkx3dmtlRk1ubXZJSlhXLUpmOUdvdHd2SWVmT0t3aTQ3V01rd2VnMFRKS3lxMUMzbjZ5TzFaTzhRYUpjQzA1ZEZPZllNcDQ?oc=5",
+      "title": "Assessing Repligen (RGEN) Valuation After Earnings Beat Guidance Raise And Portfolio Moves - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObkZwVFNPa1R1VElUc3hGQXRNMlFBOHNqc1A4UTkwNXFyMFFIYVVXYTBQX3RtMnpCc2hiNTB1ejhOMXhEYWc5QUxrQ2doZ28wMTJhajF6eVVYNkRLZVNjSkx2RHJWeFd3Q2REQkRpcURJVmdUTXc5OFU3QkpINTJaYTRqOG1TQWdxU0syUGo2ZmwxekEzRDNsbmxNVFd0SkJ5MEEyT1J1ZHJ0ZUIxNjg0SHdFVEl6WjNWV0M2WG92YVY1bkFMQV92V0huQzRlRHAyUUZmc3Y0WGpzQdIB3wFBVV95cUxOV0wtTGJFcmJUVmx3c0xzdGYwNFFLRDBld0swOUdSYkc4eEg1UmFrN2xrLWNyMElGSlJLS3QxNjVESWZRakNzOVU1djNYVEY1cG5MOGI1Wm90LW1UbGNENjdJRHZJZERidEtTNFh5NUw3RjBmekF1ekdzZHcwRTExYjQtNXhYenBVWTBlVF9yc3k1RVhfU0ZtclNuQTFBTWxpWkRlUEJ3YlNac1YxLVUzclNiM2diSXgwdFJxdjYybEtyRU93b2dQSWh0Um56dVVzbWNNSDZPd3hEQWVvWWpn?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_438c2ea2ddaf",
-      "date": "2026-05-09",
-      "title": "Koppers earnings beat by $0.12, revenue topped estimates - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYlktWHlBSWFPWmxxN0t5QTRkbENRcW1sdTdzWlZYazF4MGc0UURoYTlFdWg0enVDM0tqUTRGNm5GdXphc0ZfY0VvWXdmLW03MGJSUkJ4bEo0czRlYTViZWNwWlV4R0M4a0QwaFdzajBKVVNRRy1fU0pIX3BQQWNwWGdfVXhqTG0weERNTWdhc3luZmZjTTBycjZ4YTRJOVZYWjhj?oc=5",
+      "id": "us_f5bc5b6cc8c2",
+      "date": "2026-05-07",
+      "title": "NICE Q1 Earnings Beat Estimates on Strong Cloud Revenues, Shares Up - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN1kwV1AxVnhENnFhY3gwNjUxOWZlbEhPSTVJdXBSYVRjcHM3T0NPNDRGUjl5c0x2S1l0TXBDbG96NTAxNjhQYmV5ajFteFhKdXVaUFhWckUzb0NBUWpYMmgtOHotb29vSkNXZkJ4WmxnYkh3RFF2YWpvdVlXT2tISURiSGxHMnNlZHZLWHpLeE9SVk5odS1kQmxyelQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_6bf8fe07ee96",
-      "date": "2026-05-09",
-      "title": "Clean Harbors Terra Nova Acquisition: FTC Clearance Granted May 2026 - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQmp1WGZhaEFZQjk2SjZBTlhPU2tzMTNqdy1oRUp0em1RTFFhYXUwYk1pT1NTZjhZRnlMcUNfLWJybGFVSXBNV1hmQmJtZnpoNC1kQ0RpcjhRZ1ZXN0ZjaU9lMlhsVlJsT3dEc1dCM0U1N1M1NzBEakJYbVNodzBMd0ZsaUNGRXE1anN4RnRwdy1COGh2aUppTGpkSUJJdkk?oc=5",
+      "id": "us_90d876e5d611",
+      "date": "2026-05-10",
+      "title": "Aurora Acquisition Corp. Details Growth Amid Rate Headwinds - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYjZMVDJVRm5vUGsycE5Eby10d2U3ak9lSV9uNU1DWWNKMWFxMllNeFpBVzM3QmNvaEEtU3VBMVVoVGc2RmF4MnZsN0g2cE5WdlkwbFNFbGV4bDZnSlQxMWNOZFFBY2hnSHdlX2hxMm5MdGJGd3ZFaHBuRXk0TDFYWXpyNlZudUJYbS1tVTFZeDh4c180d3pmNkZQamZPMW54b2dpMVVSSnZYRmYyU2g4VWdZdzB4RlVUcWI0X0x2cmlSQ3BURnFyLTd5ekhRa1pXamdpWmRB?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_08042248b507",
+      "id": "us_a97358f01e9f",
       "date": "2026-05-09",
-      "title": "Assessing Viatris (VTRS) Valuation After Earnings Beat Guidance Reaffirmation And Pipeline Progress - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMlFMVlRuLXdjaktvYktYUEVoQm1DVnQ3U1ktUmF6N0pMQ2NJd2c5cjc4dGFSbWQtY0JxbmJHVXJ1OGlhYVJGRkdVc3JrLTdnbUR4UkRnNVZ0bFZlQ05vQ0VQNkNVV0N1cS1feHRPN29pTTNLanI1ejRZZHNWR2pNUk5fZGx1WFdwWmpyQXJoUXZJcGtUcnlxUW1kMl9OUlQzRkFWdlQzY1BWaGFOanN4aHhreTdmdXJVTUMxODVpYVJ5bVFaQ190c1dxNFU4ZmR6TlVlWHI3VULSAd4BQVVfeXFMTjR2SVhIZGg0c0FXQjk3bGk3a1diZDdhTFJGdGhSaWxWSndiWnZTZkdrbFVDaDgwVmJQVVM1Rlh3NG5DeXRNWDN1aDJ2dUVnRlZnNU9lcmZiTEtnei01NkNfaXVobFFnREYycEx3UVVneGx4LXdGR0RUY1NndFVPYjZuZWIyaGk0S1JYZ0pFVGpXNlVVUENCVmc5Qk9JVzFHaExIcHRuYW1NbW9TaUlDbm5KejQ2Wm1BOEFGaE51UUdyRDRFVjVfQ0xRSGhTOWNZZEJybTZBUjNzYkNkYkpn?oc=5",
+      "title": "A Look At Global-E Online (GLBE) Valuation After Strong Earnings Beat And Raised 2024 Outlook - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUE5aYjd2VVRyQ3VvR3ZCbzhaMkpWV0ltdndDVEpyZmR3RGRDYkthZmxZME44ejlOMVBLNHF2SUtvbnZrMVNJTlB0YWIzb0x0dHpGQVplX1NiS2tubW1xamEzc3Z6eDZoc3JoZmNXZkRFUlpLSXFWMVBUeFllbWtqSWxhZE9MMkYyN0JORnFRZFlSNEFoR2cwcmdaRkVIUHZtN3MxLTN0LXlIbWJreTFqTW9zVHRKOTFib3kyT2FaLUFuOUZKVGszZzdRVjnSAdIBQVVfeXFMTmpZenhnazN0cWhBTHdJZ0VET2lzeG5oZzV2cDZKc25Wa2hmTzB5VHBIOFJlQTVVU2oyM1ZzLUtnUU9HVklTSElTcUdjcE16U0JlV3RmS1JsMVp1TEUxYW9femxNX0pZQ3pNd2kwTlFmTjZTd2xfS0wwOTdYcWRERlBQZklUVjR6WDlPNFBkY1FiWElYc3prcWhiSnA2TVdodDYwajhqc2pqOGp0bzM1ZnRaS2NMNlRCdS13YVVocTI1X0YzdTgwYUdHSFMydERaMGtB?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_964471857d7d",
+      "id": "us_118946efc5d7",
       "date": "2026-05-09",
-      "title": "Legacy Housing earnings beat by $0.01, revenue fell short of estimates - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ2Q5dXlUY1htQXhXS3RXRmtWUVZPVmhPdlpiU1NhYzlGU1J2LW1LNkNVcDNBbHhNUDFCVVRZX2ZKSmJtRmpfUWE5WmQ3VVZESzBIaXhfRk90bXhTRDRHbUR4ZTgwSnIwTFBsSTRpNUpzbzdHSTNxSUN1QlZVdzJaV09zZnNBeTRUdTdSZzRGQmtqZUc2dnBNbmJ5RlAwRXNEeG85LTlJX3lmczZsWFlCZnQ5cVNrdw?oc=5",
+      "title": "PPL earnings beat by $0.01, revenue topped estimates - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPODlvX083WTlDUWJzTENad3NDU0VORUU3NDA3OF9qaEVuaTNXMVg1Z0VWQTRWd21IRnhHQW4xVEVKTXVpdERpMXRtajdBYWwwWEVidjRrdlE0ZGNVRmRkNTJoQjdkWjlzaEw1X1paMFp2d0lLaFVhS2pmLXNCczZxbmdCNWlwM3B5WUtVMUI3bjVORXlZaEdQSmFIdzVvUQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_542d6999a39a",
+      "id": "us_0f81ace9ad94",
       "date": "2026-05-09",
-      "title": "Encompass Health (EHC) Is Up 7.1% After Earnings Beat, Guidance Hike And Capital Return Update - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN1c1YWVGSlh1NzlfbG92MmdESG5NWUk0Rnk1SVMxNVA1c0tMeHpUSzEyU3Jxd1hXTTdPTVRJaUxxNHZpSTk1NURvaVVJRHUwaWZLYmNNSkpLcFRKR1BXZElDVFJaZlhvM0ozWHVPWmVXbXdRZkE4eFhtQjdIX0JtaUI1SUpzLTFpMjhnZEppOEpfRnZnajNWR1hPSzRLb3dqRjQyR0xINU1ZblFPZFNxQVRCR2dVT0tZSWxQWk5vQTM2ZF9McVBBWjZnMG5YQmfSAdQBQVVfeXFMUF9KNEpFbVI2UTVMX0JHUEZnQjJuaVhwZ0ZaRWNUcUdpNUh2eUVpWmpoeDJFbTZMeExHRnVtbmRnSEQ0d1RsSlotWGtzWmtkZGhQeFNqbG5FSUUxUlV0V1lhbmNXSDN0TV9HbHhTdGlJMXNyb3JtdGdWTENPLW9DRHMxY1djSUZ6d2ZoamxJRGp6bUpSbFJjSjJNN0NYeEhSa3hKVEIxQnIzSkplTEUwNF9iWnRXX19yMEx0c2kwUHpZR0VJemdFNGNNSDBReHRabGxWNXI?oc=5",
+      "title": "The Wendy’s Co earnings beat by $0.02, revenue topped estimates - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVBhQ3hiWU9mSWJZMkUzNWhFLThlbHBZdURlaC0wOGlfSXhfQUtzT19fV1k3OGhpTE1nalQ2dDhLckdKT3gzYk5PRlBROElxTzBlQVZDeU1EWDdiMEFENFZyYWY0UHVxSnREZmU4UzVMTzk4SFdvUjhZeUw0MlRxWExLYk5zYlFFak9GRmFYWFgzLWFsZ0dGclg0dk9HTl91aDkxaEY5blVJSlE?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_e5c0d9cbf2e0",
+      "id": "us_99c81226ae70",
       "date": "2026-05-09",
-      "title": "A Look At Welltower (WELL) Valuation After Earnings Beat And Higher Full Year Guidance - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM3VMLXBRb21ld1l3aE9zeUF1WVY1T0szQUQ3eGROQ1ZQdThqZEhQcXNWS25ocWZXMEdZU3hKLWNrb3cwR0otMzVwclhyZDJQdnpoQWZ3dmtjRlVOakFhLWh2RExNWTB1V3Q1WUVWVnpwMHlEWG54RUI4bGRUXzZsV1poWHM5ZDNEMUFkU2VNbzI3OE5uVkVYamlOZzhvbTl1ekxsSEljbzQ3NzdCd1JBUG5zRklCSTJLa0MzcWVpYng2YXUxRjNEc9IBzgFBVV95cUxQV04zTWxCMkNyaVE5bzVmRlY0RWQtR3N6YzlvX2RQc2NQNVg3UnFJU0tqYl9jWHRGcWVvUXdXVkZucWtpb0drLUNhLVROdmJyUHJOY3E5RGJTUWJSXzdyYnZZTVhBUi1rN2IyT3hVLWlQZThBOFktZ3JqbmRGcjJGQ1FZbktCbUMzSnFtTldvVnIxTE05WWFtOTBfX1JYS09ZU3ZOZGgtdzFEZjVEUWNiUzhISkJKcjhpeEVBb2RrRE1ZWVBheTJnb2lVUjNhQQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_bedc49cbc558",
-      "date": "2026-05-09",
-      "title": "A Look At Assurant (AIZ) Valuation After Its Q1 2026 Earnings Beat And Guidance Raise - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ3BDbHZXRjlUbmJzcnF0bnRkVEdrSUF0ZFJiMHotZDQ0N0I4WUpMLUt5Q2Ewby1KNUFKTFlteUU2OUlrOExaOGFmME1IdXdUcEJ6SzBzR29PaHNmTDFja1FFc0gwXzBFdDRmZHZxMzk0dUxWd2wyOGpkR0lqTVktUDRac1A5emZKQXA1WXVtTjRhTTFkWTVWRUNnTjhzNV9zMlJCQnVoOFQ4a3RtN01WRGN2NVY5dDVNcmNHNURkNzF2d9IBxwFBVV95cUxOLS00SDg4TlJEQkhTZmp0cFR6cHdqeEk2OTE3dXJoOE1QdE9MQTgzaTJ0UjJZN0h6aGRydFB5MzJPYU0zVjdtZG9GRTNIbWhyY3lrMGVjNnNYX0FsSThWZ00tSGRIc3dnSXVhaklUVkpTNnFUTmlSRWZEX0ZWN2xaMDRnRDdIdGFvM2Z3U043OWRvcGRWZUFBRFljNlpZYXVzNE9NQzRMNTFYQ19jVXN1N3lSV2lfOFkzX3JtRXE5RHpHeE05Y1FF?oc=5",
+      "title": "ANI Pharma earnings beat by $0.60, revenue topped estimates - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUlCVzhzNVRDMnNTU2xxbnNEaVlpWmhBOXFqbnMyMklwd3hRbTlqRzNVekpjNFNSTUhMZXd6dnhSSktsTHV4Z3RwVlRFMWRGeTNwLVdpS1M1bDNVZGFGclA5SDlXY1h4VDNZNWhiZVZtQ0FZbzNXSkN0dzhtV2xHZFM2NUYxc2s2eHplcng1WF9PczIwcWc4V0c1ZUplSlNKMnRtdW9xMA?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1633,10 +1513,120 @@
       "score": 0
     },
     {
-      "id": "us_d22acdcc9a97",
+      "id": "us_44144b6bee2a",
+      "date": "2026-05-08",
+      "title": "Will Carvana Continue To Rally Post Stock Split? - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdVdMSUMtYlpfVTB3cWVlTVR2N0dDb0R4V1RxZnBDZG5uOGRudEdXU09wSE41emhoMm53SmVhMGxVTzNzVWR5Q1AzUmtSN09aamxhR0tmVTVJeFEzYmZseFN5UXMtZ09SZXFYZE9VTktKRmNJMC1tbXdrRDFuNWpEZWFvRjRKWXNnY2hkLWpSbGF4NU1qX0NlbkVtdzFLMU5lcTAydVl5Qno1TE5u?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_1a7d24910d10",
       "date": "2026-05-09",
-      "title": "Carson Soucy was a textbook Rangers acquisition that just didn't move the needle - Blue Line Station",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY2wxT2d5YjNINzVIWFRoWnA2LV9ndmg2b2sxNDNHbkJuTlNZUnM3R0tLbWlTeHU5QmZJXy11R1ZSQnVNaXZJOHZlUVJZT2NUWTNqRzhieGhlc0dLODg5c2lobEN6dlBJQ3ZGbDkzT2RQQVNUb3ZxQW5YdUNNS1lFb2hWb0FYRFR4XzNVYmZGWlVSM2JiOTRZZXgwVEdHUk80UFo1NjdsdG04YVVjQk5nWGdpQ3ByeGQzR0xiRHRn?oc=5",
+      "title": "A Look At Howmet Aerospace (HWM) Valuation After Earnings Beat Guidance Hike And Acquisitions - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdUlmbjlqYURHdmZXU01fb2V3TEo0TGFLbWVMRnFfajUzUzBmSFpZaldZWGxIQ2NzbHA4Ukg5WDAtUUd5Xy1jbHE2ZWVqQkVaZXA1alI1NG1QWFk3VU9qa3ZMUzhBaW9icU02dTNEczBfV19yYXpra3V2ZUltMEFwYXVIOS0xUS1QeGpsUURkM2doNkZWUm1QU2E5RXBUMGpubk8tdnlXdzBESUxMR0NTWEJmR280TE1pQnFFeXdGd1VWS1dObzN6Tm1pTjBmYWEwMVVDWElR0gHbAUFVX3lxTE5rbzlJV0lsQzFodUFramg1alRJdnMzaTZ2YmFTOGs3OUlNX2FYTjNHVzYwR3FsWFB0NVM0TFZSOEFVZ0F2MVFmSTFqQUdYYmhERmFvMnpCMmZ4ZFhqNFVGNVViMTZFNmhnM24wMnlocTVua1h1SWdBaHJ3VERDcWVlS0pPNGFJUkp5T3NyN01nbU5DVEgyU2xSUnVVMTQ0SnVCcURDQ0RyRTBfZndra21wY0hBMGZWYXhoX3JQb29kRWFuQXhoUC0zaEZPcVZrbGdkRW56VHZOWUd1OA?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_56b1f7a67a66",
+      "date": "2026-05-09",
+      "title": "Assessing SM Energy (SM) Valuation After Merger Synergies Earnings Beat And New Capital Return Plans - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc18yendLV25yRV9Xc3RxQU9zLS03aVppNnIzam0zZ1B1ZExsREZiRFVUNy1YejV2aDRGNmJFWHN5NnRNakFxcko5MWxoX2F0UXYyYjE1MkhESVNyWjBJQkxXVUZJX05RMXQ5ZVZoclpEWUpaRTdmR21WTzNQM19HZ3VEM1lyQUlVVEZXV2ZjNUowa0Z0aXZyVV8zMDNKdw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_528ca8437e23",
+      "date": "2026-05-09",
+      "title": "Treace Medical Concepts earnings beat by $0.03, revenue topped estimates - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ2YtZnk3S19YdVhsWTMxdjFFbGMwTnVUU05aX3ozZDNWVW5OVkhqT3JSaEswM1ltVmFUdFdCdzhFUnZsOUdKeGIxLVR0akhuOWtSQjMtdklWLWtNU290anhHRFhUSEVEX1g3SUROQmRnTUVmd2NVNEduQWZQVlA4QXR1ZEEyWDFqSnRfWXhpZVVCUzRFa3BucVh3U2pWRThmNW13ejVPczhZVGE0aTV5LVAxVXJ0U3ZI?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_de4d160214e5",
+      "date": "2026-05-09",
+      "title": "M Tron Industries earnings beat by $0.05, revenue topped estimates - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRnppdWdUNkpYdnE5TFYtcEtpbTV2cVpWYkVEWmh6Y2MxR1NGWWIzV3RzVG5TUVNOVmF2Q3lYME9lc0NSdE5kdFN0SnJjME1QODQzaTFEZkg3czZ6d2RDd0ladF9pRi0zZklnYWhIckhYdkRsMmhxT25XNzdickhwRFR3SWRCdlNfX1RIazJTTl9SeUNfdFBYdTY1YjRWdGFyc3ZwT05Ydl9mMzV5ZVJQTQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_68724a0fd038",
+      "date": "2026-05-08",
+      "title": "Needle-mover or not? Industry insiders react to eXp's acquisition of NextHome - Inman Real Estate News",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ETDZIdjVQS2tWYllLVGU1Z1BpbVdrbS0wQ3d6Q2d3VTgxVXF2aEVqTE9HZGJ5bzZPd1hBMTR3RnBqV0ltTVQ0N3AzREM3dHFCdmpxUjJGRUZEYUlmVklkODhiMXpMclJ1?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_6bf8fe07ee96",
+      "date": "2026-05-09",
+      "title": "Clean Harbors Terra Nova Acquisition: FTC Clearance Granted May 2026 - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQmp1WGZhaEFZQjk2SjZBTlhPU2tzMTNqdy1oRUp0em1RTFFhYXUwYk1pT1NTZjhZRnlMcUNfLWJybGFVSXBNV1hmQmJtZnpoNC1kQ0RpcjhRZ1ZXN0ZjaU9lMlhsVlJsT3dEc1dCM0U1N1M1NzBEakJYbVNodzBMd0ZsaUNGRXE1anN4RnRwdy1COGh2aUppTGpkSUJJdkk?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_77bb88fef3ba",
+      "date": "2026-05-10",
+      "title": "Femasys Reverse Stock Split May Not Prevent Nasdaq Delisting Risk, Observer Warns - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT09Cbm5qbXJZN2pRT1J5eS1CLUhrMzhuLUxNYmk3T1JYV3lNcEFpbWJpQUJacnlIeExKMVhGUjVmSHROaUFzMktQWkYxakRocTZsWHJnQktSS0IzT1FfeGdGZ0taUHNpbDdueGhTVHRuZlpsb19Mbk8tdlpSblowdmNDLU5kWjlETWdkZ0RvZmlzLXhPd3NTUnI3eEpOaWY0UVpTdHRsOThUaW1UdndNNHZBZ1kyQzYzR1lNcVFINkF4anFRTVYtN2tLckw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_964471857d7d",
+      "date": "2026-05-09",
+      "title": "Legacy Housing earnings beat by $0.01, revenue fell short of estimates - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ2Q5dXlUY1htQXhXS3RXRmtWUVZPVmhPdlpiU1NhYzlGU1J2LW1LNkNVcDNBbHhNUDFCVVRZX2ZKSmJtRmpfUWE5WmQ3VVZESzBIaXhfRk90bXhTRDRHbUR4ZTgwSnIwTFBsSTRpNUpzbzdHSTNxSUN1QlZVdzJaV09zZnNBeTRUdTdSZzRGQmtqZUc2dnBNbmJ5RlAwRXNEeG85LTlJX3lmczZsWFlCZnQ5cVNrdw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_a6aa54e269f0",
+      "date": "2026-05-08",
+      "title": "Stryker completes acquisition of Amplitude Vascular Systems - MassDevice",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMkQycUM0NmZjTDdTQ0JMWTh1U1ZBR2V3TktwckRHbE9wREFTLW1WOXJSOERKdGtnXzF3eUM0cmlEVVVSSFJmLTc3X0otMldsSTZ0X2tiZ3FBX2kyQnNyY3I1Uk1GM3ZJdGFfSWNVTzNiX21GcjY3QWZ3RTJBMXp5c2pHQ014Q2ZyYzZNNg?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_265090652110",
+      "date": "2026-05-08",
+      "title": "BCE Q1 Earnings Beat Estimates, Slip Y/Y Despite Revenue Growth - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQXzF0NEllWHg3TzE1bGZMdFRaTUZjdlNiZFdURjkzcFdNLVA1R1FtbHdZZ1VRWk1kMjJGdklzZ0dnSnhlNURvS0xqVC15dGVjUjZQclFaMmVJbVE1dFhVWm00Zm9ndlJHVU9WRTBpaHNyX1M0U0ZkMnduUDNSNUR1dXJORm5HcHZkOFFuZEZHUWhjdVB4QVdmYjZqOA?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_dd84302d6828",
+      "date": "2026-05-08",
+      "title": "Rocket Lab Q1 Takeaways: Neutron Momentum, SBI Deal and Robotics Acquisition - Via Satellite",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZXVVSnVUYmJidUZRVW5EblJrT1FsdEVBM2JyWjZtaHN2d1dWWGR2ZXRJMUtxdVZoaE54aFhJVFlXUGNidkpERFlhbFY2aS1lNEQxSG14Q2lSOHZUaXlCUTFpX3RDUUUzXzlwY0V1YVlvOHVxbFdWSGVQaE1aVE1GTW1DRlBUQXByXzdmam5MclRpaWVmRUloU3JzMjJhN2ZORlhvTV82STZvUmx2RnFFcjAxR1pJQ3lKdmhBejlwcFZQMkk?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1653,10 +1643,30 @@
       "score": 0
     },
     {
-      "id": "us_44144b6bee2a",
+      "id": "us_bedc49cbc558",
+      "date": "2026-05-09",
+      "title": "A Look At Assurant (AIZ) Valuation After Its Q1 2026 Earnings Beat And Guidance Raise - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ3BDbHZXRjlUbmJzcnF0bnRkVEdrSUF0ZFJiMHotZDQ0N0I4WUpMLUt5Q2Ewby1KNUFKTFlteUU2OUlrOExaOGFmME1IdXdUcEJ6SzBzR29PaHNmTDFja1FFc0gwXzBFdDRmZHZxMzk0dUxWd2wyOGpkR0lqTVktUDRac1A5emZKQXA1WXVtTjRhTTFkWTVWRUNnTjhzNV9zMlJCQnVoOFQ4a3RtN01WRGN2NVY5dDVNcmNHNURkNzF2d9IBxwFBVV95cUxOLS00SDg4TlJEQkhTZmp0cFR6cHdqeEk2OTE3dXJoOE1QdE9MQTgzaTJ0UjJZN0h6aGRydFB5MzJPYU0zVjdtZG9GRTNIbWhyY3lrMGVjNnNYX0FsSThWZ00tSGRIc3dnSXVhaklUVkpTNnFUTmlSRWZEX0ZWN2xaMDRnRDdIdGFvM2Z3U043OWRvcGRWZUFBRFljNlpZYXVzNE9NQzRMNTFYQ19jVXN1N3lSV2lfOFkzX3JtRXE5RHpHeE05Y1FF?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_4486770e04ed",
       "date": "2026-05-08",
-      "title": "Will Carvana Continue To Rally Post Stock Split? - Trefis",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdVdMSUMtYlpfVTB3cWVlTVR2N0dDb0R4V1RxZnBDZG5uOGRudEdXU09wSE41emhoMm53SmVhMGxVTzNzVWR5Q1AzUmtSN09aamxhR0tmVTVJeFEzYmZseFN5UXMtZ09SZXFYZE9VTktKRmNJMC1tbXdrRDFuNWpEZWFvRjRKWXNnY2hkLWpSbGF4NU1qX0NlbkVtdzFLMU5lcTAydVl5Qno1TE5u?oc=5",
+      "title": "Bastrop residents could see expanded First National Bank services following acquisition - Community Impact | News",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTzB2VEJjamN6MG85QlJjSzNzdF9VMXNZVDRvRFBackdLNWdGRElwazJGamR0eEMzUUxqR0VqN1M2LVpXZHlFNDR4VEpZblB6THBiVnhLdktWb2R2emh6RUNyOFh1QlVWOS1uSlRTWlVkRWJPTWhqY0h6ajFVcjRfeUprd3pxLXUzRi13M3NXZXB6ekExcW1xOTcteTFoa3VCLUR4QlBLa1RfUkE1SVh5dGdSdjdELUtWVWJscVR1TVRQMmo1NGd0aVpKMDNKUlV3eXR2YWN1YS1zc1FEcDlPVUJnRmh4dmZYUUtQWll4NnpBQXBJdkE?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_49ac66687f0d",
+      "date": "2026-05-08",
+      "title": "Lantheus Holdings (LNTH) Valuation Check After Q1 Earnings Beat And FDA Approval Catalysts - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUUtEaVdZdHhkSE8tZUc3VEZzN010MTVMeDI2eFRISS1NRmhaUmF2NjdRV2hKaWN4a1pyM0RhbGNWeUd6TFhEYXJlendTNXNWMGJNS09taVJXYlExa3NYR3A3Qk5pZ0pGWW93WUFVbXB2NEI2X3A3TWlyYlF1UXVjdEJjc1RXQzQzSWdtdVlJamRqWmtCRVlKallvVV91QWM0OUo3aGtR?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1683,100 +1693,30 @@
       "score": 0
     },
     {
-      "id": "us_ab0efe804aa6",
-      "date": "2026-05-09",
-      "title": "Fidelity National Info earnings beat by $0.07, revenue topped estimates - Investing.com Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUhnVUo2dkVRdklBLU54bU40MmZ4SG1VdzV5eGZ2M2VjQTVDUWZobWg1cExEMFB2OWdhM0dyb3R3OHZrT3ozWXVBeEROWjFUVEpnT1RFTlZJMXFTbTZUendrREJKVnduUEo5QnpnZTBvRWd6bGdoNDVPdmMzVzVPYjQ0QWl6SUdqLWswWktEbUxva1lOWW0yajFhSjg3WS1FQl9jWkdFV3lOVHlTblJhVXNHWG1NUQ?oc=5",
+      "id": "us_b9b00538d086",
+      "date": "2026-05-08",
+      "title": "Earnings Beat And Capital Returns Might Change The Case For Investing In Voya Financial (VOYA) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVGNsQmY2NXpZVG13YUFJUVlpOGlwOFQ3amtVelkyVTJTZlA2VjMyVzhsYXNzYi1HSmpaZXcwXzZvamFmVGptNHIwWGNZR1FtR0NoaElVLUlMMURhaHprcUlLQVdMREdxakVRd1hwLUV6X1o4MW92c3hsZ2tVSzB0UnlzNWNGTWNSVlIwdGV0V3dIbTU1UGJCbXpIR1hVclU5M2c?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_e694da7ba6e0",
+      "id": "us_f6c816c7fb97",
       "date": "2026-05-07",
-      "title": "Open space acquisition of South Jamesport parcel falls through: County Exec Romaine - RiverheadLOCAL",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVU8wZEtpVkFaRnF3UFVXczFCcy1DSlhwTWdxWlpUdFo0U1VUc2tsQTVnSHp2ZWEwLWJHbThTMkR6azZ4NTFGNEdfUXZVWFYybV84aTA1TkZGVW1Jc2JZTFE0akxwemZYMExVbGcxTFNiQWhwelFWT2hWa0VheC1IdmNCcHR4c054M3FabkJHQlZEeXY1UmJESXlvV2wta2xpTzdQRnR6VkNWcEJOWHdmeUhoVjZSX1ZjYjF0dmx3?oc=5",
+      "title": "LITE Q3 Earnings Beat Estimates, Revenues Rise Y/Y, Shares Drop - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeTdYUFlnY1pKOHVwQWRCdFItWHMyeFVHOGZKSXlieEoxTTdpM3otNU9oNEZGekNyUFRuaWJmdVhadWVNa3hBT21Mbzg3c09sVWtXbkxmZzFnVlBBYzFpU2U0TXlTM0U5MFhTN1U4dlJmNVNaQWoySlcyV19qNXhzd1FnVGV4R0M4N3Bqbl8wOHNXS3hUejFRQ3B2TUM?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_68724a0fd038",
-      "date": "2026-05-08",
-      "title": "Needle-mover or not? Industry insiders react to eXp's acquisition of NextHome - Inman Real Estate News",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ETDZIdjVQS2tWYllLVGU1Z1BpbVdrbS0wQ3d6Q2d3VTgxVXF2aEVqTE9HZGJ5bzZPd1hBMTR3RnBqV0ltTVQ0N3AzREM3dHFCdmpxUjJGRUZEYUlmVklkODhiMXpMclJ1?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_726e78e38092",
-      "date": "2026-05-08",
-      "title": "Interroll expands conveyor business with Royal Apollo acquisition - Modern Materials Handling",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOG1PMXd2QWFUTWJRQmplQmxLcTUzNGJ3VjE4bzc4WHppYnZsZHBycEpfVEpRVk1iVWpJSlpqUVU5cFN1Q1NHeEx0bTRxWmdOM2luZGRvTjJRemlZeVZ5eS05enFJSHg5UTNQdGoybm42RHdBQnVwSnZTazBXN21XS2cyRmtNN2JWRlJN?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_0c287bf00d1c",
+      "id": "us_08042248b507",
       "date": "2026-05-09",
-      "title": "Critical Metals Stock Surges 60% in April on Greenland Rare-Earth Deal - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS050XzB2cFBMZ1BMS0hUQWcyS05xMzZPdEFzM01qLTRWeWZ3SUtiUVNCaDVfSUdOWHRBaUVyc3N6UlR3Y194Z1AtcmdfdFU4OTNvOGtYX2xnRU1uaklvYXd4dU9CWGNNVlBUSXdYaUd2ck9Ybl9pTjJzdVByTVN3T2RScDY1cTBjdmdYNi1zTmVtTWFRVG5vVEtHZGlRZzVj?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_265090652110",
-      "date": "2026-05-08",
-      "title": "BCE Q1 Earnings Beat Estimates, Slip Y/Y Despite Revenue Growth - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQXzF0NEllWHg3TzE1bGZMdFRaTUZjdlNiZFdURjkzcFdNLVA1R1FtbHdZZ1VRWk1kMjJGdklzZ0dnSnhlNURvS0xqVC15dGVjUjZQclFaMmVJbVE1dFhVWm00Zm9ndlJHVU9WRTBpaHNyX1M0U0ZkMnduUDNSNUR1dXJORm5HcHZkOFFuZEZHUWhjdVB4QVdmYjZqOA?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_2e822370b51a",
-      "date": "2026-05-09",
-      "title": "How Investors May Respond To Southern Copper (SCCO) Earnings Beat, Higher Payouts And New CEO Appointment - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDFGZnFrOUllWm1Md2hSYWp6N3dKVXl0b1BKZFZhRFhZdUxlNFlPR3VvZ1pKWUNscHJOcEtCRDV2bjRJdEVjN2ZxeEN0WXkxQ0JCSW5ocWlvUlpldTVnWXFScHJVTEVJRDYtR0V5TDNVZEVlc3lzMmtFTzVGdmw5dUc0Y0RaczhIbUUxY0N3aHhuT0pJSUhBaUVVR3N5RnBhY1U2VQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_dd84302d6828",
-      "date": "2026-05-08",
-      "title": "Rocket Lab Q1 Takeaways: Neutron Momentum, SBI Deal and Robotics Acquisition - Via Satellite",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZXVVSnVUYmJidUZRVW5EblJrT1FsdEVBM2JyWjZtaHN2d1dWWGR2ZXRJMUtxdVZoaE54aFhJVFlXUGNidkpERFlhbFY2aS1lNEQxSG14Q2lSOHZUaXlCUTFpX3RDUUUzXzlwY0V1YVlvOHVxbFdWSGVQaE1aVE1GTW1DRlBUQXByXzdmam5MclRpaWVmRUloU3JzMjJhN2ZORlhvTV82STZvUmx2RnFFcjAxR1pJQ3lKdmhBejlwcFZQMkk?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_7401d9cfa2d8",
-      "date": "2026-05-09",
-      "title": "Should KLA’s Stock Split, Dividend Hike and Completed Buyback Require Action From KLA (KLAC) Investors? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkE1bldKMUpfMFRMM3hXMU1QbVhUWXhaSm55eUNkTnVDcWRZTUtseHJmVHBMcENmVUYzdlREUGNPQXBCVzRZakRLWExkT2lSLU9jM0FTTkVHRTJFN3Bxb19PNHg3V2cyYkljOWpzeFNRUjNPM0lydFBFVHYtNVJBRkFPTmF0UDhSYlNhVUxOSjRYVDU4dE9iOERlZlYydmlPbmd2a1ZJRTNpSDdXekoySnIzTUF0czlkQkM4dVdSZlVGSTFpclHSAcsBQVVfeXFMTjF1bTFHMUVtUzRQc1RZVFg2TFhVN3NzY29nTXlwa2g0aVRUZjAteFZ0YTZwMGZodzRLcHhLc3lUR3h0Q0ZMT20yTTBuc0llSU1UMnM1RHFSTDRRZ0lkLW5WVWQxcVBBck1RaV9BUFVCVmxGTm0zT2xJRGJCaUxxX2duT0NlWkF4RXZuR3dYelpJOHJTTm9Wc1hpbnB6TkRidTI2RW00WmxleW1fNkJZVTFQNzJSbGNURUtMQjEyRlRJd0hya0VTZVp4NWs?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_d32ef164669e",
-      "date": "2026-05-09",
-      "title": "SECURE April 2026 slides: GFL acquisition at 23% premium, Q1 EBITDA up 13% - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYnRVSV91M2RmUTVyVnloSk05RjlWNW1NWlZYVy1LeHpSeWhuSWlHUTR0a3BqSllsMG1tWXhMTFFrcDRDTHNseG1oYmxhajlvT3pTdjJlRzh6YjNHcldxdjJTcHpuM1Z3eXRhQWVpY250MGVValItanVVSWVJRUNqcTBvaDRHNWRoc2RkOC1EWVcybXg1UzZTTVRvV0RQTjNtRXdFamppQkdBMVF5MmdacGo1VDVvOVFFeGZ1LWE4aUwtbUJuQ2c?oc=5",
+      "title": "Assessing Viatris (VTRS) Valuation After Earnings Beat Guidance Reaffirmation And Pipeline Progress - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMlFMVlRuLXdjaktvYktYUEVoQm1DVnQ3U1ktUmF6N0pMQ2NJd2c5cjc4dGFSbWQtY0JxbmJHVXJ1OGlhYVJGRkdVc3JrLTdnbUR4UkRnNVZ0bFZlQ05vQ0VQNkNVV0N1cS1feHRPN29pTTNLanI1ejRZZHNWR2pNUk5fZGx1WFdwWmpyQXJoUXZJcGtUcnlxUW1kMl9OUlQzRkFWdlQzY1BWaGFOanN4aHhreTdmdXJVTUMxODVpYVJ5bVFaQ190c1dxNFU4ZmR6TlVlWHI3VULSAd4BQVVfeXFMTjR2SVhIZGg0c0FXQjk3bGk3a1diZDdhTFJGdGhSaWxWSndiWnZTZkdrbFVDaDgwVmJQVVM1Rlh3NG5DeXRNWDN1aDJ2dUVnRlZnNU9lcmZiTEtnei01NkNfaXVobFFnREYycEx3UVVneGx4LXdGR0RUY1NndFVPYjZuZWIyaGk0S1JYZ0pFVGpXNlVVUENCVmc5Qk9JVzFHaExIcHRuYW1NbW9TaUlDbm5KejQ2Wm1BOEFGaE51UUdyRDRFVjVfQ0xRSGhTOWNZZEJybTZBUjNzYkNkYkpn?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1793,10 +1733,20 @@
       "score": 0
     },
     {
-      "id": "us_49ac66687f0d",
+      "id": "us_c7d5cab726c8",
       "date": "2026-05-08",
-      "title": "Lantheus Holdings (LNTH) Valuation Check After Q1 Earnings Beat And FDA Approval Catalysts - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUUtEaVdZdHhkSE8tZUc3VEZzN010MTVMeDI2eFRISS1NRmhaUmF2NjdRV2hKaWN4a1pyM0RhbGNWeUd6TFhEYXJlendTNXNWMGJNS09taVJXYlExa3NYR3A3Qk5pZ0pGWW93WUFVbXB2NEI2X3A3TWlyYlF1UXVjdEJjc1RXQzQzSWdtdVlJamRqWmtCRVlKallvVV91QWM0OUo3aGtR?oc=5",
+      "title": "Affirm Q3 Earnings Beat on Strong GMV Growth & Higher Transactions - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa2Z4OHZtYjFidDVUdW9mUFVjc1JBSV9fZklYMjNPZ2NBQnlfMzFVVHRZWElDc1JNQV9URTBmMUR1VDNtRFF2ODN4U2xYaGVVZnhUSnRVNGZGb1l3YnFmTG0yTHh0Y2Q3Q3RZRTZTLUYzdnhIeW9iNlFmMnlsYTk0YlZzN3pBWXJHc05JS0FLRlBEYnB4VGctWEdjVQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_e9c03569e39c",
+      "date": "2026-05-08",
+      "title": "NextHome acquisition gives eXp a franchise growth engine - HousingWire",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwaHp6WFozdFBBZlFhUFJldk1WTjlqUU1hZFNfSEVtRzFFWmNXYWEwWTdSczRLVUUtTG9Id0o2WVJ5WmpyQmo0QUloVHZFRmhxWml4aUVkdmszeWR2MURMcW1UQ3pOZnhnbUZOaWhDTG5UM1E?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1813,10 +1763,30 @@
       "score": 0
     },
     {
-      "id": "us_71d09b7a6d30",
+      "id": "us_07aee8a3bea2",
+      "date": "2026-05-09",
+      "title": "York Space Systems Acquisition And Contracts Put Valuation And Volatility In Focus - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbVduaFl2dEdHLW5XN3plWUJsdjZKbXhfRjBmTlZVaVZISV9PZEZMYmczUjVpVUJuZUxwT2hjaGFfZjZOSk9UdFhFWGhJRXFnc0xrZDZVRkJlLXRyX0Z3X00xUkx3dmtlRk1ubXZJSlhXLUpmOUdvdHd2SWVmT0t3aTQ3V01rd2VnMFRKS3lxMUMzbjZ5TzFaTzhRYUpjQzA1ZEZPZllNcDQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_e30fbf543620",
       "date": "2026-05-08",
-      "title": "Diamondback Energy Q1 Earnings Beat Estimates, Dividend Raised - Zacks Investment Research",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcDJnWkZZQ2FLeGpUVU9qdEhKSDBtampiWmViNjdZbGJoYnBvUENENFlxWjVBTVRaWHpUenZnYWZ4ZkwtMEYzYjh3WXlraVVUUmlwemhNa0hOTWR3MUh3Z3dzUlRtUGIySTkwYkNVUUUzWFlBcEJTTUtYWWhXYllYTngxaFZLUU5TLVQ2SDhzRTZQcTdsTGIzbUFUWDU0UmpzTEd4ag?oc=5",
+      "title": "Octave shares jump 43% during Thursday trading on Q1 earnings beat and bullish management commentary - theinsurer.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRUg3M2VrclUxb241cGEta0FpR1FBZ1Z3UUV2N3hxNkxiQmowTFJ2SWcwQUxxMWtDTHBLcjVnVHgtaVJXUUIyaU4wQlVuVFJOSzVQRVZKNVU0UDZ6VmFuTGNrNWZKbkx6RUJqTnFoV05OUktYVUlibkZ1ZnNQTDdjWDkwekVBbUIzVFpOM3d5cER2VFRqTW5CSWY4Y3VjMllkSXl3ZC1haG5KVVNaWFEtMHRHUlZkWWF3VmFpNEFmcHlZUkxxSmo5UVNtblp2dUcxMkg0?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_12083c7aea84",
+      "date": "2026-05-08",
+      "title": "BioMarin profit falls 43% on higher drug manufacturing and acquisition costs - The Press Democrat",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRGpLNGV4MzduN3Y2QnViWU9MRkJuTEtZZ094TjROelB4SjFabDJKeGxXSDlPQXV3ckNFTXNrZ1AzS0lNa0xfX2JWcldVU1IxTTloUEVsUjB3V182SERtM2ZkU3FxaC1NbHp3Qzk4WlVaSWtZcVlaZFZOelk2Z05nRTBNVUlVaWNJaXl2RnlsakZ1QlBEWmlnN3NSSEo1ci1kVnVJUUhFRFlBTkMwb2ZUTjFfeEd2bmhC?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1835,7 +1805,7 @@
     {
       "id": "us_858094967ad8",
       "date": "2026-05-07",
-      "title": "From Rough Stretch to Breakthrough Era: Trade 5 of Biotech's Leading Stocks With 2X Daily Leverage - Barchart.com",
+      "title": "From Rough Stretch to Breakthrough Era: Trade 5 of Biotech's Leading Stocks With 2X Daily Leverage - Barchart",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRURYMWhyLVBxaGNrVzBESUxSR0FidUM3a05sU1lqLWtJdTVyYWpSSk9XNk4tcEJQdC1KMEYzUVdzS1NlWHkzSnlISVY2V1NrZ1l1dkdBZ2dSUGxaNnVONC1tVHdUU3huWkpRSmttSHQ3VVYzYWtWTjFqdVlscjZrdGxmRXIwN3l1U2pZQUk5bVpzZmw2ZmVLWHd5SC1wOVJNSVFSc1pMY2lSam1ZTUdBd0RVX3M1Sy1HM3lSOC1ZaGxHR3R6eXU2T19USGhBN2N3VlNGWm42bDQ?oc=5",
       "source": "google_news",
       "sector": "",
@@ -1847,16 +1817,6 @@
       "date": "2026-05-09",
       "title": "Alphabet Inc. (Class A) stock (US02079K3059): AI-driven earnings beat lifts shares near $400 level - AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNHNWRl95YTAtMVpSNjZIMzktVXBHOVdybzJtRjUwRHN6dzBkZkJ4Nmw5eTYxMDJOYUYzenJtZi1rRG9yMEkzbWc0bTlHZHVrUWRDNFJ5OXVsR3hNdXRscmQxTEw2V3hDRjZzazlPUkRzWi1HaVRFd280a2dRMkFEV29rUFBXNzNGRk95NTFuS2ZzNVNJR1VtQ0h1MDNTVkZORkw3M3k0WTdNcWhNYUFma3M5amJySmZRRnZnQ0Fnbw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_573ddf819693",
-      "date": "2026-05-08",
-      "title": "Meta Platforms, Inc. stock (US30303M1027): Q1 earnings beat lifts sentiment and investor interest - AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWi1iRmtGOHk0bkR2c1dwUzlwS2o1N3RMQ0JzWFZhY1MxS0VQYmI0dy1pTGJ0am12a0FHcFdCVko1eWgxb1JCMXR6ajVQUkRkZmxrOHg3c0RfS25vTWZ3U0UxSHR2cHFxdUNPS0p2YVNVU1lHVjNjRVFmY1hrbVJ4V1pNdEJNeEtvRmtiOGpJZk1mUHdnYnE0Ri1ndFZfQ28yQUNaTWllUkhMcVg5Q0JaUC15blZjQUd3RWVr?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1883,16 +1843,6 @@
       "score": 0
     },
     {
-      "id": "us_c2a3ae9de2e7",
-      "date": "2026-05-09",
-      "title": "DTE Energy Co. stock (US2333311072): Dividend hike and FY2026 guidance in focus - AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQW16SklPRkFXNGN1WVFkSi1ZbHdWanprVmZFNERiOTdXN1lwQUdiOEhDd1prV0dNM21JSkdqSVlOZGJPb3VsTllscTd4dFItcnU1RDc5Uk1UUjBfazZ3cVoxczlzd2l2eXRzOFdlbVFETDdqQjZnSTJibnBmU1BHVFNzRTJVVF9DZnpvTUtDSUlOSXVJbWJSTmMzNzNlQnUwY0l3emRKRnNIY2NIRFJ5WUR1TjlScDY3dE1yVFNBWnEyZGNPVWZF?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_3763a3046438",
       "date": "2026-05-07",
       "title": "Willdan Group: Commercial Energy Expansion Accelerates With Burton Energy Group Acquisition - Pulse 2.0",
@@ -1913,16 +1863,6 @@
       "score": 0
     },
     {
-      "id": "us_087ad43d28e5",
-      "date": "2026-05-07",
-      "title": "Diversified Energy Company inks $1.175bn Oklahoma acquisition alongside Carlyle - Proactive financial news",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNk9lYTlQb00xLWc5YTM4LVJhT0lmS3MwcEVlamdZMlM1U21uVDkzdTVUYlVmTTlwcGFrdDdfUTBVZkFKamEzNW1VNnJZamlHV0YxbHFhemdHeVRZRC1iVHNSaThCU1dzbGMzcUM3Y3dmOHhXRFB6ajJqUXVjWU9yTTJaUzl4Y3ZXM1BtaV9ROUdNcEx3WU5MaUhHaTFtYkRaeUR2TVlhZG9yYl9UVy1Jc1g5UlJqLVIzN180blJBbVlVZnZtNEVCb1EzU0x4SGt6bzRLdl8zblEyTC1tb0NldHNvRQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_29c3c1c43c83",
       "date": "2026-05-07",
       "title": "Vista Energy completes acquisition of Equinor assets in Vaca Muerta - Investing.com",
@@ -1933,10 +1873,30 @@
       "score": 0
     },
     {
+      "id": "us_087ad43d28e5",
+      "date": "2026-05-07",
+      "title": "Diversified Energy Company inks $1.175bn Oklahoma acquisition alongside Carlyle - Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNk9lYTlQb00xLWc5YTM4LVJhT0lmS3MwcEVlamdZMlM1U21uVDkzdTVUYlVmTTlwcGFrdDdfUTBVZkFKamEzNW1VNnJZamlHV0YxbHFhemdHeVRZRC1iVHNSaThCU1dzbGMzcUM3Y3dmOHhXRFB6ajJqUXVjWU9yTTJaUzl4Y3ZXM1BtaV9ROUdNcEx3WU5MaUhHaTFtYkRaeUR2TVlhZG9yYl9UVy1Jc1g5UlJqLVIzN180blJBbVlVZnZtNEVCb1EzU0x4SGt6bzRLdl8zblEyTC1tb0NldHNvRQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_34550b2cee47",
       "date": "2026-05-06",
       "title": "Cenovus profit jumps 83% as MEG deal boosts output, targets more oil sands growth - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZXNOa1d0TTBUc2pQWWJQMjZRT2dRRy1fSTUzM1ZsYkNNS0FWOUVYaHBhYkhBckx4QlNkT2lvS3RnWlp0c0hOUXhBdkxmN2hnYXE1Wml5Vk1pZ0pPazdTREI0VUlxdm8zMFJMcjNuTXA4R3I2d3pqaGtkX2VNcHNVN0F0QXhkWG01aWlXOEVRV3VKa3BRcjZqNVVIV25lZ0d3RWdn?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_c2a3ae9de2e7",
+      "date": "2026-05-09",
+      "title": "DTE Energy Co. stock (US2333311072): Dividend hike and FY2026 guidance in focus - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQW16SklPRkFXNGN1WVFkSi1ZbHdWanprVmZFNERiOTdXN1lwQUdiOEhDd1prV0dNM21JSkdqSVlOZGJPb3VsTllscTd4dFItcnU1RDc5Uk1UUjBfazZ3cVoxczlzd2l2eXRzOFdlbVFETDdqQjZnSTJibnBmU1BHVFNzRTJVVF9DZnpvTUtDSUlOSXVJbWJSTmMzNzNlQnUwY0l3emRKRnNIY2NIRFJ5WUR1TjlScDY3dE1yVFNBWnEyZGNPVWZF?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1957,16 +1917,6 @@
       "date": "2026-05-06",
       "title": "Article: UK clears offshore energy acquisition with IP conditions - GCR Foreign Investment Control - Global Competition Review",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUFJRdEs3RUREUjZvRlp4b190eldoRHdNc09vQjdOQl9JMFhXV0pXTF9oa1d0ZHUwdEFINHlXeWxYWUw2WlYyOHBNQkpoU3ZIRldQNFRVazF4MjZZUWJfR29sSElGZU1yeGt0ejFoUUdGYklVcU4ybTNqT1JUSWE5YWdWeFd4eDBhU1Z3VnhJdVl0QVZtX01TQjJFNWpmak1EeUVmVUxn?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_2b13a7cefd84",
-      "date": "2026-05-07",
-      "title": "Centrica completes acquisition of 850MW Severn power station - Centrica",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZU9aVl9NM0R4dzVpLUlOMThBamU5THp4ZWhSVzVZdWtld3FzVEktQWJQT0ViR243M2xKVThvSnNPMk8zRFdORlBWTjhTTFNWWEQzRmpfUEg5TXZkRm43MHBUaDBvcFM2eWE1M2MyUEpPeXRaNmVUZmVveHFhZzgxeFZQelNDTUU4VE1GYzdkRTlZMTBmVWQ3Y2RCLXVOSS13YTJyLUtiQkdoTjM0Wnc?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1997,6 +1947,16 @@
       "date": "2026-05-06",
       "title": "NRG Energy (NYSE: NRG) Q1 2026 earnings hit by LSP deal debt load - Stock Titan",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMjV0Vk9pRU45OEpJUHM3ejJ1d3VweU5yNzF6Umx4Vnk2RXZTSUl6YkdxdHlZNl9OWG9QS2ZjbV9XamhWUGVkR1RBcEx6RGNKY01ra1hWWS1SS1JfT1F6ZVlOaU9pRFp0OXFrQ2xyUFBzTXJiM3h6VGE3UFVSUXRyVmVFMXNFUzlJYVIyYXdhM1pIOVZjZERoTmY3OXdBdnNHa0NyU1FTTml6UQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_2b13a7cefd84",
+      "date": "2026-05-07",
+      "title": "Centrica completes acquisition of 850MW Severn power station - Centrica",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZU9aVl9NM0R4dzVpLUlOMThBamU5THp4ZWhSVzVZdWtld3FzVEktQWJQT0ViR243M2xKVThvSnNPMk8zRFdORlBWTjhTTFNWWEQzRmpfUEg5TXZkRm43MHBUaDBvcFM2eWE1M2MyUEpPeXRaNmVUZmVveHFhZzgxeFZQelNDTUU4VE1GYzdkRTlZMTBmVWQ3Y2RCLXVOSS13YTJyLUtiQkdoTjM0Wnc?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2103,6 +2063,16 @@
       "score": 0
     },
     {
+      "id": "us_0be6bd117c32",
+      "date": "2026-05-06",
+      "title": "Implementation of share buyback programme - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVU03c0lPbXZfSmZqQ24yVmlhc2tBRnU1dmNWTFFSSV8zclBfRjY1Tl8zalN0eUFuRkVVblRRbUQtdTkzTzRoSFZmZU1DcDVVN0xjRnhXSmhrMjBiT0dnOW1hOW5RTW5ralhEbDdSajVJR3prS0pIVk1abExBQjlDSXJXQzlSX09IN2g1b0k3N0g?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_6b102e5fc927",
       "date": "2026-05-09",
       "title": "JPMorgan Chase & Co. stock (US46625H1005): Earnings beat and analyst moves drive price action - AD HOC NEWS",
@@ -2143,16 +2113,6 @@
       "score": 0
     },
     {
-      "id": "us_cc546465daac",
-      "date": "2026-05-09",
-      "title": "Chile Finance Chief Sees 2% Growth Amid Reform Push This Year - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ19VYlpGc01FVHotaUR4U01EYjVIWnNQR2RHcko3QTZxUFNjbE1hWFVlcnZ4UmpOWUtpZlI1emY4T3h0TXZ4UEdOUjZDZUhrSnNwanhaVzBjaHhBQXRnRHgxWkItdEVaSlFNUDNZRUZHYm80VHRLLXgxYjYzSWozMm5IQ0VUSklldUFKTjBiU2Y1Q0h3R2xnbEt3ZXYwYlQ3OEF3QWVIZmtUN3ZiRFo3MQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_ff41335ffb4c",
       "date": "2026-05-07",
       "title": "'Growth at any Cost Leaves us all Poorer' - UN Secretary-General at the Launch of the 'Beyond GDP' Report - United Nations Sustainable Development Group",
@@ -2173,20 +2133,20 @@
       "score": 0
     },
     {
-      "id": "us_723ecb525dfe",
-      "date": "2026-05-06",
-      "title": "Economic Sentiment Rises Following GDP Growth Despite Mounting Inflation - CivicScience",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY2FNYnpBdVQyOVJBTTNudHQ0UW5lNkJJNUJocHpZbmQ5T2pTOUVxS2hHWksyT1pBVHFkZ3E0ME1rZXBjVWc0cXR5WnB6SXpPa05aWHRkNkZiZVF4Y3VpRjlNcEYyWlo5eExKTjlzYXVnbHNzUFNYU0dpME1hUG1XcExNeTg5S3BieDZwRjRuY0d3dnprZ3NzOHJfVWJna2s?oc=5",
+      "id": "us_cc546465daac",
+      "date": "2026-05-09",
+      "title": "Chile Finance Chief Sees 2% Growth Amid Reform Push This Year - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ19VYlpGc01FVHotaUR4U01EYjVIWnNQR2RHcko3QTZxUFNjbE1hWFVlcnZ4UmpOWUtpZlI1emY4T3h0TXZ4UEdOUjZDZUhrSnNwanhaVzBjaHhBQXRnRHgxWkItdEVaSlFNUDNZRUZHYm80VHRLLXgxYjYzSWozMm5IQ0VUSklldUFKTjBiU2Y1Q0h3R2xnbEt3ZXYwYlQ3OEF3QWVIZmtUN3ZiRFo3MQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_cde8971a23bb",
-      "date": "2026-05-09",
-      "title": "World Modified Atmosphere Packaging Equipment - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaDN0cVBrem5RT21FVk9uTDlVXzNzdjE5Z29PMmNaLUVFRm53dU9CcHpmNWljOTkyX2lIbWxPMVNVa2FKWV9WVVRGS0VIaGtYNlRrbzRzMndLcUdvMlpRUnRJREdNZTMzUmFMZXdTNlQ1WkZZUnVuaUttTVg0bVpmQnJaN3dPelBobWdGQUFRMDZWLVZCNS1qV2dUdk5LTDZ3V2JsMW5STEc1M0NUSnRfYjEzY0JzY01kTU5OMnlON2hxNFR0RlV4R2F0ZGdScHJmazI0ZDVqNG4zclB4RkJUOEFFUHhJNlFUcGM4Nk5wbzZQdjNmNmlfMWRiaEY?oc=5",
+      "id": "us_723ecb525dfe",
+      "date": "2026-05-06",
+      "title": "Economic Sentiment Rises Following GDP Growth Despite Mounting Inflation - CivicScience",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY2FNYnpBdVQyOVJBTTNudHQ0UW5lNkJJNUJocHpZbmQ5T2pTOUVxS2hHWksyT1pBVHFkZ3E0ME1rZXBjVWc0cXR5WnB6SXpPa05aWHRkNkZiZVF4Y3VpRjlNcEYyWlo5eExKTjlzYXVnbHNzUFNYU0dpME1hUG1XcExNeTg5S3BieDZwRjRuY0d3dnprZ3NzOHJfVWJna2s?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2203,30 +2163,30 @@
       "score": 0
     },
     {
+      "id": "us_aa3d8488b24c",
+      "date": "2026-05-08",
+      "title": "‘Upside surprise’: Job growth surges for Trump's economy - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY3dYb1A4YWNmMVd5SUFoRHVTTF9TZWJTSzVVNENVbHRiM3VYRDlOaW1ueDFick5oQVJLNTBBR212UHFaOExGVENOamxHRnpGVlR3QTNjaU5OaEZoaDVKUkQ0eUtNLVdzRWVXMU5MNUZwWjRWc0N2REFvekt4c1NfWDZ2Z1Y4U1F0SU1ZdTVjVHc?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_cde8971a23bb",
+      "date": "2026-05-09",
+      "title": "World Modified Atmosphere Packaging Equipment - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaDN0cVBrem5RT21FVk9uTDlVXzNzdjE5Z29PMmNaLUVFRm53dU9CcHpmNWljOTkyX2lIbWxPMVNVa2FKWV9WVVRGS0VIaGtYNlRrbzRzMndLcUdvMlpRUnRJREdNZTMzUmFMZXdTNlQ1WkZZUnVuaUttTVg0bVpmQnJaN3dPelBobWdGQUFRMDZWLVZCNS1qV2dUdk5LTDZ3V2JsMW5STEc1M0NUSnRfYjEzY0JzY01kTU5OMnlON2hxNFR0RlV4R2F0ZGdScHJmazI0ZDVqNG4zclB4RkJUOEFFUHhJNlFUcGM4Nk5wbzZQdjNmNmlfMWRiaEY?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_5aa2c882e087",
       "date": "2026-05-07",
       "title": "Indonesia targeting 2027 GDP growth in 5.9% to 7.5% range, minister says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnl1LThONFBpSldva0FudGZ0dVdPak0yNERJWVh0SHJKd0w5NEFkUE5FOWZRZ0Vja244UWtCdTBIUXlCdE4yMmpuTnptb3UwY19tUm9zUk14M2VRZjEtZnVxUGM2UUZqLURQSTNvSVlDb3d4ekVhWUtxZjgxbWtaazBfNnpKX0xOcDFza2xLbl9UR2VEM0Rna01tS3dncFVseVVuUFdUYUZwOUozOEg3WjRxSW9URnM?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_9023bcce60d1",
-      "date": "2026-05-10",
-      "title": "Korea Chip Boom May Be Understated in GDP as Nominal Growth Eyes Double Digits - bloomingbit",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wTzlTRkp5TG0ySGpmak9MVHRRTEdkQ281N1ZuUVNJMXJMMHpFMklFeDFaZ3VHMVJqcVRkRjlyZTFnRzlqczNuRkoybzNYRDZVdmFaWA?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_3df3441957f5",
-      "date": "2026-05-10",
-      "title": "Charting the global economy: US job growth exceeds projections - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNjhLUG1DbHFGVnFoUUl2Y3poZzZRcU1acklZRUlSS09NeUJCajhKc2FUMWxsT1JZVzFRVzQ1RFdDQXdmZkp0QUo2UUd0Vm9keDlJbEwtalRoc1R2RW92YzdyNHNiWUpTRTZ2YmFxc05rMWdxNjBOR3piV2FrREFLVTlsODBlRE5Ic1Y4MTN6VkVvWmRLYVB2TU1DRjZLR3Nna3ZmVW9ER0Z2N1BIZTlhWm9tLXhBdnlDMjFfQ1RIRG1oWGZaN1FycWNBZkQ4U2pzbGR1NEJDeG40T3pMcW1STS1R0gHnAUFVX3lxTFBnUU5pUDJ5SVA5YnZtNGtLNTlUQU13cFRpd2VSeXgteFVDcTdobTViVk9Nb2UtTGtUeXg1allQQl83YmMwT0pnS25YS3M4OXh1VTBETHpjUEE2MFdXNE1BV3BXMlR6dTQxSHdma3RSQTRkZFJ3U2N1SGw4Wmt3MElMVUszNHFXYVNEa0xGbEJnUnY0LVYwWXpDTW9POTNycXRoNElGclRkWmVTWVdvX3h1TWtaQjhzTGdHdFRReGNteGdJOUI3YXJkSU51ZXJ3UEhyYnM2bUl2bmlQd09ubWt6ZUV0YlFRNA?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2253,10 +2213,10 @@
       "score": 0
     },
     {
-      "id": "us_d8f538bd771c",
-      "date": "2026-05-06",
-      "title": "Jet Food stores sells fuels business, eyes retail growth - C-Store Dive",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRXFOMHlKRGxiQVUwcmtUa2IwVHA2ejJsbWk4ZHB6dGk3YlRIWVpsV0hUUDU2MXlzTHozNkZLWHNwbG5kVElqdURqT0tubTk0UUwxYnZ2MW0taFVGQjlXMEJwN2p1YzdZRGVXM0RvOGdPMHE0QWRRQTU5ZVdyR2E5YjRib19BNDRwZ2JUbUljeWhKZWdYWm9r?oc=5",
+      "id": "us_9023bcce60d1",
+      "date": "2026-05-10",
+      "title": "Korea Chip Boom May Be Understated in GDP as Nominal Growth Eyes Double Digits - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wTzlTRkp5TG0ySGpmak9MVHRRTEdkQ281N1ZuUVNJMXJMMHpFMklFeDFaZ3VHMVJqcVRkRjlyZTFnRzlqczNuRkoybzNYRDZVdmFaWA?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2273,10 +2233,20 @@
       "score": 0
     },
     {
-      "id": "us_64c1076ab536",
-      "date": "2026-05-09",
-      "title": "Viral Dallas Fed chart shows 3 possible AI futures — human extinction, infinite wealth or 0.3% faster productivity growth - moneywise.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZFVFZGVZUUlrYzUtTjhZQ2JSZnBwNmY5LURpVFJGaHVuOUpUazJCaWx2ZktfQ3JaTXAzdlRtMTJyQTAtWEZTUXpRYnlaNXBjNDVGQU80Ylo4QTdNV1ZELWViNDA0amdLX0p6TVdLNEh3U1JwRXF1cXB6Q3hVSlhzbk9CN3ZFdw?oc=5",
+      "id": "us_0d01535d6cc0",
+      "date": "2026-05-08",
+      "title": "Bob’s Q1 growth defies wider sector trends - Retail Dive",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRENURERuQTR4aklpNHBXcWFMeXFhQ2xGejNwQ3RiX3l2bTJtS1pBdnh2OFk1N0ZaLVJYbzNFSXhtSmxzb0NTTFl1azRsalJZQzlieThBUk1hVmdqWG9Jd2U4dGowaWNHcDg4X3RSWjMtdDFDbFY2ckQtUjEwdDd1b2tLNVFYNVVLSmdrQzZmb3VMLVpHVjhCNQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_3df3441957f5",
+      "date": "2026-05-10",
+      "title": "Charting the global economy: US job growth exceeds projections - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNjhLUG1DbHFGVnFoUUl2Y3poZzZRcU1acklZRUlSS09NeUJCajhKc2FUMWxsT1JZVzFRVzQ1RFdDQXdmZkp0QUo2UUd0Vm9keDlJbEwtalRoc1R2RW92YzdyNHNiWUpTRTZ2YmFxc05rMWdxNjBOR3piV2FrREFLVTlsODBlRE5Ic1Y4MTN6VkVvWmRLYVB2TU1DRjZLR3Nna3ZmVW9ER0Z2N1BIZTlhWm9tLXhBdnlDMjFfQ1RIRG1oWGZaN1FycWNBZkQ4U2pzbGR1NEJDeG40T3pMcW1STS1R0gHnAUFVX3lxTFBnUU5pUDJ5SVA5YnZtNGtLNTlUQU13cFRpd2VSeXgteFVDcTdobTViVk9Nb2UtTGtUeXg1allQQl83YmMwT0pnS25YS3M4OXh1VTBETHpjUEE2MFdXNE1BV3BXMlR6dTQxSHdma3RSQTRkZFJ3U2N1SGw4Wmt3MElMVUszNHFXYVNEa0xGbEJnUnY0LVYwWXpDTW9POTNycXRoNElGclRkWmVTWVdvX3h1TWtaQjhzTGdHdFRReGNteGdJOUI3YXJkSU51ZXJ3UEhyYnM2bUl2bmlQd09ubWt6ZUV0YlFRNA?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2287,16 +2257,6 @@
       "date": "2026-05-07",
       "title": "Press Release | United Nations proposes new global dashboard to measure progress beyond GDP - Welcome to the United Nations",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcFhPUDdWbFdQdWt3dldWbVVobDZidUptXzBOOWpmb1RwbE9ja0ZNc2ZYRUFsaVhBVk9ITmp0ajNhQUszNUxUek5vZzZNVTE2eTNSVm1GdDJXLVRCdnNyekxOM2RIREdxWUhaVXZzckZ6VUdvbDRVQU5uQS1RdEhTMFJmUlpLUDRlWXU1N2p2SWp2bWFOT0YwS3lGR0hpSkR5WnA2XzJvLWVEaHNBclMzRXV6VnlvSkFYT2MzZHJXeG9qUVBuazZHYUVnY0c5ZHQ3SEZCZ0MwaVpERkk1Ymc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_b638545d84a6",
-      "date": "2026-05-07",
-      "title": "The Bank of England Joins Those Who Doubt UK Growth Figures - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2RGcEhYSkFyQW9KRXRPTTFVNE9HRzNLTDFjY3Y4VkJFQVNPNmdMdDQ3cDhtVGZKWDRFMzBWVkQ4NzZuVW1RX184NjlmUFRaUzZneFptMmhnVWUzendNa2NJOHJuTFhWRlBsVU43NGhqczluNHZsWm5BREhFSkN0VmtGTl84Q2s2aGlueG14ZHJSa2ltNEFxclFqRUJteHFQdjN4X0QyWGplay1tS2dB?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2323,10 +2283,10 @@
       "score": 0
     },
     {
-      "id": "us_0d01535d6cc0",
+      "id": "us_b6a46ef9072c",
       "date": "2026-05-08",
-      "title": "Bob’s Q1 growth defies wider sector trends - Retail Dive",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRENURERuQTR4aklpNHBXcWFMeXFhQ2xGejNwQ3RiX3l2bTJtS1pBdnh2OFk1N0ZaLVJYbzNFSXhtSmxzb0NTTFl1azRsalJZQzlieThBUk1hVmdqWG9Jd2U4dGowaWNHcDg4X3RSWjMtdDFDbFY2ckQtUjEwdDd1b2tLNVFYNVVLSmdrQzZmb3VMLVpHVjhCNQ?oc=5",
+      "title": "US economy posts second straight month of strong job gains, but strains remain - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzlqb2FwV3RQS0VjQnJuYXdfNVRrbGxEWDRra2xONmF6N2dCNlU0UUdBVE01SzdBN2dkWlVFcXRUM3o3YlpNQzBKdHF1UlIwRFNaamxBZHdUSXRaaHM0aVpnQ1NoZXRuVnpwZ3JPS2lGU0VvWEE3X2JCYUducGU4My00S0JaNXNXckhEYlMwNG9wemZrRVpwN0E1b1MxdFR0OWwtN3E3QVhJVnJfRXE0WA?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2343,16 +2303,6 @@
       "score": 0
     },
     {
-      "id": "us_b6a46ef9072c",
-      "date": "2026-05-08",
-      "title": "US economy posts second straight month of strong job gains, but strains remain - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzlqb2FwV3RQS0VjQnJuYXdfNVRrbGxEWDRra2xONmF6N2dCNlU0UUdBVE01SzdBN2dkWlVFcXRUM3o3YlpNQzBKdHF1UlIwRFNaamxBZHdUSXRaaHM0aVpnQ1NoZXRuVnpwZ3JPS2lGU0VvWEE3X2JCYUducGU4My00S0JaNXNXckhEYlMwNG9wemZrRVpwN0E1b1MxdFR0OWwtN3E3QVhJVnJfRXE0WA?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_c196b4974668",
       "date": "2026-05-07",
       "title": "Bank of America forecasts Philippine GDP growth slowdown, inflation surge ahead - Investing.com",
@@ -2363,20 +2313,20 @@
       "score": 0
     },
     {
-      "id": "us_bf4c1192deca",
+      "id": "us_dabdfcffc38b",
       "date": "2026-05-07",
-      "title": "Hiscox Q1 premiums climb 10.2% as retail surges - Insurance Business",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNckVlTFBnRkIyaFE1bGEtVm9tbE1BajZmeWVERUNseUNDa0NTcUNMRUtVS2p5VmZPMlpNa0RLNl9ramNtMWoxdzExSmVlY2IwbFBjSll1emVjQ3lsZmxCbzFwbTM0NzNRejRIeVA4cFRhWWNUNkFjSHk0ZGxCMGR0YzBvYm54RlRoaGFsek9LYXBrZzk3VTNDMW55QWhjMXFudFFWTUhxc20yQlNRZzFiN2gtYzV0TkhJ?oc=5",
+      "title": "Russia’s central bank forecasts Q2 GDP growth at 0.9% - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQUo3SWRHUmplRERnalVrZXA5SGNIbzBQM2VRTkxqNGZyeVFMeGMtY0NhMVoxUWEyWDVuVlhtaElwalZLdWpJVng0aGdmZzFna2sxbHVDNUJxcUlacDNZTlNhcFJjVTdkYXp3eTFYbXVvQkNxR09kUEdaWUdnNGpmSGd1WnVCT3NMdGhFV2dPSTdhT251T25lMERCXzNaUEZHV0tMNmFJOTdOdGxYaDNHTmhJMXo?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_dabdfcffc38b",
-      "date": "2026-05-07",
-      "title": "Russia’s central bank forecasts Q2 GDP growth at 0.9% - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQUo3SWRHUmplRERnalVrZXA5SGNIbzBQM2VRTkxqNGZyeVFMeGMtY0NhMVoxUWEyWDVuVlhtaElwalZLdWpJVng0aGdmZzFna2sxbHVDNUJxcUlacDNZTlNhcFJjVTdkYXp3eTFYbXVvQkNxR09kUEdaWUdnNGpmSGd1WnVCT3NMdGhFV2dPSTdhT251T25lMERCXzNaUEZHV0tMNmFJOTdOdGxYaDNHTmhJMXo?oc=5",
+      "id": "us_64c1076ab536",
+      "date": "2026-05-09",
+      "title": "Viral Dallas Fed chart shows 3 possible AI futures — human extinction, infinite wealth or 0.3% faster productivity growth - moneywise.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZFVFZGVZUUlrYzUtTjhZQ2JSZnBwNmY5LURpVFJGaHVuOUpUazJCaWx2ZktfQ3JaTXAzdlRtMTJyQTAtWEZTUXpRYnlaNXBjNDVGQU80Ylo4QTdNV1ZELWViNDA0amdLX0p6TVdLNEh3U1JwRXF1cXB6Q3hVSlhzbk9CN3ZFdw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2403,10 +2353,10 @@
       "score": 0
     },
     {
-      "id": "us_f1ea489cdc6a",
-      "date": "2026-05-09",
-      "title": "China April exports rebound strongly after sluggish March, trade surplus widens - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2x1V2EwRzNqSUZpRGIwa2dlUFpSdmdqaUtuNDl3bVhjcmItMC12VXh2bWNkWlNPdkFMUnFCQnRJZFN0WEZsUDFZVFlqU3FfVWtRNXU1WGlJOThJWlpoTG1haUMtZmxyYVpNOGpTNjFaQkx4Zmx5TWU2Q2pwVnRHbTZhaUN3TmpPVUlOaVlIM2dFQVB4NVl2UGRR0gGfAUFVX3lxTE1CZlo3Nmh1UzVTMnRwVGN2VHJrQTc0dW1rbXhlaUozTnAwU2NoREpEdC1XazlXUi1tSDAwRTNaVjloWWxZQUtXVG4tQmZIekZXVFR1Y05JSTBiYWlsOWtkc3pISlBQcGgyY2hHaGpSWncxVTNEOTh6YVdDdVFZZmtLemN3TU5oamp0Y1FCT0lqYU9XLXM5ODZ5bnJKdTVMMA?oc=5",
+      "id": "us_b298c190939f",
+      "date": "2026-05-08",
+      "title": "Job growth beat expectations at 115,000 in April as unemployment held at 4.3% - Washington Examiner",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGFJYXp0a1JaUGwxWEtickpISzZBZzd0c21qUzdWYkVoaUo0Q0NpRUpkZ1BuTXYzbFBDTkhDeGV0UHJpbXZTeXZVYVlGZDhRM05CMjNNOXdvTERrcVg4WURDcV8yVXlzdElFbVJ5UzNUVkVYMGFMMTZ5NndUWWwzbVNjQldHQ0dobk1JRnQtd0xzWnJRNFVsUTZlYTVhS3pMc2FTeVMyNVhtdw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2423,40 +2373,10 @@
       "score": 0
     },
     {
-      "id": "us_b298c190939f",
-      "date": "2026-05-08",
-      "title": "Job growth beat expectations at 115,000 in April as unemployment held at 4.3% - Washington Examiner",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGFJYXp0a1JaUGwxWEtickpISzZBZzd0c21qUzdWYkVoaUo0Q0NpRUpkZ1BuTXYzbFBDTkhDeGV0UHJpbXZTeXZVYVlGZDhRM05CMjNNOXdvTERrcVg4WURDcV8yVXlzdElFbVJ5UzNUVkVYMGFMMTZ5NndUWWwzbVNjQldHQ0dobk1JRnQtd0xzWnJRNFVsUTZlYTVhS3pMc2FTeVMyNVhtdw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f02783d6e65b",
+      "id": "us_f1ea489cdc6a",
       "date": "2026-05-09",
-      "title": "Nevada Joins Missouri, Illinois, Hawaii, California Colorado, South Carolina and More in U.S. Accelerating Tourism and GDP Growth, Cementing Itself as a Tourism Powerhouse in 2026 - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOaUtITFVHTjFfZFN2UTZCaEZ2MUc5ZUV1NFdMLTlTYUkzTm9Ua2tIVGtmckE0bXR1MEt1ZU9DblpHaUZYU29Vek02ckZsQ1o0VUxHYWlyWTZYWlh2UnZEbVR3NGo3Mi1ncnBNYzZwRHZDS3dMblQwSWJxdVFvVzViNnJ6enlpUWVIZXExaEJ1d1FWZHlkMmY5T005TGRQQjE2WDBTcWZKS2VpcHR3M2hzMDdkRFd6OG9xbnhpUjlxWW9NNUtsNm42dEFCYWhGdzd3UTdTUGstNGx5THBKSmx0ZE5qcWlZUXJlb3Q3cTNEZ1hkaDBIWkkzZmhKVzMzcUlpT0NOTDhQZmttNjROUEZTZjZBZnlCVzdzVURYc2xSVzRPUk1jRXpOazFzYTFzWWExbDV2NXpmSnJReFY3ME5VS0ducGc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c2acc28fc837",
-      "date": "2026-05-06",
-      "title": "Brooks Running boasts global sales growth - Retail Dive",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOE8xZF95T1JwcDkxeXcwdHYtV2xkS0Z3UkoyZ1o2Si1UeU91Z2tvS05lczcwZDBOZndQdzZfenV6RUJudUwwZU56XzQtWGZCVGRocFZsU0lNLVhvZnhkWjQycWpfOWNGVzJQbUl0clJlREN4Ylc2YW5scnlRRVhZRWNEdFotbjlQd0J4NXdCTQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_92c3c3dd46a3",
-      "date": "2026-05-06",
-      "title": "Hong Kong's Q1 2026 GDP growth hits near 5-year high - People's Daily Online",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Bakp1cjFmS25SLTRHajZfdXE2MEdjRlA5bkw2UkpYTUxOY2VTbXVGYjJQa19TdmNybXhLMng0U1hrRlZfa3ZLeGM0dzJGTkxyMFEtNDhYXzRkRHVZTnYzM0RfNUk?oc=5",
+      "title": "China April exports rebound strongly after sluggish March, trade surplus widens - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2x1V2EwRzNqSUZpRGIwa2dlUFpSdmdqaUtuNDl3bVhjcmItMC12VXh2bWNkWlNPdkFMUnFCQnRJZFN0WEZsUDFZVFlqU3FfVWtRNXU1WGlJOThJWlpoTG1haUMtZmxyYVpNOGpTNjFaQkx4Zmx5TWU2Q2pwVnRHbTZhaUN3TmpPVUlOaVlIM2dFQVB4NVl2UGRR0gGfAUFVX3lxTE1CZlo3Nmh1UzVTMnRwVGN2VHJrQTc0dW1rbXhlaUozTnAwU2NoREpEdC1XazlXUi1tSDAwRTNaVjloWWxZQUtXVG4tQmZIekZXVFR1Y05JSTBiYWlsOWtkc3pISlBQcGgyY2hHaGpSWncxVTNEOTh6YVdDdVFZZmtLemN3TU5oamp0Y1FCT0lqYU9XLXM5ODZ5bnJKdTVMMA?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2473,10 +2393,10 @@
       "score": 0
     },
     {
-      "id": "us_d76a8d32896f",
+      "id": "us_92c3c3dd46a3",
       "date": "2026-05-06",
-      "title": "Saudi non-oil economy returns to growth in April, PMI shows - Semafor",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWmRud3BJVmV6bUZsNS1HaXRoUWswRVRVWjlOTk1nVUxxbkYwZmFBWWdtdWpiVnlrOU1MWDV0MnYyVHkxOGxETGE5YU5Jek90OXp1aG82QmFtOGZpUXNqSnJXR0NscXk5Ynpub0JJZjJzaTd5cjJvb1FsRlkwRGhBek5YTmZJNGxaT0o1ZkdYMHpaN0hjOXdMcGhtdjlHU3dDTFo0?oc=5",
+      "title": "Hong Kong's Q1 2026 GDP growth hits near 5-year high - People's Daily Online",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Bakp1cjFmS25SLTRHajZfdXE2MEdjRlA5bkw2UkpYTUxOY2VTbXVGYjJQa19TdmNybXhLMng0U1hrRlZfa3ZLeGM0dzJGTkxyMFEtNDhYXzRkRHVZTnYzM0RfNUk?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2503,10 +2423,50 @@
       "score": 0
     },
     {
+      "id": "us_d76a8d32896f",
+      "date": "2026-05-06",
+      "title": "Saudi non-oil economy returns to growth in April, PMI shows - Semafor",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWmRud3BJVmV6bUZsNS1HaXRoUWswRVRVWjlOTk1nVUxxbkYwZmFBWWdtdWpiVnlrOU1MWDV0MnYyVHkxOGxETGE5YU5Jek90OXp1aG82QmFtOGZpUXNqSnJXR0NscXk5Ynpub0JJZjJzaTd5cjJvb1FsRlkwRGhBek5YTmZJNGxaT0o1ZkdYMHpaN0hjOXdMcGhtdjlHU3dDTFo0?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_c3ca5b31f6ee",
       "date": "2026-05-07",
       "title": "Hungary’s economic momentum regains strength, but risks remain - ING THINK economic and financial analysis | ING THINK",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdnFNX09sa1BCVzZuelVVZkZjM1FZcUpqMEp2cHpJWE96MWJQY2RFcnhzTEdhdk11VFlvSUtEMm5CcnlocmpPX0lXTTBSeDd4TlJrbEFKTVVIQVNhcHNWS3Z1THFKc29iVzBHb3Exc2pCVzE5VjJkM3RmY0w1QjBrcElOWFVmMzhXQ2hDMWJEUmE3S3hXSmsw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_f02783d6e65b",
+      "date": "2026-05-09",
+      "title": "Nevada Joins Missouri, Illinois, Hawaii, California Colorado, South Carolina and More in U.S. Accelerating Tourism and GDP Growth, Cementing Itself as a Tourism Powerhouse in 2026 - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOaUtITFVHTjFfZFN2UTZCaEZ2MUc5ZUV1NFdMLTlTYUkzTm9Ua2tIVGtmckE0bXR1MEt1ZU9DblpHaUZYU29Vek02ckZsQ1o0VUxHYWlyWTZYWlh2UnZEbVR3NGo3Mi1ncnBNYzZwRHZDS3dMblQwSWJxdVFvVzViNnJ6enlpUWVIZXExaEJ1d1FWZHlkMmY5T005TGRQQjE2WDBTcWZKS2VpcHR3M2hzMDdkRFd6OG9xbnhpUjlxWW9NNUtsNm42dEFCYWhGdzd3UTdTUGstNGx5THBKSmx0ZE5qcWlZUXJlb3Q3cTNEZ1hkaDBIWkkzZmhKVzMzcUlpT0NOTDhQZmttNjROUEZTZjZBZnlCVzdzVURYc2xSVzRPUk1jRXpOazFzYTFzWWExbDV2NXpmSnJReFY3ME5VS0ducGc?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_f005c9b880fa",
+      "date": "2026-05-10",
+      "title": "Non-oil sector drives balanced growth in GCC economies: GCC-Stat - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU1h1bjEzaGR3RnRGVWFsemw2VjI2dG1xMVkxTnplUVNoeWJ0aFBqWENvck9ualhfNnFzNTUyVTlfNjdzUTgyMndQajJXVXpuMDFBRFJOd21KSlhtSUVpMnZWRmpRSnVxVmhRN2Y3cXFfdlF0OC1jaDJudWJiRjNpcTNNNnhvbHFhV3NDaDVYUnZVbk16bk1RME05N3ZRWXI2Q0ZxelpweFZjMU3SAb4BQVVfeXFMTnN2OEQ3OTRrNEE1LXpPNzBTVlhpYVM3cDBEX0E4U3lsUnctMjN3UVM2b3Z2ZU5TZ2VwcTZvb0I0MjgtLUt2OFpMRDdpTzc2VkFHX2l4RmhHbUg1MV9TNHJoREd6dFFoWDVUWVNjeUxZV3I4bXRhTWR0X0VucE5HaHlidGlfcjlrRHgtbUx5c292TG1VWEdFTlB0WjFDZTJHTE5mSVZEa1hXNmd1c2tKUHo0QWtOeXJLVDNURk50Zw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_c3cc0afa3bb8",
+      "date": "2026-05-10",
+      "title": "Middle East turmoil to keep oil prices elevated for years, dent India’s GDP growth: ADB chief economist - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNOHNiM0QtSHhiU1J2c2JVRVVuZndYSUdRWUhxRU5iUEQ5eXJPc3VpTldTbTdESTlQczU0a2Yyb2EwaHVfN2pnby02UE5Fcm9CVV9pbkNKbEI4MkRuOGNCc0otMGZrdlRCcEYxeGdhMVJtNWhZZUJWU3FWazY1X3ZGdUxFSnpJUHlqejlkTU9QOU5aUGlMTzJKTHUzQTUzSDNZMkZhUjcyY01DemlFM21YM1p3M1hpTlRqaWFGb28yd1RQTGt4Ukx4NjAxa3RHVjVfQW9yMU5nVkVpRDliTzBEMlZXV2V4bFprRm9MendBVmlPdmJvZUt1WmZycFFxYm9YMkpldWQ4RDlURF9pUmQwekJuWFDSAZoCQVVfeXFMTlVsY2pacFhtQ1loM2h5dDIxSW5oVHNXaG5kSEJVVG5ydm5ET01UdzRxYVlzNDhaYV85TFVoTVpQMDBfemxuYWFwTzUxRVZWRzRYMTdRdEh0Q2dsc3JVSkRGajh4cDlPV2lQSHRfbTR3MG1xRjd2OWk5QVBYMm9fMEMzeG12MkwxU29IeVRnelI1NUlzUXpSQWxMb0piOUFqYTRYdE5pYnMwckFiZkZZaWpOVFVnQ0g5elp3QzBzbmx3dkdnSXZsMXFUUHhoS0xuOGZibHNUUENGUVdZNkFGYjFmeXRVS2Nua2s1M1VfYlhSdzcwT1hkYkNfQTUzVDNSZWk5TDVSVi1fZ3loaXpVczJMRko5TXdSMjZ3?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2523,16 +2483,6 @@
       "score": 0
     },
     {
-      "id": "us_1da1dfc0e45b",
-      "date": "2026-05-09",
-      "title": "AI-related capital spending slowdown could weigh on GDP, Ernie Tedeschi notes - Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObE5LREwzeGlkRjZQa2xHeG92VURQckF6SHVqSHl5QTRTdW5KanRzYy1abDA0SDNpTDFkenRpUHNTNFVCWmRFYjNVLVRGaEp4MXN3Mk9QeF9KbzBtSGJXbnN6LXJtTUlXOFQxYkRlUmlKMTZEU3FyRm9fd0w4TGYtNUd3TQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_419b6e2fd551",
       "date": "2026-05-08",
       "title": "German industry worsens as Middle East war takes its toll - ING THINK economic and financial analysis | ING THINK",
@@ -2543,20 +2493,30 @@
       "score": 0
     },
     {
-      "id": "us_79b97ec298c0",
-      "date": "2026-05-09",
-      "title": "US job growth beats expectations but consumer confidence at all-time low - The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVzhjbDNGbmpxd2ZVTGNEd2J5NU9ZR0ZnclJhclhNdW03ZkNDZGpqX1FTTUFGckFPR0ZuUkoxMkZ6X0hrVGdZNUJDRDJuUXluSFVOYU5lYVVIbTE2OE8zRG5IU19YQjJjQUZHUUhWUy1TUTBIUnhtT0NsNXlfMUZka1hvMVJoV2tMREhsTjlWRHBDbTRrOUdXdVo4S2tTaDhjc3cweEpxbXNiWmZWM0o1NFc0UC1PWVU?oc=5",
+      "id": "us_979c9fa00f4b",
+      "date": "2026-05-10",
+      "title": "India's Growth Faces Double Hit: High Oil Prices and Farm Risks - Whalesbook",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc0h2NGVyekVzaExMNG9sT1NBSVhULWE5MGF4QXVvaW53Xy1nRXYxbG4zaFFzN1gtR2NfYXRETy1wYWY5YzBpdEN1SVU0SzlRVUZwMXAtOUwzRm95NTNOLVp1bUVLQllNX3BqVTlyQl9IcWo1X0pvbnVlOXF3WHl4TklkZGVWck9kTkxfT0VmV3Ztak9fTURHRjNpYzA4V1BhYjRUa08zc1N5SjNMWHRXQUlXX01RaVdscDF2SVF3OUV5WjVoMV8zbFo3d2NDNWM?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_9cb8107594ae",
-      "date": "2026-05-09",
-      "title": "DOGE Eyes a Breakout, But AlphaPepe's 100+ Daily Holder Growth Gives Retail a Faster Meme-Coin Story - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNal9yamNtNzIzaUxUOXh0Z1JCTDQyZExtaEVBZjY3QkgyWDgzUllaZ3Q5NGN5MDlVbEJtSVItUG1YMXNBWC1Oa2dTeXNJamRMWmpvYnMzOTdYUl9Yd0Q2dXZsWll1SUJoMlpBMmp5S1FUVFBKbnk4N1QySHN0bGFtSjFobmVKd3YyTUJiaGVLZVh0RVJUMUVERjg1VEo?oc=5",
+      "id": "us_a45631009895",
+      "date": "2026-05-10",
+      "title": "ADB Oil Price Forecast: India’s Inflation and GDP Growth 2026 - discoveryalert.com.au",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON05TdnMzZEFReW5TSDlqSEhXWEtRdENBUE1SRTBTYmsxMzM2di1JczIydXFPZ1RQZVkyMHF1eVY1aXNYTkwtaElSTGQ3a2VLcTk2cEhjRzlmSmlKenFRMzNlUEpuRko5XzlMOVIySTlveE9wZUlseElDU0F4T2tsM05KX1lBQmpsOUo0UTRR?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_85c4b112a482",
+      "date": "2026-05-10",
+      "title": "ADB warns oil prices could cut India GDP growth 0.6% - NewsBytes",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaUlQTDg0NEJ2enY4X0tzWDVzYkdGejBacDk2T3hCQnUzdkhDcG9FLUVwTklKeXlYZ1luM0l1cU01ZEhVSjFhajVpZHhCb2pPSEFQb3BYVzk0R1k3WXBLTE82M0RJQ05MMmJJcGRfR3FDcy1Jb2xzbHJIckp1a1pmdFUwaW9DY2NTdTFlTEl6UVRhU1UzSFdUOC1ZR0RyUnM?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2573,20 +2533,20 @@
       "score": 0
     },
     {
-      "id": "us_fa11f3f51c2e",
+      "id": "us_2f803b53123a",
       "date": "2026-05-07",
-      "title": "Hiscox surges on strong retail growth, ILS expansion By Investing.com - Investing.com Canada",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNclU2Sm9yT0ZvQjd0SE93UDlYM25fRnRzMXJHN3Z6Y0JYa3pTQklMSzlSMVVEdF9ITVhyU0VkbVNoS2NFSnRuOGZtcy1QVDEyMDBkZHpkLXZTcUtPeExPVVR4TmhLM09oTkNaRHNzc2dlMm5WQjV3djd1VzdJNGRuNWxHczlTbWZhTFNJVFBSb3JfaVQ3azN3U1JEV0VwM3NacXRnRXZVQUpDRjNqTC12YUVrZHR1OWp3S0c2Z3BOSk1LM1IzY3o0QlpHX2VfTGcxSHhCRmEtSDY?oc=5",
+      "title": "Russia's central bank says it forecasts 0.9% GDP growth in Q2 - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdmtwbl9rdzE1RWZ6OTVvTkdfNlNsSC1IMFhZQjk5blFVZmV0alprczdpT2E0dE9xbGpoRGZlOGNBUGlPMDVBRFhuZUFvbTJ1WnY5SGFmNjFBc1hGVUljU1VuZEhyb0xWaExFbUZwOFkxX0FHdXRuNVdFSVlKZWowX3NTYXdlcFpiczFoekc5NjE5WXJEVzZlaExBQWpsTV9jZ2lmY3Vhdk9YVFhPVGNrZ3JHdw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_2f803b53123a",
-      "date": "2026-05-07",
-      "title": "Russia's central bank says it forecasts 0.9% GDP growth in Q2 - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdmtwbl9rdzE1RWZ6OTVvTkdfNlNsSC1IMFhZQjk5blFVZmV0alprczdpT2E0dE9xbGpoRGZlOGNBUGlPMDVBRFhuZUFvbTJ1WnY5SGFmNjFBc1hGVUljU1VuZEhyb0xWaExFbUZwOFkxX0FHdXRuNVdFSVlKZWowX3NTYXdlcFpiczFoekc5NjE5WXJEVzZlaExBQWpsTV9jZ2lmY3Vhdk9YVFhPVGNrZ3JHdw?oc=5",
+      "id": "us_79b97ec298c0",
+      "date": "2026-05-09",
+      "title": "US job growth beats expectations but consumer confidence at all-time low - The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVzhjbDNGbmpxd2ZVTGNEd2J5NU9ZR0ZnclJhclhNdW03ZkNDZGpqX1FTTUFGckFPR0ZuUkoxMkZ6X0hrVGdZNUJDRDJuUXluSFVOYU5lYVVIbTE2OE8zRG5IU19YQjJjQUZHUUhWUy1TUTBIUnhtT0NsNXlfMUZka1hvMVJoV2tMREhsTjlWRHBDbTRrOUdXdVo4S2tTaDhjc3cweEpxbXNiWmZWM0o1NFc0UC1PWVU?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2603,20 +2563,10 @@
       "score": 0
     },
     {
-      "id": "us_62df16a7aceb",
+      "id": "us_520217fa68f8",
       "date": "2026-05-10",
-      "title": "Local web hosting can boost GDP growth – HoganHost boss - Punch Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xSnBfb0l0N2dGeXlVLXp5bmE4VV9ISkJ1dFBHT3F5OEF1VkR2U3cycHpIcHF1TkZkNG9yelVObVJzZ0JPUGZ3aTF1OUpSb0V3Q283OFRKRDRDbXdpcENIemtvVHM4aEpOUDBGWW5PeUdISXVUZC1pbXNfaldvVXc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_defbc789aca7",
-      "date": "2026-05-07",
-      "title": "Philippine GDP growth slows to 2.8% as Iran war batters economy - Nikkei Asia",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnp3blJCNHhLUzJtRGxfU0wteG13Rk9fV2ZIUDMtcDd1OUg4ZUg2a3RiSVpIX3FLNDE4Ym56REl1azJkZW1ETWhMVTVxWXRTc3lVMldhY2ZxMUtFTWxOU09pVTFCaDZydnJ1cTNrRlZ4d1lnaUVGRVFSZjUxdGlPSmIybUdfSzdrRDZJQkN2U1lUOWE5SERNTjBn?oc=5",
+      "title": "Fourlis Holdings S.A. stock (GRS130003002): Profit up 52% on strong retail growth in Southeast Europ - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMVRLRjFYMTVra1pSOXdYaEhNVnoxTjlXTENyNzhaWjk0NUV4MHNVcHVLM09WVVQ2QWFUZXMwR2N4ejEtV21DZ00yQUZlNHJlbFFSUDY0ZXhYU0pQVFk0Qzd4cDRTVWgwSXM2bkNMTjdiMlozX1l6bjdmdVBVeFc5bmZ5ZmNqQ0NaeXpFLUlXdDBPa2lhbTZ4UnpqOGFfenNYZlpwdGRqLUZSSlJ0aHgxN0RPcEh6UUMyZmVBdDVEbw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
