@@ -4,43 +4,33 @@
   "data": [
     {
       "date": "2026-05-08",
-      "sector": "반도체",
-      "news_score": 9.8,
-      "volume_score": 33.5,
-      "trend_score": 5,
-      "total_score": 15.47,
+      "sector": "금융",
+      "news_score": 8.38,
+      "volume_score": 1.0,
+      "trend_score": 4,
+      "total_score": 4.85,
       "recommendation": true,
-      "confidence": 0.8
+      "confidence": 0.85
     },
     {
       "date": "2026-05-08",
       "sector": "자동차",
-      "news_score": 9.0,
+      "news_score": 8.0,
       "volume_score": 11.2,
       "trend_score": 4,
-      "total_score": 8.16,
+      "total_score": 7.76,
       "recommendation": true,
-      "confidence": 0.8
+      "confidence": 0.85
     },
     {
       "date": "2026-05-08",
-      "sector": "금융",
-      "news_score": 8.43,
-      "volume_score": 1.0,
-      "trend_score": 4,
-      "total_score": 4.87,
-      "recommendation": true,
-      "confidence": 0.8
-    },
-    {
-      "date": "2026-05-08",
-      "sector": "IT/소프트웨어",
-      "news_score": 7.0,
-      "volume_score": 0,
+      "sector": "반도체",
+      "news_score": 7.14,
+      "volume_score": 33.5,
       "trend_score": 5,
-      "total_score": 4.3,
-      "recommendation": false,
-      "confidence": 0.8
+      "total_score": 14.41,
+      "recommendation": true,
+      "confidence": 0.85
     },
     {
       "date": "2026-05-08",
@@ -50,7 +40,7 @@
       "trend_score": 5,
       "total_score": 14.79,
       "recommendation": false,
-      "confidence": 0.8
+      "confidence": 0.85
     }
   ]
 }
