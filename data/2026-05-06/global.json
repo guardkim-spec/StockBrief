@@ -5,56 +5,56 @@
     "date": "2026-05-06",
     "linkage_cards": [
       {
-        "us_sector": "자동차",
-        "us_sentiment": "neutral",
-        "us_score": 5,
-        "korea_sector": "자동차",
-        "predicted_impact": "neutral",
-        "impact_strength": 0.6,
-        "summary": "미국 자동차 동향이 한국 자동차 섹터에 영향을 줄 수 있습니다.",
-        "reasoning": "동일 섹터 글로벌 공급망 연계 (Gemini 대체)"
+        "us_sector": "반도체",
+        "us_sentiment": "positive",
+        "us_score": 10,
+        "korea_sector": "반도체",
+        "predicted_impact": "positive",
+        "impact_strength": 0.9,
+        "summary": "미국 반도체 섹터의 강력한 긍정적 흐름이 한국 반도체 시장에 추가적인 상승 동력을 제공할 것입니다.",
+        "reasoning": "글로벌 반도체 산업은 밀접하게 연동되어 있으며, 미국 시장의 호조는 한국 주요 반도체 기업들의 실적 기대감을 높여 긍정적인 영향을 미칠 것입니다."
       },
       {
-        "us_sector": "반도체",
+        "us_sector": "바이오/헬스케어",
+        "us_sentiment": "positive",
+        "us_score": 9,
+        "korea_sector": "바이오/헬스케어",
+        "predicted_impact": "positive",
+        "impact_strength": 0.7,
+        "summary": "미국 바이오/헬스케어 섹터의 긍정적 분위기가 한국 관련주에 온건한 상승 기대를 불어넣을 수 있습니다.",
+        "reasoning": "미국 제약/바이오 시장은 글로벌 트렌드를 선도하며, 긍정적 뉴스는 한국 바이오 기업들의 투자 심리 개선에 기여할 수 있습니다."
+      },
+      {
+        "us_sector": "금융",
         "us_sentiment": "neutral",
-        "us_score": 5,
-        "korea_sector": "반도체",
+        "us_score": 7,
+        "korea_sector": "금융",
         "predicted_impact": "neutral",
-        "impact_strength": 0.6,
-        "summary": "미국 반도체 동향이 한국 반도체 섹터에 영향을 줄 수 있습니다.",
-        "reasoning": "동일 섹터 글로벌 공급망 연계 (Gemini 대체)"
+        "impact_strength": 0.4,
+        "summary": "미국 금융 섹터의 중립적인 흐름은 이미 강세인 한국 금융 시장에 제한적인 영향을 미칠 것입니다.",
+        "reasoning": "미국 금융 시장의 동향은 한국 시장에 간접적인 영향을 주지만, 한국 금융 섹터는 자체적인 강한 모멘텀을 가지고 있어 영향이 상쇄될 수 있습니다."
       },
       {
         "us_sector": "IT/소프트웨어",
         "us_sentiment": "neutral",
-        "us_score": 5,
+        "us_score": 6,
         "korea_sector": "IT/소프트웨어",
         "predicted_impact": "neutral",
-        "impact_strength": 0.6,
-        "summary": "미국 IT/소프트웨어 동향이 한국 IT/소프트웨어 섹터에 영향을 줄 수 있습니다.",
-        "reasoning": "동일 섹터 글로벌 공급망 연계 (Gemini 대체)"
+        "impact_strength": 0.5,
+        "summary": "미국 IT/소프트웨어 섹터의 혼조세는 한국 시장에 일부 관망 심리를 유발할 수 있으나, 큰 영향은 없을 것입니다.",
+        "reasoning": "미국 IT 섹터의 긍정/부정 뉴스가 혼재되어 있어 한국 시장에 명확한 방향성을 제시하기 어렵습니다. 한국 IT는 자체 모멘텀이 강합니다."
       },
       {
-        "us_sector": "바이오/헬스케어",
-        "us_sentiment": "neutral",
-        "us_score": 5,
-        "korea_sector": "바이오/헬스케어",
-        "predicted_impact": "neutral",
-        "impact_strength": 0.6,
-        "summary": "미국 바이오/헬스케어 동향이 한국 바이오/헬스케어 섹터에 영향을 줄 수 있습니다.",
-        "reasoning": "동일 섹터 글로벌 공급망 연계 (Gemini 대체)"
-      },
-      {
-        "us_sector": "에너지",
-        "us_sentiment": "neutral",
-        "us_score": 5,
-        "korea_sector": "에너지",
-        "predicted_impact": "neutral",
-        "impact_strength": 0.6,
-        "summary": "미국 에너지 동향이 한국 에너지 섹터에 영향을 줄 수 있습니다.",
-        "reasoning": "동일 섹터 글로벌 공급망 연계 (Gemini 대체)"
+        "us_sector": "자동차",
+        "us_sentiment": "negative",
+        "us_score": 0,
+        "korea_sector": "자동차",
+        "predicted_impact": "negative",
+        "impact_strength": 0.8,
+        "summary": "미국 자동차 섹터의 부정적 동향은 한국 자동차 관련주에 하방 압력으로 작용할 수 있습니다.",
+        "reasoning": "글로벌 자동차 산업은 밀접하게 연결되어 있으며, 미국 시장의 부정적 뉴스는 한국 주요 자동차 기업들의 투자 심리 위축 및 실적 우려로 이어질 수 있습니다."
       }
     ],
-    "gemini_overall_summary": "Gemini API 미사용 — 규칙 기반 연계 분석 결과입니다."
+    "gemini_overall_summary": "미국 반도체 및 바이오/헬스케어 섹터의 긍정적 흐름은 한국 시장의 해당 섹터에 상승 동력을 제공할 것으로 예상됩니다. 반면, 미국 자동차 섹터의 부정적 동향은 한국 자동차 관련주에 하방 압력을 가할 수 있습니다. 금융 및 IT/소프트웨어 섹터는 미국 시장의 혼조세에도 불구하고 한국 시장은 자체 모멘텀으로 중립적인 영향을 받을 것으로 보입니다."
   }
 }
