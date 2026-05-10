@@ -134,12 +134,22 @@ def _render_sector_table(rankings: list[dict], title: str) -> str:
     rows = ""
     for item in filtered[:12]:
         sent = item.get("sentiment", "neutral")
-        cls  = "pos" if sent == "positive" else ("neg" if sent == "negative" else "neu")
+        sent_color = "#FF3B3B" if sent == "positive" else ("#3B8BFF" if sent == "negative" else "#8B949E")
         label = "▲" if sent == "positive" else ("▼" if sent == "negative" else "—")
-        rows += f"<tr><td>{item['sector']}</td><td>{item.get('score', 0):.1f}</td><td class='{cls}'>{label}</td></tr>"
+        rows += (
+            f"<tr>"
+            f"<td style='padding:7px 8px;border-bottom:1px solid #30363D;color:#c9d1d9'>{item['sector']}</td>"
+            f"<td style='padding:7px 8px;border-bottom:1px solid #30363D;color:#c9d1d9'>{item.get('score', 0):.1f}</td>"
+            f"<td style='padding:7px 8px;border-bottom:1px solid #30363D;color:{sent_color}'>{label}</td>"
+            f"</tr>"
+        )
+    th = "style='background:#161B22;color:#8B949E;text-align:left;padding:8px'"
     return f"""<div class="card">
     <h2>{title}</h2>
-    <table><tr><th>섹터</th><th>점수</th><th>방향</th></tr>{rows}</table>
+    <table style='width:100%;border-collapse:collapse;font-size:12px'>
+      <tr><th {th}>섹터</th><th {th}>점수</th><th {th}>방향</th></tr>
+      {rows}
+    </table>
   </div>"""
 
 
