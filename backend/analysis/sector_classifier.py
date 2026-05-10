@@ -44,22 +44,16 @@ def aggregate_sector_volume(stocks: list[dict[str, Any]]) -> list[dict[str, Any]
 
 
 def aggregate_sector_news_scores(news_items: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    """Aggregate news by sector -> net sentiment score and counts.
-
-    Only items with a non-empty sector AND non-empty sentiment (i.e. Gemini-analyzed)
-    are included so that unanalyzed raw articles don't pollute the scores.
-    """
+    """Aggregate news by sector -> net sentiment score and counts."""
     agg: dict[str, dict] = {}
     for item in news_items:
-        sector    = item.get("sector", "").strip()
-        sentiment = item.get("sentiment", "").strip()
-        # Skip unanalyzed items (empty sector or empty sentiment)
-        if not sector or not sentiment:
-            continue
+        sector    = item.get("sector") or "기타"
+        sentiment = item.get("sentiment") or "neutral"
         if sector not in agg:
             agg[sector] = {"positive": 0, "negative": 0, "neutral": 0,
                            "pos_scores": [], "neg_scores": []}
-        agg[sector][sentiment] = agg[sector].get(sentiment, 0) + 1
+        if sentiment in ("positive", "negative", "neutral"):
+            agg[sector][sentiment] += 1
         score = item.get("score", 5)
         if sentiment == "positive":
             agg[sector]["pos_scores"].append(score)
@@ -70,15 +64,14 @@ def aggregate_sector_news_scores(news_items: list[dict[str, Any]]) -> list[dict[
     for sector, data in agg.items():
         pos_scores = data["pos_scores"]
         neg_scores = data["neg_scores"]
-        total      = data["positive"] + data["negative"] + data.get("neutral", 0)
+        total      = data["positive"] + data["negative"] + data["neutral"]
         pos_sum    = sum(pos_scores)
         neg_sum    = sum(neg_scores)
         avg_score  = round((pos_sum + neg_sum) / max(len(pos_scores) + len(neg_scores), 1), 2)
 
-        # Normalised net score in [0, 10]:
-        #   5 + (pos_sum - neg_sum) / (total * 10) * 5
-        # Dividing by (total * 10) caps the per-article contribution to ±0.5,
-        # so you need genuinely many more positives than negatives to reach 10.
+        # Normalised net score [0, 10].
+        # Divides by (total * 10) so reaching 10 requires all articles to be
+        # positive at maximum strength — not just 1-2 high-score items.
         max_possible = total * 10
         net = round(max(0.0, min(10.0,
               5 + (pos_sum - neg_sum) / max_possible * 5)), 2) if max_possible else 5.0
