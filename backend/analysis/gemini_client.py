@@ -12,7 +12,7 @@ from pipeline.retry import retry
 logger = logging.getLogger(__name__)
 
 _MODEL_NAME = "gemini-2.5-flash"
-_MAX_TOKENS = 8192
+_MAX_TOKENS = 16384
 _LAST_RESULT_CACHE: dict[str, Any] = {}
 
 
@@ -31,6 +31,7 @@ def call_gemini(prompt: str, cache_key: str = "", json_mode: bool = False) -> st
         config_kwargs: dict = {"max_output_tokens": _MAX_TOKENS, "temperature": 0.3}
         if json_mode:
             config_kwargs["response_mime_type"] = "application/json"
+            config_kwargs["thinking_config"] = types.ThinkingConfig(thinking_budget=0)
         response = client.models.generate_content(
             model=_MODEL_NAME,
             contents=prompt,
