@@ -1,30 +1,32 @@
-"""Collect US stock market news from NewsAPI."""
+"""Collect US stock market news from Google News RSS (no rate limits)."""
 import logging
+import random
+import time
 import hashlib
+import time as _time
 from datetime import datetime, timedelta
 from typing import Any
+from urllib.parse import urlencode
 
+import feedparser
 import pytz
-import requests
 
 from pipeline.retry import retry
-from config.settings import settings
 
 logger = logging.getLogger(__name__)
-KST = pytz.timezone("Asia/Seoul")
+ET = pytz.timezone("America/New_York")
 
-NEWSAPI_BASE = "https://newsapi.org/v2/everything"
-
-# Double-quoted phrases are preserved as Python strings with escaped quotes.
-# The requests library URL-encodes them automatically (%22) before sending.
-# Scheduler: cron "0 10 * * 1-5" → 1 run/day × 6 queries = 6 req/day (limit: 100/day).
-US_MARKET_QUERIES = [
-    '"S&P 500" OR Nasdaq OR "Dow Jones" OR "Wall Street"',
-    '"Federal Reserve" OR FOMC OR "interest rate" OR CPI OR inflation',
-    'Semiconductor OR "Artificial Intelligence" OR Nvidia OR Apple OR Microsoft',
-    '"earnings report" OR guidance OR "M&A" OR "stock split"',
-    'pharma OR biotech OR FDA OR "clinical trial"',
-    'Tesla OR EV OR Energy OR oil OR retail',
+US_QUERIES = [
+    "S&P 500 OR Nasdaq OR Dow Jones OR Wall Street stock market",
+    "Federal Reserve OR interest rate OR inflation OR CPI OR FOMC",
+    "Semiconductor OR Nvidia OR AI chip OR Apple OR Microsoft earnings",
+    "earnings report OR quarterly results OR revenue beat OR guidance",
+    "biotech OR pharma OR FDA approval OR clinical trial OR drug",
+    "Tesla OR electric vehicle OR EV OR battery technology",
+    "Amazon OR Google OR Meta OR Netflix OR tech stocks",
+    "oil price OR energy sector OR OPEC OR crude oil",
+    "JPMorgan OR Goldman Sachs OR bank OR financial sector",
+    "trade war OR tariff OR recession OR GDP OR economic data",
 ]
 
 HEADERS = {
@@ -36,84 +38,75 @@ HEADERS = {
 }
 
 
+def _build_url(query: str) -> str:
+    params = urlencode({"q": query, "hl": "en", "gl": "US", "ceid": "US:en"})
+    return f"https://news.google.com/rss/search?{params}"
+
+
 def _make_id(url: str) -> str:
     return "us_" + hashlib.md5(url.encode()).hexdigest()[:12]
 
 
+def _pub_date_str(entry) -> str:
+    if hasattr(entry, "published_parsed") and entry.published_parsed:
+        return _time.strftime("%Y-%m-%d", entry.published_parsed)
+    if hasattr(entry, "published") and entry.published:
+        raw = entry.published
+        if len(raw) >= 10 and raw[4] == "-":
+            return raw[:10]
+    return ""
+
+
+def _parse_feed(url: str, cutoff: str) -> list[dict]:
+    items = []
+    try:
+        feed = feedparser.parse(url, request_headers=HEADERS)
+        for entry in feed.entries:
+            title = entry.get("title", "").strip()
+            link = entry.get("link", "").strip()
+            if not title or not link:
+                continue
+            pub_date = _pub_date_str(entry)
+            if pub_date and pub_date < cutoff:
+                continue
+            items.append({
+                "id": _make_id(link),
+                "date": pub_date,
+                "title": title,
+                "url": link,
+                "source": "google_news",
+                "sector": "",
+                "sentiment": "",
+                "score": 0,
+            })
+    except Exception as exc:
+        logger.warning("Feed parse error %s: %s", url, exc)
+    return items
+
+
 @retry(max_attempts=3, delay_sec=30.0)
 def collect_us_news(date_str: str | None = None) -> list[dict[str, Any]]:
-    """Collect today's US market news from NewsAPI. Returns raw items (sector/sentiment TBD)."""
-    if not settings.newsapi_key:
-        logger.warning("NEWSAPI_KEY not set; returning empty news list")
-        return []
-
-    now_kst = datetime.now(KST)
-    today = date_str or now_kst.strftime("%Y-%m-%d")
+    """Collect US market news from Google News RSS."""
+    now_et = datetime.now(ET)
+    today = date_str or now_et.strftime("%Y-%m-%d")
     logger.info("Collecting US news for %s", today)
 
-    # Expand date range slightly to handle timezone differences and past-date runs
     target_dt = datetime.strptime(today, "%Y-%m-%d")
-    from_date = (target_dt - timedelta(days=1)).strftime("%Y-%m-%d")
-    to_date = today
+    cutoff = (target_dt - timedelta(days=2)).strftime("%Y-%m-%d")
 
     all_items: list[dict] = []
     seen_ids: set[str] = set()
-    # Hard cap well below 100/day free-tier limit (6 queries × 1 run/day = 6 req/day)
-    remaining_requests = 20
 
-    for query in US_MARKET_QUERIES:
-        if remaining_requests <= 0:
-            break
-        try:
-            resp = requests.get(
-                NEWSAPI_BASE,
-                params={
-                    "q": query,       # requests encodes quotes → %22 automatically
-                    "from": from_date,
-                    "to": to_date,
-                    "language": "en",
-                    "sortBy": "relevancy",
-                    "pageSize": 50,
-                    "apiKey": settings.newsapi_key,
-                },
-                headers=HEADERS,
-                timeout=15,
-            )
-            resp.raise_for_status()
-            data = resp.json()
-            remaining_requests -= 1
-
-            for article in data.get("articles", []):
-                url = article.get("url", "").strip()
-                title = article.get("title", "").strip()
-                if not url or not title or url == "[Removed]" or title == "[Removed]":
-                    continue
-
-                item_id = _make_id(url)
-                if item_id in seen_ids:
-                    continue
-                seen_ids.add(item_id)
-
-                all_items.append({
-                    "id": item_id,
-                    "date": today,
-                    "title": title,
-                    "url": url,
-                    "source": "newsapi",
-                    "sector": "",
-                    "sentiment": "",
-                    "score": 0,
-                })
-        except requests.HTTPError as exc:
-            if exc.response is not None and exc.response.status_code == 429:
-                logger.warning("NewsAPI rate limit reached. Stopping.")
-                break
-            logger.warning("NewsAPI request failed: %s", exc)
-        except Exception as exc:
-            logger.warning("NewsAPI error: %s", exc)
-
-    if not all_items:
-        logger.info("No US news found for %s", today)
+    for query in US_QUERIES:
+        url = _build_url(query)
+        items = _parse_feed(url, cutoff)
+        for item in items:
+            if item["id"] not in seen_ids:
+                seen_ids.add(item["id"])
+                if not item["date"]:
+                    item["date"] = today
+                all_items.append(item)
+        time.sleep(random.uniform(0.5, 1.5))
 
     logger.info("Collected %d US news articles", len(all_items))
     return all_items
