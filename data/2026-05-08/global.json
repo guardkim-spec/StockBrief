@@ -5,16 +5,36 @@
     "date": "2026-05-08",
     "linkage_cards": [
       {
-        "us_sector": "기타",
-        "us_sentiment": "neutral",
-        "us_score": 5,
-        "korea_sector": "기타",
+        "us_sector": "IT/소프트웨어",
+        "us_sentiment": "positive",
+        "us_score": 8.71,
+        "korea_sector": "IT/소프트웨어",
+        "predicted_impact": "positive",
+        "impact_strength": 1.0,
+        "summary": "미국 IT/소프트웨어 강세, 한국 IT/소프트웨어 동반 상승 기대.",
+        "reasoning": "미국 IT/소프트웨어 섹터의 긍정적 흐름이 한국 IT/소프트웨어 섹터의 기존 강세와 시너지를 내며 추가 상승을 견인할 것으로 예상됩니다."
+      },
+      {
+        "us_sector": "반도체",
+        "us_sentiment": "negative",
+        "us_score": 6.0,
+        "korea_sector": "반도체",
         "predicted_impact": "neutral",
-        "impact_strength": 0.6,
-        "summary": "미국 기타 동향이 한국 기타 섹터에 영향을 줄 수 있습니다.",
-        "reasoning": "동일 섹터 글로벌 공급망 연계 (Gemini 대체)"
+        "impact_strength": 0.16,
+        "summary": "미국 반도체 약세, 한국 반도체 상승세 둔화 우려.",
+        "reasoning": "미국 반도체 섹터의 약세가 한국 반도체 섹터의 상승 모멘텀을 일부 둔화시킬 수 있으나, 추세 전환은 어려울 수 있습니다."
+      },
+      {
+        "us_sector": "금융",
+        "us_sentiment": "neutral",
+        "us_score": 5.85,
+        "korea_sector": "금융",
+        "predicted_impact": "neutral",
+        "impact_strength": 0.42,
+        "summary": "미국 금융 중립, 한국 금융 기존 강세 유지.",
+        "reasoning": "미국 금융 섹터는 중립적이나, 한국 금융 섹터의 자체적인 긍정적 흐름은 유지될 것으로 보입니다."
       }
     ],
-    "gemini_overall_summary": "Gemini API 미사용 — 규칙 기반 연계 분석 결과입니다."
+    "gemini_overall_summary": "미국 IT/소프트웨어 강세는 한국 IT/소프트웨어 시장에 긍정적 영향을 줄 것으로 보입니다. 미국 반도체 약세는 한국 반도체 상승세를 일부 둔화시킬 수 있으며, 미국 금융은 중립적이나 한국 금융은 자체 강세를 유지할 전망입니다. 전반적으로 미국 시장의 긍정적 흐름은 한국 관련 섹터에 활력을 불어넣겠지만, 일부 약세 섹터는 제한적 영향을 미칠 것입니다."
   }
 }
