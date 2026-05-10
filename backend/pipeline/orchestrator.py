@@ -301,12 +301,25 @@ def _analyze_news(raw: list[dict], lang: str, dry_run: bool) -> list[dict]:
         return raw
     from analysis.gemini_client import call_gemini_json
     from config.sectors import get_sector_list
+
+    # Deduplicate by title before sending to Gemini, cap at 60 items
+    seen_titles: set[str] = set()
+    candidates: list[dict] = []
+    for item in raw:
+        t = item.get("title", "").strip()
+        if t and t not in seen_titles:
+            seen_titles.add(t)
+            candidates.append(item)
+        if len(candidates) >= 60:
+            break
+
     sectors_str = ", ".join(get_sector_list())
-    prompt_lines = "\n".join(f'{i+1}. "{item["title"]}"' for i, item in enumerate(raw[:30]))
+    prompt_lines = "\n".join(f'{i+1}. "{item["title"]}"' for i, item in enumerate(candidates))
     prompt = f"""다음 뉴스 제목들을 분석하여 각각에 대해 섹터, 감성, 점수를 JSON 배열로 반환하세요.
 섹터는 반드시 다음 중 하나: {sectors_str}
-감성: positive, negative, neutral
-점수: 1~10 (10이 가장 강한 호재/악재)
+감성: positive(호재), negative(악재), neutral(중립)
+점수: 1~10 (10이 가장 강한 호재/악재 — 방향은 감성 필드로만 표현, 점수는 강도만)
+주의: 일반 시황/지수 뉴스는 "기타"로 분류하세요.
 
 뉴스 목록:
 {prompt_lines}
@@ -316,15 +329,19 @@ JSON 배열 형식:
 
     result = call_gemini_json(prompt, cache_key=f"news_analysis_{lang}")
     if not result or not isinstance(result, list):
-        return raw
+        return candidates  # return only deduped items even if Gemini fails
 
     result_map = {item.get("index"): item for item in result if isinstance(item, dict)}
-    for i, news in enumerate(raw[:30], 1):
-        if i in result_map:
-            news["sector"]    = result_map[i].get("sector", "기타")
-            news["sentiment"] = result_map[i].get("sentiment", "neutral")
-            news["score"]     = int(result_map[i].get("score", 5))
-    return raw
+    analyzed: list[dict] = []
+    for i, news in enumerate(candidates, 1):
+        mapped = result_map.get(i)
+        if mapped:
+            news["sector"]    = mapped.get("sector", "기타")
+            news["sentiment"] = mapped.get("sentiment", "neutral")
+            news["score"]     = int(mapped.get("score", 5))
+            analyzed.append(news)
+    # Return only analyzed items — unanalyzed raw articles add noise
+    return analyzed if analyzed else candidates
 
 
 def _get_representative_tickers(stocks: list[dict], sectors: list[str]) -> list[tuple]:

@@ -44,16 +44,23 @@ def aggregate_sector_volume(stocks: list[dict[str, Any]]) -> list[dict[str, Any]
 
 
 def aggregate_sector_news_scores(news_items: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    """Aggregate news by sector -> net sentiment score and counts."""
+    """Aggregate news by sector -> net sentiment score and counts.
+
+    Only items with a non-empty sector AND non-empty sentiment (i.e. Gemini-analyzed)
+    are included so that unanalyzed raw articles don't pollute the scores.
+    """
     agg: dict[str, dict] = {}
     for item in news_items:
-        sector = item.get("sector") or "기타"
+        sector    = item.get("sector", "").strip()
+        sentiment = item.get("sentiment", "").strip()
+        # Skip unanalyzed items (empty sector or empty sentiment)
+        if not sector or not sentiment:
+            continue
         if sector not in agg:
-            agg[sector] = {"positive": 0, "negative": 0, "neutral": 0, "scores": [], "pos_scores": [], "neg_scores": []}
-        sentiment = item.get("sentiment", "neutral")
-        score = item.get("score", 5)
+            agg[sector] = {"positive": 0, "negative": 0, "neutral": 0,
+                           "pos_scores": [], "neg_scores": []}
         agg[sector][sentiment] = agg[sector].get(sentiment, 0) + 1
-        agg[sector]["scores"].append(score)
+        score = item.get("score", 5)
         if sentiment == "positive":
             agg[sector]["pos_scores"].append(score)
         elif sentiment == "negative":
@@ -61,19 +68,27 @@ def aggregate_sector_news_scores(news_items: list[dict[str, Any]]) -> list[dict[
 
     result = []
     for sector, data in agg.items():
-        scores = data["scores"]
-        avg = round(sum(scores) / len(scores), 2) if scores else 0
-        # Net score: positive news adds, negative news subtracts. Base 5, range 0-10.
-        pos_sum = sum(data["pos_scores"])
-        neg_sum = sum(data["neg_scores"])
-        total = len(scores) or 1
-        net = round(max(0.0, min(10.0, 5 + (pos_sum - neg_sum) / total)), 2)
+        pos_scores = data["pos_scores"]
+        neg_scores = data["neg_scores"]
+        total      = data["positive"] + data["negative"] + data.get("neutral", 0)
+        pos_sum    = sum(pos_scores)
+        neg_sum    = sum(neg_scores)
+        avg_score  = round((pos_sum + neg_sum) / max(len(pos_scores) + len(neg_scores), 1), 2)
+
+        # Normalised net score in [0, 10]:
+        #   5 + (pos_sum - neg_sum) / (total * 10) * 5
+        # Dividing by (total * 10) caps the per-article contribution to ±0.5,
+        # so you need genuinely many more positives than negatives to reach 10.
+        max_possible = total * 10
+        net = round(max(0.0, min(10.0,
+              5 + (pos_sum - neg_sum) / max_possible * 5)), 2) if max_possible else 5.0
+
         result.append({
-            "sector": sector,
-            "positive_count": data.get("positive", 0),
-            "negative_count": data.get("negative", 0),
-            "avg_score": avg,
-            "net_score": net,
+            "sector":         sector,
+            "positive_count": data["positive"],
+            "negative_count": data["negative"],
+            "avg_score":      avg_score,
+            "net_score":      net,
         })
 
     result.sort(key=lambda x: x["net_score"], reverse=True)
