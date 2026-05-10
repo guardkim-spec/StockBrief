@@ -332,16 +332,15 @@ JSON 배열 형식:
         return candidates  # return only deduped items even if Gemini fails
 
     result_map = {item.get("index"): item for item in result if isinstance(item, dict)}
-    analyzed: list[dict] = []
     for i, news in enumerate(candidates, 1):
         mapped = result_map.get(i)
         if mapped:
             news["sector"]    = mapped.get("sector", "기타")
             news["sentiment"] = mapped.get("sentiment", "neutral")
             news["score"]     = int(mapped.get("score", 5))
-            analyzed.append(news)
-    # Return only analyzed items — unanalyzed raw articles add noise
-    return analyzed if analyzed else candidates
+    # Return all candidates — aggregate_sector_news_scores filters out
+    # items that still have empty sector/sentiment (unanalyzed ones)
+    return candidates
 
 
 def _get_representative_tickers(stocks: list[dict], sectors: list[str]) -> list[tuple]:
