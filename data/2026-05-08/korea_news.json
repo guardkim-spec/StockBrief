@@ -30,7 +30,7 @@
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "positive",
-      "score": 8
+      "score": 7
     },
     {
       "id": "kr_b4915eaf3cf0",
@@ -40,7 +40,7 @@
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "positive",
-      "score": 7
+      "score": 5
     },
     {
       "id": "kr_dd9c08a8262f",
@@ -50,7 +50,7 @@
       "source": "google_news",
       "sector": "IT/소프트웨어",
       "sentiment": "positive",
-      "score": 8
+      "score": 7
     },
     {
       "id": "kr_aaa8f8928f2a",
@@ -80,7 +80,7 @@
       "source": "google_news",
       "sector": "바이오/헬스케어",
       "sentiment": "positive",
-      "score": 9
+      "score": 10
     },
     {
       "id": "kr_dbe33b3c5166",
@@ -100,7 +100,7 @@
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "positive",
-      "score": 7
+      "score": 6
     },
     {
       "id": "kr_e2acc00a3b0f",
@@ -128,7 +128,7 @@
       "title": "한국 수출, 글로벌 톱5 진입...올해 1분기 일본 제쳤다 - 재외동포신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Lb3VtcTJLNEd0WFp0cHN3cl9WX2NoSUFkeXlBM1NsMXVvNFlyTVhaRWdBUkV4VnFrSUhNRkZibVR4X2lDRDFlQ2lQcE9IeE1fUU5GOFhmcFpHcGRxUXNxT1NfdGpWZjRQLU5rUQ?oc=5",
       "source": "google_news",
-      "sector": "소비재",
+      "sector": "반도체",
       "sentiment": "positive",
       "score": 9
     },
@@ -141,6 +141,16 @@
       "sector": "소비재",
       "sentiment": "positive",
       "score": 10
+    },
+    {
+      "id": "kr_e7a3afc7c66b",
+      "date": "2026-05-08",
+      "title": "'역대 최대 실적' 에이피알 4% 강세…화장품株 훈풍[핫종목] - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43am9WTVhfNFE2eXVoX0F2YTRKNlNFOGtXaDBpR2dYVW95U0llMXJTTGw0QVFOUlFEVTZfNmtLSmtOTDJCMGlxMm05WVl1Vzh5NDBnR19WdUpvQWM?oc=5",
+      "source": "google_news",
+      "sector": "소비재",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "kr_722d7fd587bf",
@@ -160,17 +170,7 @@
       "source": "google_news",
       "sector": "바이오/헬스케어",
       "sentiment": "positive",
-      "score": 8
-    },
-    {
-      "id": "kr_e7a3afc7c66b",
-      "date": "2026-05-08",
-      "title": "'역대 최대 실적' 에이피알 4% 강세…화장품株 훈풍[핫종목] - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43am9WTVhfNFE2eXVoX0F2YTRKNlNFOGtXaDBpR2dYVW95U0llMXJTTGw0QVFOUlFEVTZfNmtLSmtOTDJCMGlxMm05WVl1Vzh5NDBnR19WdUpvQWM?oc=5",
-      "source": "google_news",
-      "sector": "소비재",
-      "sentiment": "positive",
-      "score": 10
+      "score": 9
     },
     {
       "id": "kr_9ac90999fb35",
@@ -180,7 +180,7 @@
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "positive",
-      "score": 9
+      "score": 8
     },
     {
       "id": "kr_5c82084f9cf4",
@@ -229,8 +229,8 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Yc1RRWGtHbWFWZ2NBMmVvQ0FYYnpzTkZ4VGMxODBXVnhRa3EzZ29zUWxrT3prUFhqRTg4aUp6eGRaQkg1RlR2WS1KMjRwREJGakU0?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "neutral",
-      "score": 5
+      "sentiment": "positive",
+      "score": 6
     },
     {
       "id": "kr_abb866e0f977",
@@ -239,8 +239,8 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TSVZNaFZ5QjR3a0FNOVgxd2xpbVVRU0lzUzFYV3djUW1VeVk0bkwwNDFuc2JmNW1tYVp0R3QtamNzRy0wZXh3dW1IM0xabDJ5dEhNdmZn?oc=5",
       "source": "google_news",
       "sector": "바이오/헬스케어",
-      "sentiment": "positive",
-      "score": 8
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "kr_819cc2ee64c6",
@@ -250,7 +250,7 @@
       "source": "google_news",
       "sector": "통신/미디어",
       "sentiment": "positive",
-      "score": 7
+      "score": 6
     },
     {
       "id": "kr_f7781ae5bad4",
@@ -260,7 +260,7 @@
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "positive",
-      "score": 7
+      "score": 6
     },
     {
       "id": "kr_0aea7f692b5e",
@@ -269,16 +269,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11NXRraDdDRnRkQ3dYeHhHYnU0Qk0wRXlTOU9xR3gyYnA2dVVZbS14NUpRVk1IUmpBQ2tlRnBfM3lKN2FuU1BtSXZXaUktUXJkLVF2TUJvMEVpcHVLaW9Cd1lETTJnbHFmS1hWc2dfNUJwZlAxMHcxMFdoLVBWdw?oc=5",
       "source": "google_news",
       "sector": "소비재",
-      "sentiment": "positive",
-      "score": 10
-    },
-    {
-      "id": "kr_d34a37ab32e9",
-      "date": "2026-05-08",
-      "title": "파마리서치, 1분기 매출 1461억 원·영업이익 573억 원…분기 최대 실적 달성 - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81dkhVcDdOaGxVOXVkUzUzbThpTlV6VGFIS3BzWDVUY19jMDdSOW9haFZqMnpxdHdYcnVLT21oQm9vOXQtc0tQNVliQTZiUDVVN0Z5QlZtMDVnQdIBVEFVX3lxTE9QSXlrZHhmYk5KX0ljdk5Nb0poSHh1SGJ4aU5nTHNjQ3NPU1RLNmNNSEsyNldpWG53dUg3UUE5cUlLTjBkSnREVUhXRnA2YlZoUUVsdQ?oc=5",
-      "source": "google_news",
-      "sector": "바이오/헬스케어",
       "sentiment": "positive",
       "score": 10
     },
@@ -293,14 +283,24 @@
       "score": 9
     },
     {
+      "id": "kr_d34a37ab32e9",
+      "date": "2026-05-08",
+      "title": "파마리서치, 1분기 매출 1461억 원·영업이익 573억 원…분기 최대 실적 달성 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81dkhVcDdOaGxVOXVkUzUzbThpTlV6VGFIS3BzWDVUY19jMDdSOW9haFZqMnpxdHdYcnVLT21oQm9vOXQtc0tQNVliQTZiUDVVN0Z5QlZtMDVnQdIBVEFVX3lxTE9QSXlrZHhmYk5KX0ljdk5Nb0poSHh1SGJ4aU5nTHNjQ3NPU1RLNmNNSEsyNldpWG53dUg3UUE5cUlLTjBkSnREVUhXRnA2YlZoUUVsdQ?oc=5",
+      "source": "google_news",
+      "sector": "바이오/헬스케어",
+      "sentiment": "positive",
+      "score": 10
+    },
+    {
       "id": "kr_30cdae51c048",
       "date": "2026-05-06",
       "title": "화장품 수출 사상 최대…주가는 ‘극과 극’ - 뷰티경제",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Hd1FNRUpXdmFvMHVlZm5qM3M0N1I0dGZGUGM5M0R4dHFqYzZUSm93Qk1STzRxMEtHWDIyVGV4QW5YTWhQektJMGc4YkRaelR1R2d6UTBmVFFnZTJOSWU4ZTNaaDRoWVBsV1E?oc=5",
       "source": "google_news",
       "sector": "소비재",
-      "sentiment": "positive",
-      "score": 7
+      "sentiment": "neutral",
+      "score": 6
     },
     {
       "id": "kr_365bc042a672",
@@ -397,6 +397,16 @@
       "date": "2026-05-08",
       "title": "한국콜마 1분기 매출 7280억·영업익 789억…역대 최대 실적 - 매일경제 마켓",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iVG9fY3A1Zm9jNHVmOVdxM2JoUXV3VElFTl9kZGtKQmZ0YlRsWmRVS1VmVnZvdjZacjY2eWlsQ3RlUFhSd1FULU1MamRfNWM2dmc?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_48ba2ae0969e",
+      "date": "2026-05-08",
+      "title": "동원산업, 1분기 영업익 17% 증가… B2B 계열사 성장세 견인 - 뉴시안",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nY24wdV9BbDhYSDZnZXNycElnRmV2UXVndE1KSEg2WGc1NXpXZC1JZFRuV3Y0NElzaWJ0SVJfRGt5SkRpMGdfeDRjdXhfODNVYnlhSVpZelp3Y1R6Nko4d1RRcjNpRTZldFHSAW5BVV95cUxQRUFPb0tBZ0R0RmY5OVdacDE3dS1xTGtUNXRVZ0FIQXZiVThvLWkzM25MNDVmTzlqMFh2ZDFFUGluWmExd2hUOU5fX2htWV9HbnRYSmVjblpvbEN2R3hMeXpwbTJKcFpTdTRBNHNkUQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1003,20 +1013,20 @@
       "score": 0
     },
     {
-      "id": "kr_8f1e41622b8c",
-      "date": "2026-05-09",
-      "title": "글로벌 중고차 수출 플랫폼 비포워드, 2025년 사상 최대 실적 달성… 한국지사가 쾌속 성장 ‘견인’ - 뉴스N제주",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UWJBRWY3ZlA1RHdOZU5xeGppN0VQQ29aSXFCRmdZeEhZUnVSTmRKal9Gd19rcHRZaGEzMjYtNGFqNlVfdl9MRWZndWhPMmV0UHZERDkySEI3SERPOTBmMlM1NmFWTWw0S1ZVRw?oc=5",
+      "id": "kr_319fc95b0ad3",
+      "date": "2026-05-08",
+      "title": "EU, 러시아 북극 LNG 수입 사상 최대…제재 실효성 논란 - 해사신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZYWh5OUJ5M19YSTlOTGowUnlneHBobnY5NVF3V0dZMjhWVGlIbzdqNEZ2bzJIU2lWOHo4TFZRZFJIVWFIWHVvLV9Jam1OUEVfNjZ2MDRzdmtKX0NHM3lycks4MUNneWUwRTlJ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "kr_319fc95b0ad3",
-      "date": "2026-05-08",
-      "title": "EU, 러시아 북극 LNG 수입 사상 최대…제재 실효성 논란 - 해사신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZYWh5OUJ5M19YSTlOTGowUnlneHBobnY5NVF3V0dZMjhWVGlIbzdqNEZ2bzJIU2lWOHo4TFZRZFJIVWFIWHVvLV9Jam1OUEVfNjZ2MDRzdmtKX0NHM3lycks4MUNneWUwRTlJ?oc=5",
+      "id": "kr_8f1e41622b8c",
+      "date": "2026-05-09",
+      "title": "글로벌 중고차 수출 플랫폼 비포워드, 2025년 사상 최대 실적 달성… 한국지사가 쾌속 성장 ‘견인’ - 뉴스N제주",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UWJBRWY3ZlA1RHdOZU5xeGppN0VQQ29aSXFCRmdZeEhZUnVSTmRKal9Gd19rcHRZaGEzMjYtNGFqNlVfdl9MRWZndWhPMmV0UHZERDkySEI3SERPOTBmMlM1NmFWTWw0S1ZVRw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1153,16 +1163,6 @@
       "score": 0
     },
     {
-      "id": "kr_178aa94beaed",
-      "date": "2026-05-09",
-      "title": "저축률이 급감하면서 미국 신용카드 부채가 사상 최대인 1조 3,300억 달러를 기록 - Bitcoin News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcVFYNGx0czFleG1sUEVsTDlQeUl5ZEM5bUtqOHpHR1hkMXZWcXpuMGJCYl95TjVCS2Y1SXZFUFBJY2w1cVdER1VKSlVqUnctQXFMY0Z3dW1qLUxpZThkaHdkTjNlS0hOLXo2X1FDN2VQSnBsczlIUlEyUHUzMGc2MXRRV1BLR2ZXMk9KSmpxR3IzMnlIR2tOeGtVZU9US0NrdktCMzhZRFI3Z0k1eWFSS1A0V3djbGtLdDlzRldXbkpYYlQ1TFBJX0NXTVpIZw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "kr_d300595bb1a0",
       "date": "2026-05-07",
       "title": "엑스페릭스, 흑자전환에 IP 수익화 기대 - 하나 - DealSite경제TV",
@@ -1187,6 +1187,16 @@
       "date": "2026-05-07",
       "title": "SLL '왕과 사는 남자' 흥행 힘입어 흑자 전환 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FQUN5bDZpU0E2eUdWVXFuSmN6NTljbGNtTFIyeUhlT2p0eEVHM3RMeEE2N1lJNkUyQVNwSzNJNExtOXBuX3VaOHAxSkFuQUE?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_178aa94beaed",
+      "date": "2026-05-09",
+      "title": "저축률이 급감하면서 미국 신용카드 부채가 사상 최대인 1조 3,300억 달러를 기록 - Bitcoin News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcVFYNGx0czFleG1sUEVsTDlQeUl5ZEM5bUtqOHpHR1hkMXZWcXpuMGJCYl95TjVCS2Y1SXZFUFBJY2w1cVdER1VKSlVqUnctQXFMY0Z3dW1qLUxpZThkaHdkTjNlS0hOLXo2X1FDN2VQSnBsczlIUlEyUHUzMGc2MXRRV1BLR2ZXMk9KSmpxR3IzMnlIR2tOeGtVZU9US0NrdktCMzhZRFI3Z0k1eWFSS1A0V3djbGtLdDlzRldXbkpYYlQ1TFBJX0NXTVpIZw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1523,20 +1533,20 @@
       "score": 0
     },
     {
-      "id": "kr_bdf652798d43",
-      "date": "2026-05-09",
-      "title": "[클라우드플레어, AI 도입으로 1,100명 감원…사상 최대 매출에도 구조 전환 가속] “이번 조치는 비용 절감이나 개인 성과 문제가 아니라, 에이전트 AI 시대에 맞는 기업 운영 방식을 재정의하기 위한 것”이라고 강조 - AI넷",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBLa2JraWNnQXppWlByU2ZSRDQyNFV0WUlnNnphby1IQzJaUkttSVlKZ1dKNUFfTDFScm5JTG40aW8?oc=5",
+      "id": "kr_c852f24d416d",
+      "date": "2026-05-06",
+      "title": "'지정학 공포' 덮은 AI 어닝 서프라이즈…기대 넘어 '실적 장세'로 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSWVV6bnhlN2pwWlg4NDFic3lDaHRWbHBNLUwzRm9qRGZkclV0WkE3M0drd3NkR0YzNzJKVm03NExfSlZGUC1Ub1p4SW1QaWRYdFd0cEc4bmVFQdIBVEFVX3lxTE9QU0NYcEY4MHFGS1QwWjBKLWJMUzhnWFFtZkZHcEl3U25lNUpQYXNobGtXdG9yQVJmV2NnMEduMU16djFsNElNV2tYRlNkQXBzMDF2Tg?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "kr_c852f24d416d",
-      "date": "2026-05-06",
-      "title": "'지정학 공포' 덮은 AI 어닝 서프라이즈…기대 넘어 '실적 장세'로 - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSWVV6bnhlN2pwWlg4NDFic3lDaHRWbHBNLUwzRm9qRGZkclV0WkE3M0drd3NkR0YzNzJKVm03NExfSlZGUC1Ub1p4SW1QaWRYdFd0cEc4bmVFQdIBVEFVX3lxTE9QU0NYcEY4MHFGS1QwWjBKLWJMUzhnWFFtZkZHcEl3U25lNUpQYXNobGtXdG9yQVJmV2NnMEduMU16djFsNElNV2tYRlNkQXBzMDF2Tg?oc=5",
+      "id": "kr_bdf652798d43",
+      "date": "2026-05-09",
+      "title": "[클라우드플레어, AI 도입으로 1,100명 감원…사상 최대 매출에도 구조 전환 가속] “이번 조치는 비용 절감이나 개인 성과 문제가 아니라, 에이전트 AI 시대에 맞는 기업 운영 방식을 재정의하기 위한 것”이라고 강조 - AI넷",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBLa2JraWNnQXppWlByU2ZSRDQyNFV0WUlnNnphby1IQzJaUkttSVlKZ1dKNUFfTDFScm5JTG40aW8?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1607,16 +1617,6 @@
       "date": "2026-05-08",
       "title": "제주항공, 올 1Q 영업익 644억 흑자전환…\"기단 현대화로 수익성 개선\" - newsis.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CaFlLTEhvajJrVEF6cnZ1ODNPRW9xUFFFbWNhSUpnNkhCS2ZnVE4xdFpBS2RhRW1USHQ0VjRiM2pORlRfQVdETnlZX3cyN1N3b2RKbjFNWngzbWp0LUxpM9IBeEFVX3lxTFBIM3FyUVB0ajZSZ2xER2dkSmhNU1hEMUcxd1VhdkhncjdpcmRGalhMYzBhSUJNbzU0OFNLdUZVRUNaYTNZWm1sOHdfOVdfcU9BdEpwZmFNZGVDSGMxYnZNVGVPQ1o3cS1wZHZhV2NBTzZPdG1GX2t6Rw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "kr_e3d07c9ba7dc",
-      "date": "2026-05-07",
-      "title": "머스크의 '테라팹', 사상 최대 규모인 172조 투자 계획으로 밝혀져 - AI타임스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5NnQzc3JaSmdrczZHR3ZqSW1UeXhrUk5DZUZaNHpkTElNdUZCTmxhMGdhU3E5cDE3U3BabnJheDgtZFZGNTVZalpYYlZSQWgwWmZyWVVseTZQVlBvRXBXX1ZLRlN1Nm5BdkE?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1717,6 +1717,16 @@
       "date": "2026-05-08",
       "title": "\"중앙일보 M&A 매각설, 허위사실\"…유포자 고소 - 한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95QS05RU9MLUVLRHROeVVkQWZYOTdXLXZ6YUZGT2lPSElubEFXR1h3QzVRbGlpMWk2aGk4blJCZ1FVbm4zU29SLUI4eWpvYWNxcUthNGdYeDJlZ9IBVEFVX3lxTFBMZ1Fod2xVRVh3aDJmcENMQWdUUGFJODQzeHJBRHlsd1dqNFlZbUR6VEpYbjNuUFhjUG81R0twQUFqT3pyV2VIRVB2SW1pZXJtNmU2Yw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_a44280009fa7",
+      "date": "2026-05-08",
+      "title": "[특징주] 인바디, 1분기 어닝 서프라이즈·비만치료제 수혜 기대감에 장 초반 상한가 - 와이드경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16UTgyVGNMV3BTODQzQlVkUUt2Y1lVb0E3WTJpaDgtbDhDamhpbmFIY3V0bmhFT1dlSzNIcEREZ2dWbWplRFJIM1JZUV9FUTRlRkNaTmN0NzBJMkJ2bzM3RnRsRnpUOTFpZHZMYg?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2313,16 +2323,6 @@
       "score": 0
     },
     {
-      "id": "kr_bd444b3ec67c",
-      "date": "2026-05-08",
-      "title": "배당·자사주 소각 통했나…밸류업 지수, 코스피 상승률 웃돌아 - 서울신문",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pOEtJTGpUM3BHWFViZHEwbzloNG1ocWJiaW4wQm1yY3IyUld5MEE5d3dpRGVuWFB3Tl9TaXJfR0F6TVo4UHJGTW8zY3FteUVVOWRpNHcyWW1yN0djb0JSVC1yaXMtSndiRS11NzhZWQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "kr_6d17d4970e68",
       "date": "2026-05-09",
       "title": "메리츠금융, 자사주 소각으로 금융 밸류업 시험대 - 톱스타뉴스",
@@ -2397,16 +2397,6 @@
       "date": "2026-05-07",
       "title": "LG, 전분기比 흑자전환…고배당·자사주 소각 병행 - ebn.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UQ1QyY0ZyckprRUtEb3h4cm1USUI3TFZzLXAxTVI5MDNRSnhYZExYX0pReUdjVEdHVmJ3UEx6WXVmR1lNY19CbkpzdUFkTlYyNng3dDM1MVpfU1NHck5MQnJWRlhfbWY4?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "kr_99270085f7f8",
-      "date": "2026-05-08",
-      "title": "유안타증권, 자사주 소각 결정에 5%대 강세[특징주] - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOTnE2U1FBOUJfdGhSM1JKRWNQOURVVFZyUWFOSUYtaGZOcTdnLXdBbHVwbVJiSGozVVJjWmhKbDF0RGxObUR2SWJ3VUZVcmY2Mm8w?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2503,16 +2493,6 @@
       "score": 0
     },
     {
-      "id": "kr_74ed7629f23c",
-      "date": "2026-05-07",
-      "title": "수주 잭팟 HD한국조선해양, 1분기 영업익 1조3000억…전년比 58%↑ - 아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lSGxyVFJsSWdreF93THhacWhrMDVDM3BXY21wMmhkZVFwT1Fob1g0b2dnUlFDSmg2ZVJFQzdzS0g3QnkxNVBMUHpxLWZraE9jaHJuWERHX2vSAVhBVV95cUxOZUhsclRSbElna3hfd0x4WnFoazA1QzNwV2NtcDJoZGVRcE9RaG9YNG9nZ1JRQ0poNmVSRUM3c0tIN0J5MTVQTFB6cS1ma2hPY2hyblhER19r?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "kr_534687175bb9",
       "date": "2026-05-08",
       "title": "HD한국조선해양, 선박 8척 2조1300억원 수주 '잭팟' - 뉴데일리 경제",
@@ -2543,20 +2523,10 @@
       "score": 0
     },
     {
-      "id": "kr_058526f5f316",
-      "date": "2026-05-08",
-      "title": "HD한국조선해양 '2.1조' 수주 잭팟…컨테이너선·VLGG 8척 수주 - 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81Zk1tQmpYY0oxaGc4N0pWX1p3V2xza2RuM3VtWjV2VUFuRU5DZXBIRmxOYWpYbmxiZHM5VVpLbFVlWWJsWVR5NTRpNUY2TEpobWdDS2tUeG5HR2J4c0HSAV5BVV95cUxPNWZNbUJqWGNKMWhnODdKVl9ad1dsc2tkbjN1bVo1dlVBbkVOQ2VwSEZsTmFqWG5sYmRzOVVaS2xVZVlibFlUeTU0aTVGNkxKaG1nQ0trVHhuR0dieHNB?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "kr_b852b06bc60a",
-      "date": "2026-05-09",
-      "title": "제주항공 1분기 흑자전환…기단 현대화로 수익성 개선 - 팩트인뉴스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tX3Zoa25xSTFUMnBaanh3SnprUWJWQkpGUEFNZUdsSTRKR1hVV2VsUTJnNkcydjE3d1JyR0RsUjd3aEd0M1JHN0Z2dldLWl9KcDVJb2dHT1NIYTg4UXhDS2ZrU2JKU3F2bjNOZjZkRmY?oc=5",
+      "id": "kr_90205600bbe9",
+      "date": "2026-05-07",
+      "title": "수주 잭팟 HD한국조선해양, 1분기 영업익 1조3000억…전년比 58%↑ - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zNWFSWFQ3a0xxVGsybk9wNWFBT3Vvd3N5Wmx3N3BXUVB3NnJHbmJhbnptOURQTDVtbTN3SE5sUldjOWJMRUJxZC1fZm82bFotQkFXQWh6aEE0UdIBWEFVX3lxTE5lSGxyVFJsSWdreF93THhacWhrMDVDM3BXY21wMmhkZVFwT1Fob1g0b2dnUlFDSmg2ZVJFQzdzS0g3QnkxNVBMUHpxLWZraE9jaHJuWERHX2s?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2577,6 +2547,16 @@
       "date": "2026-05-07",
       "title": "HD한국조선해양, 1분기 영업익 1조3560억원…고부가 선박 효과에 사상 최대 - 이코노미트리뷴",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1NWkxQUhhVFU5OEdueVBZWHRtZFdISGlVbVFQNWpveUN5TnJXR0E3SWNLRmQ2UTVWelRyRVQ1RWNINWwybkwtQ0RKd25xM19wUkUwZnBWdHBkaEdnOFpoblB5c2k2M283NmxtZGdBcGw2ejFJMTh3?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_23608f50b11d",
+      "date": "2026-05-08",
+      "title": "HD한국조선해양 '2.1조' 수주 잭팟…컨테이너선·VLGG 8척 수주 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1veXZVNjZZa251Nm1zay1kQlZzZzRUc3czTUFSQjgwRDdkem1PMmZHcko2dVhiU18wRmRZcVRmQTVlTTQ2N2hmY2V0M1ZFUDBhQ3hUU0RtTEdLQWZDQ3dNRA?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
