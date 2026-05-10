@@ -3,61 +3,61 @@
   "date": "2026-05-08",
   "data": {
     "date": "2026-05-08",
-    "overall": "success",
+    "overall": "running",
     "steps": [
       {
         "name": "korea_price",
-        "status": "success",
-        "ran_at": "2026-05-10T11:46:02.383681+09:00",
-        "duration_sec": 5.8
+        "status": "running",
+        "ran_at": "2026-05-10T12:05:14.372044+09:00",
+        "duration_sec": null
       },
       {
         "name": "korea_news",
-        "status": "success",
-        "ran_at": "2026-05-10T11:46:10.968271+09:00",
-        "duration_sec": 17.2
+        "status": "pending",
+        "ran_at": null,
+        "duration_sec": null
       },
       {
         "name": "us_price",
-        "status": "skipped",
-        "ran_at": "2026-05-10T11:46:31.294531+09:00",
-        "duration_sec": 0
+        "status": "pending",
+        "ran_at": null,
+        "duration_sec": null
       },
       {
         "name": "us_news",
-        "status": "success",
-        "ran_at": "2026-05-10T11:46:32.429091+09:00",
-        "duration_sec": 0.3
+        "status": "pending",
+        "ran_at": null,
+        "duration_sec": null
       },
       {
         "name": "gemini_analysis",
-        "status": "success",
-        "ran_at": "2026-05-10T11:46:35.054888+09:00",
-        "duration_sec": 0
+        "status": "pending",
+        "ran_at": null,
+        "duration_sec": null
       },
       {
         "name": "trend_ai_global",
-        "status": "success",
-        "ran_at": "2026-05-10T11:46:36.370373+09:00",
-        "duration_sec": 0.8
+        "status": "pending",
+        "ran_at": null,
+        "duration_sec": null
       },
       {
         "name": "charts_report",
-        "status": "success",
-        "ran_at": "2026-05-10T11:46:39.603892+09:00",
-        "duration_sec": 0.2
+        "status": "pending",
+        "ran_at": null,
+        "duration_sec": null
       },
       {
         "name": "storage",
-        "status": "success",
-        "ran_at": "2026-05-10T11:46:42.015170+09:00",
-        "duration_sec": 18.6
+        "status": "pending",
+        "ran_at": null,
+        "duration_sec": null
       },
       {
         "name": "email",
-        "status": "success",
-        "ran_at": "2026-05-10T11:47:03.584751+09:00",
-        "duration_sec": 2.6
+        "status": "pending",
+        "ran_at": null,
+        "duration_sec": null
       }
     ]
   }
