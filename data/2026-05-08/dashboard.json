@@ -2,34 +2,19 @@
   "ok": true,
   "date": "2026-05-08",
   "data": {
-    "last_updated": "2026-05-10T13:33:04.956759+09:00",
+    "last_updated": "2026-05-10T13:52:04.248282+09:00",
     "pipeline_status": "success",
     "ai_recommendation": {
       "sectors": [
         "반도체",
-        "금융",
-        "자동차"
+        "자동차",
+        "소비재"
       ],
-      "reason": "반도체는 국내외 긍정 뉴스, 높은 거래대금, 최고 모멘텀으로 주목됩니다. 금융은 국내 최고 뉴스 점수와 미국 시장 긍정 흐름이 기대되며, 자동차는 높은 거래대금과 견조한 모멘텀으로 지속적인 관심이 필요합니다.",
-      "confidence": 0.85,
-      "generated_at": "2026-05-10T13:33:04.956759+09:00"
+      "reason": "반도체는 미국 뉴스 점수와 한국 거래대금 모두 상위권을 기록하며 강력한 시장 관심과 긍정적 모멘텀을 보입니다. 자동차는 한국 시장에서 높은 거래대금을 기록하며 투자자들의 지속적인 관심을 받고 있습니다. 소비재는 미국 시장에서 압도적인 긍정 뉴스 점수를 기록, 국내 시장에도 긍정적인 투자 심리가 확산될 가능성이 높습니다.",
+      "confidence": 0.75,
+      "generated_at": "2026-05-10T13:52:04.248282+09:00"
     },
     "korea_sector_ranking": [
-      {
-        "sector": "금융",
-        "score": 8.38,
-        "sentiment": "positive"
-      },
-      {
-        "sector": "자동차",
-        "score": 8.0,
-        "sentiment": "positive"
-      },
-      {
-        "sector": "반도체",
-        "score": 7.14,
-        "sentiment": "positive"
-      },
       {
         "sector": "기타",
         "score": 0.0,
@@ -38,44 +23,34 @@
     ],
     "us_sector_ranking": [
       {
-        "sector": "통신/미디어",
-        "score": 9.0,
+        "sector": "IT/소프트웨어",
+        "score": 8.33,
         "sentiment": "positive"
       },
       {
-        "sector": "부동산/건설",
-        "score": 9.0,
+        "sector": "소비재",
+        "score": 7.9,
         "sentiment": "positive"
       },
       {
         "sector": "반도체",
-        "score": 8.5,
-        "sentiment": "positive"
-      },
-      {
-        "sector": "IT/소프트웨어",
-        "score": 7.75,
+        "score": 7.86,
         "sentiment": "positive"
       },
       {
         "sector": "금융",
-        "score": 7.0,
+        "score": 7.5,
         "sentiment": "positive"
       },
       {
-        "sector": "바이오/헬스케어",
-        "score": 5.0,
-        "sentiment": "neutral"
-      },
-      {
         "sector": "에너지",
-        "score": 5.0,
-        "sentiment": "neutral"
+        "score": 7.5,
+        "sentiment": "positive"
       },
       {
-        "sector": "소비재",
-        "score": 5.0,
-        "sentiment": "neutral"
+        "sector": "부동산/건설",
+        "score": 7.0,
+        "sentiment": "positive"
       },
       {
         "sector": "기타",
