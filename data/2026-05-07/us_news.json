@@ -8,9 +8,9 @@
       "title": "Gas prices keep rising, but do big oil companies plan to drill more? Not so far",
       "url": "https://www.npr.org/2026/05/07/nx-s1-5810511/oil-company-earnings-production-gas-prices",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "에너지",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_6a445ab70cdb",
@@ -18,9 +18,9 @@
       "title": "Tech Companies Are Freaking Out About RAMageddon",
       "url": "https://www.cnet.com/tech/computing/tech-companies-are-freaking-out-about-ramageddon/",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "negative",
+      "score": 8
     },
     {
       "id": "us_5b3c169d55d4",
@@ -28,9 +28,9 @@
       "title": "Coinbase stock drops as company posts second consecutive quarterly loss amid crypto slump",
       "url": "https://finance.yahoo.com/markets/crypto/article/coinbase-stock-drops-as-company-posts-second-consecutive-quarterly-loss-amid-crypto-slump-202800099.html",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "negative",
+      "score": 9
     },
     {
       "id": "us_e97f4833cb1f",
@@ -38,9 +38,9 @@
       "title": "Upstart Stock Plunged on Earnings but Executives Say Investors Are Missing the Bigger Picture",
       "url": "https://www.barchart.com/story/news/1779621/upstart-stock-plunged-on-earnings-but-executives-say-investors-are-missing-the-bigger-picture",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 7
     },
     {
       "id": "us_f1b98e446e66",
@@ -48,9 +48,9 @@
       "title": "Halliburton Stock: Is Wall Street Bullish or Bearish?",
       "url": "https://www.barchart.com/story/news/1773258/halliburton-stock-is-wall-street-bullish-or-bearish",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "에너지",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_6e6886105c84",
@@ -58,9 +58,9 @@
       "title": "Asia's tech giants give AI bull run a new centre of gravity",
       "url": "https://finance.yahoo.com/markets/stocks/articles/asias-tech-giants-ai-bull-090156362.html",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "us_0c1b80458f10",
@@ -68,9 +68,9 @@
       "title": "Are Wall Street Analysts Predicting PPL Corporation Stock Will Climb or Sink?",
       "url": "https://www.barchart.com/story/news/1766016/are-wall-street-analysts-predicting-ppl-corporation-stock-will-climb-or-sink",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "에너지",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_7f5ad9c2516f",
@@ -78,9 +78,9 @@
       "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Alcoa, Chiron Real Estate, Clear Secure, Fortinet, Fresh Pet, Kennametal, Oracle, PayPal, United Therapeutics, and More",
       "url": "https://247wallst.com/investing/2026/05/07/here-are-thursdays-top-wall-street-analyst-research-calls-alcoa-chiron-real-estate-clear-secure-fortinet-fresh-pet-kennametal-oracle-paypal-united-therapeutics-and-more/",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_6d23de832621",
@@ -88,9 +88,9 @@
       "title": "Palantir Stock: Bulls and Bears are Divided, But Its AI Growth Is Hard to Ignore",
       "url": "https://www.barchart.com/story/news/1780223/palantir-stock-bulls-and-bears-are-divided-but-its-ai-growth-is-hard-to-ignore",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 6
     },
     {
       "id": "us_448060ed74c6",
@@ -98,9 +98,9 @@
       "title": "Coinbase stock drops 4% after surprise 1Q miss as crypto trading slows",
       "url": "https://www.coindesk.com/markets/2026/05/07/coinbase-stock-drops-4-after-surprise-1q-miss-as-crypto-trading-slows",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "negative",
+      "score": 8
     },
     {
       "id": "us_81fa167d5e64",
@@ -108,9 +108,9 @@
       "title": "Do Wall Street Analysts Like Regions Financial Stock?",
       "url": "https://www.barchart.com/story/news/1773384/do-wall-street-analysts-like-regions-financial-stock",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_9e6c09371bcf",
@@ -118,9 +118,9 @@
       "title": "Bitcoin Price Surge Incoming? Tom Lee Says 'Crypto Spring' Is Here Amid 2027 'Biggest Rally Ever' Prediction",
       "url": "https://www.ccn.com/news/crypto/bitcoin-price-surge-tom-lee-crypto-spring-here-2027/",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_a7b0cd17b895",
@@ -128,9 +128,9 @@
       "title": "Is Wall Street Bullish or Bearish on Salesforce Stock?",
       "url": "https://www.barchart.com/story/news/1774495/is-wall-street-bullish-or-bearish-on-salesforce-stock",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_4d978f9abb08",
@@ -138,9 +138,9 @@
       "title": "Claritev Corporation Q1 2026 Earnings Call Summary",
       "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-claritev-corporation-q1-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "바이오/헬스케어",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_20d36c253df9",
@@ -148,9 +148,9 @@
       "title": "Wall Street Fetes D’Amaro Like a Disney Prince as Earnings Beat Buoys Stock Price",
       "url": "https://www.thedailyupside.com/industries/media-entertainment/this-was-josh-damaros-first-earnings-report-as-ceo-and-the-market-treated-it-as-a-coronation/",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "소비재",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_1e14e54ff57d",
@@ -158,9 +158,9 @@
       "title": "As Nintendo reportedly faces pressure to raise Switch 2 prices, Star Fox demonstrates it's standing by its pledge to make digital games cheaper",
       "url": "https://www.eurogamer.net/star-fox-and-nintendo-switch-2-price-changes",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "소비재",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_58a2161cf548",
@@ -168,9 +168,9 @@
       "title": "Alphabet Is $230 Billion Away From Overtaking Nvidia: Will GOOGL Dethrone NVDA By June?",
       "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-230-billion-away-overtaking-003032357.html",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_e430ec99e0ad",
@@ -178,9 +178,9 @@
       "title": "Super Micro Computer Crushed Earnings. Wall Street Still Can’t Stomach SMCI Stock’s Reputation",
       "url": "https://www.barchart.com/story/news/1781603/super-micro-computer-crushed-earnings-wall-street-still-cant-stomach-smci-stocks-reputation",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 6
     },
     {
       "id": "us_257924c623f2",
@@ -188,9 +188,9 @@
       "title": "Get Paid 10% To Buy NVDA At A 30% Discount, Here's How",
       "url": "https://www.trefis.com/articles/598677/get-paid-10-to-buy-nvda-at-a-30-discount-heres-how/2026-05-07",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_1489ab24cf9f",
@@ -198,9 +198,9 @@
       "title": "Gladstone Capital Q2 Earnings Call Highlights",
       "url": "https://www.marketbeat.com/instant-alerts/gladstone-capital-q2-earnings-call-highlights-2026-05-07/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_ab91104ce37e",
@@ -208,9 +208,9 @@
       "title": "Trump Admits “I Expected Oil to Hit $200” Over Iran— Here’s How Close Investors Came to Disaster",
       "url": "https://247wallst.com/investing/2026/05/07/trump-admits-i-expected-oil-to-hit-200-over-iran-heres-how-close-investors-came-to-disaster/",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "에너지",
+      "sentiment": "negative",
+      "score": 7
     },
     {
       "id": "us_193d8a6c0b6e",
@@ -218,9 +218,9 @@
       "title": "Stocks edge up, oil prices continue pullback on peace optimism",
       "url": "https://www.channelnewsasia.com/business/stocks-edge-up-oil-prices-continue-pullback-peace-optimism-6105571",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "에너지",
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "us_3d6d613be650",
@@ -228,9 +228,9 @@
       "title": "Stocks mixed as oil prices continue pullback on hopes of US-Iran peace deal",
       "url": "https://www.channelnewsasia.com/business/stocks-mixed-oil-prices-continue-pullback-hopes-us-iran-peace-deal-6105571",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "에너지",
+      "sentiment": "positive",
+      "score": 6
     },
     {
       "id": "us_8ce01240917f",
@@ -238,9 +238,9 @@
       "title": "US stocks fall from their records as oil prices yo-yo",
       "url": "https://finance.yahoo.com/markets/stocks/articles/hopes-reopening-strait-hormuz-push-013158525.html",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 7
     },
     {
       "id": "us_1e33f3fe9302",
@@ -248,9 +248,9 @@
       "title": "U.S. Stock Market on Thursday: S&P 500, Nasdaq, Dow Jones, Russell 2000 investors eye five factors that will influence Wall Street",
       "url": "https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-on-thursday-sp-500-nasdaq-dow-jones-russell-2000-investors-eye-five-factors-that-will-influence-wall-street/articleshow/130875457.cms",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "us_224c446bed37",
@@ -258,9 +258,9 @@
       "title": "Oil Prices Keep Falling, While U.S. Stocks Hang Near Their Record Highs",
       "url": "https://www.huffpost.com/entry/oil-prices-falling-united-states-stocks-hang-near-record-highs_n_69fca551e4b065a1677c7361",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "us_ba3d12935d1a",
@@ -268,9 +268,9 @@
       "title": "US stock market today: Why is the Dow Jones crashing today while the Nasdaq and S&P 500 keep hitting record highs? AI stocks surge, oil crashes, and Wall Street splits between old economy fears and tech optimism",
       "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-why-is-the-dow-jones-crashing-today-while-the-nasdaq-and-sp-500-keep-hitting-record-highs-ai-stocks-surge-oil-crashes-and-wall-street-splits-between-old-economy-fears-and-tech-optimism/articleshow/130903872.cms",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 6
     },
     {
       "id": "us_a1446ff19aed",
@@ -278,9 +278,9 @@
       "title": "4 reasons the blistering tech rally won't last much longer, according to a veteran strategist",
       "url": "https://www.businessinsider.com/tech-stocks-investing-wall-street-strategy-ai-ndx-jim-paulsen-2026-5",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "negative",
+      "score": 8
     },
     {
       "id": "us_a1870507e82b",
@@ -288,9 +288,9 @@
       "title": "Seth R Freeman on why global markets continue to climb amid West Asia conflict",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/seth-r-freeman-on-why-global-markets-continue-to-climb-amid-west-asia-conflict/articleshow/130881371.cms",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 7
     },
     {
       "id": "us_380e8e066f6f",
@@ -298,9 +298,9 @@
       "title": "Sensex rises 380 points, Nifty nears 24,400 as market hopes for sooner end to Iran-US war",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-380-points-nifty-nears-24400-as-market-hopes-for-sooner-end-to-iran-us-war/articleshow/130878382.cms",
       "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "us_c65ba2360e56",
