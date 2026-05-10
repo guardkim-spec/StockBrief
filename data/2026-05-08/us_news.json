@@ -8,9 +8,9 @@
       "title": "Markets News, May 8, 2026: Tech Shares, Strong Jobs Report Help S&P 500, Nasdaq Close at Record Highs, Post 6th Straight Week of Gains - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSG1YT0RHY2NYeXZZbzk4dnlHZWdiVm02OXFxSk1nZnE5amtQQUxQZmt6OXJsXy13X3JOcFhkVllOcE56cm0tazNMMFVlTERLQlA0VngtYUxqcUl4dzVIRTBpb3M2am1LZUIwcnQ4SVppTGxmMFZPMFdzVW5VNVIwb1NwZjY0WWhuUWo1bjBCZWc?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_ced8ba3438ec",
@@ -18,9 +18,9 @@
       "title": "S&P 500 closes at another record, notches longest weekly winning streak since 2024: Live updates - CNBC",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15TjdWQUxkNlpmcVJpdDNRT05HSlBHb2pnMVQ4eEE5RHEtYUl3MmRNVEJnQUxYQkg3blhEcWdLY0N0WTFqbHdKaDdGQ1Z4N0lGSkYyRktRWkM3eXo2TzZxeXZyQ0lTTnFWb2M5UFlFa0RQOTNKNHU00gF8QVVfeXFMUDhJS1VhMmZYVVRKZG84LVZzeTRXX2FWaG1DZ0R5VEx3MUVDT1JTVklMVWdhb2J1T0RqMG9SVENjV0R0YTg0VVg4VDBvbUxnYnVKT0FJQ2YtMWd5c281UmF1ZHJaMWtkQi1nS2JaRXRiVnJRcWRaa0RBYkxwNA?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_e713fdc646b9",
@@ -28,29 +28,9 @@
       "title": "Stock Market Today: Nasdaq, S&P 500 Score Record Closes On Iran Hopes; Nvidia Hits Highs (Live Coverage) - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdGFBazZMN09KalBuZ2tBYl9sbTVpcFBQYWdCbnJEam9aUllKaUt3VzFxOVZ5cjBJbk90LVNhd1dxUVI0b3dDNHV2YnNBcXVuQnRvVGNxc2dGR1NaR09pOGUwLWlwdkxKNXVOOHdWNnhJLUItUDBmbGNDLXJxUk9rbmJZNFc0bUpxUWRBZzB5TkptWlZqSnlXVGh6VzVOaUpm?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_895f04dbf91c",
-      "date": "2026-05-08",
-      "title": "US stock market rally today: Why are the S&P 500, Dow Jones, and Nasdaq nearing record highs as NVIDIA and - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPSHFwU0t6MlFvY2JxdmZuR2RqNHdfYXdiNllnUGFqS1hjbmxjYU9BdWExUk9WVDdDM1VPTjBsbzlreHZyT3lGNm9uajlpamlpV0daa2RtNlJSOXpnWWI4cnY2XzdFemhBbEtPUy1ZZmE4TVpNeVR6NDMySHZsS0o3LS1jY2dKaDhSdkFjeV9mZ3RSZnI1R3BGYl9jMmZFekRoNlM5NUJ3cl95Z01TUXAzZEtlM1BCRFg5UHo1cjhrLXpNLXhCak1YV0RsZldrNjhxVmJieHFNUVF2Y1FBN1lVQkhHc3pQOTR0Z0RHREExM25UaXhreTNnMngyTkRxRjFDcHpmYjZ2Y3RaYVBmMTVXT1ZvZlEwMW1zVWpnTE9hWVEyai02SXhFc0REUGJiSmRSYnpFYTh0V25pVzV3QU83YjVHY1ZzVF81bEJnVmJSbWd4a195b1pfMXlyN2Z2b0NZT3YtQ2I5ejlKYmYxQnVrVXlFTmJOWTFmcjRTYtIBggNBVV95cUxQOUpTZVFscTRQRnpYT0FYWXJDN1A2SFZYSzFxbDRoNVhTelg4MURQQkxEVHo5cE45U2g1QXpDeU9uV1d5cXg2NVlGSTZ0YWtHRTY2UTRVMFJFcHBRTFpVRzlFdzFOS3N3dGpJRldLb0h5dG9ETHBhOFMzRHdRUzk4ZDlRbTVGVXhzVl9saTRXZ3Y4TjBLZnlLQ3p4N1dwRHFxZndhbHZnSW9ZQ3gzeWhYR2I2ZmRydk41am1DSFpWcWl1WEV4bW8ya2ZsYV9SVGxxeW9UTmt0cXpSNEVKUGxqcmhPWFpOb0tGMmV2RnZTdmNaOVR3SUp1dXA3R3YxNVI5TWlab1RKdTRIcVdZenhDcHhfLXRZclJJZzZncmRlelBXRno0eldnalM3ZENhR3hTbmRzb2FPbzZtSzdQLXJfcWVzREFJWWNyMDYtemgzeUZqMGJuM1YtTTFtSzBVdk4yOTJxMTc4Q0tORERmQVBUYW96TGpFUEc4UkwwU0hqb0I0UQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_61910a776c22",
-      "date": "2026-05-08",
-      "title": "US Stock Market Today | Dow Jones | Nasdaq Highlights: Nasdaq, S&P 500 close at record highs amid AI-driv... - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQZXJtN29XcUZhWDBOeXlpYm5fVUxpRjNCRGlmaWVNeF9BZGFicFRwYWFESWctMlFZWnlBQnAwM3pkd0VGVTVxdzdrQk5rVWdyYjlZQmJuTHExVTJIZURWWnpzZUpzcXNlN0pSczVOdjd0TF9zTDc3cEZhY2ppaEtKWFBaSDQ2V2pEaTZZVThKYVBiNUdNM29FMHNUMzBnYWQzaGZDWW5LVkotejliU0xUcjJKMjMxUThyNmd1RVlxZjlLNklEWmFsVVJTSF9oUUJLOGN4Z1pxcFl2NERrWVp1amhQNjhKRUJDVFRjZ3VQdWRIamJVVVJNLTVHRWs4OXdpZHY5TU44VkdxSTc1aVdsd0VfaW5vbGxyalQ0NVMzRDRYemxUVW45Z1hCVGJpdG9Rek9mendsU1BWTXJ3OG1BYUhpRFhXNkV5X0thcdIB0gJBVV95cUxNZ0h3MUhEYlVVbXhmVHhfeFlYeTZBUHlMN2NoZDZqREZ1cUtjQ2ZCWEU4WTl0alZZZ1ZQZFowTkpsR1RtOHVISVA2YUpScEVhY0JmZ2Nmb01vVG5UQ1pSX1BnM3dmNzRnTVJQRnJtblRHWHIzVC1vYXV0UzB6a1JnNV9makE2T0pKWjVXWDJZWHl4b2RERWVFQXJVVFhHbUI1M1BqcDB5R3B3YU05b25YbmlycTZuUk93YWlGRjc5aElJRW1jcGh5eEhzUkZSZkt2M2I4LWN1bmd3dm1hLXZLaDRjenp6c3BRTE0xNXZiWHBheG1TdTFDZEgtZEwya3F5WGN0VGdkOVo3OTFVT01CVmxKaG1fazhNRU91bGNpbVFSVkNnNW5HWWx4VkxqTUJCenhpZzdxbkFCTXcyQ1phYnBGRUlha1N4TzVIQS1YQWM1UQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "us_f52f519964dd",
@@ -58,9 +38,9 @@
       "title": "Stock market today: Dow jumps 600 points, S&P 500 and Nasdaq hit records as AI trade fuels rally - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX0w4V1lRdTcyb25JeUZaUjN4YWZPNmRPVWUxZlAtek0yUF9xb0JDYktINm9DUVJ6Q3dQZzVDYmxsY1N6SUxOSl9sSnc0d3NBYWdCM1RlNWtMNzdCSUxmNVIycmt3c0trTUlWblc3R01hcWJnbFVEVnRuVmRnWS1qSk9YT0NOcGltRTRkZjUzbEttMTBaUUhmVk1fYnBXWGV0akl4a3hlN0NDUFNYTjB6TlRIX3lJMHV5bTR2anBUN2taS1h0M3Q0OWxrRWc3bkpQa1ItUWpKUGM1Y09SZnRyemFTY1p6NEo3b0E?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 10
     },
     {
       "id": "us_7e6bdc6c9113",
@@ -68,9 +48,9 @@
       "title": "S&P 500 pulls back from record as investors eye oil prices and Iran deal developments: Live updates - CNBC",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KaHgtMWs1aERlakNrX19EYUlqOVc4YzAtN2VZMWNIaTVoWkRsc2FlV3I2WVk0bkV6aXU1OXhKaFlsZlgtSFM3Zm9ES3NfUzFaNXNVYUlKT0tQZlR2ODVHOXZwUnhfTm1Ga1lKNi1ZMkkyaDl5ZEN30gF8QVVfeXFMUEpWWllrM0JFZDUwQzFwZUFkUnE5bExwWU9lVlBGMlhLQzE3U3JwMHpBM25SV2pMdW1Rd3EzR3R3aS1KLUZaSDFlT2tXVElvWE1aNmNYbzJxb2pPWDdPZUFxRDluU3p5UW9ldkhqT3dRZ25MSDIzOGVxR0VlQQ?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "에너지",
+      "sentiment": "negative",
+      "score": 5
     },
     {
       "id": "us_cc7fd7f037c2",
@@ -78,9 +58,9 @@
       "title": "Markets News, May 7, 2026: Stocks End Lower, Oil Prices Rise; S&P 500, Nasdaq Retreat From Records - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYzI4TDBrTHVoand4YzRSQkJDSWExbW44X3BMbzJjZ1oySHFjMm9GRHIwUWxyaDZUSklDcjViQkxfdnBKblQ3eXQtbUFBOVlsem1jXzhPR1FEc0ZsaU5IUjQ4ZEs2RzNXckl3Z0txYmdnWmZtRktSVXdfUUxGUmk2UHN3N2RxeV80c0t6S3lMeHg?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "에너지",
+      "sentiment": "negative",
+      "score": 6
     },
     {
       "id": "us_dc5a5e80b33a",
@@ -88,9 +68,9 @@
       "title": "U.S Stock Market on Friday: S&P 500, Dow Jones, Nasdaq to end week in high at Wall Street? Check share mar - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPdUtGVnl6YmxtNXU4Q3F2WGFxMGFOakhfUm56WjlQRlYzeGdNUFBYb0lDbnBLejUxaWJoYjB6R2F5eHVlQkJwYVljQ0NGZTN1VGJJN2JIUTZtVnRxY0ZBRW1uUzBSMU5aYlpwXzBXX0xUdGhQeXdVSS1ycmJVRFdodmlxU1NwWkJMWUdyZXROZm5OSW5XN3dDTmxiZFpLMVY4RlRIYkpRQ0RqaGI1eUY1UTFERWxlWGtmMWwxVGNMZy1DMFJCNEI0T3RIbnZIejFJekxsZnJSRlZiY2pQdEZmTGxuNjRVZFJmeXJUWnh3dXNlMTNEN0VwSDhBS3E1SVZBUm5oY0o1d1pXUVRzbHNBdll4OW1oVTdK0gGeAkFVX3lxTE1zUUpvbGo3MWR4V3FZd1ZncF81TnZTUXVTTUdWUW5YNlB1U2Q4QjJ4MU00cHloZGVvZDY0cHpJaWtaM1lqaHJfUEtVNmxaVkVzMnNlU09UcEw2ZFJ1YXdJZ2N4S1B1T1haTmlqbHRKNUE0NG12c1N1cVVjZVFscnhrbG41MEFyR1lQa2FNTVhxU2FERWwwWjI4VFZUUFl1MjlEU3ZlQzYyRmgwR1d4aFozX3A0SFR1eW5vYXBDWVlPOEh1ZGNNZjUzeWlCN0kxdW1fTmlQbUlnLXBkS2Q2MUFFa3lYRWdENmdyNWM2NnlzdTJNcFZybThtM0FPcmxVWDRFSjVyRWowRHlPcW9rbjJEX3ZhM0hTVkJteTVCQlE?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 3
     },
     {
       "id": "us_bacf1f2d0be7",
@@ -98,9 +78,9 @@
       "title": "U.S. Stock Market on Thursday: S&P 500, Nasdaq, Dow Jones, Russell 2000 investors eye five factors that wi - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNcTlLQmZqSGcxNUg3eVpQWmZZaEUyTXhSakp4cldhUXRkXzhIdkNsVVIxUHpEVzRubl9SV2Uya21YdVRYLVJtRzVYM0JLRFl2M1RLeWN1d21VRFZUQXB3N1ZCcU9rYUhBTExST21yYU5xY1puR2tQQUlsa2p6Mkwzc1dFMXA4eGNpSmJIU1A2RFcxbF9pNHNKOEpvYnllS0ktQ3V4NnNYUW1abUI5QkR5RUcwd25YTnlCR1ZLYzFhU201dG8zZjk2eFFNZ1hfVi1ybnR5aHRVckJoZGN2aDc4b0d3V01KTk9TTVNZYm5BVW5uR1ZMWDI5VGtjMG5qdmRpOGZIdlE1Tko2Z2o2ZkZLUGkzcnVlQS1maE52UzFsSlJEZzJsQUMw0gGsAkFVX3lxTE9MbndJRmJEOUdRTDNNVTdLNnVDdFI3Mkh4TWg4MWk5bWpNQUZvRkh2SnhaUVVQbEI2TVNYUlA0VE5Yem5jYlNFZFI2VTBqbmZLMURteU9VV3p2VGhxajgxYnFaa1JFYUUzQmJpNmpfSGRhTGdXdmJ1dld4WEFGZ1pieHdlYmt5aGswcS1GMDFUckx6ZXNFcEZfQ09PXzlPVWxnOXhMWDdkZTVtVWVaYU5oUWN2R3FlS0drWDg0Sk5tTkxLRy1fSllvcVlTeUFyZDZvWE5yOWMxcG93SkFGdmpBNXh0cmJrWHBHTlB4ZGVvSzUybnZFZ1d1ell5TjNSeUNmWUZRVDNtYzBERWV0OVMwb3l2VW5CUkhkNFhZaGNFS20zem43d1dqRnlDTg?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 2
     },
     {
       "id": "us_7ccd3e5520cf",
@@ -108,9 +88,9 @@
       "title": "RBC revamps S&P 500 target for the rest of 2026 - thestreet.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbDB4bTlkcWY3TE1CVlpBTl9TM1l0UWZiSXpBa2V0c255T1VtdlplY2JqUW5qZUdGaUg5R3ZZaEltLWhwMDl5cXJiNGFJNVF6QlFKYTJLZXJEZmxTYjJMNzMyc2FHQm5jVnFuV0pyNjFZWE1BcXNsMll2MkR1QXBWdVB3aFgxb1VjeHc?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 2
     },
     {
       "id": "us_6974474e3afb",
@@ -118,9 +98,9 @@
       "title": "Wall Street rebound driven by smallest number of stocks on record - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY293SnhLUno2SE85VzkyaHdKbnlGaUpoWHRVV092SGJYNzZ6dVhURjRYaDJXZ1pXc0NDV2VWbktiZXZtVFRVQ09ZYThQY3ZyUEpSRFAtczFzX18xYTNDRkljc05vc0lCMXFoNXZFZC1RanAtbGJCcmRsRVRLOC1EdHFRdUI?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 4
     },
     {
       "id": "us_802f354a9791",
@@ -128,9 +108,9 @@
       "title": "S&P 500 melts up to yet another record high as momentum rules - AFR",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ0k1bkhmRGFPbGd0Mkx4bGtIQm11RW8xU0FxckUtTWZQbXpsNUI1WTJtY0pBRmlESEotODB5bkdCWWFmYmpOSjh3YW5ockFhaEFRdEtjTWNNVU0yYmFDRlBxQkg2REloMWwtbWtGaXJGOEdCZ1RJVEdVazloOXpRYVJxN3BCRU9JenFlcnFuN1V2RXRGT3JSbmJVTFY5TnJlcHZkMXJIVG01ak95VE5DYVJRTmVvM2hLNXlseQ?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_a6f2921ce8f2",
@@ -138,9 +118,9 @@
       "title": "S&P 500 and Nasdaq notch records, boosted by AI and earnings optimism - Reuters",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGVILXcwU3hObHYzalJvRDNUTDVJS0pXNnR6QjVtNXhtTTNSclRlejJYRjRiX2pJcmlOMGVBdzZvOUdzNWg1aV9GQVdWdzBOUUVEX3NaaGhTcHlyNEJEcFlVOHJGWnJWVlZNZHNnMC0wQ0ZPZmRxMTZYdGF4T1MwcDdLcUM4Q0xyNzJJRHVyUlJUT0lKM21leFU5dVc?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_277abd2dbabb",
@@ -148,9 +128,9 @@
       "title": "S&P 500, Nasdaq Close Week at New Highs: Stock Market Today - Kiplinger",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGMzTVVLbU4wdTJScU9qV2JmVFp5STRyVW0tNkYtb3lBMXpPUm81TV8wS0JtWEFWUXVLRGE4TEYxZVRxaUxaUjBiRVNXN0VjQTMtMEVkeldudlkyVjQ0ajVYaHk2dDRHd3A5N25vRjNKcTg4X1RPWVh1YnhoTHhCdVV1RWhTWG9Na09uaTBFQ05RZmx2UzZWX1JwTVVyZ3d3UGkxMnU3dw?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "us_f9f3a7a452d5",
@@ -158,9 +138,9 @@
       "title": "This new target for the S&P 500 is very nearly Wall Street’s highest. Here are the trades to make. - MarketWatch",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd2t5NUhaa0N5Q3AwTllULTBSRnR2NE9BbXh3YWdVYThHSUs3THJLTTV2MnIwNDdIS01kUTZBbDhoMWRVeFFic2tjbm05aTdqeHR3YzJWQ2I4X2RvSi14dkhxanoyNk9iMTRaMkNxSzBreVYxUVN2b1JEQkVVemRXY01oejhLSHN2YU1yS0tpZnpGbzhPY1ZFRnlzVFdDMGJWRU9IRGFkVGYwUkczNmV6dF8yNVo3dlNDQklJWU5XbUQ3ZzRxQmxiMHJyZVpYcVU?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 7
     },
     {
       "id": "us_76e6c54d6d96",
@@ -168,9 +148,9 @@
       "title": "Oof! The Federal Reserve's May Inflation Forecast Is In, and Things Just Got Uglier for Wall Street. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWtUVjEzZm92N09pamVFLVJBZmpiLUNqYWc1bVpOZkJLSGdNNFZfemtHenJraERIbzVhV3hKNEdVZW9nTmFiNl9taEtaU290R1FrX3NtNE5zWnBzLWJYTHlqTldWZFZNS0RoM2N6MGtDYkVzdmhKWl9ZbXliZ1phYWhocmJSelFLejdDUnVXVGN5QjhKWGstRm85T2JKZE9I?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 8
     },
     {
       "id": "us_8ce384a9e991",
@@ -178,9 +158,9 @@
       "title": "S&P 500 ends down as chip stocks give up gains - Reuters",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV0VpN3E3Y3hiR0ZEN21hWnBDM1RZcW5zNERIXzdvVi1TZ28xcExUWnFab284bmJfQlhtRFlFYXBKLWZ1RG9yRkJqS3ZESXlWNV9zc1g3aUYtQUxHM0p4SEpsM0ZzTXhsZDZWOEp0d0owNVVyUlkxTWdaekhlbVltUmJwR0F4QXdidVBLZnFKOE43aGtMVnpaQUhmYndIZw?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "반도체",
+      "sentiment": "negative",
+      "score": 6
     },
     {
       "id": "us_aef607cea9b9",
@@ -188,9 +168,9 @@
       "title": "Wall Street Review: Stock Rally Broadens as S&P 500, Nasdaq Hit New Record Highs - NTD News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHdod2YyVlJlb3dZekpWOWNTckVCWkFiZHoyNGRHZHFiR1ZpQk44RFFHbHBNUDlpeDI2cDRsb0JwYjRILW5pT1prdnU0bFJjS0RZaUwxN2dnWW0tSi1nRXZGUEtFaUNrcE9BbDNkQUt2TktPOEx2R2REUUlla295aWI2azRqRklSTEptVG11RkYxaG9TWlY4MERiLVBrV0ZMa3kxdG1obEgyb3VKQUl3?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_6a514a87dbbe",
@@ -198,9 +178,9 @@
       "title": "We Just Witnessed the Stock Market Do Something for Only the 2nd Time in 155 Years, and the Message Couldn't Be Clearer for Wall Street - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSE04Ukxkdl9PVHVzRDd4Tkp6Q3lQQ0ZiSUVYbW1ocnVvMkxYeVNoYzBsWjJWbUZKM2pfakpYNjhoS2NxWE1Vc1dmNHNuSGV4RzBwN1E1R3VXOEpzOUFQSjhpYmVFOVJJZkNQYkdHTG44bGt4YlBCcTlCelkwSGRjbzM3SnJpQVZhNlhmYWVyeEh1YzM3?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 7
     },
     {
       "id": "us_dca5a3502b38",
@@ -208,9 +188,9 @@
       "title": "Wall Street is bracing for stocks to swing as the April jobs report looms - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEZadHBJdnhKQW5RUFhTazd3aWtYXy14OWctN3pJUk8zREZYSTdJVzQ5UzkyY3IxUnA3ZEtIMG50dnpkZ1FUcXc1eHVRSVdxa2s4TmxZX29KNzMzNTZxd1lqeUFFV2R5c0JGRXdDV2FNckhmbWNmN2dKYUZQWkpNN2tCVjZJa1BwUUdEYTZKazFId1F2YWg4bUdXYUYtRTh0aDQxTGNaVURiUQ?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 3
     },
     {
       "id": "us_0148f87ea2ef",
@@ -218,9 +198,9 @@
       "title": "Dow Jones, Nasdaq And S&P 500 Intraday Levels: Tech Continues To Pull Stock Markets Higher, S&P 500 At 7,400 - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajBBZmltQncwR1NwekhkMlNtdVhSVFFNdS1zWGlvVDhEbzkwTDcwNm5IYmNyaEV5U084NW0xRFl6alB1WkpWX284WjdQclBMaGxoUVBacUdSMnQxY1ZCc1Q3d210c0JWd1hKR3Rpd1VGTmJDZkZXN196b3BZNUZQZU1tc0lrTmhWZkQ5bkRxaUFqMGlMY244dUFfLU5oSmRnNl9BVkZaV2YwTDBnazNfbTB3bm84dw?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "us_33b59d021208",
@@ -228,9 +208,9 @@
       "title": "U.S. Futures Edge Higher Following Powerful Two-Session Advance: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance UK",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVGpVdUo5NFpsN2dXLUJxS05vODBadlA1eEQxZzFzYzF0Z1VfWVlUb1N5M0xUZHpiX0tIMVVCb2ZGT3c2Uy02X0FLdXF0UFNRUU5LSkpqd3BqcENpSEVXazhqVFA1Rm5Wb21yV3FmQVFLN0o0SGl3VmF3VlFXZG1vQ3lHV014enM?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 7
     },
     {
       "id": "us_572f6e19aeae",
@@ -238,9 +218,9 @@
       "title": "S&P 500 call options volume surges to record $2.6 trillion. Here's what it means for bitcoin - CoinDesk",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZGVLTUVoQmd4bW5rd28wVEpkb2xSaU5rSmlRVGZYU0xqM0lqc2FSOGk1QjNzb2xCQkE5N3RzVDBBTGZMTThaRlN5YmZBQTFNLU51Nld2VmlIdjJQSXNrZ2treTlCdkItdWlab1M1QkFYUWhfZHBZNWlVOENpMUV0cE5TREIzSGpzeUpxd3Vkd0FlVXczT2JOZHpPeTRheTFyOXZ6eHAyMFVvdTM0SjFsTGpac3NUY3labHFhYXh4SmZ5NE85dnRVSF9KOXljZmhwTDQ5aUFKWHI?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 6
     },
     {
       "id": "us_63e4f53fa515",
@@ -248,9 +228,9 @@
       "title": "Franklin Templeton’s bold S&P 500 call stuns Wall Street - thestreet.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLVd4bkNvNzJTaERhZTZld3p4SzhhT25GNGFQUnN3cVdrdzdFOFA5QWR1UU1kTEQtb1dOOUVBWmk3M1lNV2paaGxSa3pPTGZhNzQ2bUNJVTB2MFFBbWMzM3I0bTF4MzYwc0djQzRkcjNrUWZ6T1VEU1dBMEJMM2I0THMzbnZQSEZlYVRjQTBRQTNzZkIz?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 5
     },
     {
       "id": "us_907446e9c68a",
@@ -258,9 +238,9 @@
       "title": "Wall St Week Ahead: Data, Iran, US-China meeting in focus for scorching US stock market - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVm1NRGVCTU9VOWx2YmpPRV91WVVQeHh5WGhFeDdfTVVodi1QdUgzUVNScHlCRVY2c1ZkbVZHQlFlVHREWG91c1YxMkhkSTNfcXBtazZfQ3NReloycDJMYUlKWFRMMTd4dXJnTWtjQ3RCTXJmbmNab21xQjgwd2h1TDZkeU1zNzMyVkdxSU9vcTRzUnd5bnVqZG9tb2lrSXpsSG1CUS1WekZJcVNMODFGRlA0RWx2MEVvXzV4UkpXMENmT1U?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 4
     },
     {
       "id": "us_74702f37cb66",
@@ -268,9 +248,9 @@
       "title": "Dow Adds 12, Nasdaq Climbs 441, S&P 500 Gains 62 - TV News Check",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN1E0T29JMkhxR2c1RFd0b1Eta1RoblpwQ1ltUUwweVQtY09ZZ21QOHRDNjJHaWxvUGRoSjRILTdtLUJyQi0wbkJTVGFkVmswRmxpRkEzbEx2aldfbEJkOXFxWm1QSXNISG00bTVVZU9jZHUyekIySHV6ZkJkMjRlTU9iR19TcUg2T3RZZFFoS3A?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 7
     },
     {
       "id": "us_f994171530a2",
@@ -278,9 +258,9 @@
       "title": "Strong April payrolls data points to firmer Wall Street open: Dow Jones, S&P, Nasdaq, Futures - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0dNaHpkYnQ1cTBNNEVoWVg1YUdmbDJPOG5SZXRiZmJXeDZuVFBOXzhkQTUwOUlIMkxtd0tUZ2VJNWlIaTdWMmk5Y0c5S1FXOWNVdmp1RmU1c0pzdlJzNENUYm14NWRKY1JqMXVXTl9nTURGMGZfTUFnS19FdzVFaU56NmozamtzcWhHRWNQSjl3anRuQnc5bzZHbzVUbUU?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 7
     },
     {
       "id": "us_1f5ba066ecc7",
@@ -288,9 +268,9 @@
       "title": "U.S. futures point modestly higher following strong two-day rally: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa3k1QVl5TEY4clRSUjZlclM0VDRoSWhBajhvUjZ5dHVsalg1bWhQeWtCWGJzSDFpNTJFaVI1eVFKWmhzdG13R3hsYWZNVUQwNDl5YzhfdXdJVGxPN3VkSGFraW1vMmt1Yml5Vl9XaWRLMkZmYlY4ZFROZEIzSldTSDdxZVc1RkY3TnZXQTlUWXFqWjRON3NGUHRyVWk?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 7
     },
     {
       "id": "us_d7b9a2f5648a",
@@ -298,15 +278,35 @@
       "title": "Stock Market Today: S&P 500, Dow Futures Rise On Stronger-Than-Expected April Jobs Data— Cloudflare, BILL - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQSF9PcFNlbDA0emNqbXpGSUo3UFdEdXFuaExxN0FDenhLNnNTeEUwUTZPNTh1TDZRLUszaHpnN0RZVlVnUTg1aWJJMFNYdFRRMHZxLUoyRFdhTmpKTWdGT25Oc3p0V21La3ozWUNYQkl1Y1ZGWXdaV0FxdFZXV1NzXy1ITlNFOWVKNWJfcGNjd0FjUjg3Z19NUU1pRnlJT3psTVdOUkc3RUJOaktTZ1ZoUWc2aHFkNHNObTlHSUk3Uzg0YjhsVnBSWFFEYzV6OUUxUkZHa2tVUGh3MWotWmVyUjRZZlJnZFNZeFp1Skx2cnZIdlRlZkktUncwc1VadE96TlEyaUZBWkNLUnFIUGZNM05qV09ZYms?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "us_cd9302709605",
+      "date": "2026-05-10",
+      "title": "Why Bitcoin Didn’t Correlate With the Rally in the S&P 500 and Nasdaq - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtOTlwTXBFN2NGS1lkTjNkd2NCWl9PMnZwbHhsM2pqUU1ib1N3cmhMV0RGalZ6MkJpdUJrWW5GR0NqaktGMmNwcFFjbGtUcjhkdTFyVmtrdmc?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 3
     },
     {
       "id": "us_c73357698f07",
       "date": "2026-05-08",
       "title": "US Stock Market Today: S&P 500, Nasdaq Hit Records as Jobs Surprise Keeps Wall Street Rally Alive - TechStock²",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRVpZdjVoNFJIbFJNZC0yX2xVc3I5SnJNODJ0N1EtNlUwSS1qUFMxemRGRmdqenhmcXBpenNyQkZiWDhZMmZQb2NnTXRIaW16S0lhWEt0cHQ1MzZhRENMWlJHWEc4eHRQc1FGbG1OOXZtaUVDbXVwTk0wSWVmUGZxYnZaZ1BWRFU4YUt6aXJKbEZuQXE2eGRud2VNYjZPaVJzRjRGaWstaWZJOEF2eGxqcGZoZXZIUQ?oc=5",
+      "source": "google_news",
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "us_ba54adc7b8ea",
+      "date": "2026-05-08",
+      "title": "Stock Market Today: S&P 500, Nasdaq Hit Records as Jobs Report and AI Chip Rally Power Sixth Weekly Win - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZktCTGZ6ZlVWaTdoS0hQemtVOXpncFZjTlY4SVZHempmcjhpWUs2ZUZNMjQ0NE84LVBGQkhXdC0zWW1UTDctVnlDbDNyUHZyajA3eHY1N1NOVmN1elRUSUhzNjBaMVhudzNsZkxKY01GUDlaZ2NHcVR3UkJ3LTl0OFA4RnpnX3B1XzlfcDRfRFd5TEtIZy1wNzhHRnFKZkhSM1A4b2p4aVBoMUprYzAzQWxEVnFNMnROY19YZ1BR?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -317,16 +317,6 @@
       "date": "2026-05-09",
       "title": "What Chevron's CEO Just Said About Global 'Supply Outages' Could Derail Trump’s Economic Momentum - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUHduZzJITW95NG5qUVlwU0dBTUN6RXpUTzdpbUZ6c1hVYVpTaVRubXloeWlBTUlmVm1YRmVuN3FMelNHNkhaQ1V6c09sbVNrVW5rX2hxeXR2UzJtbWZzWjE1UDFpNExpa3AyeVVFRHhuY05XSkhySFpVVGFjeDhQd0t0d0NIYjFITl9FTlFVdHYyeDEzaGVzYUd4NzhjemIwY3J1SkdDNXB4SFVUSVA0M3MzMmxKS1NuZVBLakQzNHdGeXlpZ1hGbVJkTmhkSFFBdVE0?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_ba54adc7b8ea",
-      "date": "2026-05-08",
-      "title": "Stock Market Today: S&P 500, Nasdaq Hit Records as Jobs Report and AI Chip Rally Power Sixth Weekly Win - TechStock²",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZktCTGZ6ZlVWaTdoS0hQemtVOXpncFZjTlY4SVZHempmcjhpWUs2ZUZNMjQ0NE84LVBGQkhXdC0zWW1UTDctVnlDbDNyUHZyajA3eHY1N1NOVmN1elRUSUhzNjBaMVhudzNsZkxKY01GUDlaZ2NHcVR3UkJ3LTl0OFA4RnpnX3B1XzlfcDRfRFd5TEtIZy1wNzhHRnFKZkhSM1A4b2p4aVBoMUprYzAzQWxEVnFNMnROY19YZ1BR?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -453,16 +443,6 @@
       "score": 0
     },
     {
-      "id": "us_9cdafdffc23b",
-      "date": "2026-05-08",
-      "title": "Wall Street Keeps Getting More Bullish — RBC Now Sees the S&P 500 Hitting 7,900 - CoinCentral",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDJGQkdha3V5aldITFR2bWhXbXNvRDVLSUE1MldEdXFfWXhYT0dLX1k3T1NJSUZfV2N4ckl2QnlXTXluXzRuNEJHaU9tY3o1SnlDby1iSEFKekE2Ny1xTTZvZHZidVppODh1a29oQXJKY2ZYMmUxb3VRRHV0WmFXWlNKaWt4RWFvOHhPLU9DQU50Y1RWVzRidHE1cjJ5TnlKTkE?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_0986e6eaeca8",
       "date": "2026-05-08",
       "title": "The Federal Reserve is quickly running out of reasons to cut interest rates - CNBC",
@@ -543,10 +523,10 @@
       "score": 0
     },
     {
-      "id": "us_512dbc284bf0",
-      "date": "2026-05-09",
-      "title": "Fed official triggers new rate-cut warning - thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjNTTkdZUGN6cWpzRG02MVZJdkRTNlVDUndRZDRLUDgzdGdndlMzYWVMdkJaU2IyS1lVWjdaMG9razN1YUFIdzNuMkZGbk1SOVBiUmlrN3A0ZVVCZEtfb1ZrRjN3QVJkbUM4NnpTbzdUbVdDQXZoeXJLQVNYcHEwdllpbE9FRmZmdklUSGpRbkhwSktXN1RiQ1BQSWNWT2NqVjFEUTAydFNrTV84bWZRaVh6TExCZ1FP?oc=5",
+      "id": "us_be4eef4c1f48",
+      "date": "2026-05-08",
+      "title": "Another Fed official signals strong warning on rate path - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMU1tR1NzNTBiZVhlUk9LbWEyUFR0bEZnX0dIQXZVV1YydXFBQUI4OWNPRTNOWHVHWkl0eHhUZ0Q3UzJIdUZ4NGVlQWtYV0hwMW00dTJleVU3TmZBc0t0RXZWTmgtTTZuNlYzMWZ6ckg4RHk5d00wY1RIY1NkekV2Wlg0aUJWOVpQQXJXUzNMei1lWU10b2U5dUwtLWtfal94RldTa2UwQkJBZ21VaEtpOGc3WWl3RVpDbnFHODhrdWJFVnlwTzRjNHJpNA?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -563,10 +543,10 @@
       "score": 0
     },
     {
-      "id": "us_be4eef4c1f48",
-      "date": "2026-05-08",
-      "title": "Another Fed official signals strong warning on rate path - thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMU1tR1NzNTBiZVhlUk9LbWEyUFR0bEZnX0dIQXZVV1YydXFBQUI4OWNPRTNOWHVHWkl0eHhUZ0Q3UzJIdUZ4NGVlQWtYV0hwMW00dTJleVU3TmZBc0t0RXZWTmgtTTZuNlYzMWZ6ckg4RHk5d00wY1RIY1NkekV2Wlg0aUJWOVpQQXJXUzNMei1lWU10b2U5dUwtLWtfal94RldTa2UwQkJBZ21VaEtpOGc3WWl3RVpDbnFHODhrdWJFVnlwTzRjNHJpNA?oc=5",
+      "id": "us_512dbc284bf0",
+      "date": "2026-05-09",
+      "title": "Fed official triggers new rate-cut warning - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjNTTkdZUGN6cWpzRG02MVZJdkRTNlVDUndRZDRLUDgzdGdndlMzYWVMdkJaU2IyS1lVWjdaMG9razN1YUFIdzNuMkZGbk1SOVBiUmlrN3A0ZVVCZEtfb1ZrRjN3QVJkbUM4NnpTbzdUbVdDQXZoeXJLQVNYcHEwdllpbE9FRmZmdklUSGpRbkhwSktXN1RiQ1BQSWNWT2NqVjFEUTAydFNrTV84bWZRaVh6TExCZ1FP?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -595,7 +575,7 @@
     {
       "id": "us_bf14f127a5a4",
       "date": "2026-05-09",
-      "title": "Goldman forecast for Fed rate cuts delayed (GS:NYSE) - Seeking Alpha",
+      "title": "Goldman forecast for Fed rate cuts delayed on inflation - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb0N0ODMxMEpjUWdKVGozTlFMQ2VtVFpJd3pHZjYzX3lnMldWNXpBZjZyMHFQUlNzcWFSRFBFTWZBbUN5LU90UzFuTTJ3T2tLME1aYU1ILWNGbGRKMktSZk1YSWo1VnBqbXp3Z092SWk1U3dVZkdtbms2YmI3YUJET1Bn?oc=5",
       "source": "google_news",
       "sector": "",
@@ -633,6 +613,16 @@
       "score": 0
     },
     {
+      "id": "us_1c60af25073c",
+      "date": "2026-05-08",
+      "title": "April's blockbuster jobs report dims hopes for imminent Fed rate cuts - mpamag.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY21FMDlDUUdJSEkyZDRKcTF6N3B5STczZTRhcFhxSWljVTYweU96bmVOakxDZTNUa3RqYUg1QWtmbkdzVmJLcVNob0xMdXNoY3piOE9GUkFsbWVrYmdqUGI4RkZmUEJsM1JlWVZlQW93WTgzdi0xaGJOd0Vma096alJtWjd5NzY3cDlYYmc2Y3NUaUV2YW5VVEpsODM0MG84cE04dV9YZ05xaExtUzJEV1FCTDNKRVpYMlM4MmNwWVZrYzh1cnF2MVBjbDFTOFk0?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_18b1f93478a1",
       "date": "2026-05-09",
       "title": "The Warsh Fed Vs Interest Rates, Inflation And Federal Debt (NYSEARCA:SPY) - Seeking Alpha",
@@ -647,16 +637,6 @@
       "date": "2026-05-09",
       "title": "Goldman Sees Fed Cuts Delayed to December, March on Inflation - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMUlVZ2VzWGZqUklLcTN2SzdBTUp6ZlpQdHIzSW14YXRzcGlhM2l1NXdwcjNEV29QZWJWd3NYbmxseENvekQ0QTFkRWhpa3E0cW1pUzhmVWZqaDdidWpQSXotYzdXT21KLWRhR0IwTHlTYUlTaHNhcnFCZ0Nvd211WFQ0V2VWYkdNaXNqRFJCX1NQcWhyOV9OQjFuNHNQUkZPRElCYVN2ZUVucFFQdDl6MA?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_1c60af25073c",
-      "date": "2026-05-08",
-      "title": "April's blockbuster jobs report dims hopes for imminent Fed rate cuts - mpamag.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY21FMDlDUUdJSEkyZDRKcTF6N3B5STczZTRhcFhxSWljVTYweU96bmVOakxDZTNUa3RqYUg1QWtmbkdzVmJLcVNob0xMdXNoY3piOE9GUkFsbWVrYmdqUGI4RkZmUEJsM1JlWVZlQW93WTgzdi0xaGJOd0Vma096alJtWjd5NzY3cDlYYmc2Y3NUaUV2YW5VVEpsODM0MG84cE04dV9YZ05xaExtUzJEV1FCTDNKRVpYMlM4MmNwWVZrYzh1cnF2MVBjbDFTOFk0?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -723,20 +703,20 @@
       "score": 0
     },
     {
-      "id": "us_e08b408207dc",
-      "date": "2026-05-09",
-      "title": "Federal Reserve inflation Archives - GoldSilver",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04LUFkenFnUmlpWDZ6TDVDdkNCTW9peUlFRGtvVzFoa0o2YzRsc19raTMzNFpORWZrSjQxVVZvbFJFMEszb0dIN08tbzM2OEhrWXN0SFJmMzYtLWhjZzFwejVuQQ?oc=5",
+      "id": "us_e5b1c31ef50b",
+      "date": "2026-05-07",
+      "title": "Fed’s Kashkari Says Next Rate Move Uncertain Because of Iran War - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1pQTmQ1bUZDNks2ODVhS1hSMk5ZQklDQmVhcFEtOFQ3MFRMV01vNkNNVmdyaHFZY3phUTRCUm5EOFg5bjZlMzFTNUVHTEtON3pLdkFSblhvNnFjMUljcDh4OVNJY2xBT1RpUUkzVzdCeHZUR0xRRUNPbXkxelQ0ejJiTFc2R2E0aXFwYmVKSjBJemZQa2lBai0weDJkdnNlTkVhNTF4WHYyV0Z3SU5oaFNPRTFCQQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_e5b1c31ef50b",
-      "date": "2026-05-07",
-      "title": "Fed’s Kashkari Says Next Rate Move Uncertain Because of Iran War - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1pQTmQ1bUZDNks2ODVhS1hSMk5ZQklDQmVhcFEtOFQ3MFRMV01vNkNNVmdyaHFZY3phUTRCUm5EOFg5bjZlMzFTNUVHTEtON3pLdkFSblhvNnFjMUljcDh4OVNJY2xBT1RpUUkzVzdCeHZUR0xRRUNPbXkxelQ0ejJiTFc2R2E0aXFwYmVKSjBJemZQa2lBai0weDJkdnNlTkVhNTF4WHYyV0Z3SU5oaFNPRTFCQQ?oc=5",
+      "id": "us_e08b408207dc",
+      "date": "2026-05-09",
+      "title": "Federal Reserve inflation Archives - GoldSilver",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04LUFkenFnUmlpWDZ6TDVDdkNCTW9peUlFRGtvVzFoa0o2YzRsc19raTMzNFpORWZrSjQxVVZvbFJFMEszb0dIN08tbzM2OEhrWXN0SFJmMzYtLWhjZzFwejVuQQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -793,20 +773,20 @@
       "score": 0
     },
     {
-      "id": "us_80e96626bd9c",
-      "date": "2026-05-09",
-      "title": "Bank of America No Longer Expects the Fed to Cut Interest Rates This Year - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OODhteWpQTV9RdG8ydzZISGJpa2RsOVVRaldkZ1l2bWN2NTF4UTdLOTVjVHQ4V3dKaktvSlhSOFNWaWp1VWZvSE5kc3dhNUw1bGVSZWNWSE0?oc=5",
+      "id": "us_6a9d918e99af",
+      "date": "2026-05-07",
+      "title": "Cautious bond traders race to reset Fed rate bets - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaGVZMmlaR3ZnU1ZkNUxYSUtuS0lxWjJ0c09idnBQNmNid2lyM25iSjRhcW44UE9tSDBwZDFkTXlwYTZFQ2d3VWRoNFdybFprTFQtYjE5djJPbnJKSHQ2RGd4VE1vckNCeFFISnhOWkszSnhJa1F4SWlCLUFsS2kyekhOQ3UtUQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_6a9d918e99af",
-      "date": "2026-05-07",
-      "title": "Cautious bond traders race to reset Fed rate bets - thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaGVZMmlaR3ZnU1ZkNUxYSUtuS0lxWjJ0c09idnBQNmNid2lyM25iSjRhcW44UE9tSDBwZDFkTXlwYTZFQ2d3VWRoNFdybFprTFQtYjE5djJPbnJKSHQ2RGd4VE1vckNCeFFISnhOWkszSnhJa1F4SWlCLUFsS2kyekhOQ3UtUQ?oc=5",
+      "id": "us_80e96626bd9c",
+      "date": "2026-05-09",
+      "title": "Bank of America No Longer Expects the Fed to Cut Interest Rates This Year - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OODhteWpQTV9RdG8ydzZISGJpa2RsOVVRaldkZ1l2bWN2NTF4UTdLOTVjVHQ4V3dKaktvSlhSOFNWaWp1VWZvSE5kc3dhNUw1bGVSZWNWSE0?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -943,20 +923,20 @@
       "score": 0
     },
     {
-      "id": "us_23115bf0e580",
-      "date": "2026-05-09",
-      "title": "Fed unlikely to cut interest rates until 2027, Bank of America says - صحيفة مال",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5td3hGcElxeTJfZll4T0xpcnRFTkt0aXFOMmFEOFptSTRBakdBVnJ6NHNGekN2SS01YU1LVWlpRFhSdFYxX2EwM0FlNDRmOWVETjQxSjdncVBybGRHRkU4X1ljcE04ZzRPWk9vTQ?oc=5",
+      "id": "us_3ff68682d0b3",
+      "date": "2026-05-08",
+      "title": "U.S. Employers Added Far More Jobs Than Expected In April - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUVR1VWlQWEFpN0t5TTEzOEloMlpaSHkzNG1weTJxMVdNQng0RHBEZE84U3drbE1jVHQySDBZb2dXWHhaSDJVbU5ZRUliLVU3elNBQzEtbElIWDl2MXlEa0htNGluOUE3TlBnSUhmNDFST1BPTUZpUVg1dWhOQTA1QmRTWnFOVEVpbVMxQw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_3ff68682d0b3",
-      "date": "2026-05-08",
-      "title": "U.S. Employers Added Far More Jobs Than Expected In April - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUVR1VWlQWEFpN0t5TTEzOEloMlpaSHkzNG1weTJxMVdNQng0RHBEZE84U3drbE1jVHQySDBZb2dXWHhaSDJVbU5ZRUliLVU3elNBQzEtbElIWDl2MXlEa0htNGluOUE3TlBnSUhmNDFST1BPTUZpUVg1dWhOQTA1QmRTWnFOVEVpbVMxQw?oc=5",
+      "id": "us_23115bf0e580",
+      "date": "2026-05-09",
+      "title": "Fed unlikely to cut interest rates until 2027, Bank of America says - صحيفة مال",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5td3hGcElxeTJfZll4T0xpcnRFTkt0aXFOMmFEOFptSTRBakdBVnJ6NHNGekN2SS01YU1LVWlpRFhSdFYxX2EwM0FlNDRmOWVETjQxSjdncVBybGRHRkU4X1ljcE04ZzRPWk9vTQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1243,20 +1223,20 @@
       "score": 0
     },
     {
-      "id": "us_2a1ddca7fe03",
-      "date": "2026-05-09",
-      "title": "Microsoft’s Stock Rose Over 10% in April, but AI Competition Concerns Prompted Significant Hedging Fund Reductions - NAI500",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbmttYnpRUngtQjVXWEpWUlRDWmd2TmMyRjRzUVBLQ3lzS1lBOGV3Y01MTWY2UExyS2JGTERfRlhoWGh4RUlPLTRBVThFb3NoUkpqeDhWV2g4d1QwOEQzOU1FSnFUTmdzNWRqVEpBeHdaWVRadGp3V0p5ZVBVU2Y2ZVdySGFsaGpGM25TcXFVUWNSYlF0LXBtMy14cjliTHJqbEhqdXc5ODZ3M1JQY2hPamdwOFQzSmF5OUw1eWd4YkRDRkdRU1hSNlVqTTFHYW5lcGJZcnljVms4NWxq?oc=5",
+      "id": "us_78b13475b578",
+      "date": "2026-05-07",
+      "title": "AI Is Making Smartphones More Expensive—But Not For the Reason You Think - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ1l5M3FkMFlacTFQb0l1cWNYeko2Uk9wNDlnaUFrb0RxX2hyNnE5S29wNEdVSWhILWwzQ0llNHBXZXJBT3I3RW56ZWxNWjcxaGN0dnlsb0h1TXVaQVRSTUdReV8yaGZfVF9DNlRsZkRJZHhXejNQMkFrX0RIeWwtbWdzTFRHMlRySkQ2SFhuOFU1RUhGcDJRWUFTQ2gxWjViek5oRzl1cTJNVmJrQ3Iw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_78b13475b578",
-      "date": "2026-05-07",
-      "title": "AI Is Making Smartphones More Expensive—But Not For the Reason You Think - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ1l5M3FkMFlacTFQb0l1cWNYeko2Uk9wNDlnaUFrb0RxX2hyNnE5S29wNEdVSWhILWwzQ0llNHBXZXJBT3I3RW56ZWxNWjcxaGN0dnlsb0h1TXVaQVRSTUdReV8yaGZfVF9DNlRsZkRJZHhXejNQMkFrX0RIeWwtbWdzTFRHMlRySkQ2SFhuOFU1RUhGcDJRWUFTQ2gxWjViek5oRzl1cTJNVmJrQ3Iw?oc=5",
+      "id": "us_2a1ddca7fe03",
+      "date": "2026-05-09",
+      "title": "Microsoft’s Stock Rose Over 10% in April, but AI Competition Concerns Prompted Significant Hedging Fund Reductions - NAI500",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbmttYnpRUngtQjVXWEpWUlRDWmd2TmMyRjRzUVBLQ3lzS1lBOGV3Y01MTWY2UExyS2JGTERfRlhoWGh4RUlPLTRBVThFb3NoUkpqeDhWV2g4d1QwOEQzOU1FSnFUTmdzNWRqVEpBeHdaWVRadGp3V0p5ZVBVU2Y2ZVdySGFsaGpGM25TcXFVUWNSYlF0LXBtMy14cjliTHJqbEhqdXc5ODZ3M1JQY2hPamdwOFQzSmF5OUw1eWd4YkRDRkdRU1hSNlVqTTFHYW5lcGJZcnljVms4NWxq?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1333,20 +1313,20 @@
       "score": 0
     },
     {
-      "id": "us_938714ee9c68",
-      "date": "2026-05-09",
-      "title": "Results: Trex Company, Inc. Beat Earnings Expectations And Analysts Now Have New Forecasts - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORklUcHowZzUtUzl0eWc5N0pwVmVyam1fUUkwUS1KSDh4RVY1Y0lMNDJKMWNFNUc3bUNvanFJNHdZZHZFS0pfZ010eWFqWVM2TnB1TUdDbTRMazM2NnFwSmNoNDVCTWRTRGY4UzU0QnRla3ZOU2FqQUJEQXFJMGRwbzJIekJNUUE3TVZPR0VNZnVYOFFCazRFaUFHSXVkMVhLUnVaUW5oNG5hZUZfT3FWRjBKTWM3UVhJNnU0TEFLb01lbUYx0gHKAUFVX3lxTE11T2ZZWVU5STVNbWt3NllTMzBPQW03VWhnQXFCTnQtbmlQcHY4V29iUWlTNUdZeGNPU0ZfZy02WFpLbDhTalBTLThwazA1UlAxRVlLaHJtdjdoNmRVUTE4dzFUNmVrUXE3YjV3THNvOWRaNVp5MzRtTkJ2OGdxTlpybW92OFBPWk1zWTFhdDduUVJFVW9nSVNjYVFhalF2QVBzRmhEV2ZtOGhndzRRR2dsQ185NGxYaDd3UFFLeTc3Rk0waGZCeVA4RXc?oc=5",
+      "id": "us_fc8382ce7dda",
+      "date": "2026-05-10",
+      "title": "Lincoln Educational (LINC) To Report Earnings Tomorrow: Here Is What To Expect - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWNlS1JkbzRNOTJRN0M3QXRoWFROdm9uT1ZuNXIwSzUwNjFmQ04zaEQ1Mm5mNlFzZHluWHFRQVYxX0J4T1JJVUh0TTU3MzlHd1h1azJ6ZG5zWndyQzFRbjRsdF94M3dwWmozVDMwQllsNjRzd2dLNmtZUDlJc0c1TTBRXzQ1MDhrSWZydy0tR0R2dWpQdmtTcnptOEhXclhyakJWaXkyV0VCNlZqR1hINU12Qnpyckc1N3ppaUYtbVN6VVVOdUx6UkpzLTkyZy1BR0E?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_fc8382ce7dda",
-      "date": "2026-05-10",
-      "title": "Lincoln Educational (LINC) To Report Earnings Tomorrow: Here Is What To Expect - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWNlS1JkbzRNOTJRN0M3QXRoWFROdm9uT1ZuNXIwSzUwNjFmQ04zaEQ1Mm5mNlFzZHluWHFRQVYxX0J4T1JJVUh0TTU3MzlHd1h1azJ6ZG5zWndyQzFRbjRsdF94M3dwWmozVDMwQllsNjRzd2dLNmtZUDlJc0c1TTBRXzQ1MDhrSWZydy0tR0R2dWpQdmtTcnptOEhXclhyakJWaXkyV0VCNlZqR1hINU12Qnpyckc1N3ppaUYtbVN6VVVOdUx6UkpzLTkyZy1BR0E?oc=5",
+      "id": "us_938714ee9c68",
+      "date": "2026-05-09",
+      "title": "Results: Trex Company, Inc. Beat Earnings Expectations And Analysts Now Have New Forecasts - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORklUcHowZzUtUzl0eWc5N0pwVmVyam1fUUkwUS1KSDh4RVY1Y0lMNDJKMWNFNUc3bUNvanFJNHdZZHZFS0pfZ010eWFqWVM2TnB1TUdDbTRMazM2NnFwSmNoNDVCTWRTRGY4UzU0QnRla3ZOU2FqQUJEQXFJMGRwbzJIekJNUUE3TVZPR0VNZnVYOFFCazRFaUFHSXVkMVhLUnVaUW5oNG5hZUZfT3FWRjBKTWM3UVhJNnU0TEFLb01lbUYx0gHKAUFVX3lxTE11T2ZZWVU5STVNbWt3NllTMzBPQW03VWhnQXFCTnQtbmlQcHY4V29iUWlTNUdZeGNPU0ZfZy02WFpLbDhTalBTLThwazA1UlAxRVlLaHJtdjdoNmRVUTE4dzFUNmVrUXE3YjV3THNvOWRaNVp5MzRtTkJ2OGdxTlpybW92OFBPWk1zWTFhdDduUVJFVW9nSVNjYVFhalF2QVBzRmhEV2ZtOGhndzRRR2dsQ185NGxYaDd3UFFLeTc3Rk0waGZCeVA4RXc?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1403,10 +1383,10 @@
       "score": 0
     },
     {
-      "id": "us_5f2b3220adcd",
-      "date": "2026-05-09",
-      "title": "PAR Technology (NYSE:PAR) Posts Quarterly Earnings Results, Beats Estimates By $0.03 EPS - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcHhqTHN2SUZhU2hraGZ5VXNXRHVMR2lQbVFmSDBKdjI5QXJVdTh1TFJzaV9ZdndadTVMR1J2ZW42X09tbjZKbklPWG81YzlxSUdPUHFZMGhjN2NVdDktdFpFM2xmcFFyd0ItUkRpMmZwbnVIQlE5VWl0MFNkYkVweTJucGkxM1pFZUNIYm5hSlpNekRjZjVRTU1PS3h1N3VlU1hWT0xEZ3RXTlUxQm9lN2hCSGI4MVlDa0RqckIyeG52ckhhUkFuVVdsQzFUTVcyTGc?oc=5",
+      "id": "us_ead971887e9c",
+      "date": "2026-05-10",
+      "title": "Rocket Companies (NYSE:RKT) Posts Quarterly Earnings Results, Beats Expectations By $0.03 EPS - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcmFkaFVyU0g3VnpwQndUN1pCYkJEUVZ2TlFLanBDTEFHUjBNUVZQNlZMTWQ5azdHWWF6eDhXTHJHdDk4RU96YmM5ak9ubjBnWEZxM1g4NnNGV2FOU0hHbEUxcEdDUmFxYVF3VTFoYWZKV2RfWG54eHI3dkVaVU5rVGpBQmQtRVdhWTcyei1aQ2d3RG1FZHFMYzJlRVM3WEEyN0ZoY2RJMnJWLUgtMUpxdWc4T0RZczlibm85VUp1NHJxOE96ZHplZzM5VXJ0UGNyYkJxajhVZUU?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1423,10 +1403,10 @@
       "score": 0
     },
     {
-      "id": "us_a79f68072655",
+      "id": "us_5f2b3220adcd",
       "date": "2026-05-09",
-      "title": "BCE (NYSE:BCE) Releases Quarterly Earnings Results, Beats Estimates By $0.04 EPS - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNW9OMjNfemY4a3hOa3F5RWhGN0JUWmZjYWx0Vy1GQWQ0VnBKRFlVU2RvWndhLWRaR2VFekZkTE1EV3RMSWt2SEFZTDc4WkZSbFkyX0ktMWZRRVJ3SUZ2dldhb0dHWEo1Y2djZDQ4elM0bVJ5clpfU2ZUTl9oUEdTRDNhdmFpUDdCRFhvZHFBSV9Xc0tJbmZxNHFJV2ZVcVhlZmRiSjRuLVl0Qjc1YWVLMUV5TXRfUFh1U1ZwcjFNamJEZ091eDRv?oc=5",
+      "title": "PAR Technology (NYSE:PAR) Posts Quarterly Earnings Results, Beats Estimates By $0.03 EPS - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcHhqTHN2SUZhU2hraGZ5VXNXRHVMR2lQbVFmSDBKdjI5QXJVdTh1TFJzaV9ZdndadTVMR1J2ZW42X09tbjZKbklPWG81YzlxSUdPUHFZMGhjN2NVdDktdFpFM2xmcFFyd0ItUkRpMmZwbnVIQlE5VWl0MFNkYkVweTJucGkxM1pFZUNIYm5hSlpNekRjZjVRTU1PS3h1N3VlU1hWT0xEZ3RXTlUxQm9lN2hCSGI4MVlDa0RqckIyeG52ckhhUkFuVVdsQzFUTVcyTGc?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1443,6 +1423,16 @@
       "score": 0
     },
     {
+      "id": "us_a79f68072655",
+      "date": "2026-05-09",
+      "title": "BCE (NYSE:BCE) Releases Quarterly Earnings Results, Beats Estimates By $0.04 EPS - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNW9OMjNfemY4a3hOa3F5RWhGN0JUWmZjYWx0Vy1GQWQ0VnBKRFlVU2RvWndhLWRaR2VFekZkTE1EV3RMSWt2SEFZTDc4WkZSbFkyX0ktMWZRRVJ3SUZ2dldhb0dHWEo1Y2djZDQ4elM0bVJ5clpfU2ZUTl9oUEdTRDNhdmFpUDdCRFhvZHFBSV9Xc0tJbmZxNHFJV2ZVcVhlZmRiSjRuLVl0Qjc1YWVLMUV5TXRfUFh1U1ZwcjFNamJEZ091eDRv?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_736eb0f7ea44",
       "date": "2026-05-08",
       "title": "Construction Partners (NASDAQ:ROAD) Posts Quarterly Earnings Results, Beats Expectations By $0.23 EPS - MarketBeat",
@@ -1453,20 +1443,20 @@
       "score": 0
     },
     {
-      "id": "us_29ae728abe3b",
+      "id": "us_6dce70fbcc2e",
       "date": "2026-05-09",
-      "title": "DraftKings (NASDAQ:DKNG) Issues Quarterly Earnings Results, Misses Expectations By $0.02 EPS - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV2VHa05aREZfUjhqLTRIV0VrUmx5MVBHVlJtSlBualFkMERJTGlfWlNZVF82UEdUbXhjMk9HR3hscG8tS2tPMXF1ZF84SUhXcjdLbmVMRHVDbUNwOWVWcGtRRXp4bDZpeUtOb1pWZGhVSm5WeFVJdU9WeHNFdmN5Tmk3Uk93bzNQS2NKVF9XTjFLcjFKUnlwRW5IRlZGMDlDazg3bTBKLUFxekJzaEo0c3dNMjAxNUZtcTVXbGQ3eGxreWpOWEVhTDdXcXBqMjN0YlNfVXZ5MA?oc=5",
+      "title": "PubMatic (NASDAQ:PUBM) Announces Quarterly Earnings Results - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUVmYmMyMWw5S2QxQUJuMWdyeUFOR3MxQVFya0ZoLXhONVF4aEo3d1gzQkZBN2dNNkJlR2tGalVGelhwN1BBMkN1c1RoaFp0alpxdUpzUjlDSFVzWmFJaF9FdnprdkJzbXNTZDFfSUZCdXN6ZnRNOE40Vlc0QlFPRlo2aUZ2b2NrR0l2RjNHUnVTdWhlWVhLYnE4cmEtVE04NWJLWFh3Rk9HLW5kNzVj?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_6dce70fbcc2e",
+      "id": "us_29ae728abe3b",
       "date": "2026-05-09",
-      "title": "PubMatic (NASDAQ:PUBM) Announces Quarterly Earnings Results - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUVmYmMyMWw5S2QxQUJuMWdyeUFOR3MxQVFya0ZoLXhONVF4aEo3d1gzQkZBN2dNNkJlR2tGalVGelhwN1BBMkN1c1RoaFp0alpxdUpzUjlDSFVzWmFJaF9FdnprdkJzbXNTZDFfSUZCdXN6ZnRNOE40Vlc0QlFPRlo2aUZ2b2NrR0l2RjNHUnVTdWhlWVhLYnE4cmEtVE04NWJLWFh3Rk9HLW5kNzVj?oc=5",
+      "title": "DraftKings (NASDAQ:DKNG) Issues Quarterly Earnings Results, Misses Expectations By $0.02 EPS - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV2VHa05aREZfUjhqLTRIV0VrUmx5MVBHVlJtSlBualFkMERJTGlfWlNZVF82UEdUbXhjMk9HR3hscG8tS2tPMXF1ZF84SUhXcjdLbmVMRHVDbUNwOWVWcGtRRXp4bDZpeUtOb1pWZGhVSm5WeFVJdU9WeHNFdmN5Tmk3Uk93bzNQS2NKVF9XTjFLcjFKUnlwRW5IRlZGMDlDazg3bTBKLUFxekJzaEo0c3dNMjAxNUZtcTVXbGQ3eGxreWpOWEVhTDdXcXBqMjN0YlNfVXZ5MA?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1543,20 +1533,20 @@
       "score": 0
     },
     {
-      "id": "us_22ffa49ca795",
-      "date": "2026-05-09",
-      "title": "Rocket Lab Earnings Greatly Exceed Expectations, Ignoring Risks as Stock Price Surges? - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSEtBYjhHZlJiMXE0TmNjckhQcFlSS0JYR2RfVE9nbnV2anB5UkI1Wk91YTFsUUVYRlg2TW8yeDZhN2V3LVMycVNSZXFvZW1DVkphTDRpWVhTZVhEY1ozUG9wOGVtZEdXUTdwZzVjVzlKdmt2bVlDS3k3QS1PZDZQX3J3Z2VWZEFzV3dCZ0pkT1RxVVlUcmJaUm1YQldjbVVFNVFmekRRcTg0cnZpbi1CeTNhNENJb2ZmZmJCd3ZJRWZScnFjdnFabXRmeDdZa3BVOUFINzM1WmFWSDZxRTJGbTBYYw?oc=5",
+      "id": "us_50521c6613f4",
+      "date": "2026-05-08",
+      "title": "Results: Ardent Health, Inc. Beat Earnings Expectations And Analysts Now Have New Forecasts - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON0ZLdTdMWnc0SjNoR3pRUnZ2OTl1TG9TanRfWmZOR1R5Y1dyS1ZXQXdETjlacjR2TXNWd1NUUUFCUGFRbF9CSS00bDBLZW9ZbjBGTVlvcXU5a0dVWkNSR0tsZ2xXRS1LdTM2NDd6cVMyV0prb01lWE5rcVdZOVh0bE5kTng1dEpZRnFIOThjLXNyNXoxU2RnZXNoVWx3MnJ1ZzFjdUd0Vl9BaG5fYjdHTi1HVUJrZUFSZDJYb2YtejQ1WDhUMHUzNXNVVm_SAdIBQVVfeXFMT3d5UTZ5MDZ1ZmRaVlkxRmVja3o4UW42VnNpVXR6YmdkWGJpRk1SUjNYTElHOC15VEhsTElOZW9iOG9DWGx4SVR5VUxTaTlhUUJ5SEFWN3BITHpxcmZMd0ZkY2hlX2tGLURLM2VYNkZhSjd2cHMyRWs5bndqSXpNN2h1ZGVJZlg1dW5YUFRIMkVGQ21GcGNJOHM4T3BWZVNTUldwaTJNOWJQcEdIdU1EbUgtdENtSWluM0NuOXVfZHpSc2lScmF0SUt0dUttcTlhVzZB?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_50521c6613f4",
-      "date": "2026-05-08",
-      "title": "Results: Ardent Health, Inc. Beat Earnings Expectations And Analysts Now Have New Forecasts - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON0ZLdTdMWnc0SjNoR3pRUnZ2OTl1TG9TanRfWmZOR1R5Y1dyS1ZXQXdETjlacjR2TXNWd1NUUUFCUGFRbF9CSS00bDBLZW9ZbjBGTVlvcXU5a0dVWkNSR0tsZ2xXRS1LdTM2NDd6cVMyV0prb01lWE5rcVdZOVh0bE5kTng1dEpZRnFIOThjLXNyNXoxU2RnZXNoVWx3MnJ1ZzFjdUd0Vl9BaG5fYjdHTi1HVUJrZUFSZDJYb2YtejQ1WDhUMHUzNXNVVm_SAdIBQVVfeXFMT3d5UTZ5MDZ1ZmRaVlkxRmVja3o4UW42VnNpVXR6YmdkWGJpRk1SUjNYTElHOC15VEhsTElOZW9iOG9DWGx4SVR5VUxTaTlhUUJ5SEFWN3BITHpxcmZMd0ZkY2hlX2tGLURLM2VYNkZhSjd2cHMyRWs5bndqSXpNN2h1ZGVJZlg1dW5YUFRIMkVGQ21GcGNJOHM4T3BWZVNTUldwaTJNOWJQcEdIdU1EbUgtdENtSWluM0NuOXVfZHpSc2lScmF0SUt0dUttcTlhVzZB?oc=5",
+      "id": "us_22ffa49ca795",
+      "date": "2026-05-09",
+      "title": "Rocket Lab Earnings Greatly Exceed Expectations, Ignoring Risks as Stock Price Surges? - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSEtBYjhHZlJiMXE0TmNjckhQcFlSS0JYR2RfVE9nbnV2anB5UkI1Wk91YTFsUUVYRlg2TW8yeDZhN2V3LVMycVNSZXFvZW1DVkphTDRpWVhTZVhEY1ozUG9wOGVtZEdXUTdwZzVjVzlKdmt2bVlDS3k3QS1PZDZQX3J3Z2VWZEFzV3dCZ0pkT1RxVVlUcmJaUm1YQldjbVVFNVFmekRRcTg0cnZpbi1CeTNhNENJb2ZmZmJCd3ZJRWZScnFjdnFabXRmeDdZa3BVOUFINzM1WmFWSDZxRTJGbTBYYw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1653,20 +1643,20 @@
       "score": 0
     },
     {
-      "id": "us_94ce52ddec0e",
+      "id": "us_ea934eae9fc5",
       "date": "2026-05-09",
-      "title": "American Express Co. stock (US0258161092): Earnings beat lifts shares on strong card spending and fe - AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaXFHalVCV3EwY0tCNFFDYnVhQ1h1dU9MczFicS1XWGxudDVTd1F2ZVBmS1l3aDBMX0hUS0hfV2JaNGhla2hjMXlDeEQ0UkZxc0wwMXFmbEkxckZEOGpfU3R1VUNZZjRmMmtJSDdvbk56RmdhWTVUcW9vSlNBM054N3RVY0I2c05VRGVxWlBlVDJDbEp4b2NsRHJNTkJXeUhhRXdwTm0xUE5QQXlWbkQ2ZWpqellGSzhJd0ZibUF3LWtvWmdlQnc?oc=5",
+      "title": "TotalEnergies SE stock (FR0000120271): Strong quarterly beat lifts outlook for 2026 earnings and LNG - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQU9hZV93bmZMd1hmQ0c4UDdCb2hVWjBrb3h3WkRQdHU4LWVHLWpETXl1Z2hPZi0yeWlxVTRMcWdkMUU4TWt2QWd1N0F3VTk4S1JTUjM4eHlWQzNTMzlOelpiaDBkb1IyeFdUUmhwVDV3akxmYnZXQ1dOZ3RrcEh3bmdldUs4cUNScDRubC1td2hVUVFQRzVWS0NVWFZDX25udG1WQ2F2SXhTX0pBNW90QlFCU1o5eDFUcDhJcHJTLTBzcjI2UWFyTXRB?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_ea934eae9fc5",
+      "id": "us_94ce52ddec0e",
       "date": "2026-05-09",
-      "title": "TotalEnergies SE stock (FR0000120271): Strong quarterly beat lifts outlook for 2026 earnings and LNG - AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQU9hZV93bmZMd1hmQ0c4UDdCb2hVWjBrb3h3WkRQdHU4LWVHLWpETXl1Z2hPZi0yeWlxVTRMcWdkMUU4TWt2QWd1N0F3VTk4S1JTUjM4eHlWQzNTMzlOelpiaDBkb1IyeFdUUmhwVDV3akxmYnZXQ1dOZ3RrcEh3bmdldUs4cUNScDRubC1td2hVUVFQRzVWS0NVWFZDX25udG1WQ2F2SXhTX0pBNW90QlFCU1o5eDFUcDhJcHJTLTBzcjI2UWFyTXRB?oc=5",
+      "title": "American Express Co. stock (US0258161092): Earnings beat lifts shares on strong card spending and fe - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaXFHalVCV3EwY0tCNFFDYnVhQ1h1dU9MczFicS1XWGxudDVTd1F2ZVBmS1l3aDBMX0hUS0hfV2JaNGhla2hjMXlDeEQ0UkZxc0wwMXFmbEkxckZEOGpfU3R1VUNZZjRmMmtJSDdvbk56RmdhWTVUcW9vSlNBM054N3RVY0I2c05VRGVxWlBlVDJDbEp4b2NsRHJNTkJXeUhhRXdwTm0xUE5QQXlWbkQ2ZWpqellGSzhJd0ZibUF3LWtvWmdlQnc?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1767,16 +1757,6 @@
       "date": "2026-05-09",
       "title": "Fair Isaac Corp. stock (US3032501047): Earnings beat and guidance lift drive shares higher - AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0hFdl9RQWEtSElha2lzVXdCVXA2a0dIaFUtc1otTkJzV1ZiTzNyVUd0QVhnaE9PV3VNOW5QZXBwUWt5SG9EZlc5MGR5blhJOWJQX2dWdlpoa3pyUzd0ek9OYjF2eVhRYTYzTmFaQUxrTDB5WF9fc2xITWVaTHB3a2txbTdKNzg5YmFGZ19aVnlWNmNLVUM3NGhoWnVnRS13VUlCU19DT2tHMk51MDBHdzI5NExnUmdCWGM1TFZsN25ZaHc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_65798e59b2a8",
-      "date": "2026-05-09",
-      "title": "ArcelorMittal S.A. stock (LU1598757687): Earnings beat and analyst views in focus - AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWdSVkxDY0NnekpkR3FteXFISmFQaEF2MWk4dGNVRU1ON2s1OTJZeW9oYVFoZl9rYnJMZW93Y1NuTllFUF9USWhmTlJCVkxBOHVBakpoakg1NGlMb3dZRUhlR3hreTFKZFNtYnJVLXZYVjNqTU1fcXVRZzFob0gxaWtqZ2MzenB4bVhEbzlYMU1oZjl0OGVqck9faFpRUzFEYTZOdFVRLXNNdzBCQW1vZEREZXA0elk4S05MRWJGM21jTUJpbGc?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2163,10 +2143,10 @@
       "score": 0
     },
     {
-      "id": "us_94335cd6f41a",
+      "id": "us_2a8bd2916910",
       "date": "2026-05-10",
-      "title": "United Kingdom Electric Vehicle on Board Charger - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM0JTZFRERXRNUlM3UTVSRkI5Nm9VU0VaSVBjRHA4bENqOGczZFMwNVVCOC1YS0hIdmdqMkZ0Rm16M1JvYjljd1hrNVNJZ3R6RnpfVEprcS0wVHY3cjh0S0F4NUZ5eXdIc3lyX2tWMl9TbGtlM184cmVDeUgzTVVOQkVlOEoxcjBxNnhVNHVJOGh0NHF3SEVVaWUtTnNQaFphaUhyY1NCVDRZNGRHR0Vad3lLYlJDWlJsZUI2R1U1cGlRTDVndVJxVw?oc=5",
+      "title": "United Kingdom Electric Vehicle Range Extender - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQXZMdlRFeHdHUFA2SXJYSk5Vd3BNM19zRExEQUJSa01ZVENjU2NNdnBSS0lyMTA2VGMzLVNuTDNpdlA2WURqc2szWUZlS1hIUUJ5eUF1SUpXR01VbWJSZWctYjVia2tkcmZIUEZuS3VXckJnQmhuOGhlUFZzdDlMSTludXJmbGxlTjhwdDNUQkREdkJQOHctdVhuVlFTWXB3djF4Y3kteEVoMkdtdVB2cUc4WUllcVVnVm40N0RMaHpFTmVOR1E?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2213,20 +2193,20 @@
       "score": 0
     },
     {
-      "id": "us_4aa33fdb1b22",
-      "date": "2026-05-09",
-      "title": "United States Electric Vehicle Market Forecast 2026–2034: Charging Infrastructure, Government Incentives, and Battery Innovation Accelerate EV Adoption - vocal.media",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUzF2UnVTX242WHV4SzZRYWdOak1PUk54Z1lJX0FzcDRETDFYTXY5UW1qa1NOQ043Wkc3QVVMZU91dWdZV1pwbm5BU0xkOFE3WG9qc2s4ZUdkWEJVNmRzVDl0S1R5U2E4UkVoUmRoR0JKMFAtWHh6dFVyUlVvUEstS0V2WUVERU5NazlWMlNzeEtMT1hrd3hTd3ptWUpDY01FZ0NpMExYNEtuZGtGTTVmaVhqdnR5V2J1aWFRanFhd1VlejI0ZEFkZzVkUklNUEo4dHhldUtwc3VnZi15Ui1oZVp1dHVnSWNsNmJYQ3F4LVJYUEdRdkx2VVlvMEp2WkdX?oc=5",
+      "id": "us_9092bef329a4",
+      "date": "2026-05-07",
+      "title": "This electric SUV has a semi-solid-state EV battery, and it will go on sale in a few days - Electrek",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbG5oQW00eDBaOHJuUkVhSUFqUVJMZkFxSlJycWpNd2VYZkRNbHVQNmUzbWcwMlZ4NF9RcXI4TjJmNE1kSG1nTFlxTzVfVHNwQXFuaXI4ckFYY01BUW5qeDlDQmNLZExfeGdPZHhDMG02LXdBdFhoSmRaM3BPTWFSQzJPUVJYNy1t?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_9092bef329a4",
-      "date": "2026-05-07",
-      "title": "This electric SUV has a semi-solid-state EV battery, and it will go on sale in a few days - Electrek",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbG5oQW00eDBaOHJuUkVhSUFqUVJMZkFxSlJycWpNd2VYZkRNbHVQNmUzbWcwMlZ4NF9RcXI4TjJmNE1kSG1nTFlxTzVfVHNwQXFuaXI4ckFYY01BUW5qeDlDQmNLZExfeGdPZHhDMG02LXdBdFhoSmRaM3BPTWFSQzJPUVJYNy1t?oc=5",
+      "id": "us_4aa33fdb1b22",
+      "date": "2026-05-09",
+      "title": "United States Electric Vehicle Market Forecast 2026–2034: Charging Infrastructure, Government Incentives, and Battery Innovation Accelerate EV Adoption - vocal.media",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUzF2UnVTX242WHV4SzZRYWdOak1PUk54Z1lJX0FzcDRETDFYTXY5UW1qa1NOQ043Wkc3QVVMZU91dWdZV1pwbm5BU0xkOFE3WG9qc2s4ZUdkWEJVNmRzVDl0S1R5U2E4UkVoUmRoR0JKMFAtWHh6dFVyUlVvUEstS0V2WUVERU5NazlWMlNzeEtMT1hrd3hTd3ptWUpDY01FZ0NpMExYNEtuZGtGTTVmaVhqdnR5V2J1aWFRanFhd1VlejI0ZEFkZzVkUklNUEo4dHhldUtwc3VnZi15Ui1oZVp1dHVnSWNsNmJYQ3F4LVJYUEdRdkx2VVlvMEp2WkdX?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2243,20 +2223,10 @@
       "score": 0
     },
     {
-      "id": "us_b0706501fe20",
-      "date": "2026-05-07",
-      "title": "Two Indian Conglomerates to Plow $1 Billion in EV, Battery Tech - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2J1eXpibGdST0daMkdLTjhOc01GNzVGNXJyX3Z5bEFhZmpBTF91MXV4NUJ0UGdvemVSTlNpMkdlck9hYkItWHhQNVU1LUF3TUFxMWxGS19pbVF5T3kwblRsdjROa0lCb0JoMVlCN1EtUGY2aE9wa3FjaVdlWjhXWGVFQlBqN1VVZWdIUVBldVE2Sl9aUzhDUk1hUUdoZXpRTG92NGhHQy1xQ1g1VXBr?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_2a8bd2916910",
+      "id": "us_94335cd6f41a",
       "date": "2026-05-10",
-      "title": "United Kingdom Electric Vehicle Range Extender - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQXZMdlRFeHdHUFA2SXJYSk5Vd3BNM19zRExEQUJSa01ZVENjU2NNdnBSS0lyMTA2VGMzLVNuTDNpdlA2WURqc2szWUZlS1hIUUJ5eUF1SUpXR01VbWJSZWctYjVia2tkcmZIUEZuS3VXckJnQmhuOGhlUFZzdDlMSTludXJmbGxlTjhwdDNUQkREdkJQOHctdVhuVlFTWXB3djF4Y3kteEVoMkdtdVB2cUc4WUllcVVnVm40N0RMaHpFTmVOR1E?oc=5",
+      "title": "United Kingdom Electric Vehicle on Board Charger - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM0JTZFRERXRNUlM3UTVSRkI5Nm9VU0VaSVBjRHA4bENqOGczZFMwNVVCOC1YS0hIdmdqMkZ0Rm16M1JvYjljd1hrNVNJZ3R6RnpfVEprcS0wVHY3cjh0S0F4NUZ5eXdIc3lyX2tWMl9TbGtlM184cmVDeUgzTVVOQkVlOEoxcjBxNnhVNHVJOGh0NHF3SEVVaWUtTnNQaFphaUhyY1NCVDRZNGRHR0Vad3lLYlJDWlJsZUI2R1U1cGlRTDVndVJxVw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2283,16 +2253,6 @@
       "score": 0
     },
     {
-      "id": "us_6b76039a0103",
-      "date": "2026-05-10",
-      "title": "United States Electric Vehicle Range Extender - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUmNoWXN5cklEWk9MY2VBQXRXckgwYm9pX09wZEpEN2dFWUxpcU1EVWRBbjF3bXpWX2RxOVJnUkQ1LS1NdG9xMVEwMEdCdWFjQlRTSWFrT0FwaXFDVmJkeTlUd3Q2dUs5TmdfQ2JwWWZjSFBLRHFwMzA2MWdCaG5mUXkzSWVQNWlpcXAxODBiQjdxdS0tSVEtWTZHY1VWX3lRQ3lnT0JydVdUcFJPN2dnZGRobGpTWXQtcVBPSXRfVG4wUC01?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_930df9a0060c",
       "date": "2026-05-10",
       "title": "Brazil Electric Vehicle Battery Conditioners - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
@@ -2313,10 +2273,30 @@
       "score": 0
     },
     {
+      "id": "us_6b76039a0103",
+      "date": "2026-05-10",
+      "title": "United States Electric Vehicle Range Extender - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUmNoWXN5cklEWk9MY2VBQXRXckgwYm9pX09wZEpEN2dFWUxpcU1EVWRBbjF3bXpWX2RxOVJnUkQ1LS1NdG9xMVEwMEdCdWFjQlRTSWFrT0FwaXFDVmJkeTlUd3Q2dUs5TmdfQ2JwWWZjSFBLRHFwMzA2MWdCaG5mUXkzSWVQNWlpcXAxODBiQjdxdS0tSVEtWTZHY1VWX3lRQ3lnT0JydVdUcFJPN2dnZGRobGpTWXQtcVBPSXRfVG4wUC01?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_3a689272958f",
       "date": "2026-05-10",
       "title": "Germany Electric Vehicle Battery Connector - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObjhCYVRubWdKaW9QbVAwUUdUd18zc2pVR3NqcEsxRVVtejl3cFZDb25FVWZGRlM2UnZQRU9mSWk2NUxPcUxDUGU0MG53RnFPU1E3NnBLcTRPNnBrdi05V1JLVnEwTVk5UzR1Nmg1Y0hFLV9mOHRLWFhVNGRkalU4OHVwQVVNd0ZpbjlQa0w5bEJDU0k3YXplMXkxRmdHZFVCaWRtSXdDaHFLOXFtenFrQ285OEc5RDVaWGdubVBSUTk?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_5be3e876e62d",
+      "date": "2026-05-10",
+      "title": "Mexico Electric Vehicle Battery Conditioners - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbWxKYms0Um5pZnNoZ3RVT0lBdWI3WXJjLU5ZTmFuOEhLYlo1NUhSVE4xbzJtVndzcWpUOHZwOGttS242NFFxUG9zSC1QSUdab3lic2Q1S1ZpUE1ZZXhrY2tOR2RuRjFaTlRvc3RBVGwwWnVZNTd1ZHVEbFpvRTRaUlM5dU1xUmR0a2JVdUo1LTkyNEtzV25oa0xlcG9IZkt3X2pDNjdSa2RfeTBxLTJBbmZpVlcxeUlOZ184UUZZTjY4Y3M?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2337,6 +2317,16 @@
       "date": "2026-05-10",
       "title": "United States Electric Vehicle Battery Conditioners - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbS1MeEs2RU0xbXF0R25rZlNXSWJyM3B1YllpdW5tSHEtWmdaWUZYVjhuZy1rd19xUkNJLVVKaGhXNG5zeHBCZnlWOWRzd1pMOHVMNHg3b0tpOTY1YVRPWVNmLTRtMTR2U0pHUV94eE1zT01yY1R2cDBGckJreWRoWEpvZzFzTXJBNUk0QzRpM2t4ZWdzb2xpTF91cU5XcEV3T25tRlJxdE95bGFBbV92Ym9icFhXMzJnM1V5M1VRdGFOV0VkNHN1QmxKd3M?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_b0706501fe20",
+      "date": "2026-05-07",
+      "title": "Two Indian Conglomerates to Plow $1 Billion in EV, Battery Tech - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2J1eXpibGdST0daMkdLTjhOc01GNzVGNXJyX3Z5bEFhZmpBTF91MXV4NUJ0UGdvemVSTlNpMkdlck9hYkItWHhQNVU1LUF3TUFxMWxGS19pbVF5T3kwblRsdjROa0lCb0JoMVlCN1EtUGY2aE9wa3FjaVdlWjhXWGVFQlBqN1VVZWdIUVBldVE2Sl9aUzhDUk1hUUdoZXpRTG92NGhHQy1xQ1g1VXBr?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2403,20 +2393,20 @@
       "score": 0
     },
     {
-      "id": "us_bbec2ca9ede5",
-      "date": "2026-05-09",
-      "title": "Global Battery Cases for Electric Vehicle Market Size is Expected to Reach USD 6,532 Million by 2026 - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXJxZ2RGOGtNdVZvUkN6elZBdUNxSlZGWmZxek01R3BlVTZta0QxZ2JmX2VITUdqcFlsV1hNMzI1YTdYY3h1YnJhekRjTGZ4ZFlwX040UjloejlFOERXYVVqa2hMRU1jY3hVVWptZDFkRnVQeGE1cVM1emw5QWhIcGk4V2hfcmluSi0yY3JhYkt3cHM?oc=5",
+      "id": "us_a4c24f3407b3",
+      "date": "2026-05-08",
+      "title": "European Electric Vehicle Registrations Skyrocket as Volatile Oil Supplies Accelerate the Continental Shift to Battery Power - Torque News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWg3cGRyM1pUZVlVcDdpR1FoanJOZEF3YUZrenoteWd2ZlNXd1BMQUlFS1JzaF94bU1KWUNUTHE0TzFVSy0zUnhhSi1tWldTaWdBR1VfRWFuSkVSOTNlYW9MV2FVWlVybW5SNEgxakdBVnlWNUdOci1XUFJneGZnS09DMzEyNGZMOTRJdG9SU0ZRaVJTV25DWWtxUzJBdFBybThxMThrbmpGQXRYQnYtZUo4Zjd6dw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_a4c24f3407b3",
-      "date": "2026-05-08",
-      "title": "European Electric Vehicle Registrations Skyrocket as Volatile Oil Supplies Accelerate the Continental Shift to Battery Power - Torque News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWg3cGRyM1pUZVlVcDdpR1FoanJOZEF3YUZrenoteWd2ZlNXd1BMQUlFS1JzaF94bU1KWUNUTHE0TzFVSy0zUnhhSi1tWldTaWdBR1VfRWFuSkVSOTNlYW9MV2FVWlVybW5SNEgxakdBVnlWNUdOci1XUFJneGZnS09DMzEyNGZMOTRJdG9SU0ZRaVJTV25DWWtxUzJBdFBybThxMThrbmpGQXRYQnYtZUo4Zjd6dw?oc=5",
+      "id": "us_bbec2ca9ede5",
+      "date": "2026-05-09",
+      "title": "Global Battery Cases for Electric Vehicle Market Size is Expected to Reach USD 6,532 Million by 2026 - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXJxZ2RGOGtNdVZvUkN6elZBdUNxSlZGWmZxek01R3BlVTZta0QxZ2JmX2VITUdqcFlsV1hNMzI1YTdYY3h1YnJhekRjTGZ4ZFlwX040UjloejlFOERXYVVqa2hMRU1jY3hVVWptZDFkRnVQeGE1cVM1emw5QWhIcGk4V2hfcmluSi0yY3JhYkt3cHM?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2433,20 +2423,20 @@
       "score": 0
     },
     {
-      "id": "us_c403ea71cc38",
-      "date": "2026-05-09",
-      "title": "Future Opportunities in the Electric Vehicle Market - Intellectia AI",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUFfWWpMdG13ZzdTZk01cXp0UHdxZ3lycHFWMEE1V2hud2F4OVRHZ0VFZ25HZ21KZl9KSzk2d1B3RV8xMkhmamdXX2NySnU5THI2Wk9aNkFwcy03U3VLYy1KdWlYSUllMFZ1MHd3em5Ga0w4SVVNbndlMkZPTU91ZmJIN3d3LTZFbHhBeVV3?oc=5",
+      "id": "us_1d485d9f9fc5",
+      "date": "2026-05-07",
+      "title": "Germany Adhesives for Electric Vehicle Power Batteries - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkdZTGJKOHZOTl9MTm5wTWp5Q0F6VFplZFRETHE5anloZlBEVEx6VDdBYXJQYmlSWlB0U0d1bjRTZE02d25xb0oxR1Z4anZZS0d0d1JSdW9xamc0TTgtUF9BSnViUzVFQmhkVkpiRnVNQXl4Tld6U2ZxNEpJRDY4bHo3dDB5WVVnbHlfTzdhb3BxOGhSODU5Z0NqV3U5cV9Tc0JzdC1wci1BMFY2QzlYTUtFTENxUHQxNThPUVhjTWY3bkNUUTd2S1h4bVVIYkRR?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_1d485d9f9fc5",
-      "date": "2026-05-07",
-      "title": "Germany Adhesives for Electric Vehicle Power Batteries - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkdZTGJKOHZOTl9MTm5wTWp5Q0F6VFplZFRETHE5anloZlBEVEx6VDdBYXJQYmlSWlB0U0d1bjRTZE02d25xb0oxR1Z4anZZS0d0d1JSdW9xamc0TTgtUF9BSnViUzVFQmhkVkpiRnVNQXl4Tld6U2ZxNEpJRDY4bHo3dDB5WVVnbHlfTzdhb3BxOGhSODU5Z0NqV3U5cV9Tc0JzdC1wci1BMFY2QzlYTUtFTENxUHQxNThPUVhjTWY3bkNUUTd2S1h4bVVIYkRR?oc=5",
+      "id": "us_c403ea71cc38",
+      "date": "2026-05-09",
+      "title": "Future Opportunities in the Electric Vehicle Market - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUFfWWpMdG13ZzdTZk01cXp0UHdxZ3lycHFWMEE1V2hud2F4OVRHZ0VFZ25HZ21KZl9KSzk2d1B3RV8xMkhmamdXX2NySnU5THI2Wk9aNkFwcy03U3VLYy1KdWlYSUllMFZ1MHd3em5Ga0w4SVVNbndlMkZPTU91ZmJIN3d3LTZFbHhBeVV3?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2473,20 +2463,20 @@
       "score": 0
     },
     {
-      "id": "us_a8e0753cad7b",
-      "date": "2026-05-09",
-      "title": "Laos Accelerates Electric Mobility Transformation as EV Workforce Training, Policy Reforms, and Cleaner Transport Begin Reshaping Travel Experience, Urban Mobility, and Future Tourism Across the Country – New Update - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOVU1EWWNmYW9NRVd6SFpUQ3JTdmhQTVFLNElaQXQ0RVpSdDdFTUg4U1MyR0p3RDI0RDNJNXVvYS0tc252ejZHT25ianZBaXM4NVpaSFpHTVh6aEROazdTWGFreFYwNUM4Zm5LQ1VMcFdSR01GeUtWYWJULXBYX19nZnRmdVZHanRucDFfbWdLcHA4T0x5aFZxVXFFOGJjYVNYUWVmMlNjbG5xUW9INDltczMwWkhpWmh3ZjhXeU5WOFlnOGVPa2hFZUxOZ08xRmJ4RzVnLWdQem9XdjlWcVBmUjZzbzg1a09kaGRiSnkzeUtzODFFZVlubnVFa21LX1ZNS1RXTkk2czA4dmxpdGpQc3h4TWFzNFc4Yzd5V3lrcjRLVDlpdWhxQWRySk5wSjBZaUt5TkFjMngwdHVQOU1ITWhRSXVtam5LcGlFVU5vOXpJSnBYNHVReDBybWt0WkNhNm5z?oc=5",
+      "id": "us_4ab721569299",
+      "date": "2026-05-07",
+      "title": "‘Category-defining’ EV company CEO made 13 times what the industry runner-up did in 2025 — but how? - moneywise.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11WTJZSGlBWUc2Wm0xZTJMWmphSW5aX3NDUGVXUUhxdGVGY2lyWlVMdDhRRkRibDFVRWtPNVRrM0ZyQWVEV2RqX0JDcG5wcEYtY2NoSzdMRHJTbVN0NmNjRmkwbWY2T2kyRzdEaVFpYWlMamJXdTZ0Rl90NXQtaTQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_4ab721569299",
-      "date": "2026-05-07",
-      "title": "‘Category-defining’ EV company CEO made 13 times what the industry runner-up did in 2025 — but how? - moneywise.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11WTJZSGlBWUc2Wm0xZTJMWmphSW5aX3NDUGVXUUhxdGVGY2lyWlVMdDhRRkRibDFVRWtPNVRrM0ZyQWVEV2RqX0JDcG5wcEYtY2NoSzdMRHJTbVN0NmNjRmkwbWY2T2kyRzdEaVFpYWlMamJXdTZ0Rl90NXQtaTQ?oc=5",
+      "id": "us_a8e0753cad7b",
+      "date": "2026-05-09",
+      "title": "Laos Accelerates Electric Mobility Transformation as EV Workforce Training, Policy Reforms, and Cleaner Transport Begin Reshaping Travel Experience, Urban Mobility, and Future Tourism Across the Country – New Update - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOVU1EWWNmYW9NRVd6SFpUQ3JTdmhQTVFLNElaQXQ0RVpSdDdFTUg4U1MyR0p3RDI0RDNJNXVvYS0tc252ejZHT25ianZBaXM4NVpaSFpHTVh6aEROazdTWGFreFYwNUM4Zm5LQ1VMcFdSR01GeUtWYWJULXBYX19nZnRmdVZHanRucDFfbWdLcHA4T0x5aFZxVXFFOGJjYVNYUWVmMlNjbG5xUW9INDltczMwWkhpWmh3ZjhXeU5WOFlnOGVPa2hFZUxOZ08xRmJ4RzVnLWdQem9XdjlWcVBmUjZzbzg1a09kaGRiSnkzeUtzODFFZVlubnVFa21LX1ZNS1RXTkk2czA4dmxpdGpQc3h4TWFzNFc4Yzd5V3lrcjRLVDlpdWhxQWRySk5wSjBZaUt5TkFjMngwdHVQOU1ITWhRSXVtam5LcGlFVU5vOXpJSnBYNHVReDBybWt0WkNhNm5z?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2683,16 +2673,6 @@
       "score": 0
     },
     {
-      "id": "us_3d67f6b92632",
-      "date": "2026-05-07",
-      "title": "High Growth Tech Stocks to Watch in the US May 2026 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMmxqd2NWQUZfNUhRX3pUUW5VSXlzOUhCMTVBNVdNTi0tZy1uVGNuLXRLd1JSVEJOSEJQQkRTQVhGbVRET1VhN3pENm15amJCdFFIU3lhek83WHVxeUQ5SUppMklDZ3dUb0FFcVI1NFJleGEwT1QxSWNqR0hpMWs3cEU3X3drYUFteTFleHV4dXJZWGZFZHc4dkJjakJrLVE?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_c3f7412e333b",
       "date": "2026-05-07",
       "title": "These 15 stocks trade like the hottest tech names — but they’re still under the radar - MarketWatch",
@@ -2707,6 +2687,16 @@
       "date": "2026-05-07",
       "title": "SoftBank shares surge over 18% as Japan tech-fueled rally lifts Nikkei 225 to record highs - CNBC",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcnlWMVg2OTFkYUdlMXVXQkhwTTFyaC13VXZRbklBM05qUU83RnVFZ3BvcW9SMGRtMWMxZ25oYVpHTUpWNnlmQWcxS2N4aHUydkU1UzR5YjI0a01YdzR0ZFNxeERUbF9FaWRfdGg1blZMMFJzWUJNVHRVWGFfWmhsUnBJU0Qydl9fWnVqSjFB0gGTAUFVX3lxTE4tZG43NXFqNUVrazZLV1YyZDZ5VG5tenUzZmpoUTBCa0FYZG1SQWxYNEdNMTFPaG00TjVoR3JERjVzX0hLWlR4Y2xFWWJnQ08yWERDUG11SjBDOV9fRVF3eFNCY0lBdW52Tm9oQWkwazlUal9YZlgtMUViV1doeWxtaEk4bDZMTjZrNjZ0aTVVUmIwdw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_3d67f6b92632",
+      "date": "2026-05-07",
+      "title": "High Growth Tech Stocks to Watch in the US May 2026 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMmxqd2NWQUZfNUhRX3pUUW5VSXlzOUhCMTVBNVdNTi0tZy1uVGNuLXRLd1JSVEJOSEJQQkRTQVhGbVRET1VhN3pENm15amJCdFFIU3lhek83WHVxeUQ5SUppMklDZ3dUb0FFcVI1NFJleGEwT1QxSWNqR0hpMWs3cEU3X3drYUFteTFleHV4dXJZWGZFZHc4dkJjakJrLVE?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2743,16 +2733,6 @@
       "score": 0
     },
     {
-      "id": "us_e63e67d942c6",
-      "date": "2026-05-09",
-      "title": "Why Vanguard's Flagship Tech ETF Might Not Be a Good Investment if You're Interested in AI Stocks - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0tBTm12VktBdUZBZFozSVo1Y1B0eUsxTXZqVzVTYVB4QjR4OU9WeFRQQnBMdGlwWGl4UklZdFVHT1FEd2NFWV9qRVJCcjdtLVQ3RlhmTkVVa05LaU45MWZSMjFCTU5KZFhDX3o2b05DNVRvMFRQcHFQSVUydHowTVp1ZHNlRUdrWnZWYUF0WEJ6RkZOTU54ZkRqTlBNSktLUXc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_c273ae369945",
       "date": "2026-05-08",
       "title": "Tech stocks lead Nasdaq with Datadog emerging as highest weekly gainer (DDOG:NASDAQ) - Seeking Alpha",
@@ -2763,10 +2743,10 @@
       "score": 0
     },
     {
-      "id": "us_d1626cba3671",
+      "id": "us_e63e67d942c6",
       "date": "2026-05-09",
-      "title": "Why Vanguard's Flagship Tech ETF Might Not Be a Good Investment if You're Interested in AI Stocks - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWI0d1lkeUsyVXFOSDVlWjhkUVBYcmpzdW9lXzhYSWpXSXg3VEhaMG15WEdJY2cweEhZcXpSeHZsZV9iTWtXWEJGeTZXSVRqb0FscTJ5UWJfRW5LeUtjdjVNb002Q0ZxNi0xYzhGZXlua3VJQ21MRGdLcm5HeG1JMWpNQUZHM2dPcUpPSU5QekRhNTM4OHJ6aw?oc=5",
+      "title": "Why Vanguard's Flagship Tech ETF Might Not Be a Good Investment if You're Interested in AI Stocks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0tBTm12VktBdUZBZFozSVo1Y1B0eUsxTXZqVzVTYVB4QjR4OU9WeFRQQnBMdGlwWGl4UklZdFVHT1FEd2NFWV9qRVJCcjdtLVQ3RlhmTkVVa05LaU45MWZSMjFCTU5KZFhDX3o2b05DNVRvMFRQcHFQSVUydHowTVp1ZHNlRUdrWnZWYUF0WEJ6RkZOTU54ZkRqTlBNSktLUXc?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2777,6 +2757,16 @@
       "date": "2026-05-08",
       "title": "Tesla and Amazon Stock Could Lead This Sector Higher. (Hint: It Isn’t Tech.) - Barron's",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSm1ieHJJRDlVTEFtcGRGMkYzM05ITzl3Q2sxdlh3RFkwZFdMMGVCZkc2d2k3dXJlS3FhRlpET2FXb2loekZ2LVNDYnMxM1V3bi1HQXczUlZ6TmdBZ0s3NkxSS1hPY3pPSFptN0hYQl9VMm9kTG5BOGZaa0hJaDdYS0RvTUZkYjB2NjJxUDhn?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_d1626cba3671",
+      "date": "2026-05-09",
+      "title": "Why Vanguard's Flagship Tech ETF Might Not Be a Good Investment if You're Interested in AI Stocks - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWI0d1lkeUsyVXFOSDVlWjhkUVBYcmpzdW9lXzhYSWpXSXg3VEhaMG15WEdJY2cweEhZcXpSeHZsZV9iTWtXWEJGeTZXSVRqb0FscTJ5UWJfRW5LeUtjdjVNb002Q0ZxNi0xYzhGZXlua3VJQ21MRGdLcm5HeG1JMWpNQUZHM2dPcUpPSU5QekRhNTM4OHJ6aw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2797,16 +2787,6 @@
       "date": "2026-05-07",
       "title": "High Growth Tech Stocks in Europe with Promising Potential - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN0l4X2pTYW1DNHg0WFRCVmJ2YUFiMzdCMzM5eVVmMGlNb0d0S3JmTWY4WWF2YjBoLW1JVy1sY3pDRXZVQnNoR0ZabTg3RE96czViN1RKRXVERVY3Y3pva05ZY2hqN3VpWGZEdmQwNVVCOEhnSWZFN1RQbVA3ckh4SzFnQVVianBLdWo5Rk1FM0MzclVoRWluYnBRYw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_edd2abc6f427",
-      "date": "2026-05-08",
-      "title": "High Growth Tech Stocks To Watch In May 2026 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2JtZS0xOXA0eUlvMlJKYlR6Q2t0N3NnRUd1UGhaQUtVYkJsLVVLVFFlUHJyMzVwZ1FycGwxd3hVMW8yTE56UFM0TXd6VTNtNGJsZzhVaFdkM3VkV3gzNFZKWEVPaURhZzBwbUNKbWJBXzFiWXVEUzJmZFFqYV9oZVFoN0tTTzBtODhXclo2VGRVX213bU9jOVhNbk5ycWc?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2883,16 +2863,6 @@
       "score": 0
     },
     {
-      "id": "us_514e03c5c762",
-      "date": "2026-05-09",
-      "title": "Palantir Tech (PLTR): 10 Best High Volume Stocks to Invest In According to Hedge Funds - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZF9ZMFRCamJkWERWWlMySDRxbWNWaFFtMkxWWVU3U0x0cExLMTBZMHRmcjU0TURObi1LUEpSWUZwV25KZ2ZPemMxQjhRY0VqU2RULVQzbW5tN044SDkyZE96WXd5OTVqNExJeDZUeUNpNENEanFkd3NUVTB1V05Ya25kamF6TXJFUk1kbVBvZnFWaWVzTEE?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_6a64f093988c",
       "date": "2026-05-08",
       "title": "Weekly Market Update: Stocks Gain 2.17% as Technology Rises and Energy Falls - Morningstar",
@@ -2923,10 +2893,20 @@
       "score": 0
     },
     {
-      "id": "us_bb451525e82a",
+      "id": "us_04fba7e7129b",
+      "date": "2026-05-08",
+      "title": "Tech Stocks Pushed The S&P 500 And Nasdaq To New Highs - Finimize",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVVFRZHNFd1I4dmthd2xOX0hWUVNUOGRwNjV3bWMybHd5ODRuNUladl93Xy1XYUpJZlkxV2M2bm9RZGQ1WTV1WVk0U3lqeVN6b0QxZDdLU2VEdnJZYVJSUHZmUDBQSy1LNXV5M2hRV3pqcEQ5bUdFdS1lWmtrQzFLRWRIWWs3UjVuZFE?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_514e03c5c762",
       "date": "2026-05-09",
-      "title": "Is SoFi Tech (SOFI) One of the Best High Volume Stocks According to Hedge Funds? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnh5Sjd4aFVyMWdKX0daUXF3cUVrT1RsNnN3VUpqZ1lEMnh5cThjYklWemF5NDNkRC05ZHA1TDFxYWRYTjQtQjRRV2ZCY2kxSEQ1ajlyNWQ3QzZLQVh2bE5EXzV1OXYtaTBVMjBHekphYVdsRW1qVGxBZkd2TFBKQkFqdjhJdXRUc1lIMnZva3RJUQ?oc=5",
+      "title": "Palantir Tech (PLTR): 10 Best High Volume Stocks to Invest In According to Hedge Funds - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZF9ZMFRCamJkWERWWlMySDRxbWNWaFFtMkxWWVU3U0x0cExLMTBZMHRmcjU0TURObi1LUEpSWUZwV25KZ2ZPemMxQjhRY0VqU2RULVQzbW5tN044SDkyZE96WXd5OTVqNExJeDZUeUNpNENEanFkd3NUVTB1V05Ya25kamF6TXJFUk1kbVBvZnFWaWVzTEE?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2943,20 +2923,10 @@
       "score": 0
     },
     {
-      "id": "us_04fba7e7129b",
-      "date": "2026-05-08",
-      "title": "Tech Stocks Pushed The S&P 500 And Nasdaq To New Highs - Finimize",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVVFRZHNFd1I4dmthd2xOX0hWUVNUOGRwNjV3bWMybHd5ODRuNUladl93Xy1XYUpJZlkxV2M2bm9RZGQ1WTV1WVk0U3lqeVN6b0QxZDdLU2VEdnJZYVJSUHZmUDBQSy1LNXV5M2hRV3pqcEQ5bUdFdS1lWmtrQzFLRWRIWWs3UjVuZFE?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f7b5faf4b4cf",
-      "date": "2026-05-07",
-      "title": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTN4SWRQbVZpY1lwSnJjN3YxWmY5LU5Qck5ia2psWWRwcWplZ0RGTFo3ZmJrZDZ1S1RQZFF2NUcwOTh0NXA3NlM0a25ieHhPWHprdTBmbWxzY2FtdHRIMlpSY1pzcTU5ZkhfN0wtcF9UeDg4WnZVYTZPSkRtcDNZaUJ1djdPQ1RVRkVQeVFUTnJrMFJ5VXdj?oc=5",
+      "id": "us_bb451525e82a",
+      "date": "2026-05-09",
+      "title": "Is SoFi Tech (SOFI) One of the Best High Volume Stocks According to Hedge Funds? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnh5Sjd4aFVyMWdKX0daUXF3cUVrT1RsNnN3VUpqZ1lEMnh5cThjYklWemF5NDNkRC05ZHA1TDFxYWRYTjQtQjRRV2ZCY2kxSEQ1ajlyNWQ3QzZLQVh2bE5EXzV1OXYtaTBVMjBHekphYVdsRW1qVGxBZkd2TFBKQkFqdjhJdXRUc1lIMnZva3RJUQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3053,16 +3023,6 @@
       "score": 0
     },
     {
-      "id": "us_7811727df692",
-      "date": "2026-05-09",
-      "title": "Meta Platforms, Inc. $META Shares Purchased by Samalin Investment Counsel LLC - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS0pJUC1KMUpRLU1DQVFpT0tScENPOVh5MGVBLXR6WnBtT3kxQl9oOVhacDJqZjhkRlRmcUdxQWp4d2JsdUlFRks4bkY4UWRLODR0NnBFcXhEeC1WMTg1Rnh1dmxjWUpIZkg5VDFqOTFHTlFPeUJORnJQSjVtUWdWd2pNY1RPUzZFTjczaDI0YVdqM0RmMGs0azRZMzRWdUZULVd2b2p1Wi1JRmdnUUhycWE3RkpuTnFlaTVLVm8tUXNWYVR2QS0xSklGVU5uSnZD?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_25b8ff725088",
       "date": "2026-05-07",
       "title": "Tech stocks soar while energy stumbles: Today's market analysis - investingLive",
@@ -3093,6 +3053,26 @@
       "score": 0
     },
     {
+      "id": "us_7811727df692",
+      "date": "2026-05-09",
+      "title": "Meta Platforms, Inc. $META Shares Purchased by Samalin Investment Counsel LLC - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS0pJUC1KMUpRLU1DQVFpT0tScENPOVh5MGVBLXR6WnBtT3kxQl9oOVhacDJqZjhkRlRmcUdxQWp4d2JsdUlFRks4bkY4UWRLODR0NnBFcXhEeC1WMTg1Rnh1dmxjWUpIZkg5VDFqOTFHTlFPeUJORnJQSjVtUWdWd2pNY1RPUzZFTjczaDI0YVdqM0RmMGs0azRZMzRWdUZULVd2b2p1Wi1JRmdnUUhycWE3RkpuTnFlaTVLVm8tUXNWYVR2QS0xSklGVU5uSnZD?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_a1eea466912c",
+      "date": "2026-05-08",
+      "title": "Tech's K-shaped boom: stocks up, jobs down - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMEl1bEZGN3diOEJMTERpb1V6dXFRSFhPRGNBZjc4amliXzVUbGlSSlhHMVRKVWxxZy1Td3dtXy1Wd0pXbVU3cTVXLTc4aVlWZVNGa2JiTDQ5SzdWcElaTnhmYml2MkZZM3NMUGZDS09ZOWdnVkRoR1RGckRzLWR4UE1sdGM5V3haOUk5bGlUVlAwUHVlb296SzBOMlNPUC1rMFVBS1RORFMzRjNRQWZES01VZjd4TWQzREE?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_c83231745e08",
       "date": "2026-05-09",
       "title": "Meta Platforms, Inc. $META Shares Sold by Managed Asset Portfolios LLC - MarketBeat",
@@ -3107,16 +3087,6 @@
       "date": "2026-05-09",
       "title": "Meta Platforms, Inc. $META Shares Purchased by Certuity LLC - MarketBeat",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGlHTDVTenpWU1ctbkFlSDhtYTJaa0FPZWJVX2NfdTBoNHJwZHhFM2dxTHJHRzhISG00LWJ3MlpPVkFkNmJHVFZFRkxhNXl3SHR4U1h0YmE2Z0tLNDhRVkhlaUJiT1Mwb0VSTEZVSzR3RS1ndUhWOV9fNHh5VU5TZ3kwVFdXRC1xLXFULVl0dk9sNl9Pc0dlZ1FhUlE3emd0Qy1VMVBYdlh3bnZpUG5PZnlBNFAwSExG?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_a1eea466912c",
-      "date": "2026-05-08",
-      "title": "Tech's K-shaped boom: stocks up, jobs down - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMEl1bEZGN3diOEJMTERpb1V6dXFRSFhPRGNBZjc4amliXzVUbGlSSlhHMVRKVWxxZy1Td3dtXy1Wd0pXbVU3cTVXLTc4aVlWZVNGa2JiTDQ5SzdWcElaTnhmYml2MkZZM3NMUGZDS09ZOWdnVkRoR1RGckRzLWR4UE1sdGM5V3haOUk5bGlUVlAwUHVlb296SzBOMlNPUC1rMFVBS1RORFMzRjNRQWZES01VZjd4TWQzREE?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3313,20 +3283,30 @@
       "score": 0
     },
     {
-      "id": "us_bb78a6c6804e",
-      "date": "2026-05-09",
-      "title": "Amazon's AWS and Custom Silicon Growth Fuel Stock Rally and Record Highs - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSE5kSEdOSzBFSEVaeW1iRGJmMWNvOENGV25uMEFwNFNCTTZOSEpsWmI5T1VGUk5YSmVDSlFVbGNPTHVKaF9hRGpoSmRsR3NNT2VBX3V2Z0M4YTNJbzhkVUN2Z0hBeUlzNXBLTzFraHhZN3VLS2lfbFlGOEtzcmlsSGlrTVFrQ3dVa2VzWC1LR0Q4Q0x0Z1BPSmVFVFlUajg?oc=5",
+      "id": "us_ba809e43f632",
+      "date": "2026-05-07",
+      "title": "Why is everyone buying S&P 500 tech stock Micron? - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RbVFsbjduTU4xN3RySWpvZnFRREpROFVDVWlUTnZHZEo1dUZvYWx2dUhzUDdHR3lMMGlPckdoU00ydmV0dkNsbUlkcWVNZzRtRDNsYXFSb0hKSWFIWkJMc1N3TG9Pb3dSRmhzV3hNcks4ZWc1b3huNHo5b3Q5dFE?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_ba809e43f632",
+      "id": "us_9c7921729a03",
       "date": "2026-05-07",
-      "title": "Why is everyone buying S&P 500 tech stock Micron? - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RbVFsbjduTU4xN3RySWpvZnFRREpROFVDVWlUTnZHZEo1dUZvYWx2dUhzUDdHR3lMMGlPckdoU00ydmV0dkNsbUlkcWVNZzRtRDNsYXFSb0hKSWFIWkJMc1N3TG9Pb3dSRmhzV3hNcks4ZWc1b3huNHo5b3Q5dFE?oc=5",
+      "title": "Tech-led stealth rally pushes markets to record highs - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSVF5OTlVOUdkZEVSTzdRZWs4WHVtYTRkcXYwU1MyamdYQl9ZWjFuRWZOOTU1SDVjY0hDUTF2WllCamZjckp2NDJIcG9OZ0kwYVo5RkVxSW4zQkRxYUZMRWN1YXFtUU5ZVVhpenhpQ0w1VjBIeFBkZWhNTzZPdTdlM1hmSXA4SHdDMm0yenNYT1didllEMFlUV2FWT2h2THRhTHc?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_358312fa97e0",
+      "date": "2026-05-08",
+      "title": "US stocks: S&P 500, Nasdaq hit fresh peaks as tech stocks, jobs data lift sentiment - The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRVRBLXJKa014bzZpd3hPWS1Wa2VWZmdIZnFfNlh1T3VpT1hzYkw3SFhTSzM5V3NsempfLURCbzFEeTYzYUZ5MlRJNkVrSDV4RlllT0phM05LdGV5dFlIeE9Ua0JIOGMyRlpUblptQ2FLNG45dXpXRFFPRkNHclkzSUIwaVpKTDRmeHpEZHpMV0tHMkw3OENJLURUWk1UWmVybE1UUXUwbFF0UFQ1ZlFQVHJXVnRhVWRDQzVpRmsxLU8zQzNfRGcxZnpWU1d2SGNuVThpeUZWSFVfUDJIWTZMVFZTTHROV0RhYkE?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3353,10 +3333,10 @@
       "score": 0
     },
     {
-      "id": "us_52b39d006911",
+      "id": "us_bd729a8e67ea",
       "date": "2026-05-09",
-      "title": "Why U.S. Drillers Can't Solve the World's Oil Supply Crisis - Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaHgxMkJHUElsczF5NXp6ZnlpeUdHYU4wZFNLeFdZdEVGLVVWb0czUW42TEw1NTJ6aDVDcC1vNEc3TUxmaDJTN0NQV0pqcnlTLWI5dkp4RUs1U0lOQ0xmUmdFS1U1MjlPREVKYkV0eTg5N3REWlhhTEp0dFNuakpKaTd2YjgyZU5MZjRGd19hU2RrbW9PZ19DQlh6a2hrS3VUckhSMmxn0gGrAUFVX3lxTE9PZldyb2w2cmRZNnVsV0RlQldLdTBheXdqMW5yaHBJeGFrM1R3QXVKR1NPOXZOeFA1ZkFTY1M3RmEwVXNobW9YZEwweGZZTGZLX0UwZnFRWVM4ZjM0cVhkSE9rUjJzSGRTMnpYc0VkMVVONjc1YXJvbGU2aTZPYnFHc1VfenN1dTJnLWhKcjloUlB0NGdwTkprTGlYTzMwQXUxZGdwSGdnV1Z5Yw?oc=5",
+      "title": "Trump Could Tap Oil under U.S. Military Bases to Top Strategic Reserve - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLU9lVXVhX1ptY250RXlTUkZiWHV6enRLWUlmYnBHbkpCSGxFWm1XZldBcjB2eDljcnhJWkt5UC0wWkdZaS1oVGRWbjhRS2JVWEp3YzRXY29FbHRvR01JNTN5QWRPTi1UaTFkSGdwbm1WdDg0bF9nMEVnZHJKZlAyc1B5QTNaWURxel9RWUpTekVSNnpWQkJwODhIdFV1NWFXbllhd21YNE1xdDViOWU4TtIBtgFBVV95cUxNRmxXMVVfUUdQN2JlX1lwdm5EQkpLWjVpeEh4ZGFBS3I1MmlwS1lWb3RocU1QaGJvMHVHeDR2bkhQMVBxMkhYV1VTdnNjaTBtR2FiT3VXMXloeUtPY19FYnp6d3BJb2lSMmpLUzdoUko5YUl2MkRMOWlKZjBZdk01SmtMMVpzSGVVZ1gzTW5GdG5mZ2FTU0VaS0dlc1NYWmVSMUR0WmphXzV4OHZNTHRjWGNLT21Edw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3367,6 +3347,16 @@
       "date": "2026-05-07",
       "title": "Oil Prices Waver Amid Mixed Signals on Renewed U.S.-Iran Peace Talks - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1TFFlV1huSTRfMWhodUtRU1E5MzZ6SG1VVG5fOEdzT2NWVl9pcklPQkJVc05pQ1ZXN3pHVkE2MW4zR3dGcnRMNWl6YU9TOTl0T3hMS3lkZDNLRHgycy14MXRLVThJQkI2ME51UTA4R3hPYlNqYlE?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_5cb5575a8f25",
+      "date": "2026-05-10",
+      "title": "Crude Oil WTI Futures Chart - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QVUZmbEFLek45c2FDcW5MdnIwVUE5c2p4Q21nUVU4a0NOZzd2QTdxSGRQS3A1QTk2M1cwVFNfd0JVUFZYMnVBa01IeWJzNy1HZmR3cFJXZk1zdVNSRGJONkI3MEJ4RDQ3VjlocXhYdHc?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3403,16 +3393,6 @@
       "score": 0
     },
     {
-      "id": "us_5cb5575a8f25",
-      "date": "2026-05-09",
-      "title": "Crude Oil WTI Futures Chart - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QVUZmbEFLek45c2FDcW5MdnIwVUE5c2p4Q21nUVU4a0NOZzd2QTdxSGRQS3A1QTk2M1cwVFNfd0JVUFZYMnVBa01IeWJzNy1HZmR3cFJXZk1zdVNSRGJONkI3MEJ4RDQ3VjlocXhYdHc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_075a969e434f",
       "date": "2026-05-09",
       "title": "Iran-US conflict disrupts oil supply, Strait of Hormuz closed - Crypto Briefing",
@@ -3443,10 +3423,10 @@
       "score": 0
     },
     {
-      "id": "us_bd729a8e67ea",
+      "id": "us_52b39d006911",
       "date": "2026-05-09",
-      "title": "Trump Could Tap Oil under U.S. Military Bases to Top Strategic Reserve - Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLU9lVXVhX1ptY250RXlTUkZiWHV6enRLWUlmYnBHbkpCSGxFWm1XZldBcjB2eDljcnhJWkt5UC0wWkdZaS1oVGRWbjhRS2JVWEp3YzRXY29FbHRvR01JNTN5QWRPTi1UaTFkSGdwbm1WdDg0bF9nMEVnZHJKZlAyc1B5QTNaWURxel9RWUpTekVSNnpWQkJwODhIdFV1NWFXbllhd21YNE1xdDViOWU4TtIBtgFBVV95cUxNRmxXMVVfUUdQN2JlX1lwdm5EQkpLWjVpeEh4ZGFBS3I1MmlwS1lWb3RocU1QaGJvMHVHeDR2bkhQMVBxMkhYV1VTdnNjaTBtR2FiT3VXMXloeUtPY19FYnp6d3BJb2lSMmpLUzdoUko5YUl2MkRMOWlKZjBZdk01SmtMMVpzSGVVZ1gzTW5GdG5mZ2FTU0VaS0dlc1NYWmVSMUR0WmphXzV4OHZNTHRjWGNLT21Edw?oc=5",
+      "title": "Why U.S. Drillers Can't Solve the World's Oil Supply Crisis - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaHgxMkJHUElsczF5NXp6ZnlpeUdHYU4wZFNLeFdZdEVGLVVWb0czUW42TEw1NTJ6aDVDcC1vNEc3TUxmaDJTN0NQV0pqcnlTLWI5dkp4RUs1U0lOQ0xmUmdFS1U1MjlPREVKYkV0eTg5N3REWlhhTEp0dFNuakpKaTd2YjgyZU5MZjRGd19hU2RrbW9PZ19DQlh6a2hrS3VUckhSMmxn0gGrAUFVX3lxTE9PZldyb2w2cmRZNnVsV0RlQldLdTBheXdqMW5yaHBJeGFrM1R3QXVKR1NPOXZOeFA1ZkFTY1M3RmEwVXNobW9YZEwweGZZTGZLX0UwZnFRWVM4ZjM0cVhkSE9rUjJzSGRTMnpYc0VkMVVONjc1YXJvbGU2aTZPYnFHc1VfenN1dTJnLWhKcjloUlB0NGdwTkprTGlYTzMwQXUxZGdwSGdnV1Z5Yw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3623,16 +3603,6 @@
       "score": 0
     },
     {
-      "id": "us_e49d123a42a0",
-      "date": "2026-05-09",
-      "title": "Gulf Conflict Sends Shockwaves Through Olive Oil Supply Chain - Olive Oil Times",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYk1LeXhxRmRLQUFqNXRqSjBuVFpxMXBxdG45QnpoOEJGc0tRZXFRUzJrc1hTX05VVkhFUzc5VUdwX2hSNDQyMXgtX3B3R1g5VUFjbXMwR1hkemZVTHFReW9VUXJXYzIwSlpBemdqaFJWVzV1cmlzeDdQNWJrYlpEbjBUek9rWEZZelB0dUtINTlVbUdkY1p3Rk1yQlBJemdDcHVUTTZRcw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_66d0afdd4762",
       "date": "2026-05-07",
       "title": "US energy market commentary, April - Marex",
@@ -3643,10 +3613,10 @@
       "score": 0
     },
     {
-      "id": "us_5521401ac5f5",
+      "id": "us_e49d123a42a0",
       "date": "2026-05-09",
-      "title": "AEC Urges African Producers To Remain In OPEC As Alliance Continues To Support Energy Stability – OpEd - Eurasia Review",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZVRNM1ZqN1J6THNxdnAwMjRMRUktVmtUbkpPQXNKRUNOTmt2aV9ZT0Z2UjNXWks4ZzRMRGxhRkE4UzVURWVpQnIzcXJkT2VmZWZPV0NFUmhMQlZiN3pLVWJqYzlSVTU4UzVDdFRFNHZObkNMbjRRZ0IzOEpKUkEzU2NHbnhSdWdGNG1mdnUyQk9zYl9FakUwdmZKT3hZcUtCYmtubGd5d3dBZWM5QngwM2lhZlZPN0MybFpMZXZzV0lNWnVOTWpmNVR5SzdTa0hreDNEUlg3SQ?oc=5",
+      "title": "Gulf Conflict Sends Shockwaves Through Olive Oil Supply Chain - Olive Oil Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYk1LeXhxRmRLQUFqNXRqSjBuVFpxMXBxdG45QnpoOEJGc0tRZXFRUzJrc1hTX05VVkhFUzc5VUdwX2hSNDQyMXgtX3B3R1g5VUFjbXMwR1hkemZVTHFReW9VUXJXYzIwSlpBemdqaFJWVzV1cmlzeDdQNWJrYlpEbjBUek9rWEZZelB0dUtINTlVbUdkY1p3Rk1yQlBJemdDcHVUTTZRcw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3693,6 +3663,16 @@
       "score": 0
     },
     {
+      "id": "us_88a171977987",
+      "date": "2026-05-08",
+      "title": "Why the UAE Left OPEC - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Hc0g1LXdoWEhuMWIwaGtFZkFfTWxSUl9BeGQ2RmF1aGZuVWtLQVY4TW5UazBncnllSUwydlNieFdOc0xEZGlvOUpyRDdHMHhpQ2Q5aWZWaHVxb2UwZ3Y3ekI2Ukk3OThrVl8zbHhxR0QxamRCeHhGSNIBfkFVX3lxTE01Vzg2TkhfcG1FQXR1MFVkRWYtR2U4SU5rdTU5Mkg1UGc0TGo4elBaZ3pseUgxQzdSbmE5a0RVLUVkdEdkaEJJMENxbGl3SlhWZ1dRV1ZVSXRPMHg4ZHozWUhzTGdXc1F6Q2FYdHktQ003cnotSWRub1p1c1RqQQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_a6cc35b52c2e",
       "date": "2026-05-06",
       "title": "Crude Oil, Silver Price Outlook: WTI Slides to 91, Silver Surges Above 76 - FOREX.com",
@@ -3707,6 +3687,16 @@
       "date": "2026-05-07",
       "title": "Why a peace deal with Iran won't save the economy from energy-market chaos this summer - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPckJQVjdMYXkySnJyLXhKd2NqWm5mejBTUzVJcVNPOTRNdXVsMG9JbURfbUVRNEMtNGpkTjY1ZFNFY0c4amY5WjRvQmxsTzZsSTRFalJNWGE5aWxLeDMwemRYZFNRYVBiczYwN2JKMUwzWnBFVmYxME5ETWFFY0xHSTcwRTJaY3VSMUNQZDduRXFRN2k5QnI4Uw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_5521401ac5f5",
+      "date": "2026-05-09",
+      "title": "AEC Urges African Producers To Remain In OPEC As Alliance Continues To Support Energy Stability – OpEd - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZVRNM1ZqN1J6THNxdnAwMjRMRUktVmtUbkpPQXNKRUNOTmt2aV9ZT0Z2UjNXWks4ZzRMRGxhRkE4UzVURWVpQnIzcXJkT2VmZWZPV0NFUmhMQlZiN3pLVWJqYzlSVTU4UzVDdFRFNHZObkNMbjRRZ0IzOEpKUkEzU2NHbnhSdWdGNG1mdnUyQk9zYl9FakUwdmZKT3hZcUtCYmtubGd5d3dBZWM5QngwM2lhZlZPN0MybFpMZXZzV0lNWnVOTWpmNVR5SzdTa0hreDNEUlg3SQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3753,16 +3743,6 @@
       "score": 0
     },
     {
-      "id": "us_88a171977987",
-      "date": "2026-05-08",
-      "title": "Why the UAE Left OPEC - Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Hc0g1LXdoWEhuMWIwaGtFZkFfTWxSUl9BeGQ2RmF1aGZuVWtLQVY4TW5UazBncnllSUwydlNieFdOc0xEZGlvOUpyRDdHMHhpQ2Q5aWZWaHVxb2UwZ3Y3ekI2Ukk3OThrVl8zbHhxR0QxamRCeHhGSNIBfkFVX3lxTE01Vzg2TkhfcG1FQXR1MFVkRWYtR2U4SU5rdTU5Mkg1UGc0TGo4elBaZ3pseUgxQzdSbmE5a0RVLUVkdEdkaEJJMENxbGl3SlhWZ1dRV1ZVSXRPMHg4ZHozWUhzTGdXc1F6Q2FYdHktQ003cnotSWRub1p1c1RqQQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_b7f9f26591b7",
       "date": "2026-05-08",
       "title": "A large oil-shipping terminal will be built in the deepwater Gulf of Mexico with funding from Japan - Fortune",
@@ -3797,16 +3777,6 @@
       "date": "2026-05-07",
       "title": "AAA Fuel Prices - AAA Gas Prices",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQkJQSW9lcVhXcDlrZzIwcjVUeUxaUUQ5TjdWT1pmTFhwUkd4STlDS0NyR1JrdFcwZ0lxX1FITklUamRJQVkxa213a2t6V1B0NGhkaURSdnFiaE91S1pBSkFFcXNfeFFYUFpleWVnM0I4Wmg4MjhaWHJkSUgyTERFYmFjeXA2dGZ3NUxF?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_b30491359bf4",
-      "date": "2026-05-07",
-      "title": "Gas prices keep rising, but do big oil companies plan to drill more? Not so far - NPR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRmFBWHB6WVRCZTdHOVdPOHdQSlRYUHIxMFAtcE9TcmFtMkR3aC1WY0F4c0JMdm1aQ0hBanFIQmtKSjRpTUljMDBmLXN5aTl1SmZ4bzdPejlqdXdoVDlILTVRanhic0JJMTIyQXF2RmFnWTc4NF9YMXlvX2liV3NUWlItVVZqZzZXSDdhV3puMWE?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3893,16 +3863,6 @@
       "score": 0
     },
     {
-      "id": "us_0beebb29deb8",
-      "date": "2026-05-09",
-      "title": "Why OPEC’s Oil Revenue Fell for the Third Consecutive Year - نورنیوز",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDRGc0ZFSkdjVkVmV2xfNGJuU3FIb1ZzaWhjTjlmSzZULWRmUU1XT1FjaHBITkd4SnRNNjlPRTFrdmhDVFVaQ0N2cWh5T3AwaEI0RjNyV3BYeWU3cS1MSi0ybmF6bEptU1E1b3lWQWZhb1FpaldjVFlvYnFsN1VuWTdWdTdaZVRiMGhjek9TTFVrSEttQzdjWmN5QjJPdU9COWdr?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_b2138a9f775c",
       "date": "2026-05-07",
       "title": "Exclusive: Hungry to sell, UAE slips hidden oil tankers through Strait of Hormuz - Reuters",
@@ -3913,20 +3873,30 @@
       "score": 0
     },
     {
-      "id": "us_ba6cee8693f3",
+      "id": "us_d49a11df916d",
       "date": "2026-05-08",
-      "title": "What do rising oil prices mean for you? - MoneyWeek",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNamUyYzF1X1lidk9rUVUtUXFHLTlpSmlhS1o5UUxMamtSRUY3b0h1U1ZQdnBud0k1TG1RZlVjVFF0TGhQaWpmR3RfUjVVdGw0YVRtNDBfY1J0bVNiRkx0SVREc3JSc1Z6UDN5ZEZaRUNIeXY4Z0lKNE5NNjBFczNWM0x0cUhzbTBZbUE?oc=5",
+      "title": "Crude Oil Weekly Price Analysis – Oil Continues to Search for Stability - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX1o5RTJVd2pzNXdZdlo3WHpVOXoxOWh6ZExFTGtoZy1DUEJfNmo1LWhFWXdQZllodmtMcDFPUDlLTWxJckpUTTBBZmx0aE5IVnhPbGJ6RGRvd2xEd3BLQmlSRnBhX0xTR3cwZ1p1RGJqbHlVYUFEcmFncHFJZENFeXJYczM0VE1Tbks2U3lxQ19IeHZlVW9oMGIyNTFrUEJleFE1dzNDQ1ZtV0xNc1R1RWgyZTlHczRJejJ0Tw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_d49a11df916d",
-      "date": "2026-05-08",
-      "title": "Crude Oil Weekly Price Analysis – Oil Continues to Search for Stability - FXEmpire",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX1o5RTJVd2pzNXdZdlo3WHpVOXoxOWh6ZExFTGtoZy1DUEJfNmo1LWhFWXdQZllodmtMcDFPUDlLTWxJckpUTTBBZmx0aE5IVnhPbGJ6RGRvd2xEd3BLQmlSRnBhX0xTR3cwZ1p1RGJqbHlVYUFEcmFncHFJZENFeXJYczM0VE1Tbks2U3lxQ19IeHZlVW9oMGIyNTFrUEJleFE1dzNDQ1ZtV0xNc1R1RWgyZTlHczRJejJ0Tw?oc=5",
+      "id": "us_0beebb29deb8",
+      "date": "2026-05-09",
+      "title": "Why OPEC’s Oil Revenue Fell for the Third Consecutive Year - نورنیوز",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDRGc0ZFSkdjVkVmV2xfNGJuU3FIb1ZzaWhjTjlmSzZULWRmUU1XT1FjaHBITkd4SnRNNjlPRTFrdmhDVFVaQ0N2cWh5T3AwaEI0RjNyV3BYeWU3cS1MSi0ybmF6bEptU1E1b3lWQWZhb1FpaldjVFlvYnFsN1VuWTdWdTdaZVRiMGhjek9TTFVrSEttQzdjWmN5QjJPdU9COWdr?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_b30491359bf4",
+      "date": "2026-05-07",
+      "title": "Gas prices keep rising, but do big oil companies plan to drill more? Not so far - NPR",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRmFBWHB6WVRCZTdHOVdPOHdQSlRYUHIxMFAtcE9TcmFtMkR3aC1WY0F4c0JMdm1aQ0hBanFIQmtKSjRpTUljMDBmLXN5aTl1SmZ4bzdPejlqdXdoVDlILTVRanhic0JJMTIyQXF2RmFnWTc4NF9YMXlvX2liV3NUWlItVVZqZzZXSDdhV3puMWE?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3953,6 +3923,16 @@
       "score": 0
     },
     {
+      "id": "us_d5e923ac6a32",
+      "date": "2026-05-07",
+      "title": "Crude Oil Price Analysis – Oil Drifts Lower on Peace Hopes - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNckZhZ2VYVVlzUGwtbkFCbmM5R0I1UTdhdnlaZnFrYTN4SzB2Uk1QeGxMZk5Jai1BQ05yek5wMUc0OEF0UG1Dbm5KaDRIMG42Y0dkaXoyc25kMko3LWxkdHdUNm55NnB1d1cwdHFvRGF6bnAwbmNPTzFmWHlxTjA1c25ENkZUdUhXYUNBRjE0S2tRR0Z6QjlvQkQxc2k2eTdCYlVaMmJEalNFTHM?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_d7efb2ad2b74",
       "date": "2026-05-07",
       "title": "Santa Barbara Gas Prices Spike as Iran Conflict Continues - The Santa Barbara Independent",
@@ -3967,26 +3947,6 @@
       "date": "2026-05-09",
       "title": "UAE exits OPEC after 59 years, escalating tensions with Saudi Arabia over oil production - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03ZkswajlLWVgyZFFfWklUM3VSSlBha0Jqa2FIalpPd2hPbGtmclEwNlBiWkhNLVR5M1Y0dTV5RXNtWFo1dlk1ZlROQmhGbFRDZkwxeWd0c1lmRWJaZV9qWU1LSE5hYWwyemJhNi11NDBjcHZMVlhV?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_d5e923ac6a32",
-      "date": "2026-05-07",
-      "title": "Crude Oil Price Analysis – Oil Drifts Lower on Peace Hopes - FXEmpire",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNckZhZ2VYVVlzUGwtbkFCbmM5R0I1UTdhdnlaZnFrYTN4SzB2Uk1QeGxMZk5Jai1BQ05yek5wMUc0OEF0UG1Dbm5KaDRIMG42Y0dkaXoyc25kMko3LWxkdHdUNm55NnB1d1cwdHFvRGF6bnAwbmNPTzFmWHlxTjA1c25ENkZUdUhXYUNBRjE0S2tRR0Z6QjlvQkQxc2k2eTdCYlVaMmJEalNFTHM?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f0d5c43204d6",
-      "date": "2026-05-07",
-      "title": "Justice Dept. investigating trades in oil futures and prediction markets ahead of major Iran war news - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQzE4VWJJTlVUZl9XRmd4b0JaWHNlQXdseVJMOHRjTDVhVnhOUkZtek5fRWZROFgtSGtEZlpFYUpfbmN4WHhjYUZVdU9OdFJXdUxNMlhCYU5Tbno0YWVLTDI3c0xWbWJ0RHJISnBNUEF3NEhHbWR5NXM3cklPeXNEc3BndFRlY0h3MXh6Rk1RZFVDZDZtbTJkSTR3?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -4017,6 +3977,16 @@
       "date": "2026-05-08",
       "title": "Crude Oil Prices Edge Higher on Heightened Middle East Tensions - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0FSZU5lOTd6UG5lMFN5SGdJZEd5YXNXYlI4VjlTZEtveFl6eDA2LUQ1RjJIV3pocW9PU2treGdtM1JxNjJ6MF9QVUppMm50WHMwdWxyaTdRdUFQUkY3Y2V3NGdzNHgyNVp6M2c5b2NZc3FCWU5CZnBKakFBb0E0Q1lodlFURkZsSjI0WWFQX0YwQnY5U1ZPUQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_f0d5c43204d6",
+      "date": "2026-05-07",
+      "title": "Justice Dept. investigating trades in oil futures and prediction markets ahead of major Iran war news - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQzE4VWJJTlVUZl9XRmd4b0JaWHNlQXdseVJMOHRjTDVhVnhOUkZtek5fRWZROFgtSGtEZlpFYUpfbmN4WHhjYUZVdU9OdFJXdUxNMlhCYU5Tbno0YWVLTDI3c0xWbWJ0RHJISnBNUEF3NEhHbWR5NXM3cklPeXNEc3BndFRlY0h3MXh6Rk1RZFVDZDZtbTJkSTR3?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -4093,30 +4063,20 @@
       "score": 0
     },
     {
-      "id": "us_a08cdf7569ef",
-      "date": "2026-05-09",
-      "title": "Crude Oil Crisis Becomes Long-Term. “Shovel Sellers” Oil Services Industry Enters Strongest Cycle in 20 Years. How to Position in U.S. Oil Services Sector? - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWjh5bEVwS0tNSTlNR19YdVBGUjNROUxpNXlsa2Zpd2ZDR2h2ZjVFMFh3UzEyUHJ5ME5OSFJPM05WdGsya2VvWm80dndnWnVBUTIxNWFzTVNxY1dZcUVlbUNIN0xNelRLTXBic3p4SEpqUi1PdWpRU2wxS2dmZ0NrdTkxZGZtNmozMjl0ZENKajZTTjE1a2xzMUU0dUs4b3U5dVdnSEh4M05rYkJvQVNQLQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_327e6d9cd165",
-      "date": "2026-05-10",
-      "title": "Strait of Hormuz Oil Blockade Driving $100 Crude Oil in 2026 - discoveryalert.com.au",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONjA3UnNoT0R5WEpTRkpXME5JbzR6RGdkbjhaTnZ5Vk9sV1FQd1dnLVEzSE5lVkZtVVFuMjlrb3FKQmVHYmJWRkh0M2dRWkVfMUdzLUtpZ3p5NTZRQWVmeVlYU3otMGx2Znhaa21LYXh4cFhoUHJucU5PcDQxM2hTT3U2M3U?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_0db3084cd403",
       "date": "2026-05-08",
       "title": "WTI Crude Oil: Elliott Wave Analysis and Forecast for 08.05.26–15.05.26 - LiteFinance",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPck1sX1hWbXhCdWExZ1I0R09KMGFtb3RrSzU2YXZPTnpxQkhOdURBQmZ3UFVOY0xURmpseXVsSFJhR0IwMlhEcWhwb0FOSDBWSnJCM0dhVnFJMlFhbm8weEIxcVFOalZkZVlHaW8yWDBfMFUzU21ZbXZIdEM2eEVmSGt6cjRoMTEweFJ6STRURUhJalNvYnBuT0xRN0xtNUxEZVlfS0ljTFpydTlLM01Rb0toMzl5eldaNDcxN3RxbjRDeFl2R2Fkblo2dUlIQTNheVRNekNla215aENULTlncUlR?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_a08cdf7569ef",
+      "date": "2026-05-09",
+      "title": "Crude Oil Crisis Becomes Long-Term. “Shovel Sellers” Oil Services Industry Enters Strongest Cycle in 20 Years. How to Position in U.S. Oil Services Sector? - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWjh5bEVwS0tNSTlNR19YdVBGUjNROUxpNXlsa2Zpd2ZDR2h2ZjVFMFh3UzEyUHJ5ME5OSFJPM05WdGsya2VvWm80dndnWnVBUTIxNWFzTVNxY1dZcUVlbUNIN0xNelRLTXBic3p4SEpqUi1PdWpRU2wxS2dmZ0NrdTkxZGZtNmozMjl0ZENKajZTTjE1a2xzMUU0dUs4b3U5dVdnSEh4M05rYkJvQVNQLQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -4133,10 +4093,10 @@
       "score": 0
     },
     {
-      "id": "us_bcaaa9eb9c1e",
-      "date": "2026-05-08",
-      "title": "Oil News: Crude Oil Futures Hold 50-Day MA as Iran Peace Talks Hang in Balance - FXEmpire",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVmRwVW5vX3VrLXJ4OXZhaHJOMVRaVWZNYWJ5OXhOZ1k0ZzV4a3RURHFBdElXX0NteWVqQ0MzcF9aN3p6c3B0SEZLbTRkNHFQUDAwN2dfQm9QMlQ5a3lwTDhXZ0x4a09acWJJMkxJYWRpUWZHd0xnZlBBMzU1QzBYTGkwMU9yTlpybFdGMjI0cjVMang0ZmIyWXpEcDVOVk82ZnVPYy1zaS16ZDh0cms1ZEhDRkUzaWJXS3I0REhDQzUwWEdnYkMxcHV1ckpoNXVKaUE?oc=5",
+      "id": "us_327e6d9cd165",
+      "date": "2026-05-10",
+      "title": "Strait of Hormuz Oil Blockade Driving $100 Crude Oil in 2026 - discoveryalert.com.au",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONjA3UnNoT0R5WEpTRkpXME5JbzR6RGdkbjhaTnZ5Vk9sV1FQd1dnLVEzSE5lVkZtVVFuMjlrb3FKQmVHYmJWRkh0M2dRWkVfMUdzLUtpZ3p5NTZRQWVmeVlYU3otMGx2Znhaa21LYXh4cFhoUHJucU5PcDQxM2hTT3U2M3U?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -4163,6 +4123,16 @@
       "score": 0
     },
     {
+      "id": "us_bcaaa9eb9c1e",
+      "date": "2026-05-08",
+      "title": "Oil News: Crude Oil Futures Hold 50-Day MA as Iran Peace Talks Hang in Balance - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVmRwVW5vX3VrLXJ4OXZhaHJOMVRaVWZNYWJ5OXhOZ1k0ZzV4a3RURHFBdElXX0NteWVqQ0MzcF9aN3p6c3B0SEZLbTRkNHFQUDAwN2dfQm9QMlQ5a3lwTDhXZ0x4a09acWJJMkxJYWRpUWZHd0xnZlBBMzU1QzBYTGkwMU9yTlpybFdGMjI0cjVMang0ZmIyWXpEcDVOVk82ZnVPYy1zaS16ZDh0cms1ZEhDRkUzaWJXS3I0REhDQzUwWEdnYkMxcHV1ckpoNXVKaUE?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_ff513f272edb",
       "date": "2026-05-08",
       "title": "Why are oil prices up today, and will Brent, US WTI crude futures continue to rise or fall in next few day - The Economic Times",
@@ -4177,16 +4147,6 @@
       "date": "2026-05-07",
       "title": "US stocks fall from their records as oil prices yo-yo - Coast Reporter",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUFU3WFF5T3pSNlRQR2JXa29pOEo0SlpmR3FHV3JjQ2c5UGFsbVVPT2hZTmowT1VkdTlzdGJEX0MxcWhoNUxYUzUtS1hObnNoNC1lR1N1eF91bUxBUGhPY2EzRXVfMWVIUFZBNjZGSXRVRkJDTlM0YXlMRkdTNERweVFLdTRaZF8yT2xRa0hhRlhyWDA1MWlUUjhZTVhTTDNPQ1E?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_40473fde5c67",
-      "date": "2026-05-09",
-      "title": "UAE exits OPEC after nearly 59 years, escalating tensions with Saudi Arabia over oil production - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGY040bXZETkVRLThieF9TQnNEVHd3V3RQV2VfTnFTM2dFaEw0NDR3SVJoTmtGN1pKYkNkbU8yV3ZoWnQxSEhTVlhOUGtjZFlUcHpUcHp3M3VKX3pBckdJT3pyam5fUWNaM0dtMHJB?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -4237,16 +4197,6 @@
       "date": "2026-05-08",
       "title": "India's Inflation Accelerates as High Energy Prices Start to Bite - Crude Oil Prices Today | OilPrice.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXJUTTJqU2FyVDZFdzVvVUQ1M3RHd3ZyZ3JKTlRlWHJzeHhicmxvZjdHLWYyblhYWC1Yci04ZF92NjZySVNOMDdyWEZBd2w4aHV0WGgzMko3d1NKZXI2cEN1ODVWZHkxZ1dHXzFlalJJQTVXR3g3RzgySE92c3RjNGEyVURMRTg5NFplZTNCNFhJeWNyUVBnTnFHRWlOTGdONmFtMjVva2s0VC1UNlZtcGhmdER4Z1ZBRmlTbtIBwgFBVV95cUxPNW9wLTdWcktLRzhiemNMMFM5UlpHSllfcG9NZXR1UHV3eU95bkEtNmlHVGY5dzhJR2ozQkhRQk5kMWFMdHU4azhsNlB1U0J2RXZwbU15RnExbnBxTS04Ul9qeUtpYWVFcV9vQU5ZaEJyQ2tWelhvNGxtN0JVWHh5RGxORngxQ042OVMxLUZoTHRtcXBoM29aNy1QUkw1TmlNbmVlaUZKT3dYN2NuM3lfUndrMzBZcVpfczFSUUlXS3BTUQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_43450ac26015",
-      "date": "2026-05-08",
-      "title": "UAE Exit Puts OPEC+ and Kazakhstan’s Oil Strategy to Test - The Astana Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMHF0REtKbzBNdDBsc2JYbDM3Tm1YLTdFMXgza2E2U3VyYWhaSjRZcHZGeHhFOTVVSFRNaXVqUDI5RXBoNWdGSHNlTVdWSE9EWGJOQ2VyVDE4Z3hSeWVtaW1kVXNONHpuOXhON1JtdUR1cW43ZE92OG93dm11cnZDSWc3dVNCWExuZkt3LUgwSlltQQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
