@@ -11,4 +11,5 @@ def get_dashboard(date: str | None = None):
     data = _read_data_file(d, "dashboard.json")
     if data:
         return data
-    return {"ok": False, "error": "PIPELINE_NOT_RUN", "message": "오늘 데이터를 준비 중입니다", "last_success_date": None}
+    from ._helpers import _read_mock
+    return _read_mock("dashboard.json")
