@@ -5,10 +5,10 @@
     {
       "date": "2026-05-08",
       "sector": "기타",
-      "news_score": 5.0,
+      "news_score": 0.0,
       "volume_score": 44.3,
       "trend_score": 4,
-      "total_score": 16.49,
+      "total_score": 14.49,
       "recommendation": true,
       "confidence": 0.5
     }
