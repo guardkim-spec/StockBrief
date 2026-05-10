@@ -60,7 +60,6 @@ jobs:
           PIPELINE_DATE:              ${{ github.event.inputs.date }}
           PIPELINE_DRY_RUN:           ${{ github.event.inputs.dry_run }}
           PIPELINE_FORCE:             ${{ github.event.inputs.force }}
-          SKIP_US_PRICE:              "true"
         run: python -m pipeline.orchestrator
 
       - name: Upload logs on failure
