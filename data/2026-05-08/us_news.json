@@ -3,924 +3,204 @@
   "date": "2026-05-08",
   "data": [
     {
-      "id": "us_f31abf2cc72d",
+      "id": "us_a26c75d53c8e",
       "date": "2026-05-09",
-      "title": "Stock Market Week Ahead: Dow Jones Breakout Watch - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGJ4LXZxcjdaYWI2c0VXZS1KY1RKbDlLMnpOeThNaWNBQ2F0YlJCVjhRQVlvN0haMDVMcXBrR0NuQm5JVVNPNUlFYWRSOUxfVHpwZVIyQ1cxczlVMEMyeGpoOXVvZ2Izc1BDMlFaWTNrRFM1SFV2TnhsQlhJU2FyWHUybE41VXZHT0toZVpJdnZjOGRIdU90emZWYUFScFY3ZUhSNHFJNElCdw?oc=5",
-      "source": "google_news",
-      "sector": "금융",
-      "sentiment": "positive",
-      "score": 6
-    },
-    {
-      "id": "us_2fe1dddc54c6",
-      "date": "2026-05-10",
-      "title": "S&P 500 Continues Rally in 2026: Historical Streaks, Investor Strategy, and Long-Term Returns - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGdrYXYtMlNHdEk1NzRQaHNjUEc2NVp0eGRvOGtzbGgyRGlVZ2JFN1hSdnNZRFMtTXlOeVZWZWpuYlVHRTlmdl9TUENsQzliNWE0aGJfc1VJU0ZHUEwtQ3NCYXBXejFSTEtZTzgyQnM0aHZyOTBNWUl5S1B4enJYakl6Ni1IVjIxYkt0bGh2c2trdHBsZ0lRV0QyN1RGNnVaSmszSDJhUFdIODdN?oc=5",
-      "source": "google_news",
-      "sector": "금융",
-      "sentiment": "positive",
-      "score": 8
-    },
-    {
-      "id": "us_59432bf80abd",
-      "date": "2026-05-08",
-      "title": "Nasdaq-100 futures reached new all-time high above 29,000. - CME Group",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd3FZUnhDWkVxakd4bEl3NFdtQ19UQUlJWVZVaXkwUm91bDZ6VVNCRV9vcEJDbDdwM19ZaElPb0w0eVlScmVQc1FuYkhMUDRsclJxcXBFejcwNVNWSG40V2tud1ZCdDJRS1Y0WTRINWo4eWdRYmJIOEo0c2ZKeTVSS0FGcnJDOVVvLUJxUFQyNlpnOXNaa3JwUENvelUzQ3RfalNtb0ZyWERraHhwa2lrNQ?oc=5",
-      "source": "google_news",
-      "sector": "IT/소프트웨어",
-      "sentiment": "positive",
-      "score": 9
-    },
-    {
-      "id": "us_7ccd3e5520cf",
-      "date": "2026-05-09",
-      "title": "RBC revamps S&P 500 target for the rest of 2026 - thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbDB4bTlkcWY3TE1CVlpBTl9TM1l0UWZiSXpBa2V0c255T1VtdlplY2JqUW5qZUdGaUg5R3ZZaEltLWhwMDl5cXJiNGFJNVF6QlFKYTJLZXJEZmxTYjJMNzMyc2FHQm5jVnFuV0pyNjFZWE1BcXNsMll2MkR1QXBWdVB3aFgxb1VjeHc?oc=5",
-      "source": "google_news",
-      "sector": "금융",
-      "sentiment": "neutral",
-      "score": 5
-    },
-    {
-      "id": "us_99406a58ecc1",
-      "date": "2026-05-06",
-      "title": "S&P 500 and Nasdaq notch records; AMD results spark AI stock rally - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3V5RlZkMXFBanpJNkJ0YVlKRkxYamlXOF9kbjl4RDJtZjctOTd2cHZucnI4ckdCbXZ3LUhCQjdnckU4SVZwVU9jeE54Zzk0dy03RGlBMFFLZVRreHdBemhuOFpnY2dIWVVCdTZva3JFWHViN2dlclF1TnYwSWZSMlp4RjFWZHZKa1cxanM2SG5xVHZzN0VxNG5sQUF0UENxbERpdGpKbXFzakVn?oc=5",
-      "source": "google_news",
-      "sector": "IT/소프트웨어",
-      "sentiment": "positive",
-      "score": 9
-    },
-    {
-      "id": "us_cda1a08facf0",
-      "date": "2026-05-09",
-      "title": "Wall Street Is Bullish on These 2 Asia ETFs. It’s Time to Party Like It’s the 1980s. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaU1IbHBuRG5STG9VZnpUWnBVaHZrY25NRVREVU8zcnBiWVpsLU9WZDhSTzVpWnFpTWw3eV91NlY3b09zazZ5TFo3enZMYWQ4MEp0dXAwTW0yT3dqaVczNE5JVHo0SlhNMHByb0V3anRhaDh5dDR1LTEzckxMQjVpY1A0bU53UjBWa2lqbHZURERtSDQwclU0ck1FZFRqQ2M?oc=5",
-      "source": "google_news",
-      "sector": "금융",
-      "sentiment": "positive",
-      "score": 9
-    },
-    {
-      "id": "us_0e384669fd0a",
-      "date": "2026-05-09",
-      "title": "S&P 500 Rally: 10 Stocks Drove 69% of Gains - techi.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsMHBhRmd0cm5mWHVXTUk0OV9QMVlSdE9rZ1VSZWVMYUlzRk9FZ2pTTkNpaTVvbmpzZVZHOGgwNTlBeXpXMDFUSFhYZXZiSnlFd0RLYTdaWldYNzZmZzBiYmg3dXhEOHlCR1hBdjRzeXJteGN6Zjl4dw?oc=5",
-      "source": "google_news",
-      "sector": "금융",
-      "sentiment": "positive",
-      "score": 7
-    },
-    {
-      "id": "us_8848cd9691ec",
-      "date": "2026-05-09",
-      "title": "Trending stocks this week as Wall Street pushes higher amid chip rally, strong jobs data - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcXJvcV9oemJ4Y1d2NTZiREVZUWtjdjdYMEtWUTJYVklxZmVTVGhtRVo1cTBLeTh3cVZPN2hfR0lPU21rNDlia3FpdmlTbVFOamptMlJsemxOMjBTR3JXLWhPTGJxOHUwNzBzU3ppa200bkRmOHRxS2ZMOFdaTmlQYUpnTnl3RUcyWmFvbGFRNi0wLXFjb2tTR3JFWEgzUTVNNUJQSXRzcmc5b1BQYmRpbTV1Q05OdHFOcFhmOE5YamNqRVE?oc=5",
+      "title": "POET peer LITE stock dips premarket despite earnings beat — retail only gets more bullish - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQR1c3UE51TEZDYTlfVFRVOXNwT2hWSDVhYnBtN1JLamZyZG1OQklXekhac1NpejFuY0d6bGtYT0lLa3g2RXhGMW5xVlVjOGw4cUVYSHNJcnVJcmg1azBYY2F5Q0IyMkVSZ2QyRkNMOUxfMjhJTF9NeXhDYUFxUFdMeklWT0tEWFBpTEhNc0I0UjVqN21LQXE1V1Vyd19UcndTVlNRVzNrd2xFeEZEV1VnMUhWU01fUHNYYkJ5aThPT0s3VjRqU2V2c2xkR291bC0wTThPaEhIZHkwYkZTT21pYklCT2xGZ0p0RjNrQl9OSC1uNlJUYTROMlJNRQ?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "positive",
-      "score": 8
-    },
-    {
-      "id": "us_46abfeaf7a48",
-      "date": "2026-05-09",
-      "title": "Wall Street pops the champagne; consumer sentiment hits a record low - Detroit Free Press",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWWFjRVNDMzVyYm9lNVVzb09UVXhINUdHNGNZdXMxelRkcDFnSzUyNVdZcHlwVVJycXVDZ3ZyQjExcmM2OGZrOS1zZ1J6UmhBNlphcF81MXpPeXlnLWFfNU03Qkg5WE1ZZWk5VmhkbFRjS1hYWE5SWnl2YjRORTZfTnNrbjFDZ1ZuOHBMdGNZSVlCUGgyREVHMGpnVnB2WmFWMWdINWRQRURURTl5Y3ROd2dPRk9nczhVUTc0S3g4NDZaVlRIcnZfYllPQQ?oc=5",
-      "source": "google_news",
-      "sector": "금융",
-      "sentiment": "negative",
-      "score": 6
-    },
-    {
-      "id": "us_44273d214f93",
-      "date": "2026-05-09",
-      "title": "S&P 500 rally depends on participation beyond semis and easing Hormuz risks - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPang4V2t2NHM2dVEzMGRKdEZWMXl4Yjd1WFJkMS1pQWF3V01IU19nTEJjR1hZYk1FOEw3cjI2dzRhaU45d29ya2Vha3FUcGRhT2pHeE93WlU4VGQyUS1WaDlfdkU2eVdQUkpWenoxVmxGVFBoaXpXbE9FQW83T2UtWlF5LWVqU0hObUVVZjlrMjlWaFhHZ3pGLVk1dW5IUzI1eC1FRGtUY2pjRzgzWngtcGo0c0tMOXdKSGVWY3hTMldwa1NXM1FaWm1nUQ?oc=5",
-      "source": "google_news",
-      "sector": "금융",
       "sentiment": "neutral",
       "score": 5
     },
     {
-      "id": "us_baaa9a2d0c2c",
-      "date": "2026-05-07",
-      "title": "Wall Street has decided the war is already over as stocks rally globally on peace talk progress - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IWW84TElmZk9tN2J5ZmtEM0dvdEtMNTdCUVM2OGZkSERScF8yVXdXUm9PaXhPTVBBcTNMM19GRElQTnNtLW5CdmM0Q19IMTdPNy1nZjRVVXJKRTdkbnNCbE9Ua3lJUGo0UTJhRzhsQWJ3MDZyZm5VSW9kNlU?oc=5",
-      "source": "google_news",
-      "sector": "금융",
-      "sentiment": "positive",
-      "score": 8
-    },
-    {
-      "id": "us_a6f2921ce8f2",
+      "id": "us_48eca3fe75ed",
       "date": "2026-05-08",
-      "title": "S&P 500 and Nasdaq notch records, boosted by AI and earnings optimism - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGVILXcwU3hObHYzalJvRDNUTDVJS0pXNnR6QjVtNXhtTTNSclRlejJYRjRiX2pJcmlOMGVBdzZvOUdzNWg1aV9GQVdWdzBOUUVEX3NaaGhTcHlyNEJEcFlVOHJGWnJWVlZNZHNnMC0wQ0ZPZmRxMTZYdGF4T1MwcDdLcUM4Q0xyNzJJRHVyUlJUT0lKM21leFU5dVc?oc=5",
-      "source": "google_news",
-      "sector": "IT/소프트웨어",
-      "sentiment": "positive",
-      "score": 9
-    },
-    {
-      "id": "us_3ba269454565",
-      "date": "2026-05-07",
-      "title": "Is Wall Street Bullish or Bearish on Salesforce Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSlpqT1NmbWM0STVyeC0xVjdyQVJVT2tRRUh3YlUtb2s2VnllZ1J6YVVmOGxFb2Jpejh6cXNkMi1ham53UXk0cW1Tb3JzYTB6aE4xcHhrU09GcW9rdmNvdDMzSnlxTUhET3hCZEV1aTVFVUlOMXdYcjB2eFJud3Uyd1BzVkhPbkJZQUY1NmQyOEVjYllFYkRRbERyNzRuV0V2OTdHR1V3?oc=5",
-      "source": "google_news",
-      "sector": "IT/소프트웨어",
-      "sentiment": "neutral",
-      "score": 5
-    },
-    {
-      "id": "us_f001d2a181b5",
-      "date": "2026-05-08",
-      "title": "Jobs Report, Chip-Stock Rally Power Stocks to New Records - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHFVNW1lamI5OE1IQ1A3ZVNJcFRqLVdsMkRLbmIyd05LbnIzZzBhcVZaZWJ1Si1DZUp5S2tmTVA2WmJyWndOX0pWTWNaeXRtSl9icThMdXhzQlpzOWlDX0VPT3NMZUlQTHNfM1dBZ1k4LU9DbERTUy1wbkc3cjl6R2ZLN3hpSXYxQTBxcDVNaTdZeVlkZmdTUldrbVdKRmVTOHc?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "positive",
-      "score": 9
-    },
-    {
-      "id": "us_806addd26b2b",
-      "date": "2026-05-09",
-      "title": "Why Meta’s Pullback Looks Bullish (NASDAQ:META) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50N3Z0VnpXWWpKQ2NiMjFJdTJ0M3NyVzN0bE42S0RDeGdXRmh2dTBTak9wRTVpOXQzOTgyZmJ4SEYyd1cyX3pnWkd1NnpwM3N1clNJd1VoTDhMRmQxd2p4NHJoWTBKRUxKYUU0bHB3VE1mLWZ1X2xR?oc=5",
-      "source": "google_news",
-      "sector": "IT/소프트웨어",
-      "sentiment": "positive",
-      "score": 7
-    },
-    {
-      "id": "us_01e23294b4ea",
-      "date": "2026-05-07",
-      "title": "The S&P 500 Rally Looks Broad: It Isn’t (SP500) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWGVnWkJOdkZLaWNicWVQRW5LRUZseW5OQmdEb3pMMm5vZTQ3Y1pENEJMbU1CLU0yUWo5Z3dUTGUwUDBMTDh6ODlYdXVWUVRzdk51N3dlRHpSbXNDLUJmQkdaa0pjODBqemxSbGdsTkxmQXQzV0VKaU1MaEJMNVhIUDNtcWZIRDNiYkE?oc=5",
-      "source": "google_news",
-      "sector": "금융",
-      "sentiment": "negative",
-      "score": 7
-    },
-    {
-      "id": "us_25cbe53f0fa0",
-      "date": "2026-05-09",
-      "title": "Affirm: Buy Now, Rally Later - Long Game Still Promising (NASDAQ:AFRM) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMS1kVERKc1JvY0cwVFhQdTZSbjhiZFAxZ1hLbnp1aUQ3VldnbUN0c0x5a2ZubVVDd0J6US1QWUN4OFNaLUx4U1FSa3NJYTBSQ3BrelRZSXZuV1RCSmY4Mi16MUNsZzFXNXNZZFJiWERPT1JjWEVMTzBtdGM0TXVnWVd3Uk44NnVhNUlBMGM0bjg4bDE1Yjl3aA?oc=5",
-      "source": "google_news",
-      "sector": "금융",
-      "sentiment": "positive",
-      "score": 8
-    },
-    {
-      "id": "us_5268e516de6c",
-      "date": "2026-05-08",
-      "title": "S&P 500, Nasdaq hit record highs on tech rally, strong jobs data - KITCO",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1N4NHpBZEhxbFVtQndvbEtUVTdpSXM1NnhaSXo4RV95VGpHRVVEeXhEb3p1bko2NWdQc3A5YkxMVlh0N1NCMk1aM0NaRmllM0EwblNCa0NWVTJyNjZEVVR6QlN5RVBLdmFUV0k5SVdwTmVMS0t6WkpNakstSTUwNU1RRk1JU1BOU0VfQ1h2VnJNeXFtcDBMbGJPaXRkbU1vOG90a2Zrcjh5clQ2Ymc?oc=5",
-      "source": "google_news",
-      "sector": "IT/소프트웨어",
-      "sentiment": "positive",
-      "score": 9
-    },
-    {
-      "id": "us_46a875daf847",
-      "date": "2026-05-06",
-      "title": "Is Wall Street Bullish or Bearish on Moderna Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQWJzQWllcjRyY1FuazM4TUR4UU0ycXR3Z2t5MG1URW13U1RsNzc2Q05NRFBGclRIWmtXbHl4dDNyanI4a3poVEhBMW1jeUhxTU00LVpTZGRUTXlEQjNPOXh4RVFVZllVZURCMi1RYnIwU2NzRElla3k4S0RaTk9YUjZVMTBIdHZ3WkljVWp3aG41dEh1ZmlDQ1dmZkg3cWtWM1E?oc=5",
-      "source": "google_news",
-      "sector": "바이오/헬스케어",
-      "sentiment": "neutral",
-      "score": 5
-    },
-    {
-      "id": "us_4c05a8c757e1",
-      "date": "2026-05-07",
-      "title": "Mapping the Market: S&P 500 may be gearing up for even more aggressive rally phase - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40eG1GemE3ZHVyQkQyTkFJYWpORTJaMlgzM2JiTmhmWU04UDFPdXVja3hGY2p6cnlidzNPaHZfVU42UFF2TndlZkV3TDhXZWUwZ0FvRmRmZU9oWVlhN1d4aGFRZW1rdEtjSUNXOFFaMUNBT1M3dlJVZmZSeEk?oc=5",
-      "source": "google_news",
-      "sector": "금융",
-      "sentiment": "positive",
-      "score": 9
-    },
-    {
-      "id": "us_22850c2f1840",
-      "date": "2026-05-06",
-      "title": "GE Vernova Stock Outlook: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZk01eGpINm5TSXJVbnU5MklZdVhQVU5WOVdyS1lqR3ZUNUdvMlVNZTRtLTJwak1JRHI4YXIycFhqOW9pNWxrV2JlcFM1Vl8tb1lqUkJpQ282R0RFMnhzWnNTVThReHdYRnFEQ3FDNjBqTTFJU0lBaW1NUEtXbjZpV21tRkcycTM0V201dF9yM19lOGdwZlpzN05n?oc=5",
-      "source": "google_news",
-      "sector": "에너지",
-      "sentiment": "neutral",
-      "score": 5
-    },
-    {
-      "id": "us_a6fdf4e2754d",
-      "date": "2026-05-06",
-      "title": "Medtronic Stock Outlook: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNamkzN24wUWd2d3E1aG4ySjQ5TW1ZUzdWMWFBOHZFSEQzZ0ZhWU1ZOWxhb1pxTnVxWFpvZGdvWklsYWVBRDdJRmI2ZzZtNmpiQW9sYWNNblQyNzlnUlJKSGJ3V0FVaGg1c1I3TnhOTkVjdGlFcHpPNkVBVVQtMnpuMHdKWHpNNTkyOWQ4dkJRMmN4M09XMi0xVEZvMHBGOEdTbGc?oc=5",
-      "source": "google_news",
-      "sector": "바이오/헬스케어",
-      "sentiment": "neutral",
-      "score": 5
-    },
-    {
-      "id": "us_d055acb8e293",
-      "date": "2026-05-08",
-      "title": "Is Wall Street Bullish or Bearish on PepsiCo Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUYyYzNsZ1c0eF9YYi1aV0haU0JWemE2M3hGTGxrOXJsTWlRc1p0MW10QmFlazYzN0lmRkRNOGJmM01LYXBGcEJZV0JRSkhpRWFKVF9TakR2OU5IX2tnc2E1bDEyR2llTkJIUFZBVzY3T3hkQjVuUFNwUkdJLTh0bElaZTRnc01ZanJjU214VmJYeEFzYTRvLVBLanlubld6NkE?oc=5",
+      "title": "Aritzia CEO Jen Wong Details U.S. Store Expansion and Revenue Growth - Retail TouchPoints",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeUhkS0UySkFobmV5VjIxeEU3VmVNYmZ6WWFObkcyQkt5WlVaZm5IYmhvTHRmenVjZDNuelRfNGEwZXl6eWpVLXN3YjVWbDRfYXZrY0VYRnI0NUNsWnI5Z1RHVjM0STc4Yno1Q0ZnM2hYbzJwaUU1MG1ra2NiWTBOeWYxNjZ2TXFnS1NRZHVJUG5CbWQ3ZzhBUlhlVEVTVExobkpzZElLMUlSSGU4R1ZNaTJ6aGc?oc=5",
       "source": "google_news",
       "sector": "소비재",
-      "sentiment": "neutral",
-      "score": 5
-    },
-    {
-      "id": "us_895f04dbf91c",
-      "date": "2026-05-08",
-      "title": "US stock market rally today: Why are the S&P 500, Dow Jones, and Nasdaq nearing record highs as NVIDIA and - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPSHFwU0t6MlFvY2JxdmZuR2RqNHdfYXdiNllnUGFqS1hjbmxjYU9BdWExUk9WVDdDM1VPTjBsbzlreHZyT3lGNm9uajlpamlpV0daa2RtNlJSOXpnWWI4cnY2XzdFemhBbEtPUy1ZZmE4TVpNeVR6NDMySHZsS0o3LS1jY2dKaDhSdkFjeV9mZ3RSZnI1R3BGYl9jMmZFekRoNlM5NUJ3cl95Z01TUXAzZEtlM1BCRFg5UHo1cjhrLXpNLXhCak1YV0RsZldrNjhxVmJieHFNUVF2Y1FBN1lVQkhHc3pQOTR0Z0RHREExM25UaXhreTNnMngyTkRxRjFDcHpmYjZ2Y3RaYVBmMTVXT1ZvZlEwMW1zVWpnTE9hWVEyai02SXhFc0REUGJiSmRSYnpFYTh0V25pVzV3QU83YjVHY1ZzVF81bEJnVmJSbWd4a195b1pfMXlyN2Z2b0NZT3YtQ2I5ejlKYmYxQnVrVXlFTmJOWTFmcjRTYtIBggNBVV95cUxQOUpTZVFscTRQRnpYT0FYWXJDN1A2SFZYSzFxbDRoNVhTelg4MURQQkxEVHo5cE45U2g1QXpDeU9uV1d5cXg2NVlGSTZ0YWtHRTY2UTRVMFJFcHBRTFpVRzlFdzFOS3N3dGpJRldLb0h5dG9ETHBhOFMzRHdRUzk4ZDlRbTVGVXhzVl9saTRXZ3Y4TjBLZnlLQ3p4N1dwRHFxZndhbHZnSW9ZQ3gzeWhYR2I2ZmRydk41am1DSFpWcWl1WEV4bW8ya2ZsYV9SVGxxeW9UTmt0cXpSNEVKUGxqcmhPWFpOb0tGMmV2RnZTdmNaOVR3SUp1dXA3R3YxNVI5TWlab1RKdTRIcVdZenhDcHhfLXRZclJJZzZncmRlelBXRno0eldnalM3ZENhR3hTbmRzb2FPbzZtSzdQLXJfcWVzREFJWWNyMDYtemgzeUZqMGJuM1YtTTFtSzBVdk4yOTJxMTc4Q0tORERmQVBUYW96TGpFUEc4UkwwU0hqb0I0UQ?oc=5",
-      "source": "google_news",
-      "sector": "IT/소프트웨어",
       "sentiment": "positive",
       "score": 8
     },
     {
-      "id": "us_bf149e7df5be",
-      "date": "2026-05-08",
-      "title": "Are Wall Street Analysts Bullish on General Mills Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNEFZQ1FraU5GYXNjaFJWT3JTYzdKb05sc3d2UTNiN2dYQTc3R2w1dFFsNE5IUzVURG52cVNrWGhVZVI1NHFiNWVMUVBtR2NlanM1ZlczeXRHV1kwQnI3Q011QUd5NXUzaG9RT1BERjA4U0VYTm8yTzNET0k4TExVaUY1b01HajBQQkZPaG1hY1JyOF9UY29hRkpxRUpBY0ZrNmpB?oc=5",
-      "source": "google_news",
-      "sector": "소비재",
-      "sentiment": "neutral",
-      "score": 5
-    },
-    {
-      "id": "us_a2992240dee5",
-      "date": "2026-05-09",
-      "title": "EchoStar Corp-A (NASDAQ:SATS) Shows Perfect Technical Rating and High-Quality Breakout Setup - ChartMill",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb2YxUUJjYTgyemF5RWxtOWtoNXVaTVl5aVI2dF9oSkgxNW82aGFuTE4xTWRxak9yd2JWT2FTYUxPTUphMldHNGhjS2VKU25aYlVpM09OaUlURUlzbDNPM0RXNU5fZExFcG5Va0lXYjNJU293aS13QVZhdGFGQ1RtSHB6bnQySTRGOXd0ejNaVm4zNUpMNzgwUU8tZlRTbHN2RU1KOGFkcFRXZGNseDkxS0hiYVZhaUxNdXo3cm9ULVVzaVlYcmhMd0ZhVFNoaWlaUXZOZHFGRng?oc=5",
-      "source": "google_news",
-      "sector": "통신/미디어",
-      "sentiment": "positive",
-      "score": 9
-    },
-    {
-      "id": "us_b9bc9fde701f",
-      "date": "2026-05-06",
-      "title": "Is It Worth Investing in Cisco (CSCO) Based on Wall Street's Bullish Views? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd19oRkhnRXdkekRQeGFfb2tjMm1yeVVIRTg4YTRINWNocU1yTUNQRHZSWk55V2NKTVVsZzB4TXJQdUZ6T1JscG14aGNaYnVWQXlZYmRwdjhPVUJvRnhxQ1VFTFdhS1JPQV9TRnZicUZtRlVzSTREeEdsSWRYbmFVZmhHRXAzaVF5bWhtZUNITVc4M2pBbXVGaEFqM3FIUQ?oc=5",
-      "source": "google_news",
-      "sector": "IT/소프트웨어",
-      "sentiment": "positive",
-      "score": 6
-    },
-    {
-      "id": "us_23ac1a9a1caf",
-      "date": "2026-05-06",
-      "title": "Is Wall Street Bullish or Bearish on Colgate-Palmolive Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN19hZEZ6Y2RMNzRpZ0syNlo4MXN4dV95bEhsTUdUbWhEVFZDaVIwVGlMMGpfaUhEWWx0dW1BamNnc3ltSjNUOXhJajVMcG1QaHRScjl3TUxBMUY3UV9KajFwcWhTMlpDNHF4UGF4YkpldE5BWktna2FLOGhMSWhqR1hkZEFTMVFGYlJjSVNFU09JTVI4QlQ3U3FGRFhiTUNPR0E?oc=5",
-      "source": "google_news",
-      "sector": "소비재",
-      "sentiment": "neutral",
-      "score": 5
-    },
-    {
-      "id": "us_af5af84ae695",
-      "date": "2026-05-08",
-      "title": "S&P 500 Snapshot: Index Flirts with 7,400 - Advisor Perspectives",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDIxLUlrV3RZQ0JiSElxbkxCSkRRMHYzbVE2VXItcFZBUkc1QmtwVVdoX2taZndMdV9EZnM3Q1BxSGR5MkZSSEVRSVJOenU1WGRCVENlNi1CU052OHJzRFZBWTQ5OWxFcndzZzJ5akNCV1g4ZVFGRW9Vc3UyXzFlMXBSR0tfZVYyT0NfYjVxTFN0SmZKcy1YVWJFdDc0MFMybUJWVQ?oc=5",
-      "source": "google_news",
-      "sector": "금융",
-      "sentiment": "positive",
-      "score": 6
-    },
-    {
-      "id": "us_00971e38f9df",
-      "date": "2026-05-08",
-      "title": "Construction Partners (NASDAQ:ROAD) Reports Bullish Q1 CY2026, Stock Soars - StockStory",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcjg4MHQwbmNXazZGN0xsV1pqM1YtbVBKQ2JsT2Q1aEdGUjJNcTdDV0RIYzRVV3R3NmxUVXlFWGZoYWxXVklpU3FYcWlWREd0OEUzaXc1WmRPLWdrT3pGeFhldU5tdXZzM3JjNUFENEdObmY4NmdObXJXWVJHQ1k0QWNUeGdiZUZIQkNjMmd6UlZfX2k2eDBXOVhVbVhxVENXTzRfQUV0eXBPV1pGUUo4SnZnU0VZbXZmLVBhbjVEMmpUZWx5UllfTQ?oc=5",
+      "id": "us_0bce012836dd",
+      "date": "2026-05-07",
+      "title": "News | Continental Realty expands national reach with acquisition of 14 retail properties - CoStar",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWGJobGNobHlVUk1MdE9Yc19xOUJKREQxTDQtdHFwdXFKV3RGSVZfbW1MN21QUWNGTDJDWW5VVDRGZ1BmVm55ZTBjN1Jha3pWVmV3TWxZemZ0cnR4bGtPX25NTkxwRDNySExRaklPUWN5bldXSDFralBfa0VjN3k2QjlaX3VSTzFnaE5UYnBCVjFrM2VUMlJNTXg0R2R2cFE3VExkanZGam5YNzZ6Rzlwa04wMDlGejJ5Q1VUYjdNZ0ZMQQ?oc=5",
       "source": "google_news",
       "sector": "부동산/건설",
       "sentiment": "positive",
+      "score": 7
+    },
+    {
+      "id": "us_87c535e75d10",
+      "date": "2026-05-07",
+      "title": "Kenvue beats first-quarter estimates amid pending acquisition by Kimberly-Clark - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNnVtbWJlemVVcTNncFM2dm83OVNodkxrMnhWTWVqY0F6ck5WRWtvRV81LVl5cWJSM0c1TEpiYUpDRlNVUHRCMkZBd0pYYnU3VDh6TUpZc2Z3WllRR1AycENScGM3N0VYWHZEdEt3ejc5OENmczMtbTFTa0tmUXpmbVFhRTNhZkxxRDlLMm9oYUs5N2RyYndFUGZUZmsyRkpmVFVLTGlLQktCa21DTUhZbHFjM053QXhPb0FLOExqZloxLXR0YWZHdk1ZRGozQXVQTFdVdndzS0dZVjN4Qlg4Zzg1T2tmQQ?oc=5",
+      "source": "google_news",
+      "sector": "소비재",
+      "sentiment": "positive",
+      "score": 7
+    },
+    {
+      "id": "us_e491895e7031",
+      "date": "2026-05-06",
+      "title": "CRC closes acquisition of 14-property retail portfolio spanning seven states - REJournals",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY01FQW8xODRkTmNwcHpCdDJYcHdQNXlsZVhmZTVlUTJIZlg2N0xpMDhXazFOd05uS1hKcXFKLW9PVUYtQzZNTjd2VFlDUWRjNXRQXy0zajR3VHNwM2hwMmU0cEs1NUFMb29WMTlHejRDN2NncVpueGZnT05YY2RqOUtTN041bjUxdXRyeV9EQW1OUERkZkhNcGk5VlFfa3pDcHc?oc=5",
+      "source": "google_news",
+      "sector": "부동산/건설",
+      "sentiment": "positive",
+      "score": 7
+    },
+    {
+      "id": "us_689d4ca89e8f",
+      "date": "2026-05-08",
+      "title": "Marketplace Events Acquires Consumer Travel Show Series - Trade Show News Network",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRHJuZFdfX1JScGVhVEVFN3pidVFxN2dNeERxUEdITXY2bEVwQzBRVFFLQV9qMGZGdWJxR3B2OGFpR1pqZkFiTHBHbnVYZElCOUlMMW1XSWxqOWFnR2MwV1M1bklXSVRrSlJWVjFodG4wTGVreUpRd2NQMXc0akQ1RjJMSE9TcmE5a2tMOUE1cmJzR2hpS0V6amh1dXoxci1HOVFIQnNTbnA1cjdMaTMyQ3dLNl9qT0VpSDlGQTEwWXoxek0?oc=5",
+      "source": "google_news",
+      "sector": "소비재",
+      "sentiment": "positive",
+      "score": 6
+    },
+    {
+      "id": "us_0c9e5c842804",
+      "date": "2026-05-06",
+      "title": "Carter's Q1 Earnings Beat Estimates, Retail Segment Sales Rise 12.8% - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONnp1YzRMcVZzWXZ6dTFMeGI3ekhHODFLSnotLTM2QTdyQ2t4SjVrZV8tQzVibG5JLXBaeTBlenpXUGEzdFQ4MFJhdklidkNjNWxhX2cxbFFnMnlYSWNOcjdpaWtyb29xQ09xeEhIOW1FWEJaUXp6c3BaQWM2ZWpENmNyN0pfQzJvQXVEU3kteUtMM1lKYzVKX1MxOWpLcWI3?oc=5",
+      "source": "google_news",
+      "sector": "소비재",
+      "sentiment": "positive",
       "score": 9
     },
     {
-      "id": "us_272cf6ae7881",
+      "id": "us_b669f8b3bf65",
+      "date": "2026-05-06",
+      "title": "POET Peer LITE Stock Dips Premarket Despite Earnings Beat — Retail Only Gets More Bullish - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPblRGTWFFY29Fa0p5UVRidW9RLW5lUUZ4Zmt2ZXpqQ0k2aHd4b29DWm9LaFUxUmFnRDhaZUd1UmR6WnZSeGdYa0gycDZpTzBZcWlOSjNDcGtFV2NONFNLaHI5WE9POXVxdHlxdW12bnRwazRwRTZrcmFxeVdnVjR4aHhfb1IyR0FrYVJxcFl2MEpOMFRTZW1tam1aX3hDeENzb2dyMUpPV0pNaE9mMW1feUNVMU1kREd0a3lEUmtjM1RiOXFxR19SYjZXM19kM1BzYU5rOG1JbTVldENpc0hRWUM1OHRMdw?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "us_8d3cfe46ccf6",
+      "date": "2026-05-06",
+      "title": "National retail real estate owner acquires Maryland mall - WBAL-TV",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOU2lCQ2RINFhwZVJWa2hCb3ZCOHdteVF2X0ZZTnFVdGktY05icWFES3d3ZjhUMTJZUVdrREdxTDlUa3JiODRmSXZmeVpqcThTY3pLTFFPZFdxRXhITGw4ZXNOWVkzaUhObTRHbEVoNEY3TWNfU3p6dzAtSQ?oc=5",
+      "source": "google_news",
+      "sector": "부동산/건설",
+      "sentiment": "positive",
+      "score": 7
+    },
+    {
+      "id": "us_d4ddf19438f0",
+      "date": "2026-05-06",
+      "title": "Reynolds Consumer Products stock rises 3% on earnings beat By Investing.com - Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSTdQTWdQZ21xRmRzWEUyNHlHZHd2aWFMWlhsTUtWeEtVZkNmY1J2LVF2ekpmYzdXbldxZ3ZtRU5iWE1oejR6NnMwem55MkpWajV0YjRMVktwUTFDUVhGekx1Yk45eXl5cXA4ZDc1czFXQzdjOHBvQmJrVnVOQ051c3FOS2VhemxSb1N2cS1EbngycVMzdjQwZVFHUkl0MEg0ZmpTWGpSYm10ZFltLUE?oc=5",
+      "source": "google_news",
+      "sector": "소비재",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "us_ab04a33c8a31",
+      "date": "2026-05-06",
+      "title": "Barclays completes acquisition of Best Egg - FStech",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSW94ZVllWTEwMW9rNURKWFpDaWNyeURtMFZoS3BrLVZrNVFwR1hhVm5Kb0hwQ2Eyc3pfcE1KSUxGd0lHaWtEVDkxeWhfMTdUbkRGM0ljekxwRDFTZDhpMXN0dmFnbmJzd29STkQ0ZzVpUlA0aHFYUEE1c2lmbWNGYQ?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 7
+    },
+    {
+      "id": "us_b7c81ea0119f",
       "date": "2026-05-07",
-      "title": "Halliburton Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUXMzRmhIY25mTFIySFAtNENSWEJaWkRRRUJkY0JjOTZ5a0lCd09HbXRPYnI5NTRCTzlNZktyM1dkeTVjbEhTbHJoTEhkSnFkQlhkcEptX0ZNUm8wRTNuLXRRcnJZSFJPUE11c1VqRzRwRGlkWlE0cHJLa0dVbnZGLU4zaTFEdHY2eGRWTnZ6dWFkLWtyd1J3ZjJZMjFNSTg5WlZVaw?oc=5",
+      "title": "Centrica Shares Slide Despite Severn Acquisition as Retail Outlook Disappoints - AskTraders",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajg0eU4xZ2tqRHNUZkhUUmhJR1Bya3l5Sk9sMG1TS09lUGdVbmpkQWVVQ0NyQzIxdHktMWs3RmVobE50OEVuRVc0NEJHX2hEWm54WE9fXzl6ZWNPck5CdS1aMkVXWWJKZHFZNlJqYmV6LVJvOXBqeExqWHpJVzM4YlN4S2U5WUZEYXVrdENYbUpsNVQ0UGlCem81YmpFU2t1elc4QjhsZUJmQTRQQ0tRTEg0dUR1UQ?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "에너지",
+      "sentiment": "negative",
+      "score": 8
     },
     {
-      "id": "us_23a2aca43bbb",
-      "date": "2026-05-08",
-      "title": "Is Wall Street Bullish or Bearish on Palo Alto Networks Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORjhIMkZGZElVaG5QUGQySVB5a3dRM2RsV3Y0dFJfUUxkZ1AySldodXNWcWtXWEFQSk52dE5uNHFfZkI1OHRNN0NfLThtZThhQmlINjd4VVVXOW9RUWhNNjFTSmNJZUhVcE8waW1sOFA0TUNJMTdaOGlGZVJyZnFlQ0ZvNWpQVGhDbnI5RmhocTBiUVRjSW5NTjFhLU9vdw?oc=5",
+      "id": "us_14aac42d87f6",
+      "date": "2026-05-07",
+      "title": "IONQ Stock Falls Hard As Ballooning Losses Outweigh Record Sales, Raised Outlook — But Retail Bulls See Long-Term Value - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOa2diazJXcmQ4UFE3cE5vSk9qSFduU1FZa2dLRmlzTTZIMXRIV3YxS3ZORFRhSTNvS3NkMV9lb0xyWUlMeFpYZ1pQWnJtTEd4QWJsNzdwOVpLSncxd1BXQzU1aGd3OURFU2N4eUxhMF9DalpwQUJuNE9nNGNvMVpmYmUwcEVMT0tEbllhTUhyVzREa0l5dUZFNEZTeVRhd0FKWnhvMUloeEFMNC0wZG1RR1doemtBWGVib2t2cFRZa2g4cUZ6U3h4SHpnZ01IamRYSGZQQkFWaHNvUFlDdUVYSUFuZGtLeERzN0ZkQXE2SVBTTlVJckxIOHYtVjZKVUwtOXpRN29HUFZsYmlB?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "negative",
+      "score": 7
     },
     {
-      "id": "us_9e14972ac118",
+      "id": "us_f787c022aa8d",
       "date": "2026-05-09",
-      "title": "Wall Street Analysts Are Bullish on Top Industrial Goods Picks - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUWxjaEhYM2FmdXljLXBtRXUyZi1IcVNmM2lOS0xfYjhMRXdJY1gwOUg2T3o5dFZ0LWZDV3dJQlkyOV9ySF94eDJVMW9ScXAzY000MGZRNlJHR0JwaC1RcU14cnprb3R5WHMwTXVHSFo3czMtZkFqZXkweXVrZ2dXSFlGNFotTTBvRnc5U2QtdGdLbzFMT1VoZmp5Vll3d3lWR0t0MDhEWHl1d2p4Skl6RlBwUmtSR1FjaDhKZTVIbHR3TFpJTzZNd0ZOWHNXZWdQaFpiYmRJUkk4eTEtOGNj?oc=5",
+      "title": "V-Mart Retail Ltd (BOM:534976) Q4 2026 Earnings Call Highlights: Record Sales Growth and ... By GuruFocus - Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZjFrSU9tb2RtaFRsd3A4clQ1cmdxUTFSODJBd0tOOWdUOXZVUzV4dl9nZWZ3eDFTQjV5d1VsZWRmZ0g3WlJ0YlJsNXBCWjdMN2hSY3hEOWhsRnlKeHZJUWlEUEZHbDBYcVluRlVoejY1WEJfeXdMeEJCNHBRc3BIUjFYVmxTaHVZTWlXZkVaSEItcVk3WVdHTkd0bi0wUEwzRDNsNHBjR2V1OG83WE1nNXpDcTNFa2J2eEVoUlU5WHEyZWxkX0VQbVpvOTh2Y21p?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "소비재",
+      "sentiment": "positive",
+      "score": 9
     },
     {
-      "id": "us_bea45f556492",
+      "id": "us_420ae4c1f2bd",
+      "date": "2026-05-07",
+      "title": "Shell Q1 earnings beat guidance amid soaring energy prices, Centrica retail EBITDA seen at lower end of guidance - Sharecast.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQm1PRXFQY2ktQ3Zlal9NNV9vUi1mT3pXOXR5MmdfNnNDZUhxRlkweDJWMGRHNjVvUFJoTjg0X0hodmNJUFV3YnhkTmd4UXlOSHVYdTJJZjB4d2xZSS1tM2wzZTQ0RHV5WG5aT1VnQlZ6UC03OTJmMXJqVnl1ekdDTA?oc=5",
+      "source": "google_news",
+      "sector": "에너지",
+      "sentiment": "positive",
+      "score": 7
+    },
+    {
+      "id": "us_0b083ae0bb92",
       "date": "2026-05-06",
-      "title": "Is It Worth Investing in Datadog (DDOG) Based on Wall Street's Bullish Views? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONGZOTzN4TlpjZ0kxcUZGRGRORjVPNXFRbGF3bUJlckYycHV6SjZ1b3ZPVUxDaWdseVZrRmVDYmNrT3VqWGo4YWMtUW5yLU4wa2J6ZHYtWjVRajRrNjI3OWo5MTVUVHktT05SMHhYYnFtZmtTaFR3U1R1MDJCMHQ5WXBtbElyZmw2WTFKN3ZzbVJUeG04aFJIYml0TGVSOFBk?oc=5",
+      "title": "Devon retail acquisition strengthens property group’s South West holdings - TheBusinessDesk.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY0FEYTFWOFliOERGaklHTHhZMGVCZTc2b0p2bWp2TTlidnFJbVQ2N0tqZENOYlBXTzZyWWYxTW1Wbk9Qcjk3c1RmRWFZbTZ4TXlxZUFCdEYxQjdYN1ZCZ2pudkJpaDJlUDJ2T3p0UVVWbXJQcko4cG51dUs4bWJyaDFjTENsenR5V2ExUGtqOEtjVGliWExjWW8wNU83YTQ2R2dVTWtlYUh6dC1QWEFjS0tnbUdoRUtSZzFia3ZDVm9CR05VVFVqM0dCbzU?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "부동산/건설",
+      "sentiment": "positive",
+      "score": 7
     },
     {
-      "id": "us_391ecbd52619",
+      "id": "us_f9cdd2eb776d",
       "date": "2026-05-07",
-      "title": "PubMatic (NASDAQ:PUBM) Reports Bullish Q1 CY2026 - StockStory",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMXh5VDZGTGI1SnNfRS1LcndUd1BoTEM2Z3duOXZ2SkVMcVNsSFRSdWItX3pQRGVZZnFRZXZuOFl2b0FFSVd4QmZDMm03VllKR3RHTXhaRUpTRmNvMV92NDcwMFd4WHdyeVBTZjByeXJXRzhsdHVCZ2VCZzlEOS1HSzlkbllzWXQxMTVqVDdyLV9hNUJjTzJxZ1pubnhUQUZQbEE4TmJWNA?oc=5",
+      "title": "Meesho records revenue growth and lower losses in Q4 FY ’26 - Apparel Resources",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbVJnb0xza0lia1Z0SEt3el9NekFxcE9wbEp6ZGpydEhDU1R3OFhLQ2FpRi1qd3owX3NsUDVGaFd2U1ZNTzM5MmMzaFJuaHhkSXlRUGZoazBJRl9BQ2FCc3kyc1BwaEJWdjBaTHV4UEhRLTZEc0NnUzZtd19QcnFTS2dSOGZxYUh6aGQxa29UUGNONlJIWUk0Z0hKTDNxTXBraUFRSQ?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "소비재",
+      "sentiment": "positive",
+      "score": 8
     },
     {
-      "id": "us_244533532a4d",
+      "id": "us_9094d7db8d3a",
+      "date": "2026-05-08",
+      "title": "Titan Stock Hits 52-Week High on Record Sales, But Margins Squeeze - Whalesbook",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMk9LcmZiaFJwMVdyWlYzZ2UzVnNLclBYaGJURmVhZjZHbkxxRENnbGJ0NUVJaXRWcklLanV1WmlYMXZXY1dzVU50dVpUUDNZbE1mS1BlYlpQSWtLVGFxTko4c3E5bEl2cVhjOGZaN2VJaHM0ZEpCRFBWU21hVy1EbkRXTUhHRXFNOXQtbUxXaUQwblYyMzJFR0thWV8wVXpoYlhraWQyakk5UVlNNXBULUNoajdXczh6UlNEUG9WRlVKNlZpdGhYU0ZyMlVGSThiaVFFTjNzdl8yMWc3ckphUUNn?oc=5",
+      "source": "google_news",
+      "sector": "소비재",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "us_f2542b43fad0",
+      "date": "2026-05-07",
+      "title": "Super Retail boss leaves door open to KMD Brands acquisition - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS0hDcXBVck9CRjRTZWlRcWVGRU01WE5MYjAybDdlODgxdi1iOGxHckx4OHhHcEN2OTczek4yZmxVdnNkRmtrSHFCSUVOWG5ITlpobWNubWFQY1hyY2EyQUF6a3Y1R0dRQk03a0xxZjU3OF9GTEpaNzRUcFp4X3lKcF95Vk9UTC1rNmlLcm1ZOWlfV2wtZTJYR2JJamR1Q0MyNW1JcEJ2dzdqdURwT2J4LUVXSlRUNWxhQk9JaGpNb3pFMG9obFFZZjBxUWV2NUlFS2t4RXVkTUVFb0pxSzYtSE8yODBXMmQxZzYw0gHwAUFVX3lxTE1hQUxyUGF0ZWdsVWRkQ1FZUFRFNFl0bjktVERoWDJMZ3hUN1lJdzREa1R2UWlxejJDaEt2ejVhWGZCNFE3R0pnZlRaUGU3YW1WU1hZX0dRT0oxcTROSnNyQllIMTk5RXVnM3hLLXRyQUR2M2hPVF9pMzZLamQ4WFdhVGRHYUtfSDhOc3lJTUZDZWQxMk5sWXc3RVdHZjlYUWNQbFZXWi1sX1JRaXNuRU1QUDVHUkltUlN0NUNxZGUwS1VmbXNhTEVSWEJTRldxMy1KdDZNN0hibHJGS1VjdWRDQVRtNHMzVXpYNEtlLUIzLQ?oc=5",
+      "source": "google_news",
+      "sector": "소비재",
+      "sentiment": "positive",
+      "score": 6
+    },
+    {
+      "id": "us_c80c2c4e6ffc",
       "date": "2026-05-06",
-      "title": "S&P 500 and Nasdaq notch records; AMD results spark AI stock rally - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXBKQjNsNjIxWmNHYW5rMEZsYXhfYXdHMXIzaDVZZ2JSZ2FBNnJpejlaWWVPaWhVNXgxSWhDMkhRSFJ5V0lVUjhfTlVzNEFEbFFmLUVWM0NEdGpDbzVGWEVzV3JZa182VktXRHl3Y0tKUzNvcUZlWVA2SjRZdTd2VXRJdEl6Wi1Ddk5nSGpEa0htczdFUFQ5aUZB?oc=5",
+      "title": "Reynolds Consumer Products Reports Strong Q1 2026 Results with 7% Revenue Growth and 90% Net Income Increase, Reiterates Full-Year Outlook - Minichart",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQVIzNW9VU3JsSUZrdDB0YTMtUjJQcUIyUWN2V2lJN3NJY05EVlExcnZOcDdmNWRMRXpFLVB0TDJTS01xMUx4TUE2Y1VmSF9YVzBscXJ0WXJmUHZuTGtrNjh1X3djaGp0NkNfblB4dUx0SEtKWV94Z0drVzY4azhlUGdfMXpTOE9aNVdGYUpuWGR1ZEZXa0NLSHZPWVFZaW5jWEE5X1RjQWNMWWFiUTNxcS1CSW1Db2k1eEVKbnAzNzk4UjVQRldubm5vSng5LUNxTEI0bmNBNHU4QndTZkFqX1Vxa1JZdV9JMXRwTHpOMkdQbVFTb0F2ci1saE1iLVNIb2I4OTRfUQ?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_aef607cea9b9",
-      "date": "2026-05-09",
-      "title": "Wall Street Review: Stock Rally Broadens as S&P 500, Nasdaq Hit New Record Highs - NTD News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHdod2YyVlJlb3dZekpWOWNTckVCWkFiZHoyNGRHZHFiR1ZpQk44RFFHbHBNUDlpeDI2cDRsb0JwYjRILW5pT1prdnU0bFJjS0RZaUwxN2dnWW0tSi1nRXZGUEtFaUNrcE9BbDNkQUt2TktPOEx2R2REUUlla295aWI2azRqRklSTEptVG11RkYxaG9TWlY4MERiLVBrV0ZMa3kxdG1obEgyb3VKQUl3?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_94c73a397859",
-      "date": "2026-05-06",
-      "title": "Is It Worth Investing in Petrobras (PBR) Based on Wall Street's Bullish Views? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeDY3UHpGMGw3OVZySWwzYTRWS3haQWtZalg5NWpNMzFWZi01WGNENkMzSEFzSFZFQnZwLUROaVJTcUlCM3hmQmF3VzJxaVlWZnlWWGg4aXRFMmhEdDFfdEp5LWNHVmx0V3NnRjVPMWJ3c1BkM0xSaU90TWVybzRSdkhvRlFIajM5NVp5c1lIVWpxaHBnUEt2MEdGV1YtRHkzeFE?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_8ce384a9e991",
-      "date": "2026-05-07",
-      "title": "S&P 500 ends down as chip stocks give up gains - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV0VpN3E3Y3hiR0ZEN21hWnBDM1RZcW5zNERIXzdvVi1TZ28xcExUWnFab284bmJfQlhtRFlFYXBKLWZ1RG9yRkJqS3ZESXlWNV9zc1g3aUYtQUxHM0p4SEpsM0ZzTXhsZDZWOEp0d0owNVVyUlkxTWdaekhlbVltUmJwR0F4QXdidVBLZnFKOE43aGtMVnpaQUhmYndIZw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_1cf4e815283d",
-      "date": "2026-05-08",
-      "title": "Eversource Energy Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHRQSjB4RDFCNVp5ck1TNVpHZzZRQkoydTY0a2Z2QlR4c0RCdkRzOEd6ampDcW9HTlFURzFpT2lFaENzT1lFbzBNS1BFY09MUU9CenNIT0JzVkxKY1RtR0FrNFJ2VGY3U3h1Z2lvMmFELVAyQ3VSbjBqMXNOTWpsTlZ6c1VWcU83WDgtaFVPZmgyYWRpVlM3ckFPRjhfTUVoMnc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_d7e2b4e11b02",
-      "date": "2026-05-07",
-      "title": "S&P 500 and Nasdaq notch records; AMD results spark AI stock rally - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90OXV4bkxSSGlKNHBLWUZ3aE1vck5KYlJUZTJfMEcyMHFGVkZHZ3FoY1hxcXNMUHM2WVN5b3Y4VXFPU1JkUXRfNzUwbHRzcEVYVWdrclEzX2c2RFdYN0FpNjlGQjVHbmc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_160c5c4191ef",
-      "date": "2026-05-08",
-      "title": "Ross Stores Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmZYT01XdDVVdVZTN2JSaks4d0ptT1ZhNHhURXJmUVc4d0xmbUNBeGx2V1NPWWN3WjBRNnVVSXRqTVVkbnFXLXRPTlBnSmtfbEdhczZ2SjRieHc1dEdyaTkxNzdNdnZVX0JmNTZxNDhOTFo3b1JhLUNDZWpOeWh4b0ZnX2tudnZhYmk1V1VteS1GWjJsWmEtaTBn?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_d35f60bb294a",
-      "date": "2026-05-07",
-      "title": "MasterCraft (NASDAQ:MCFT) Reports Bullish Q1 CY2026 - StockStory",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZm9LZWNfSGdEVGVBaE9hR0Vuc1NrYlN1dTFhZ053YkNlbGd2T1dDUGJGQ2xEWlpYdkYycm9YaDZzTkNBcE9zbkVBS1daTDY3cDdSNkR1QWxZM0V2OHgzTGlCRGRCUVBiektuZ0M4YmtEcWNjc1NsdThhTHg3bkcwb0xrLTFsc2xRSnNlenJzYTZkTTRkcENpT1BpWUoxVnMyTm51TG9TMFE4Qmc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_bae42bd5ac64",
-      "date": "2026-05-08",
-      "title": "Wall Street just turned bullish on Datadog again — Here’s why - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdXRWWEpUZkZ4WkxmT1NpclM3U3NvbW9vWmZXanlvQ2x5LWNVVkVUODdqZmdIYTd3SlZNYm9LUkplTzMtT3AwV19Mc045ejFid2phS1ZraFBZdDVBVldkTW41eVJuUWVnU2UxNlFwbTRLbWJDTUxubkJ3NDZRLWFxWnNpM1NQZkh5czBuX2RvRWxYM2NjRXNxQ3lPV2xJeWt1bWt6cjUyVWVJRDhEQzBWeXpjcTZDMGs?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_06db0d0afe9e",
-      "date": "2026-05-07",
-      "title": "Grab These 5 Large-Cap Growth Stocks in May to Tap Wall Street Rally - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ25aT2ZNdUZPOGZmRWVMU1U2akw5MWxJYzl3Mm1sbllHY3h4LU5wTloxNGdsWEVrNTZDckxmWDRrUDhUbGh2UmV2R3hNRlpFYmgzaDFxUllwcmtGQVhPaGJydVZSdnA0cTg1MFF5cGdjcGJqVGVkOVluNk5DcHZBT2RYcW1ZeWVtTFlic01SQWl6UQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_8544a300cde3",
-      "date": "2026-05-08",
-      "title": "Are Wall Street Analysts Bullish on Mastercard Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT2FGY0VDcTRmZmpER0twWlB4X2ZwSjFHNmpoVkMzZXlleVdSTXYzbHAzblFyODRzTGRUTThSUXRyUHFxRkJXclloM2oyX2JnTGN2Y3c4VHZWNHdZNF9qN3lXMUxnQi00VUdoTUlaenFQdU9MdWpBa3RrNGV2QU9xNmJmM2ZWTkF5VTZIUFhFSE1LLUo5QW1kWjVGd2Y3Q3lZX0d3TmZSOA?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_a1ec061335b7",
-      "date": "2026-05-07",
-      "title": "Watch AI Rally Powers Wall Street Earnings | Open Interest 5/7/2026 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMkhuUG8zNmx4NDNPd2Z6M2g1eFZZS2drNGhsOEh1WTRfbkYwcENwQXA0cENSb1VieWdxUnk2aGNJdll5RG1vWWlNWG5FaXM5UWdHU2RVZWVXUmthLU5YeVU3Ri1ZTm9KUTVVMnpNVTlpcHBNWEhDUzBqOFE4QzJfa2NEUQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_990d1d2b4619",
-      "date": "2026-05-09",
-      "title": "Citizens Financial Stock Outlook: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSWx5N0dUWWphRG1MbTNRVUF2WDZBd1lDMWRXeVdDUGFRdUNXdjJ3dzRwUllmQXB4QjJTSnU3bUpKT3o4TTAtVm9oQ3M2dmVwX2xjSU9QdWRjaXRfYmpnZmZwUGN5S2hfekwwTnpDR29BNFlTVmhNeW9IM1lMelhwaUIxX1RLMy03TTBlZVctdEtjMjBscnZxSEVlQ3pNVG13RlJ6bg?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_ffa5f31d626a",
-      "date": "2026-05-06",
-      "title": "Is Wall Street Bullish or Bearish on Centene Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYU9qMHNIT1pFQ2xORThqYzc5R0l3V2pRUk0zZE9wZnUxSzJBNXZiRC1NUm00bndCek9WN3kwRWJmUkgtVGRGNHR6OWdlNXY3b1ZtSWV0cnM1MjZISVgtY1BNSkJVQWNhRWpQRE1aZDh6akE4S3RJUTc2SEdIb0M2bFBTYnNGZFlYQ2poTjBVNUZ4TF9MbUJraVIxUDBjajdaZGc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_5d365e0a4ac8",
-      "date": "2026-05-09",
-      "title": "S&P 500, Nasdaq Hit Record Highs on Strong Jobs, Semiconductor Rally - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGRjY2lwdlVJbVpyNkw1NDFna09PSWxGSk1neVI3ZEpCVzVDMDkxU1hEc1RVYWJDLTBiQVNxU0RFRGFZUG1MMkdINHZMTDNXSksxZUp3VzJDWk8tX0ozQ3REeFR6UWxpWHIxUzdNVlE1bzYwNjBuR0ZYTVFZajlTUHB2WHh2Nnpzd1UtTURR?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_aabe228d7cdc",
-      "date": "2026-05-08",
-      "title": "Tigo Energy, Inc. (NASDAQ:TYGO) Analysts Are Pretty Bullish On The Stock After Recent Results - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZm1GOFJ3VU9FNVYtblNBVUdOZ3BWSFhwemVNQkFEMm9ydHFLeHdRbzRwTGFkalNsWklYTTN6cUgyeVNVeGNuMGdBc3BRNmhkTFhNeHFFc2xJaHZOTDJLd05rWmVlYWJRNVlNRUtYZHM5amlTaXdBdkxkLUgxVG5GRmJ4ZVk4V2p0RXhvNWl3NmdJeVl2UTdV?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_2c200c168365",
-      "date": "2026-05-06",
-      "title": "Southern Company Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemx3Z09BYzBHX2w4X3ozR1ZUQ3BTXzdkMy1YNWt6ckg1a1VnVWFEdVliTHhRY19vZ1M0QVRmX0JPbC03cExrX0hUc042YTVyMEIzVFJwek43WnhvV0VJeXk0X2w1cmRYTVc1ZzZsbFZBZXR6ek1XOVlQdTBZUzVSWV9hcUhrNXczYVZucVZiT244UjhmUFFta21DbHA2VV9p?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_802843793d83",
-      "date": "2026-05-09",
-      "title": "U.S. Stocks Hit Records This Week — Why the S&P 500 and Nasdaq Rally Survived the Oil Shock - TechStock²",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHAwendxTXRrMzRsUDVOUHhNOV80YWR3QW9wMkpsbjJPOHF5NVk3eHBiTEZRZXF2eE1xdGxlOFlLTG5Db0Frbmo0ZXVhdTRrT0I5cnFQSndrRFkxZkdoRWlDR3c4elpvcHVTMmVTLUNKM3FoQTdyYTk1d2lnQmZ4bzJ6Nzk5a2x6OG02X0FGYS1iQXVkaXE3Tkk2ZF8yb2xSQ0ZuZ2RPcTExclBw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_6974474e3afb",
-      "date": "2026-05-07",
-      "title": "Wall Street rebound driven by smallest number of stocks on record - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY293SnhLUno2SE85VzkyaHdKbnlGaUpoWHRVV092SGJYNzZ6dVhURjRYaDJXZ1pXc0NDV2VWbktiZXZtVFRVQ09ZYThQY3ZyUEpSRFAtczFzX18xYTNDRkljc05vc0lCMXFoNXZFZC1RanAtbGJCcmRsRVRLOC1EdHFRdUI?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_ed3716913645",
-      "date": "2026-05-07",
-      "title": "Wall Street Hits Record on AI Rally, Iran Peace Hopes - Gotrade",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV015ZXhxTGFpbmR4dTQwNnJDRC1aeTJndXc4SkpnSzRtQjhTamJEbVNwNmxSYWhFS1ZJUTctUEw1NGllc21qOUhfOUppekpmVUs5c1Rob1h5VzBUckJnRmRFZ0tzU2xDSy1qV3ZzR2JxbXdZSDB3dm10TU5ZMlI0c2RsMGFScHAwblVpRExR?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_a67769d96d7c",
-      "date": "2026-05-07",
-      "title": "Asia open: Stock markets rally on US-Iran peace hopes; tech drives S&P 500 to record highs - marketpulse.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDJBMWc0VVVKdTNSNkhCay1oVkc2OW5aMDVxaW0zNDd2NGw1RkhpZTJrWFR2ZjN2Sng1blVlSU5paXZDU3BSUEd0TlEyVjNvTUd2VlVnNHlKMXNIU0hNOFRmQUVxVXBXLWNaRTVyVHZTZ3hqR08xNE1zMl9MaXlRZjZnM21Yc2lxOW02WDJ1SXFhODVQd2xJUTRPTFgwTWhyU3JacHcxc1JmOXJNZ2RrNXpiVFJubXRhQ1FyaUZsVDhnZw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_ec0b73bff7ab",
-      "date": "2026-05-08",
-      "title": "Are Wall Street Analysts Bullish on Prologis Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWVteElaTExJTi1WbmtQUTNvX3FUUV91UHpWeTM5V2ZxS3oyZ25CUklFMjZEVEU0azBNbkZ3enFxLUxSdlNtTkZHV05kNWR4b21OaHl4ZVZEVTRjQkxSYm1jemJzRTRaUGF1bUFkQjN3UnNnY2ItM3YxNGVBb1N0UHJoX1pJTUFwRDZfN2hiczFhdGZIQVZORlJXX1Q2Z3VMUGRDLQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_33eb6e0dc1d6",
-      "date": "2026-05-06",
-      "title": "Are Wall Street Analysts Bullish on Aptiv Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQXVXUTZ3QjdHRjA4YkxmcVZuMWZjajlLeHhHb0hzZTRmWWlMZGRRWHVRVnJEUmE2aW1CQUdIR2hvR01maFBaOHV0OW5RY0FOUWVMdzBndUVPR2tuakZoYmtoLTk2V0NnbEJYVVkxa3ZQRVc2UEdRNUJQcm9BVHBIT29oOHZCM0xZdl8tSUhsemRrd2hMNEJmZnZneVVVQ0I2?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_2e70f04da0a2",
-      "date": "2026-05-07",
-      "title": "Here's Why This Artificial Intelligence (AI) Stock Just Exploded Past Wall Street's Most Bullish Price Target - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbjRVOExVVlM2SmFDQlQ0RWlMUnc1dHhaVldXOHRrdjBFTnZyMDE2VHFmVEwxMDZoOUhWQ2tmbzBjNFN6M09OZXVFR1plS2J6X1pKRmFucW9HdmhwakIyUm5rLU8tNVItemVqSFd1am1ZdWhFUUVUa09NN3owbWliRmNiQktMcnJ1ZGdaMnV3NUpvOUlUMS1rMw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_a9ecc2ae4664",
-      "date": "2026-05-07",
-      "title": "Is Wall Street Bullish or Bearish on Applied Materials Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWm5VZXhUZFJ2Y3haUDFxQUFBTkNBNk5pbGRXaTgySjVtdHVwdFM1elVkOEd3Rzk4ZFZzdjZYYmF3NndoNkdMWFlDUnVibnZZWmN5QjZYbnVZNlVUQkN5M1gxWjE4RDE4aVRGV0YzNUhibTI3X2NsUTRmY0Jxb180c1RBb2Zha091cnNUM0lzX1ZhSF9HX2JfZEV1SXhfSTktMVE?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_1b05e2b04468",
-      "date": "2026-05-07",
-      "title": "Crown Castle Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTnBmbDNxbmJtdXNnUVdfMWxKZm95YWlGblAtdDQwUk0xWXJuWUhMb2hjZ096Uk9DcFhRRy0zcnpKYWVPRWxSSFBOYXhvRHM5WHJXc3Z5emZfSXJHb3FKcExEZ3lfMFhqU1p1NU01NG0tTHVxc2NEYkZpUE04Zm56RjRZNWJkb04zcGNmZWowZG9udmR3Zlp3bzd1dw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_a91080f8f058",
-      "date": "2026-05-08",
-      "title": "Are Wall Street Analysts Bullish on Visa Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSHFCNXo3UmdtQ3Myb3VaNGlTV0tPcE9Dbm95V0JlbXVYa0RWMWJtdzZjMU1wQVR2cnRLT3JoRVNIck0tNWllRWNub3lRbWoxZmRCSjlqemlLaGVpYUFYLXp3UkRHdDVlODZaV01sai01TkpsY1pIWlJFOHo2Y3htZ2dMZ2hYclEybnNOYU9rd1FQNEdpaTJURUVzMG9jWlU?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_b3077b8564b6",
-      "date": "2026-05-08",
-      "title": "S&P 500, Nasdaq Close at Fresh Records as Jobs Data, Chip Rally Lift Stocks - bloomingbit",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wdm1kckRhbXJPTWw2QUFYMjRpekZod0dCamVJeG5udmhQeTlvamdTNUZjTXFVeUVNZTZJNFMzXzFxSzJNZ2duRVhXN1I0cTJTU2Uydw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_59b7ce9dc20d",
-      "date": "2026-05-07",
-      "title": "S&P 500 Faces Late-Stage Rally Risk as Elliott Wave Signals Align - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeVhtSGdUMl96cWJiVmhlOHhHMlg0NkhrckNaTUViUjlZaU83WFExTFlTbktPNXdLWk1tWEppazQ1QUVrWmg1STEwaUhSS19KUGNkNFpiZ1lrYkZ1ZXJMMWlDRGc4WUZGYmZNYjdidk5HcWpndjkzdlg2WXFmeEQxZnlSN1plb01VRk1pS0d5MDgzQ1FNRTJDMjRkVk5SMDNFbGpnZW90d0Vidnpx?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_2d1bcb1f1847",
-      "date": "2026-05-07",
-      "title": "MGM Resorts Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHFGdFY3VU5VdDZvMXNKNkRic1NLNVJ0cnROY3pwODgyUWZ1M0VPWWlJUmVzLWVHQjZZTFZsMWJXYXp4Z0VLZzJ1VEdFbWgySWNBMjhyT01EQzlvY3QxUHFlMjNobFl3WG9veEpiQ3pHeFZVV1BjRnNnRGNMeUs1dUhkMWRJTWRValdkbjBtSWNmWGFxbDVsTVR3?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_2739cdeed0d6",
-      "date": "2026-05-09",
-      "title": "S&P 500, Nasdaq hit record highs on tech rally, strong jobs data - MSN",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQklfckZMYXZPUnRWdDRYWm41dXFpVDR3UTlGVGJIdi0xWGY2OVpiWDA4cVFyQW5KU1dkSXBSMUdLVWVYY1NGdjlYdWM2QkZwZUFMdm1oQmdRRmdWbEszNGhfQ3BmUXZMa0FpUVVSRmhDWk41Qk40Uzd3cURwaGlvUHlTYjF5QnRpOVVmblNZSTViekVaNm4tU1RzWFlUSmd5ay16MkVWeTlKOEFCaTI1SGx1QUo?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_ffe280602746",
-      "date": "2026-05-08",
-      "title": "Fidelity National Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaFI5dTFDRkJqbFF4WkpqQzJsQm1ia21mVldXTlJUUXZCTU5VdlNMenliUFhOajNvUmdvckpMTWxlR05oQkxQUjNsZzFzRkd3U3Zfb2xtYzczZmlxUnhybS15VTN4Y05DQXpSb2JSdlE0V0QwZlJGYVFTUVM2T0o1aFJ2MXFSdDd1RFdlbThtTlBiZE9XdVZaWXgyQWhsclhRVkE?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f0a49bcdb2ae",
-      "date": "2026-05-06",
-      "title": "Are Wall Street Analysts Bullish on Viatris Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0RPWEluUFZjTm5OZHJFUHZ2cUxNd2V0aENPNzBZNjdrb19ZZ1J5Y0QweklrY09mV1hGSWdyQXVwYkw1Y25kQW5ua3dIZkNTX0xSbEdJSWVkbmJCWk1hWjhneWwzLXZ2dW9TbTNrc2hwNmNuN3UzMFVmY1RmcGZwSS1rbWdKOEFWR0ctTUVCVjdkV3ZZRVNmY1BJTUI2ODFQT1Bj?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_2619a21ce3a8",
-      "date": "2026-05-06",
-      "title": "Is Wall Street Bullish or Bearish on Morgan Stanley Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMmVidVFMNFVvR0dzak0xVTdFbWxrWmc0RGVEdnkyRDRyMll2Q3NDTXowaTV1MUtmRk1CdlJ5enptQ3lZLUJobFFMdGxNT0NNcENPeGI1dGtWLXY0eDM0UU94dk5INzg0VF9aUVJPTG5CMDFzdjZ3T0hvYXYtbEtqaVVrb0lOUmM2dlRwUnpwdHVaa2ZEeEJ2Z3doNmhmSmYy?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_d4d5127699c6",
-      "date": "2026-05-08",
-      "title": "Synchrony Financial Stock Outlook: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRjJSRE5zVERNOUM3Vm0tdGstX2RCOHd1UkNmRXQ0SjB2WXctdENOeHFFODhXaWRycnlKSlhkX3VXaVJfeFdCc2ZRczVxQUJ6U1NZZldTX1V5Uy1HNkRWelc3MU9PQkkxWnRxTEY1Qk13dXI2a1dsaWx2dzNJQ2hPOEJyajBmTlBrU1prdG0wSTVPbE5wUUVpSlB2V25KNGZyTnhXTm5B?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_36619427e0a1",
-      "date": "2026-05-09",
-      "title": "Lumentum’s fiery stock rally earns it a spot in this hot index - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbktET1dONDhyR0JVVHFSS2ZWTmd5S2JnSHNsQ00xbnAxQjZnTHRKeHpxU05aUmx3RkNjb1pVY1RTT0NxcVRKVXRuTjk0dmdwUE9BdDVEUFRSZVhwSDFrVUxZRWg0VTB1TjhqVGU4X0o4eWJJakQ3ZF8zTUd3RFo3RDJCTlYwY1BjNGdNaEZNX1huZ3pUTzJJbkdTRnBZajBYVDEwb29Hcw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f09214f7f177",
-      "date": "2026-05-07",
-      "title": "S&P 500 stocks: Lithium play Albemarle eyes breakout on blowout earnings - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZHlvaG9nSjk3LU96dHE1bjVhMTVMTmdaTE5vV1ZUaldxMXpLRDNrV2V4OS1MemY0eVYtZWtqaGRQeXM0RXJnOF96czEwNUYxN2xFaEs0R3c5TjR1TG5vdUtJVVgxYlgtRlBsMHotalNxZzJzcHoydVd0TnRZZW1fVld2NmFYQWRWN0Y3NUlJdnExSVBrYXFucUtrajdQd09lcE9BQm4wM0ZYS0U1X1A2d2VsaHFkVlJGMzRBXzEzcTgwek9hYmZfYmNCRVVOQWhhNWtjaFhpenZrZlROSEowbkl2ZVBCSU5xZHc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_35b12cac95a9",
-      "date": "2026-05-07",
-      "title": "Home Depot Stock Outlook: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbURVbFRSTkhmS3ZPaWpBVmFnT05TUE1kTFpybjE3MHpLaU5MMjRObFFPRGdoeE1qNTRpMjMxQ0FxTmtXSXp0ZmNjbXNvZHZOeXJOTlA4OFdyVGRXNWdwZjR2Q0xENTFNakJpT3NrVlIxSXlQdUNzd0xpeVBadktKaHhPLVc5RkgyRnRuRDh1M296UThvLVN0N3dn?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_3446c823abc3",
-      "date": "2026-05-06",
-      "title": "DoorDash Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSkhrQ2pKUDZWczZpdzVrdElfdjZoMlNNeXFmWjBNS0RQUDFaSno2bFczalRpaFZDQ29Ha2V1QU93ZXNfLVhkU2p6aXFEaERyVHRNWFBiUy1XbWozOUNOcG1mR2UxRE92OVBFOWlDV2t2QWgyV2Zpem93SlJFT0VySGE3Y21zQURqVnpPSGEzc1Z5Q2NHSk1uY1l0U3RxRFVq?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_1f5ba066ecc7",
-      "date": "2026-05-07",
-      "title": "U.S. futures point modestly higher following strong two-day rally: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa3k1QVl5TEY4clRSUjZlclM0VDRoSWhBajhvUjZ5dHVsalg1bWhQeWtCWGJzSDFpNTJFaVI1eVFKWmhzdG13R3hsYWZNVUQwNDl5YzhfdXdJVGxPN3VkSGFraW1vMmt1Yml5Vl9XaWRLMkZmYlY4ZFROZEIzSldTSDdxZVc1RkY3TnZXQTlUWXFqWjRON3NGUHRyVWk?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_572f6e19aeae",
-      "date": "2026-05-08",
-      "title": "S&P 500 call options volume surges to record $2.6 trillion. Here's what it means for bitcoin - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZGVLTUVoQmd4bW5rd28wVEpkb2xSaU5rSmlRVGZYU0xqM0lqc2FSOGk1QjNzb2xCQkE5N3RzVDBBTGZMTThaRlN5YmZBQTFNLU51Nld2VmlIdjJQSXNrZ2treTlCdkItdWlab1M1QkFYUWhfZHBZNWlVOENpMUV0cE5TREIzSGpzeUpxd3Vkd0FlVXczT2JOZHpPeTRheTFyOXZ6eHAyMFVvdTM0SjFsTGpac3NUY3labHFhYXh4SmZ5NE85dnRVSF9KOXljZmhwTDQ5aUFKWHI?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_176b65c0ab41",
-      "date": "2026-05-08",
-      "title": "Does Freshworks (FRSH) Have the Potential to Rally 38.43% as Wall Street Analysts Expect? - Zacks Investment Research",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS016c0psOVlPZmxWRzI3UXh2a1F5V2RJa0lKWWNnS245eXNmbmJaS29nQTRZdHBjNVFOcEtwV2hTYUhoSVl3UTVucHNkNFNIYTRFVGx5OGt6bDJzS1RMSkVoZFlUT2ZGYndRNWFOcVdSdzNZMFZCVWNxeWYxSjc2ODJDb2czcXUtblVMX0J3dm1kR0d3OG12UUdQdDRvX2g4eFB1bFdJNkhJeGxtZUR1VVZNck02OVpmcktQckxncERib0E?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_d69d71e956fd",
-      "date": "2026-05-07",
-      "title": "Is Wall Street Bullish or Bearish on T-Mobile Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjhEQzhZb1N3LUY0VEd4ZTNUdUotdlZXczhnNXpVS2tOV2hKXzJHZC1BNFhCY3k5N0VmekJNMEpDMUlQOWMwbGkzSVMwaVlVa0E3cjFlTEo3dzZqSWJQSTVfdEwxNm5fSUhPZThrM1NiUXNuZXhQVGxqU1ZyUTFjYmRWYXlEbkt6R0NNeWZWaG41MHdfSnZLUDdB?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_304266dfe040",
-      "date": "2026-05-08",
-      "title": "Advantage Solutions Inc. (NASDAQ:ADV) Analysts Are Pretty Bullish On The Stock After Recent Results - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORGFHZkxMMHBuQ25TbnBpRTd3MGI0a2NYaGJKTDNEeWFidmRVZlNpM2R1UW1CUlBEZWNJT2ttV0xtclJvRU42cjNvTnNSRnJ1NjFaLVRpXzhsVDhPVDByV3NVWTVGeXEtQ1NNaFZtcldHM1JsbTBSSDhYNFB6dVhnLVV0ZVdGZHVjV1BhOXBodGVoc0FIcWZ5UkRjbjJqWFJKa0NvTkgzcHhTUTFkRXNQckR5V1ZxakdUdlJPOGUwUDdFR0I5V1dkV3dwVm1NVXfSAdQBQVVfeXFMTUR3Z3FPTE5CRWJvZ1NzSkV0RWNjMS10clAtbHlvYjRTU20wM3M1VE1vSEFheFJmaEdFc2tkU3FUVm9QQjBPV2hzYzFtQnFQVm5kUk5JNUhhZmFpR3JzQmZGZXVMQXNZZVF4MnNvc3I5S2RHSGhpOTNnM3lkMDJPd2RqamRfemF5Z0M4NVlFakdvcVJONms3RTVFdVBZSFRYTEo5RG1EZ1lvczVlajRCTlpmRWkyZDFHWFBRQWpTcllZSnpwTElUYkNkSVJ0a2JlVXhKLU0?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_3c9155dac519",
-      "date": "2026-05-06",
-      "title": "APA Corporation (NASDAQ:APA) Reports Bullish Q1 CY2026 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYUhMRi04MjhCRmRpSE9feTRwSUcxeFhaVFF3YnBraWhmMFpmZVRkUTlLR3dKUXI5VXpuZXBiNnViYVdnQ3RiZ0Z6WGRqUHBPOEJCMzNjQVlWclVBTWkxVjJKSmtCRGxLNVVydjJZRVRabjBWT2hHN2tXRGlCbXMxak1nM29IRDJ2R29feWExR3FmUHNzV3NxMUNySEhMa190?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_0865f3f76e93",
-      "date": "2026-05-07",
-      "title": "Are Wall Street Analysts Bullish on Duke Energy Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcGhoVTlJaDFFQ2t2UEZUd0Zoeld4VGVVcmtnOHRHaWVVZTZIdG52RUZDaEQzSUVWWmZ2LUZEcF9sMFhNU09xeDE2SXlwcGNvellQcmZfQS02dGZfMVpOanN0VjUxNFRCTHQ5d1dsVWFOZGk3T2NJaUJQeEZDSDI4Q1dsWlpUTDRDYVRncjZVN2M1Z0R1enlkV3QwbnFyQ1E?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_18f62d28df1c",
-      "date": "2026-05-07",
-      "title": "The recent tech stock rally could be set up to falter, one Wall Street pro says. Here's why. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRnpleDZMNlJOZ09NY2d5NmJ1ckpCMTlCVHZBSGVMNW13MWIzNkd4bEhub2lGeE9iUy0zcGo2cDNDUU5BcHo5UlhyeUdsc0FLUEdsOXE4cjZ3cTNfVkZVYVNiNDN3LWlNQjNhRzBwQk9pclFvMFlyRDVITVpzQzR4aDFmRjFhZDc2dDJEZTB2UndiaEVVcEt5OGRISkpvNnBMRlE?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_ec47def45731",
-      "date": "2026-05-07",
-      "title": "PubMatic (NASDAQ:PUBM) Reports Bullish Q1 CY2026 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEpjSXN3VjFKX3BScFdTdzR6M1NBNmUwdlJ4NzZDT1BGQkV5d2xnOXZNOV9vVnYwZlR3QTAyY1dYUUl6N0NUSWFLdVEzaGJ3bTdRYkdwa3lVNmt0MVFMUlNORVhzTzBQQTFlM1Jqb2M2UlZOYW9Wd2NKN21oTHhKVDZZU3FLQTRCZXNBTm5PLS1fS2NnZlA4Slp6OUV4VGhSSmF3?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_5ca6d0885d9b",
-      "date": "2026-05-07",
-      "title": "AAON (NASDAQ:AAON) Reports Bullish Q1 CY2026, Stock Jumps 24.4% - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONnFoOUlxdTB1cEVYcGlqSlZnY1VpNEJjNW5od1NYWWlpRWxWVm94R2JuRVU5b3Jvano1Vy15cGhrVTRSU2hLak5MZDZTLUtsd04taUlOTktLMmFKQlBQS1J2el9nV0hVTE5Mal90TTJmSFdoV3lJa0NJMWdXZnFXSzZISzRRYVRTaXBNUTRNNDEwa3diX1NzTkVkN01ZZw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_6952d91e0369",
-      "date": "2026-05-07",
-      "title": "Are Wall Street Analysts Bullish on Healthpeak Properties Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdUYzdV81VUt6MmprNW1yWFZWeUl4akl1SE1DY2c1TTNvSlNyTVNNOHJfN0xrMHlSYXlvVVR6SC1UNUhWbmpWMnNueW1WdlVqNGNtTEg3bWYyMjVVWEk4Vk8yTTVkaE90QldBVGtOSmJ6SVgxakV5XzQyR1VZa2hCOUZpek5BRlNKYy1TREN3WHZOSGFIRm5xc2lMUGV0YjZjTGJfZXNZNA?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_a06aa3cdaad4",
-      "date": "2026-05-08",
-      "title": "Nasdaq Index: AMD and Micron Fuel Bullish Mid-Session Forecast - FXEmpire",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSE03QlZ4YUlia1ZkanlxMmxlOTJOZWNuNXlYQmdZMVNMWVM3Mm9hWkZSMk9aTC11aVYtRVlKem9PUTBZcWlvM1hjdlhyYm5wV3RzMWlvalJ2UXpFMmNaWEVjbHZIa3E3Ym4wRC16Q1liS0hKREVrX08xdDZwdkhLbk1hc0QxM0NiRFlUajBaUHdiTmRUWnFKdkRaZGJ6YzhmLV9kSmR5dGhBVGhEMU1XUHBn?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_ca5d69d653b0",
-      "date": "2026-05-07",
-      "title": "Does Atlassian (TEAM) Have the Potential to Rally 41.53% as Wall Street Analysts Expect? - Zacks Investment Research",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWswQ1lYWVdqUDdVNFFxTWZ0VVJJMXVfRzJiamVOTnJiZG4yLVc3YW00aURmS1hzOVVhS3BpRHFyNHRncXpIbTVuVFBRWXlmc245Ql9rNEpPczZkVW1yVU54Und0T19DWmRBdG1seXlya040QWkzTTYxZUozOTVwb1M3YlJGZGUzcG1wMGZ3b1E0UEUydnFDaURUNnB5bWJvaE5icFMxaU1seFZyaGkwWmFlZ3EtZThDWmdkQ2J2WE9Kdw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_88684e011d65",
-      "date": "2026-05-08",
-      "title": "S&P 500 Hits New All-Time High And Hits Longest Weekly Streak In Years - International Business Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUW1MUHB5QnVBNFNhY3o2TGRKdEFMYTRfTlZ1WTB6WjlGd0lsODNidDg2Z1ExTjgyQl9CdS0zLUp1NDBDWkNzWjNKZ1VSb1dHeHd2dmZYdE41R202cUNXbkVzU2hDUnBpMng5a2ZrRHpwNDlvZXM5d2g2VzJrM1ZoYU9DOGRuU0FCcFdrVlJ2bV9tXzdaN3JRYVBR?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_0ce4fc26ef1e",
-      "date": "2026-05-07",
-      "title": "Wall Street Analysts Believe Lifezone Metals Limited (LZM) Could Rally 60.32%: Here's is How to Trade - Zacks Investment Research",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXJ4WXZlU1hoMjROODJoOGZsZTB0djVjRW1hZDdGdHVpOElpQjhRNVZ3d0daWEdNZ1dqbTNuWnB3em9pUy1IZEZ5RU9ka2RJd3FQQ0U5MDd5M3ROOTNRV1pONl9VQ01iVmlNWllqeU5aejFCVERmbGxJQlpFaTNDNjd6SGdXb0FIMnRYcW5BV21JVTB5WXVVd3hCVjBMc1gxSW8wNklZRmdBTFlzZ3Z4WnNEaldjcDVoSjMzY1pWNUFPVXNNbllvV1NDelBzb3JFdHc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_64b410003397",
-      "date": "2026-05-07",
-      "title": "US Stocks Near Records as Quant Model Flags Manic Rally - Gotrade",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkVzbmF2NTJwVGpvMGpFcVh0Y05oWHBPaWczMlBLQWRMazlHNlBpdWN6NzVTc2ZvRHhfSXZSQ0E4RWNmd1FaY3lxdTg5aUtpQnl0TmJPNUdaeFRuUURTSkhvSWZJNkFNNTJJbjVsc21wdHF1OFFsaTFRSk0wNlFoWENEOUJ3Q2oya3J2M3pjRGY3OU83ZzVZ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_47232613c383",
-      "date": "2026-05-06",
-      "title": "APA Corporation (NASDAQ:APA) Reports Bullish Q1 CY2026 - StockStory",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYnI5R09rMGR6UmhleHllVEV3WHlRS25xbzRzRFA0TXVmcVNsZEg2T0w1ZExZbEFWczQyZmhOWDNXRTVmXzcwcUdaV0U4dTQzTC1ENEpWLTUyWVJiOXlyRDhPd1hYQm1iUDNlRXBoS0JVSS1yc1VmSWljelRIdzQ4LWdTSnhYV1cwSkJmRVVvWmI2MlB5OFlMSGJPTnVFTWxwdkdTTDVYTlAzSzlWcGc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_9f26280c04e8",
-      "date": "2026-05-07",
-      "title": "MasterCraft (NASDAQ:MCFT) Reports Bullish Q1 CY2026 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTFkWWRZSDBQSmJGZDF3ZEs1aG5ocG9SaGtpemZpQW5TZWJINk9IY2x6NzZIZTRGZXRFRzNHZWtDYjFBUzlWTzJoTVNaUUJOS2xWakFrV1pxRGs1bmR6Rl9vaDlyVmlCME9FeHlJU3hYZjMxUDZUb1I1NHloNkF6ZTdackVVVi1oLWo1TEtpaG1OXy1XZm9JMzJBdDRHWTBKaS1iTjJ5Yw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "소비재",
+      "sentiment": "positive",
+      "score": 10
     },
     {
       "id": "us_d81e3a5cf75f",
@@ -928,9 +208,9 @@
       "title": "Bitcoin Price Dives Below $80,000. This Jobs Report Could End the Crypto Slump. - Barron's",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14MkE1VlBvdHF3bFg3RHZjNE9Fek1oazh0SHI1d29UM21WcmNEM3M3bmtGSEFibU5aMndGWUFrVjljTkw1cEtsNjhDR0M4NDItZzVIQnZtMU1FT2hiU1FZVHYxR29YX1pOOEtvYUVDc2FuNXhjUTJyR0FQaTJ3TlE?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 8
     },
     {
       "id": "us_8f5eade70dad",
@@ -938,9 +218,9 @@
       "title": "US unemployment steady, Fed rate cut unlikely by June 2026 - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdWNUajVYYXNPakhlWENERjM5RXJFclVLWkhNamdfTWRZOWtVSUdNN0x0Vkw4NzJDc0FpY0xSdmZUWW1Ya2RQU1l1WDNucDdHTEU2OXY5NklZV2x0bTdBd19HUGY2YUV3NmdPWUY0aV8tQ1AyYnhWVmRrbnRveXhRRVZzTVlVQWdyZzJLczl3?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 7
     },
     {
       "id": "us_9d8908e7ee88",
@@ -948,9 +228,9 @@
       "title": "US-Iran conflict impacts Fed rate cut prospects amid inflation concerns - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcnlzTXNjeHBSc2UxZ29jWkQtZmhwMUZOWFlHcFF4dG5QZFhhR3h3b1A0UnZ6OWpKVWpVQnl3LUxPMzhUSkYyOE9STFVIcGtjWjFUTmQ5VnJJdlhCVGtpbTNLdHpBT0VsX0RKRTd5d3VRWnFBV1c4M2RJaE83a2JmYUpIUTNsYk1oeGhFSUllNnNsNV9iLWlNN19ZSVJSTHB5?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 8
     },
     {
       "id": "us_2ebec8cca0b8",
@@ -958,9 +238,9 @@
       "title": "NVIDIA and Corning Announce Long-Term Partnership to Strengthen US Manufacturing for AI Infrastructure - NVIDIA Newsroom",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ0ZxZHZ5VG96czVMOGU0RzZIaW5JdmtmZmdxM0tJUE1ybXFPME8tdllfdXZYYmstWDNieGF2eDJtZnNmbzBjSjYxNkZiWEdjRzVkdXhEQ293ajFaWHI0UnJuUV8xNEFET1ZNY0J3N1FRbE5vaHo4V2UtN3B2RVlNSEo2bGRqYnZ0S0ZkeDc4bWhHa01ER21OS3dDMmxqYmFTQmxMSGdsSGpqaUhnTkI4YUZESFh0SEh1dWs4NGxRbXE3RzhvM2hLVG9EcDI1STNVdENZ?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_ba7cd2ae941d",
@@ -968,9 +248,9 @@
       "title": "Nvidia CEO says AI partnership with Corning will 'revitalize American manufacturing' - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON0swZkZDZG5KN2JuUG0tOHdWNXlwM2lvMmNLZ2tnemp2RVUwaGR0MmJJdkYzYlZFM3llMGpqdWtocE1MSTl4Yk14ZnRfZ1lOc2l1eDl1WG1UekdCbmlmd1Vtd0FyT3k1aDNwcER3MklnOVBPTE1qNlJYTUI2WE95RmVWX1o1YmYyLVV6OVBCMnkyOVhfOVRjUWFnTGl5d0pzelpQTVVjc9IBrAFBVV95cUxOZklvODFHRFNuVEJDbVBLLWw4QVA1M0pYU3NNNThER2hKZlZTa1lyZjdxNm5tU0lNZ0llenZ3NDlOVjBfeUpGeVM5TFVITWVpcUxuZHVISlY1WVZBV3ZXSGJ5MUNuQUZNVlBoOHlRZ05vR3JhTW81N0IzeExfbm9MakZMZTM0ODRvMnNNR1R4SlRQTVh3d3lQeW9LRUhfaGRibURPVDkyMEEwNWpY?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_065df113721a",
@@ -978,9 +258,9 @@
       "title": "IREN Stock Rallies On Nvidia Partnership For AI Deployments - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNFdLZEUtQzRSd0dUM09oc3IzWlA5TzIzcHBidFJpNUZVVnJEcWViNkpmU1R0OWFUV054cmZNQ0I0dzFyU1ZVcEFkQVZIYzFCZDJobEh6VDRDRmZEX25yWlhwRm9LRm5tTEhuaGxneTJKVTBsNDA4OVN4Qk56M0txZHludTBydGgzaERQek9aOTM5YjM2Q1JuM2x4ajhMRTg?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_d5171433ef1c",
@@ -988,9 +268,9 @@
       "title": "A Look At Corning (GLW) Valuation After The NVIDIA AI Infrastructure Partnership And Share Price Surge - simplywall.st",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSThsNjU2Z3FPb2hiWE1VUTBWVExpam5NSjVWa2MxaFpXODlibThlbUxqUmI2NTFwU2lncUN6Nk9iSWc4dVNwYXJaOUFLTWxJaFo5UHhDSy15Z3dnVkZsVHk1eXVBbWdaUVpub2NFMVpwZ2RHRmxPZ0x4YXFCRWluX1Z6bTkxbU41cWZOOEJnbTNUY1pWWFFLWFlRQnUzR1gwNFdDLU1OTy1rU3UxeVdZSmNWZmRYejBaV3I00gHAAUFVX3lxTFBRazlsYmxTeFh4bnBwVk03SWJmdXV0RU12LXAzM3MwTnVmSEp5Y0FlZm5PTXpfT2JwX1NNSXZiVFVJemFwOTE1d1Z4OWJRZm9TQjFIRE1yZTB2bnVsb0ozTGxCdW5vczQyTnhVS2c3cjVKa1ZxdlRCVkdxLXB5b2NvNG1PR0JXTVUtRUhTRUNBdGx3dUJ3VlJJa25TOVZHX21KUzVHWnN3N2diSldGeTRJVEM5WXZFTnVOOE40MEVlWQ?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "us_d0a7b43d7562",
@@ -998,9 +278,9 @@
       "title": "Intel Could Be Moving Closer to an Apple Partnership—and Its Stock Is Racing Higher - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZjNxQU53VVFwM0dBNXkwQ0c2QzFjUjJaNENrS1E5bkdBekJNek9JbmxSMjVObk8wdkdOTC11MlJvSlhSOE9iWHZUQkNQdnh0WnAtT1J0dDRUWWZyWUtCc2VIWjBpcDIwVzI3VjktbjJXeUo3NnhfLTJwVFJrenVCeGxKejhZUXZCRGhOMUlraEVXcXBRdWNnR3V4MGhUVWhBZ2tiT0FPb1FnZm5SX2xJd05kR1EzSWx3UFRBYnA0RHNEbXhDekFYWHByVQ?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_9a83b6b9bcf8",
@@ -1008,9 +288,9 @@
       "title": "Corning and Nvidia Multi-Year AI Deal: Stock Hits New Highs in 2026 - News and Statistics - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkY0X3dJU3JPbm1ZNzdzbk9kc0gyaEg3dGhCUHYyMTV6Z1IzV2hGcUkwU0NFdFVwSmFXRWZ6VHZ3NmN4WW9hM3FjOUg3X0l6dGg0UFVlRGFzcWZMa2hKNF9oVGxXd0JoeVZPck1ydWlyQ2QtTGViQ2VoMXllQl8wS3ZoXzltQ3BEYUFqM3VuZDZ5dml3Q20yYVNCWUlxRjlGck90OFc5aWRpUEt2RkE?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 10
     },
     {
       "id": "us_d35b6845fee6",
@@ -1018,9 +298,9 @@
       "title": "NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure - NVIDIA Newsroom",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWUlUT1F5eFJRbjBvYVA2bzhUV3NUSExnMTNFVDVHZWlISzR2SV9mcXQzN2ZmRzJPcE84Z2xXVjVRTzhzd21ubkFuX0UxdHhPeG96dE5McTJJcklMR2VWWnNYV0FlZHRsUkZwNlg2NERiaTRGbFQ3WWs4V1dPbjdzdVNBcmlXWVVyczNuS2hwcTRSZEJnS0hVYXp5amZ3R0habHc3bktzeW9aMC1hY3RKUnBibVZlS2JaZTNnQmVjT3lkbnNjUlB0SnE4SGtaRm9Bd1I3REY1SnRMRGNmLTV4bWtn?oc=5",
       "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "us_dfe74064060b",
@@ -1173,20 +453,20 @@
       "score": 0
     },
     {
-      "id": "us_a462ca31080f",
-      "date": "2026-05-08",
-      "title": "Sitan Semiconductor, Changelight Form Partnership, Deepening Micro-LED Industry Chain Collaboration - Gasgoo",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZnQtOUdYUExPbHEybTA5NHllOHRzalpvN0hvVk41ZzE5LVdhVnB5ZDExcEVDRy1GQU8zdndlMFhUU0dlcnpIMVo5aW9CVmZBclRUSXQ5NnJpWElzVmRXeWhuUlVpclJ5ZTlaODNOSm9mYUlocjRza3lWZXJleDgwOUpINmluOFVxYkF5blBvc0Z6ZnNQZWFFTzVZTloyYzhUcG53ZTZZWURXMHZsLXZtQnY4c3UzTjBfcVBHWE0zbTljR3ptYThCa0Z3allSYXN3WWdkVHZsdDJfbnRUZWxaYmVTam9vaEtpMnE4dlBtaEY?oc=5",
+      "id": "us_3e499f37bb0d",
+      "date": "2026-05-07",
+      "title": "Nvidia to invest up to $2.1 billion in IREN in partnership that deploys as much as 5 gigawatts of its AI infrastructure - Sherwood News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTHBaZlVJZ29yYzg0QjF6bXlZRmEyU2NyN3c0NzZEb0k5dXpEd2owRjk0c1FTMVJQWVZYdThBaDRPd1drVGRlcnZDR21KZjNYS3hnQUkzYWdmM1dQV3RkZGsyS1pzT0RYYWdyeW1DVmJERXpIWWxnRjA0bUNjNzBTSnlsZjlhaUJCbWlBLWlGX09hMWRpaE1WRFVUcw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_3e499f37bb0d",
-      "date": "2026-05-07",
-      "title": "Nvidia to invest up to $2.1 billion in IREN in partnership that deploys as much as 5 gigawatts of its AI infrastructure - Sherwood News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTHBaZlVJZ29yYzg0QjF6bXlZRmEyU2NyN3c0NzZEb0k5dXpEd2owRjk0c1FTMVJQWVZYdThBaDRPd1drVGRlcnZDR21KZjNYS3hnQUkzYWdmM1dQV3RkZGsyS1pzT0RYYWdyeW1DVmJERXpIWWxnRjA0bUNjNzBTSnlsZjlhaUJCbWlBLWlGX09hMWRpaE1WRFVUcw?oc=5",
+      "id": "us_a462ca31080f",
+      "date": "2026-05-08",
+      "title": "Sitan Semiconductor, Changelight Form Partnership, Deepening Micro-LED Industry Chain Collaboration - Gasgoo",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZnQtOUdYUExPbHEybTA5NHllOHRzalpvN0hvVk41ZzE5LVdhVnB5ZDExcEVDRy1GQU8zdndlMFhUU0dlcnpIMVo5aW9CVmZBclRUSXQ5NnJpWElzVmRXeWhuUlVpclJ5ZTlaODNOSm9mYUlocjRza3lWZXJleDgwOUpINmluOFVxYkF5blBvc0Z6ZnNQZWFFTzVZTloyYzhUcG53ZTZZWURXMHZsLXZtQnY4c3UzTjBfcVBHWE0zbTljR3ptYThCa0Z3allSYXN3WWdkVHZsdDJfbnRUZWxaYmVTam9vaEtpMnE4dlBtaEY?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1207,6 +487,16 @@
       "date": "2026-05-06",
       "title": "NVIDIA, Corning Forge Partnership to Fortify AI Infrastructure | Business | May 2026 - Photonics Spectra",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjVaaHd0T2tTLTJ5LXdpN0ZlYm42eC1GalFRcUUyeFptRTVPVWRlS1B3VjdSczl2MHdUbWZBVXhrc0ItYkw3Q25GUExScGhITXNBUnYwc25KSXIyTkxMSVh6TzdHYlQ3QmdsSUl1N19uSnNZTGY3Y0tNV2JHM2FsZWM3dFNsaVcxNXlvcHNwUzQ5QQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_1abda4504028",
+      "date": "2026-05-09",
+      "title": "Intel nears chip-making partnership deal with Apple: report - malaysiasun.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWlIY0duSUw0aDZUa0hjVm9aNVZWdlExZTIzSWcya1lPVzZ1WUQxWXY1RktVZ3dadm1COHVkcG9vdWFaNkpNWnl1ZWttWXg2cGhWbXlabHRMZ08yYWlUX2VaT2pfVDFzM2JZdkZZX3hIOHNaQXdud1JmUlRZVExkUnpEVDlRaGZJUlFodkRWRVZ4X0E4SzNhVzA5SVRNNF95Q3c?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1543,16 +833,6 @@
       "score": 0
     },
     {
-      "id": "us_5e4cbbbe948c",
-      "date": "2026-05-07",
-      "title": "Apple and BOE reportedly deepen OLED partnership as BOE targets 35 million iPhone display shipments in 2026 - TechNode",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV2xHM3gxTnBSNjdjLUpYODlVQWlNMzZBMEZIWFRwNjBaclpLVmxaTHdSUVMwVVdpaVc1Q2V2NVhNM3o0ZTdudEVVbUd5VU5NdXdGN2djNDh4TWdZRUN0MWlqNEl0a3lETGxXNHY2VEplQzRLYmxDMTBUVU5UU0lRSnE4dVBXQ2lOWlcyVU1UeEZxdGdOTms0RmtFWnNNZXlmTUlRTUF3RVQ4N3VCVHB0T294SkJ4RzN1YjFHY1JCQTJVNkdFeUs0LWRVVERJLTlKVFd0ZUR4cw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_ef0c2323dbcf",
       "date": "2026-05-08",
       "title": "Nvidia stock rises as IREN Limited AI infrastructure partnership fuels optimism - Traders Union",
@@ -1563,20 +843,20 @@
       "score": 0
     },
     {
-      "id": "us_fdc8638a1069",
+      "id": "us_5e4cbbbe948c",
       "date": "2026-05-07",
-      "title": "Indosat Drives AI Innovation with Nvidia Partnership - VoIP Review",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM191WlZuMlBDS2EyajlWX3Vua2xpMWxFUzBYcERsOGJGTmhTb3V0TmJtUlFEZDM1VDFnYTlzSjNPOUZBRTNINFh4RVlPZDlMVTVWbTRyS1VTTGdHRDFkdVYwcmJNYk5vbGk4c2plUTdGYU9LUE5ObWZiNDRIQ3JmTWhTUjdIUQ?oc=5",
+      "title": "Apple and BOE reportedly deepen OLED partnership as BOE targets 35 million iPhone display shipments in 2026 - TechNode",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV2xHM3gxTnBSNjdjLUpYODlVQWlNMzZBMEZIWFRwNjBaclpLVmxaTHdSUVMwVVdpaVc1Q2V2NVhNM3o0ZTdudEVVbUd5VU5NdXdGN2djNDh4TWdZRUN0MWlqNEl0a3lETGxXNHY2VEplQzRLYmxDMTBUVU5UU0lRSnE4dVBXQ2lOWlcyVU1UeEZxdGdOTms0RmtFWnNNZXlmTUlRTUF3RVQ4N3VCVHB0T294SkJ4RzN1YjFHY1JCQTJVNkdFeUs0LWRVVERJLTlKVFd0ZUR4cw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_4db04141d9c6",
-      "date": "2026-05-08",
-      "title": "IREN Deepens NVIDIA Partnership With $3.4 Billion AI Cloud Agreement - TheEnergyMag",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0Z3ektJODVneUJGbk5PVVhxR3psRzRHc0k2THlRemhsVWE2UDdrdjNramx3UExTOG9oSVBvYlRTdzd4Y19Vc3lIeEM4M3NkSmxVNXF4UHFSZlloRkU0aHJ4bVp5ZDhJczNRbEhpbXlONlR6RFpXa2lCU3E3cl9yeWs2aHlLZ3l1RE1BNDF6akR4UVgtUnRaaktZUWI0NTgtNXVkSWpXS01kbE5KeDhUTkRwSDZ1Zw?oc=5",
+      "id": "us_fdc8638a1069",
+      "date": "2026-05-07",
+      "title": "Indosat Drives AI Innovation with Nvidia Partnership - VoIP Review",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM191WlZuMlBDS2EyajlWX3Vua2xpMWxFUzBYcERsOGJGTmhTb3V0TmJtUlFEZDM1VDFnYTlzSjNPOUZBRTNINFh4RVlPZDlMVTVWbTRyS1VTTGdHRDFkdVYwcmJNYk5vbGk4c2plUTdGYU9LUE5ObWZiNDRIQ3JmTWhTUjdIUQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1663,20 +943,20 @@
       "score": 0
     },
     {
-      "id": "us_051db3d827ea",
-      "date": "2026-05-09",
-      "title": "Guardians manager Stephen Vogt pumped to bring Patrick Bailey to team - Akron Beacon Journal",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdW1tX21MT3hNeURucGRHMzR2SGdhT3pNc01XUmsyM1AtSG9KMDBHY2NlWkx0OGtXcFJSRWJtVVllNk1vWnp5V3JzbUdJUjZEcWd2VXZLQnktTmczT2wwZGs0b2ZQaFZvT21TVG5jUUp3Mlg3dzFqX25fZVZXUkVkZWtmdmp2QTYwbnhpY3NqeUtvT2JGMGsxQVU2UTJhWHprNWJIclZrOTFWQTY3QkUzbUZITnhEZ3RTWjhIenlTQXFHcGY4Z1pucjhHTHBJTWszM3JqR0Zha0QyaFRWLXQzSA?oc=5",
+      "id": "us_dae91655b3f0",
+      "date": "2026-05-10",
+      "title": "Treace Medical Concepts earnings beat by $0.03, revenue topped estimates - Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTIyZ3dhLVBEbHd4a3daQVFaWDlnMmZRcGlHSUtuZHNGbHpKd20zeUQ4N2o0T2ltRVM0ZFlCdmc4NldJZW50Y1N6cW12TWViYjRPMkFubU1Bd0dxXy1GdHhoVkNNSkxSZTZfVElvRTVkeldnTjM1T1dsOXVmdWo2TmZPOF9MaW1PYWVSZ0gzb3cya2FSSmtqMlhJZHFYXzBnM29RX3Q3RU4zWnY2WG1XTDdNMlExOHM?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_dae91655b3f0",
-      "date": "2026-05-10",
-      "title": "Treace Medical Concepts earnings beat by $0.03, revenue topped estimates - Investing.com Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTIyZ3dhLVBEbHd4a3daQVFaWDlnMmZRcGlHSUtuZHNGbHpKd20zeUQ4N2o0T2ltRVM0ZFlCdmc4NldJZW50Y1N6cW12TWViYjRPMkFubU1Bd0dxXy1GdHhoVkNNSkxSZTZfVElvRTVkeldnTjM1T1dsOXVmdWo2TmZPOF9MaW1PYWVSZ0gzb3cya2FSSmtqMlhJZHFYXzBnM29RX3Q3RU4zWnY2WG1XTDdNMlExOHM?oc=5",
+      "id": "us_051db3d827ea",
+      "date": "2026-05-09",
+      "title": "Guardians manager Stephen Vogt pumped to bring Patrick Bailey to team - Akron Beacon Journal",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdW1tX21MT3hNeURucGRHMzR2SGdhT3pNc01XUmsyM1AtSG9KMDBHY2NlWkx0OGtXcFJSRWJtVVllNk1vWnp5V3JzbUdJUjZEcWd2VXZLQnktTmczT2wwZGs0b2ZQaFZvT21TVG5jUUp3Mlg3dzFqX25fZVZXUkVkZWtmdmp2QTYwbnhpY3NqeUtvT2JGMGsxQVU2UTJhWHprNWJIclZrOTFWQTY3QkUzbUZITnhEZ3RTWjhIenlTQXFHcGY4Z1pucjhHTHBJTWszM3JqR0Zha0QyaFRWLXQzSA?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1793,16 +1073,6 @@
       "score": 0
     },
     {
-      "id": "us_b1009246dcee",
-      "date": "2026-05-09",
-      "title": "Assessing Halliburton (HAL) Valuation After Earnings Beat Analyst Upgrades And Greenland Energy Agreement - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMk90T0xpTXJNVklSejdPNExVelhqY1A3MElxb0YwX3BNT3FEU0Jtcjd4ZWxWbVJFa1VVa3NPQnZQTGZKNzd2RlphbkhQRUF5RnlpS01yS3VYcjFNTy01THE2TTd6eGNUOEh5RVFodTRuRnA4NDluaGhGdDRUdzA4WHhYcmRlenJ4bWlrSm9LNWlrUHduLU5nTEIwZ3c2VTRLczR3dGVsREJhVk13S2ZLQ3hkX1FfNUYtemM1UVFOZkJ2SlnSAcgBQVVfeXFMTW5wdkhSOFFITmlIcmZUOHJfWTMwTFl3d0NubVk5ZzZPaEdKWWNfX05aR09HXzlmdU9URXlhNmZsUFR3dXpUWjRmbWttbHR2OUplUnduZXNSSnA1R1NXbm1tbnJ1NV9NVTRJa3ppNDFobjRJXzVaUHVGS0ZyWG1WeUJIQVRtWHJvRjhnMjJiQWFNWFlhUmROd2RvU1dwY1ZWTDRBTjNOZEFMS1NWZXpsbG9NX2Vrd3ppcm93Ri0xNTZ4bXJxbjh6cUY?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_c49e923ead41",
       "date": "2026-05-07",
       "title": "GameStop CEO opens eBay storefront to pay for potential eBay acquisition - The Guardian",
@@ -1813,10 +1083,10 @@
       "score": 0
     },
     {
-      "id": "us_31d7138cebcb",
+      "id": "us_b1009246dcee",
       "date": "2026-05-09",
-      "title": "A Look At Alarm.com (ALRM) Valuation After Earnings Beat Guidance Raise And New AI Tools - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbV9IcTlxNmtOTHNyOEhLODNCSXBIcUp5djY1U0NBaW0wUjdjZWVyZmlSRDdQOGtOSjRjS3BEbDNvcl92UGhkaDVQVlNxc0ptWkItR2NKam04SlRiLW80THA3TTdQWi1kcEZFRng2eFNLWGJmZEt4WU1uaW5PTWdMSnVNd09xdGNaaVRSTVI3QzlnNmlXaThGNkFR?oc=5",
+      "title": "Assessing Halliburton (HAL) Valuation After Earnings Beat Analyst Upgrades And Greenland Energy Agreement - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMk90T0xpTXJNVklSejdPNExVelhqY1A3MElxb0YwX3BNT3FEU0Jtcjd4ZWxWbVJFa1VVa3NPQnZQTGZKNzd2RlphbkhQRUF5RnlpS01yS3VYcjFNTy01THE2TTd6eGNUOEh5RVFodTRuRnA4NDluaGhGdDRUdzA4WHhYcmRlenJ4bWlrSm9LNWlrUHduLU5nTEIwZ3c2VTRLczR3dGVsREJhVk13S2ZLQ3hkX1FfNUYtemM1UVFOZkJ2SlnSAcgBQVVfeXFMTW5wdkhSOFFITmlIcmZUOHJfWTMwTFl3d0NubVk5ZzZPaEdKWWNfX05aR09HXzlmdU9URXlhNmZsUFR3dXpUWjRmbWttbHR2OUplUnduZXNSSnA1R1NXbm1tbnJ1NV9NVTRJa3ppNDFobjRJXzVaUHVGS0ZyWG1WeUJIQVRtWHJvRjhnMjJiQWFNWFlhUmROd2RvU1dwY1ZWTDRBTjNOZEFMS1NWZXpsbG9NX2Vrd3ppcm93Ri0xNTZ4bXJxbjh6cUY?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1827,6 +1097,16 @@
       "date": "2026-05-08",
       "title": "USA: RSF and FPF demand transparency from Paramount on potentially corrupt acquisition of media companies, including CNN - RSF.ORG",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWEp0MVh4Q1Q3NlZqNFU3aTlFcERRSGs2TmR3eFdYTDhSQ25aRmRiS1owMlBiekk3dThUOV9laUxGZ3hKVUU0R2ZxOTVUMDNUZFNId1BTUjJxY3FnY1NNekM0ZGVROWpPV1RtakRwaXdkMy1LaV9lcEFLbEpzMXYyWW90T0NiMzFXMFd2bnYyQ2RjQnpHbnQtaXFEcFkxbXo1a2pUUzgyS1hvdWhud2NQbGJR?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_31d7138cebcb",
+      "date": "2026-05-09",
+      "title": "A Look At Alarm.com (ALRM) Valuation After Earnings Beat Guidance Raise And New AI Tools - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbV9IcTlxNmtOTHNyOEhLODNCSXBIcUp5djY1U0NBaW0wUjdjZWVyZmlSRDdQOGtOSjRjS3BEbDNvcl92UGhkaDVQVlNxc0ptWkItR2NKam04SlRiLW80THA3TTdQWi1kcEZFRng2eFNLWGJmZEt4WU1uaW5PTWdMSnVNd09xdGNaaVRSTVI3QzlnNmlXaThGNkFR?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1893,20 +1173,20 @@
       "score": 0
     },
     {
-      "id": "us_5111b984a469",
+      "id": "us_83d5eeb8be03",
       "date": "2026-05-09",
-      "title": "A Look At Beam Therapeutics (BEAM) Valuation After Earnings Beat And Positive Clinical Updates - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2tXX0FGbVBYUGFQZmRxQjhlcGdrZkd4SmZISWJnMjhiZ25GdHVkVkVnSHMyRlVrbFpKNk53SjBZNHk3Y1pPbVJJV2hQZnd2QTdWNzNoeERHUVdwanVjVE5rZHR3VzFxMGFNSUFZSlB6T3hzTUJ1NEZBNkYyOTJSQmtFaDJvcHZSQm1ndWVUZ1kxRElmaDVkQXhKdEVFZ2x5NzdxMXdGdlhOa1BDNmw2Ul8zM1d1S2k1SXd3U01nTkpSanZhVEhjX2hyQWFwY2ZjSGVqNzdZaXA2ZjhUYmNqQWt5NWdXUdIB6wFBVV95cUxQVWhoeUNmN242Q2k1Xy1pcjZSNGpvOXV3SEo0VHZsU2gzR2h4bGtfY0FpN0ZRSURfMHozT2RuTVZVaFlOQlViZExfNkZ1ZndxMXM2NDIyazV2UTZxM0hYcU5NUVFYczliRHRmNEJUdDFrNkNfWFFXbXNmamlJSTBLMVpzd2Y0VW1hVWVOZUktLWxZc2pDT2xwRU52M3N5amZYU1ZidXEwOE5KX1pWUWVmbXpIU3JyYUNuMklMQXNSbHRxazBCMkdkNlpzbVVEQUZjTS1zZGgxSFZNZTN3YXhkaUhRUXNuSmZtR2Qw?oc=5",
+      "title": "The Bull Case For Nucor (NUE) Could Change Following Earnings Beat, Guidance Hike And Insider Selling - Learn Why - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUzhPYXJYZUg3UEZFbUJHTUZjdGJfQjh3X3dIQm4tZ05JZnpWR1VFa25RMDZUbEFKcmE0V0JXQWJULTNPZzBtLUpXSTYtSDBxQnhXQlpjakZ6eFFrSjZpV2VVaXRNMXJoSW1ndEVMWHA3ZkgySWprLVRVYi1lX3RiRmZtNGNpTXdFRzRlOHVMdHNSeTJER0FsaXFoUWs4VlhySmc1ejY4NnJwb0JCeVlwZFlLLXY5X2N5QVR2aWxR0gHDAUFVX3lxTE1TbnM1bS1CWkhOSUxBRUV4SnJSRW9hWkpoOFZWRTZwQWZUdmZvLVJnbTJSamMyQ2VZRFN5NmZqM1ZVd0tjMWl5VUp3UG5LbEoxdWxTTnpMbWQzcW5MN195b2VEbUdJaXBLNV9MQWxiWGx1T1ZsWUU4RHBsUDdkTUIyWmRMNHdacXRBbGdxbkoybmhBTFVVVXpuWFBoMzFqTU9zUWlTUXI0UHpseXBoQU1Ocmp5cXVxZGJYUmkwTkZVME9wVQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_83d5eeb8be03",
+      "id": "us_5111b984a469",
       "date": "2026-05-09",
-      "title": "The Bull Case For Nucor (NUE) Could Change Following Earnings Beat, Guidance Hike And Insider Selling - Learn Why - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUzhPYXJYZUg3UEZFbUJHTUZjdGJfQjh3X3dIQm4tZ05JZnpWR1VFa25RMDZUbEFKcmE0V0JXQWJULTNPZzBtLUpXSTYtSDBxQnhXQlpjakZ6eFFrSjZpV2VVaXRNMXJoSW1ndEVMWHA3ZkgySWprLVRVYi1lX3RiRmZtNGNpTXdFRzRlOHVMdHNSeTJER0FsaXFoUWs4VlhySmc1ejY4NnJwb0JCeVlwZFlLLXY5X2N5QVR2aWxR0gHDAUFVX3lxTE1TbnM1bS1CWkhOSUxBRUV4SnJSRW9hWkpoOFZWRTZwQWZUdmZvLVJnbTJSamMyQ2VZRFN5NmZqM1ZVd0tjMWl5VUp3UG5LbEoxdWxTTnpMbWQzcW5MN195b2VEbUdJaXBLNV9MQWxiWGx1T1ZsWUU4RHBsUDdkTUIyWmRMNHdacXRBbGdxbkoybmhBTFVVVXpuWFBoMzFqTU9zUWlTUXI0UHpseXBoQU1Ocmp5cXVxZGJYUmkwTkZVME9wVQ?oc=5",
+      "title": "A Look At Beam Therapeutics (BEAM) Valuation After Earnings Beat And Positive Clinical Updates - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2tXX0FGbVBYUGFQZmRxQjhlcGdrZkd4SmZISWJnMjhiZ25GdHVkVkVnSHMyRlVrbFpKNk53SjBZNHk3Y1pPbVJJV2hQZnd2QTdWNzNoeERHUVdwanVjVE5rZHR3VzFxMGFNSUFZSlB6T3hzTUJ1NEZBNkYyOTJSQmtFaDJvcHZSQm1ndWVUZ1kxRElmaDVkQXhKdEVFZ2x5NzdxMXdGdlhOa1BDNmw2Ul8zM1d1S2k1SXd3U01nTkpSanZhVEhjX2hyQWFwY2ZjSGVqNzdZaXA2ZjhUYmNqQWt5NWdXUdIB6wFBVV95cUxQVWhoeUNmN242Q2k1Xy1pcjZSNGpvOXV3SEo0VHZsU2gzR2h4bGtfY0FpN0ZRSURfMHozT2RuTVZVaFlOQlViZExfNkZ1ZndxMXM2NDIyazV2UTZxM0hYcU5NUVFYczliRHRmNEJUdDFrNkNfWFFXbXNmamlJSTBLMVpzd2Y0VW1hVWVOZUktLWxZc2pDT2xwRU52M3N5amZYU1ZidXEwOE5KX1pWUWVmbXpIU3JyYUNuMklMQXNSbHRxazBCMkdkNlpzbVVEQUZjTS1zZGgxSFZNZTN3YXhkaUhRUXNuSmZtR2Qw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1973,20 +1253,20 @@
       "score": 0
     },
     {
-      "id": "us_1a7d24910d10",
-      "date": "2026-05-09",
-      "title": "A Look At Howmet Aerospace (HWM) Valuation After Earnings Beat Guidance Hike And Acquisitions - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdUlmbjlqYURHdmZXU01fb2V3TEo0TGFLbWVMRnFfajUzUzBmSFpZaldZWGxIQ2NzbHA4Ukg5WDAtUUd5Xy1jbHE2ZWVqQkVaZXA1alI1NG1QWFk3VU9qa3ZMUzhBaW9icU02dTNEczBfV19yYXpra3V2ZUltMEFwYXVIOS0xUS1QeGpsUURkM2doNkZWUm1QU2E5RXBUMGpubk8tdnlXdzBESUxMR0NTWEJmR280TE1pQnFFeXdGd1VWS1dObzN6Tm1pTjBmYWEwMVVDWElR0gHbAUFVX3lxTE5rbzlJV0lsQzFodUFramg1alRJdnMzaTZ2YmFTOGs3OUlNX2FYTjNHVzYwR3FsWFB0NVM0TFZSOEFVZ0F2MVFmSTFqQUdYYmhERmFvMnpCMmZ4ZFhqNFVGNVViMTZFNmhnM24wMnlocTVua1h1SWdBaHJ3VERDcWVlS0pPNGFJUkp5T3NyN01nbU5DVEgyU2xSUnVVMTQ0SnVCcURDQ0RyRTBfZndra21wY0hBMGZWYXhoX3JQb29kRWFuQXhoUC0zaEZPcVZrbGdkRW56VHZOWUd1OA?oc=5",
+      "id": "us_82fb8c416d0d",
+      "date": "2026-05-07",
+      "title": "eXp enters the franchise business with NextHome acquisition - RealEstateNews.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlBJeHh0TFM0RnBKakg0YkRCR2JGYkpMbDZqWFBYbG9QUjRVdVl4dmxaanVNYnNobUtaaEs5a1RIeG95QlNPb25JcWRHQ1d0OVp1QjRRX0loZEV1X1BydUw1cVBpYTFELTZxeklNeEFtYnFOWGtVbU1MZzFvVnFqUE9RcTlfelFqcV9HemhtaDU3Wk54VDE1OE4zNnpHM2NVa3hz?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_82fb8c416d0d",
-      "date": "2026-05-07",
-      "title": "eXp enters the franchise business with NextHome acquisition - RealEstateNews.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlBJeHh0TFM0RnBKakg0YkRCR2JGYkpMbDZqWFBYbG9QUjRVdVl4dmxaanVNYnNobUtaaEs5a1RIeG95QlNPb25JcWRHQ1d0OVp1QjRRX0loZEV1X1BydUw1cVBpYTFELTZxeklNeEFtYnFOWGtVbU1MZzFvVnFqUE9RcTlfelFqcV9HemhtaDU3Wk54VDE1OE4zNnpHM2NVa3hz?oc=5",
+      "id": "us_1a7d24910d10",
+      "date": "2026-05-09",
+      "title": "A Look At Howmet Aerospace (HWM) Valuation After Earnings Beat Guidance Hike And Acquisitions - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdUlmbjlqYURHdmZXU01fb2V3TEo0TGFLbWVMRnFfajUzUzBmSFpZaldZWGxIQ2NzbHA4Ukg5WDAtUUd5Xy1jbHE2ZWVqQkVaZXA1alI1NG1QWFk3VU9qa3ZMUzhBaW9icU02dTNEczBfV19yYXpra3V2ZUltMEFwYXVIOS0xUS1QeGpsUURkM2doNkZWUm1QU2E5RXBUMGpubk8tdnlXdzBESUxMR0NTWEJmR280TE1pQnFFeXdGd1VWS1dObzN6Tm1pTjBmYWEwMVVDWElR0gHbAUFVX3lxTE5rbzlJV0lsQzFodUFramg1alRJdnMzaTZ2YmFTOGs3OUlNX2FYTjNHVzYwR3FsWFB0NVM0TFZSOEFVZ0F2MVFmSTFqQUdYYmhERmFvMnpCMmZ4ZFhqNFVGNVViMTZFNmhnM24wMnlocTVua1h1SWdBaHJ3VERDcWVlS0pPNGFJUkp5T3NyN01nbU5DVEgyU2xSUnVVMTQ0SnVCcURDQ0RyRTBfZndra21wY0hBMGZWYXhoX3JQb29kRWFuQXhoUC0zaEZPcVZrbGdkRW56VHZOWUd1OA?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2033,16 +1313,6 @@
       "score": 0
     },
     {
-      "id": "us_56b1f7a67a66",
-      "date": "2026-05-09",
-      "title": "Assessing SM Energy (SM) Valuation After Merger Synergies Earnings Beat And New Capital Return Plans - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc18yendLV25yRV9Xc3RxQU9zLS03aVppNnIzam0zZ1B1ZExsREZiRFVUNy1YejV2aDRGNmJFWHN5NnRNakFxcko5MWxoX2F0UXYyYjE1MkhESVNyWjBJQkxXVUZJX05RMXQ5ZVZoclpEWUpaRTdmR21WTzNQM19HZ3VEM1lyQUlVVEZXV2ZjNUowa0Z0aXZyVV8zMDNKdw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_23094bc284d7",
       "date": "2026-05-08",
       "title": "Joy Bridge Kids Steps into Adult Services Space with New Acquisition - Behavioral Health Business",
@@ -2053,10 +1323,10 @@
       "score": 0
     },
     {
-      "id": "us_3a73fbc684b5",
+      "id": "us_56b1f7a67a66",
       "date": "2026-05-09",
-      "title": "How Investors Are Reacting To DoorDash (DASH) Earnings Beat, AI Push And Share Buybacks - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0drbFBqbzdGc3NjZlZIdDFTWUh6MWZYTF9EQnpjSUxEYUpsUm10NUtsVTluX2FwdmZkNHk2V1B4cGpaSkprOVVROHhxbnp4YV9GeTJFckM3WDBzaFhORWxyUWJCcTVYbG53Y1NGMEoxTnF0ZVotSEJzUXRfdF9kN3hHZlFldTZiXzdoRzl4anQyVVNCUEtjRW12dWpTNUJNUFBLTHc0MzBrUQ?oc=5",
+      "title": "Assessing SM Energy (SM) Valuation After Merger Synergies Earnings Beat And New Capital Return Plans - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc18yendLV25yRV9Xc3RxQU9zLS03aVppNnIzam0zZ1B1ZExsREZiRFVUNy1YejV2aDRGNmJFWHN5NnRNakFxcko5MWxoX2F0UXYyYjE1MkhESVNyWjBJQkxXVUZJX05RMXQ5ZVZoclpEWUpaRTdmR21WTzNQM19HZ3VEM1lyQUlVVEZXV2ZjNUowa0Z0aXZyVV8zMDNKdw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2073,30 +1343,20 @@
       "score": 0
     },
     {
+      "id": "us_3a73fbc684b5",
+      "date": "2026-05-09",
+      "title": "How Investors Are Reacting To DoorDash (DASH) Earnings Beat, AI Push And Share Buybacks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0drbFBqbzdGc3NjZlZIdDFTWUh6MWZYTF9EQnpjSUxEYUpsUm10NUtsVTluX2FwdmZkNHk2V1B4cGpaSkprOVVROHhxbnp4YV9GeTJFckM3WDBzaFhORWxyUWJCcTVYbG53Y1NGMEoxTnF0ZVotSEJzUXRfdF9kN3hHZlFldTZiXzdoRzl4anQyVVNCUEtjRW12dWpTNUJNUFBLTHc0MzBrUQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_a97358f01e9f",
       "date": "2026-05-09",
       "title": "A Look At Global-E Online (GLBE) Valuation After Strong Earnings Beat And Raised 2024 Outlook - simplywall.st",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUE5aYjd2VVRyQ3VvR3ZCbzhaMkpWV0ltdndDVEpyZmR3RGRDYkthZmxZME44ejlOMVBLNHF2SUtvbnZrMVNJTlB0YWIzb0x0dHpGQVplX1NiS2tubW1xamEzc3Z6eDZoc3JoZmNXZkRFUlpLSXFWMVBUeFllbWtqSWxhZE9MMkYyN0JORnFRZFlSNEFoR2cwcmdaRkVIUHZtN3MxLTN0LXlIbWJreTFqTW9zVHRKOTFib3kyT2FaLUFuOUZKVGszZzdRVjnSAdIBQVVfeXFMTmpZenhnazN0cWhBTHdJZ0VET2lzeG5oZzV2cDZKc25Wa2hmTzB5VHBIOFJlQTVVU2oyM1ZzLUtnUU9HVklTSElTcUdjcE16U0JlV3RmS1JsMVp1TEUxYW9femxNX0pZQ3pNd2kwTlFmTjZTd2xfS0wwOTdYcWRERlBQZklUVjR6WDlPNFBkY1FiWElYc3prcWhiSnA2TVdodDYwajhqc2pqOGp0bzM1ZnRaS2NMNlRCdS13YVVocTI1X0YzdTgwYUdHSFMydERaMGtB?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_0f81ace9ad94",
-      "date": "2026-05-09",
-      "title": "The Wendy’s Co earnings beat by $0.02, revenue topped estimates - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVBhQ3hiWU9mSWJZMkUzNWhFLThlbHBZdURlaC0wOGlfSXhfQUtzT19fV1k3OGhpTE1nalQ2dDhLckdKT3gzYk5PRlBROElxTzBlQVZDeU1EWDdiMEFENFZyYWY0UHVxSnREZmU4UzVMTzk4SFdvUjhZeUw0MlRxWExLYk5zYlFFak9GRmFYWFgzLWFsZ0dGclg0dk9HTl91aDkxaEY5blVJSlE?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_99c81226ae70",
-      "date": "2026-05-09",
-      "title": "ANI Pharma earnings beat by $0.60, revenue topped estimates - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUlCVzhzNVRDMnNTU2xxbnNEaVlpWmhBOXFqbnMyMklwd3hRbTlqRzNVekpjNFNSTUhMZXd6dnhSSktsTHV4Z3RwVlRFMWRGeTNwLVdpS1M1bDNVZGFGclA5SDlXY1h4VDNZNWhiZVZtQ0FZbzNXSkN0dzhtV2xHZFM2NUYxc2s2eHplcng1WF9PczIwcWc4V0c1ZUplSlNKMnRtdW9xMA?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2123,6 +1383,36 @@
       "score": 0
     },
     {
+      "id": "us_0f81ace9ad94",
+      "date": "2026-05-09",
+      "title": "The Wendy’s Co earnings beat by $0.02, revenue topped estimates - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVBhQ3hiWU9mSWJZMkUzNWhFLThlbHBZdURlaC0wOGlfSXhfQUtzT19fV1k3OGhpTE1nalQ2dDhLckdKT3gzYk5PRlBROElxTzBlQVZDeU1EWDdiMEFENFZyYWY0UHVxSnREZmU4UzVMTzk4SFdvUjhZeUw0MlRxWExLYk5zYlFFak9GRmFYWFgzLWFsZ0dGclg0dk9HTl91aDkxaEY5blVJSlE?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_99c81226ae70",
+      "date": "2026-05-09",
+      "title": "ANI Pharma earnings beat by $0.60, revenue topped estimates - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUlCVzhzNVRDMnNTU2xxbnNEaVlpWmhBOXFqbnMyMklwd3hRbTlqRzNVekpjNFNSTUhMZXd6dnhSSktsTHV4Z3RwVlRFMWRGeTNwLVdpS1M1bDNVZGFGclA5SDlXY1h4VDNZNWhiZVZtQ0FZbzNXSkN0dzhtV2xHZFM2NUYxc2s2eHplcng1WF9PczIwcWc4V0c1ZUplSlNKMnRtdW9xMA?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_76681c461d39",
+      "date": "2026-05-08",
+      "title": "PRAA Q1 Earnings Beat Estimates on Higher Cash Collections - Zacks Investment Research",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGRTVVJQY0VXSzJ1N1dWMGR1RDNfenZqY1U2R004ZzRTZ3RwbWpxX1poUG5WRzNWLWtFeUFiR2diRmNjR2x2U2EzQkFKQ0oyY0ozTVZnc1pZdjliSGZoSVl6Nmt5Skp3WE9Ta1cwUWtJR2JZU0cxcTRBX0IxdUxsUWVTRGFERHJlUWExOXVwMmFEeDZzLWtmYTI4T1NROGVX?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_7317b829fff0",
       "date": "2026-05-09",
       "title": "Grand Hyatt hotel acquisition sees Paradise Q1 profit down 56% despite higher gaming revenues - IAG – Inside Asian Gaming",
@@ -2143,16 +1433,6 @@
       "score": 0
     },
     {
-      "id": "us_6bf8fe07ee96",
-      "date": "2026-05-09",
-      "title": "Clean Harbors Terra Nova Acquisition: FTC Clearance Granted May 2026 - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQmp1WGZhaEFZQjk2SjZBTlhPU2tzMTNqdy1oRUp0em1RTFFhYXUwYk1pT1NTZjhZRnlMcUNfLWJybGFVSXBNV1hmQmJtZnpoNC1kQ0RpcjhRZ1ZXN0ZjaU9lMlhsVlJsT3dEc1dCM0U1N1M1NzBEakJYbVNodzBMd0ZsaUNGRXE1anN4RnRwdy1COGh2aUppTGpkSUJJdkk?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_edeaf5df940b",
       "date": "2026-05-08",
       "title": "Expedia Q1 2026 earnings beat but stock falls on weak guidance - qz.com",
@@ -2163,10 +1443,10 @@
       "score": 0
     },
     {
-      "id": "us_07aee8a3bea2",
+      "id": "us_6bf8fe07ee96",
       "date": "2026-05-09",
-      "title": "York Space Systems Acquisition And Contracts Put Valuation And Volatility In Focus - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbVduaFl2dEdHLW5XN3plWUJsdjZKbXhfRjBmTlZVaVZISV9PZEZMYmczUjVpVUJuZUxwT2hjaGFfZjZOSk9UdFhFWGhJRXFnc0xrZDZVRkJlLXRyX0Z3X00xUkx3dmtlRk1ubXZJSlhXLUpmOUdvdHd2SWVmT0t3aTQ3V01rd2VnMFRKS3lxMUMzbjZ5TzFaTzhRYUpjQzA1ZEZPZllNcDQ?oc=5",
+      "title": "Clean Harbors Terra Nova Acquisition: FTC Clearance Granted May 2026 - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQmp1WGZhaEFZQjk2SjZBTlhPU2tzMTNqdy1oRUp0em1RTFFhYXUwYk1pT1NTZjhZRnlMcUNfLWJybGFVSXBNV1hmQmJtZnpoNC1kQ0RpcjhRZ1ZXN0ZjaU9lMlhsVlJsT3dEc1dCM0U1N1M1NzBEakJYbVNodzBMd0ZsaUNGRXE1anN4RnRwdy1COGh2aUppTGpkSUJJdkk?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2193,16 +1473,6 @@
       "score": 0
     },
     {
-      "id": "us_08042248b507",
-      "date": "2026-05-09",
-      "title": "Assessing Viatris (VTRS) Valuation After Earnings Beat Guidance Reaffirmation And Pipeline Progress - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMlFMVlRuLXdjaktvYktYUEVoQm1DVnQ3U1ktUmF6N0pMQ2NJd2c5cjc4dGFSbWQtY0JxbmJHVXJ1OGlhYVJGRkdVc3JrLTdnbUR4UkRnNVZ0bFZlQ05vQ0VQNkNVV0N1cS1feHRPN29pTTNLanI1ejRZZHNWR2pNUk5fZGx1WFdwWmpyQXJoUXZJcGtUcnlxUW1kMl9OUlQzRkFWdlQzY1BWaGFOanN4aHhreTdmdXJVTUMxODVpYVJ5bVFaQ190c1dxNFU4ZmR6TlVlWHI3VULSAd4BQVVfeXFMTjR2SVhIZGg0c0FXQjk3bGk3a1diZDdhTFJGdGhSaWxWSndiWnZTZkdrbFVDaDgwVmJQVVM1Rlh3NG5DeXRNWDN1aDJ2dUVnRlZnNU9lcmZiTEtnei01NkNfaXVobFFnREYycEx3UVVneGx4LXdGR0RUY1NndFVPYjZuZWIyaGk0S1JYZ0pFVGpXNlVVUENCVmc5Qk9JVzFHaExIcHRuYW1NbW9TaUlDbm5KejQ2Wm1BOEFGaE51UUdyRDRFVjVfQ0xRSGhTOWNZZEJybTZBUjNzYkNkYkpn?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_d8402f6b081e",
       "date": "2026-05-08",
       "title": "Presidio Executes Purchase Agreements for Canyon Creek Acquisition - Business Wire",
@@ -2223,10 +1493,30 @@
       "score": 0
     },
     {
+      "id": "us_07aee8a3bea2",
+      "date": "2026-05-09",
+      "title": "York Space Systems Acquisition And Contracts Put Valuation And Volatility In Focus - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbVduaFl2dEdHLW5XN3plWUJsdjZKbXhfRjBmTlZVaVZISV9PZEZMYmczUjVpVUJuZUxwT2hjaGFfZjZOSk9UdFhFWGhJRXFnc0xrZDZVRkJlLXRyX0Z3X00xUkx3dmtlRk1ubXZJSlhXLUpmOUdvdHd2SWVmT0t3aTQ3V01rd2VnMFRKS3lxMUMzbjZ5TzFaTzhRYUpjQzA1ZEZPZllNcDQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "us_cac1076e2184",
       "date": "2026-05-08",
       "title": "Gilead Stock Falls After Earnings. A Big Acquisition Spree Is Coming at a Cost. - Barron's",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNElfc2RiRWJOaDRBb2ZoY0hfalk1N0cwdFYzLWlWSUpvZjZST1JvbFVIMlhVOVJnYnBFcGljcExhWk1qR3NPendzRkk0X2ZfM0xOQmtmQ2ZEUXBrTEQtNHVwTE1VbjFORmRhbTZQeW1HeXZ3T2kzNVRTaW40RkJZVk1yQTA?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_08042248b507",
+      "date": "2026-05-09",
+      "title": "Assessing Viatris (VTRS) Valuation After Earnings Beat Guidance Reaffirmation And Pipeline Progress - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMlFMVlRuLXdjaktvYktYUEVoQm1DVnQ3U1ktUmF6N0pMQ2NJd2c5cjc4dGFSbWQtY0JxbmJHVXJ1OGlhYVJGRkdVc3JrLTdnbUR4UkRnNVZ0bFZlQ05vQ0VQNkNVV0N1cS1feHRPN29pTTNLanI1ejRZZHNWR2pNUk5fZGx1WFdwWmpyQXJoUXZJcGtUcnlxUW1kMl9OUlQzRkFWdlQzY1BWaGFOanN4aHhreTdmdXJVTUMxODVpYVJ5bVFaQ190c1dxNFU4ZmR6TlVlWHI3VULSAd4BQVVfeXFMTjR2SVhIZGg0c0FXQjk3bGk3a1diZDdhTFJGdGhSaWxWSndiWnZTZkdrbFVDaDgwVmJQVVM1Rlh3NG5DeXRNWDN1aDJ2dUVnRlZnNU9lcmZiTEtnei01NkNfaXVobFFnREYycEx3UVVneGx4LXdGR0RUY1NndFVPYjZuZWIyaGk0S1JYZ0pFVGpXNlVVUENCVmc5Qk9JVzFHaExIcHRuYW1NbW9TaUlDbm5KejQ2Wm1BOEFGaE51UUdyRDRFVjVfQ0xRSGhTOWNZZEJybTZBUjNzYkNkYkpn?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2253,20 +1543,20 @@
       "score": 0
     },
     {
-      "id": "us_964471857d7d",
-      "date": "2026-05-09",
-      "title": "Legacy Housing earnings beat by $0.01, revenue fell short of estimates - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ2Q5dXlUY1htQXhXS3RXRmtWUVZPVmhPdlpiU1NhYzlGU1J2LW1LNkNVcDNBbHhNUDFCVVRZX2ZKSmJtRmpfUWE5WmQ3VVZESzBIaXhfRk90bXhTRDRHbUR4ZTgwSnIwTFBsSTRpNUpzbzdHSTNxSUN1QlZVdzJaV09zZnNBeTRUdTdSZzRGQmtqZUc2dnBNbmJ5RlAwRXNEeG85LTlJX3lmczZsWFlCZnQ5cVNrdw?oc=5",
+      "id": "us_fd143f81d235",
+      "date": "2026-05-07",
+      "title": "KALA BIO Announces Reverse Stock Split - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVERSQ2duT1JkeW1iZnR5Vk9pTjhVVEt5cnhrR01lOHhOblRKOEd3ZkNLNXJtbU1qd0VVVHVJeDZPcU5jdnJuNWdBVVlpMDh6NEoxSm43Wkx3dDlLb0xqazVBNkR5eWZxV2RfUHZVZXRaVldkdFhFY1NLLXc1bzdjbDVHbl9TOG8xZ24xWTJaTElZemNlYzQ5OHhOUm9sZw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_fd143f81d235",
-      "date": "2026-05-07",
-      "title": "KALA BIO Announces Reverse Stock Split - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVERSQ2duT1JkeW1iZnR5Vk9pTjhVVEt5cnhrR01lOHhOblRKOEd3ZkNLNXJtbU1qd0VVVHVJeDZPcU5jdnJuNWdBVVlpMDh6NEoxSm43Wkx3dDlLb0xqazVBNkR5eWZxV2RfUHZVZXRaVldkdFhFY1NLLXc1bzdjbDVHbl9TOG8xZ24xWTJaTElZemNlYzQ5OHhOUm9sZw?oc=5",
+      "id": "us_964471857d7d",
+      "date": "2026-05-09",
+      "title": "Legacy Housing earnings beat by $0.01, revenue fell short of estimates - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ2Q5dXlUY1htQXhXS3RXRmtWUVZPVmhPdlpiU1NhYzlGU1J2LW1LNkNVcDNBbHhNUDFCVVRZX2ZKSmJtRmpfUWE5WmQ3VVZESzBIaXhfRk90bXhTRDRHbUR4ZTgwSnIwTFBsSTRpNUpzbzdHSTNxSUN1QlZVdzJaV09zZnNBeTRUdTdSZzRGQmtqZUc2dnBNbmJ5RlAwRXNEeG85LTlJX3lmczZsWFlCZnQ5cVNrdw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2283,20 +1573,20 @@
       "score": 0
     },
     {
-      "id": "us_d22acdcc9a97",
+      "id": "us_e5c0d9cbf2e0",
       "date": "2026-05-09",
-      "title": "Carson Soucy was a textbook Rangers acquisition that just didn't move the needle - Blue Line Station",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY2wxT2d5YjNINzVIWFRoWnA2LV9ndmg2b2sxNDNHbkJuTlNZUnM3R0tLbWlTeHU5QmZJXy11R1ZSQnVNaXZJOHZlUVJZT2NUWTNqRzhieGhlc0dLODg5c2lobEN6dlBJQ3ZGbDkzT2RQQVNUb3ZxQW5YdUNNS1lFb2hWb0FYRFR4XzNVYmZGWlVSM2JiOTRZZXgwVEdHUk80UFo1NjdsdG04YVVjQk5nWGdpQ3ByeGQzR0xiRHRn?oc=5",
+      "title": "A Look At Welltower (WELL) Valuation After Earnings Beat And Higher Full Year Guidance - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM3VMLXBRb21ld1l3aE9zeUF1WVY1T0szQUQ3eGROQ1ZQdThqZEhQcXNWS25ocWZXMEdZU3hKLWNrb3cwR0otMzVwclhyZDJQdnpoQWZ3dmtjRlVOakFhLWh2RExNWTB1V3Q1WUVWVnpwMHlEWG54RUI4bGRUXzZsV1poWHM5ZDNEMUFkU2VNbzI3OE5uVkVYamlOZzhvbTl1ekxsSEljbzQ3NzdCd1JBUG5zRklCSTJLa0MzcWVpYng2YXUxRjNEc9IBzgFBVV95cUxQV04zTWxCMkNyaVE5bzVmRlY0RWQtR3N6YzlvX2RQc2NQNVg3UnFJU0tqYl9jWHRGcWVvUXdXVkZucWtpb0drLUNhLVROdmJyUHJOY3E5RGJTUWJSXzdyYnZZTVhBUi1rN2IyT3hVLWlQZThBOFktZ3JqbmRGcjJGQ1FZbktCbUMzSnFtTldvVnIxTE05WWFtOTBfX1JYS09ZU3ZOZGgtdzFEZjVEUWNiUzhISkJKcjhpeEVBb2RrRE1ZWVBheTJnb2lVUjNhQQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_e5c0d9cbf2e0",
+      "id": "us_d22acdcc9a97",
       "date": "2026-05-09",
-      "title": "A Look At Welltower (WELL) Valuation After Earnings Beat And Higher Full Year Guidance - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM3VMLXBRb21ld1l3aE9zeUF1WVY1T0szQUQ3eGROQ1ZQdThqZEhQcXNWS25ocWZXMEdZU3hKLWNrb3cwR0otMzVwclhyZDJQdnpoQWZ3dmtjRlVOakFhLWh2RExNWTB1V3Q1WUVWVnpwMHlEWG54RUI4bGRUXzZsV1poWHM5ZDNEMUFkU2VNbzI3OE5uVkVYamlOZzhvbTl1ekxsSEljbzQ3NzdCd1JBUG5zRklCSTJLa0MzcWVpYng2YXUxRjNEc9IBzgFBVV95cUxQV04zTWxCMkNyaVE5bzVmRlY0RWQtR3N6YzlvX2RQc2NQNVg3UnFJU0tqYl9jWHRGcWVvUXdXVkZucWtpb0drLUNhLVROdmJyUHJOY3E5RGJTUWJSXzdyYnZZTVhBUi1rN2IyT3hVLWlQZThBOFktZ3JqbmRGcjJGQ1FZbktCbUMzSnFtTldvVnIxTE05WWFtOTBfX1JYS09ZU3ZOZGgtdzFEZjVEUWNiUzhISkJKcjhpeEVBb2RrRE1ZWVBheTJnb2lVUjNhQQ?oc=5",
+      "title": "Carson Soucy was a textbook Rangers acquisition that just didn't move the needle - Blue Line Station",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY2wxT2d5YjNINzVIWFRoWnA2LV9ndmg2b2sxNDNHbkJuTlNZUnM3R0tLbWlTeHU5QmZJXy11R1ZSQnVNaXZJOHZlUVJZT2NUWTNqRzhieGhlc0dLODg5c2lobEN6dlBJQ3ZGbDkzT2RQQVNUb3ZxQW5YdUNNS1lFb2hWb0FYRFR4XzNVYmZGWlVSM2JiOTRZZXgwVEdHUk80UFo1NjdsdG04YVVjQk5nWGdpQ3ByeGQzR0xiRHRn?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2323,20 +1613,20 @@
       "score": 0
     },
     {
-      "id": "us_2e822370b51a",
-      "date": "2026-05-09",
-      "title": "How Investors May Respond To Southern Copper (SCCO) Earnings Beat, Higher Payouts And New CEO Appointment - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDFGZnFrOUllWm1Md2hSYWp6N3dKVXl0b1BKZFZhRFhZdUxlNFlPR3VvZ1pKWUNscHJOcEtCRDV2bjRJdEVjN2ZxeEN0WXkxQ0JCSW5ocWlvUlpldTVnWXFScHJVTEVJRDYtR0V5TDNVZEVlc3lzMmtFTzVGdmw5dUc0Y0RaczhIbUUxY0N3aHhuT0pJSUhBaUVVR3N5RnBhY1U2VQ?oc=5",
+      "id": "us_fd3f725e5275",
+      "date": "2026-05-08",
+      "title": "Block Q1 2026 earnings beat raises full-year guidance - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tdm9xSGJpbzhlVmpfSWE3WWZ5RjBsVGQ1MGxLYWNaTEFvTzBZTWJVeUhicHI4U3RhRmlYRVE2RXowc0RCM05lUm1fY0VOZmk4c05FN0ZZczgyR2E2ZUpXRngzV1dTZ000VTNESHNKaHRsdFZtNnc?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_fd3f725e5275",
+      "id": "us_0e539f722866",
       "date": "2026-05-08",
-      "title": "Block Q1 2026 earnings beat raises full-year guidance - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tdm9xSGJpbzhlVmpfSWE3WWZ5RjBsVGQ1MGxLYWNaTEFvTzBZTWJVeUhicHI4U3RhRmlYRVE2RXowc0RCM05lUm1fY0VOZmk4c05FN0ZZczgyR2E2ZUpXRngzV1dTZ000VTNESHNKaHRsdFZtNnc?oc=5",
+      "title": "HAVA Technical Analysis | Trend, Signals & Chart Patterns | HARVARD AVE ACQUISITION-CL A (NASDAQ:HAVA) - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwSktqVHY1akVFNWdTb2s0V0R0WDBQQ2g4T1NTaTgtN00wSVpBRnp1alBtVzBhUHpKS1E2UFU2QThKRl9MaThDSWJfdEJwcTk2NTNiSURvM3FsQ052Q1IxR0hxRVRHRnU0a2tpSE53?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2363,16 +1653,6 @@
       "score": 0
     },
     {
-      "id": "us_0e539f722866",
-      "date": "2026-05-08",
-      "title": "HAVA Technical Analysis | Trend, Signals & Chart Patterns | HARVARD AVE ACQUISITION-CL A (NASDAQ:HAVA) - ChartMill",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwSktqVHY1akVFNWdTb2s0V0R0WDBQQ2g4T1NTaTgtN00wSVpBRnp1alBtVzBhUHpKS1E2UFU2QThKRl9MaThDSWJfdEJwcTk2NTNiSURvM3FsQ052Q1IxR0hxRVRHRnU0a2tpSE53?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_44144b6bee2a",
       "date": "2026-05-08",
       "title": "Will Carvana Continue To Rally Post Stock Split? - Trefis",
@@ -2383,10 +1663,10 @@
       "score": 0
     },
     {
-      "id": "us_7401d9cfa2d8",
+      "id": "us_2e822370b51a",
       "date": "2026-05-09",
-      "title": "Should KLA’s Stock Split, Dividend Hike and Completed Buyback Require Action From KLA (KLAC) Investors? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkE1bldKMUpfMFRMM3hXMU1QbVhUWXhaSm55eUNkTnVDcWRZTUtseHJmVHBMcENmVUYzdlREUGNPQXBCVzRZakRLWExkT2lSLU9jM0FTTkVHRTJFN3Bxb19PNHg3V2cyYkljOWpzeFNRUjNPM0lydFBFVHYtNVJBRkFPTmF0UDhSYlNhVUxOSjRYVDU4dE9iOERlZlYydmlPbmd2a1ZJRTNpSDdXekoySnIzTUF0czlkQkM4dVdSZlVGSTFpclHSAcsBQVVfeXFMTjF1bTFHMUVtUzRQc1RZVFg2TFhVN3NzY29nTXlwa2g0aVRUZjAteFZ0YTZwMGZodzRLcHhLc3lUR3h0Q0ZMT20yTTBuc0llSU1UMnM1RHFSTDRRZ0lkLW5WVWQxcVBBck1RaV9BUFVCVmxGTm0zT2xJRGJCaUxxX2duT0NlWkF4RXZuR3dYelpJOHJTTm9Wc1hpbnB6TkRidTI2RW00WmxleW1fNkJZVTFQNzJSbGNURUtMQjEyRlRJd0hya0VTZVp4NWs?oc=5",
+      "title": "How Investors May Respond To Southern Copper (SCCO) Earnings Beat, Higher Payouts And New CEO Appointment - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDFGZnFrOUllWm1Md2hSYWp6N3dKVXl0b1BKZFZhRFhZdUxlNFlPR3VvZ1pKWUNscHJOcEtCRDV2bjRJdEVjN2ZxeEN0WXkxQ0JCSW5ocWlvUlpldTVnWXFScHJVTEVJRDYtR0V5TDNVZEVlc3lzMmtFTzVGdmw5dUc0Y0RaczhIbUUxY0N3aHhuT0pJSUhBaUVVR3N5RnBhY1U2VQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2397,6 +1677,16 @@
       "date": "2026-05-09",
       "title": "Fidelity National Info earnings beat by $0.07, revenue topped estimates - Investing.com Nigeria",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUhnVUo2dkVRdklBLU54bU40MmZ4SG1VdzV5eGZ2M2VjQTVDUWZobWg1cExEMFB2OWdhM0dyb3R3OHZrT3ozWXVBeEROWjFUVEpnT1RFTlZJMXFTbTZUendrREJKVnduUEo5QnpnZTBvRWd6bGdoNDVPdmMzVzVPYjQ0QWl6SUdqLWswWktEbUxva1lOWW0yajFhSjg3WS1FQl9jWkdFV3lOVHlTblJhVXNHWG1NUQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_7401d9cfa2d8",
+      "date": "2026-05-09",
+      "title": "Should KLA’s Stock Split, Dividend Hike and Completed Buyback Require Action From KLA (KLAC) Investors? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkE1bldKMUpfMFRMM3hXMU1QbVhUWXhaSm55eUNkTnVDcWRZTUtseHJmVHBMcENmVUYzdlREUGNPQXBCVzRZakRLWExkT2lSLU9jM0FTTkVHRTJFN3Bxb19PNHg3V2cyYkljOWpzeFNRUjNPM0lydFBFVHYtNVJBRkFPTmF0UDhSYlNhVUxOSjRYVDU4dE9iOERlZlYydmlPbmd2a1ZJRTNpSDdXekoySnIzTUF0czlkQkM4dVdSZlVGSTFpclHSAcsBQVVfeXFMTjF1bTFHMUVtUzRQc1RZVFg2TFhVN3NzY29nTXlwa2g0aVRUZjAteFZ0YTZwMGZodzRLcHhLc3lUR3h0Q0ZMT20yTTBuc0llSU1UMnM1RHFSTDRRZ0lkLW5WVWQxcVBBck1RaV9BUFVCVmxGTm0zT2xJRGJCaUxxX2duT0NlWkF4RXZuR3dYelpJOHJTTm9Wc1hpbnB6TkRidTI2RW00WmxleW1fNkJZVTFQNzJSbGNURUtMQjEyRlRJd0hya0VTZVp4NWs?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2423,20 +1713,10 @@
       "score": 0
     },
     {
-      "id": "us_332fb3b64423",
-      "date": "2026-05-09",
-      "title": "Carvana Stock Split Is Here: CVNA’s $78 Share Price Puts Profit Test Back in View - TechStock²",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbzRoSjVqS2RIakJPaDdjU0prNVUwQkluZUhNZ0d3cUduVm53X0pvemRlRWNzamxsR0p5LWdkZTZpUGdPUHRwblRoZG5XWk9RU0gxQ05qWVNTOVBiNWNRSlAxOExBNm1MOU1UWGFDQjV1dDFFLXE0eTRXdHRZUU1XNDgyeW5HMC1RdV81Yms3TDRqSy0xRm9RbzRZem1hdTVR?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_d32ef164669e",
-      "date": "2026-05-09",
-      "title": "SECURE April 2026 slides: GFL acquisition at 23% premium, Q1 EBITDA up 13% - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYnRVSV91M2RmUTVyVnloSk05RjlWNW1NWlZYVy1LeHpSeWhuSWlHUTR0a3BqSllsMG1tWXhMTFFrcDRDTHNseG1oYmxhajlvT3pTdjJlRzh6YjNHcldxdjJTcHpuM1Z3eXRhQWVpY250MGVValItanVVSWVJRUNqcTBvaDRHNWRoc2RkOC1EWVcybXg1UzZTTVRvV0RQTjNtRXdFamppQkdBMVF5MmdacGo1VDVvOVFFeGZ1LWE4aUwtbUJuQ2c?oc=5",
+      "id": "us_e694da7ba6e0",
+      "date": "2026-05-07",
+      "title": "Open space acquisition of South Jamesport parcel falls through: County Exec Romaine - RiverheadLOCAL",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVU8wZEtpVkFaRnF3UFVXczFCcy1DSlhwTWdxWlpUdFo0U1VUc2tsQTVnSHp2ZWEwLWJHbThTMkR6azZ4NTFGNEdfUXZVWFYybV84aTA1TkZGVW1Jc2JZTFE0akxwemZYMExVbGcxTFNiQWhwelFWT2hWa0VheC1IdmNCcHR4c054M3FabkJHQlZEeXY1UmJESXlvV2wta2xpTzdQRnR6VkNWcEJOWHdmeUhoVjZSX1ZjYjF0dmx3?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2453,20 +1733,30 @@
       "score": 0
     },
     {
-      "id": "us_e694da7ba6e0",
-      "date": "2026-05-07",
-      "title": "Open space acquisition of South Jamesport parcel falls through: County Exec Romaine - RiverheadLOCAL",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVU8wZEtpVkFaRnF3UFVXczFCcy1DSlhwTWdxWlpUdFo0U1VUc2tsQTVnSHp2ZWEwLWJHbThTMkR6azZ4NTFGNEdfUXZVWFYybV84aTA1TkZGVW1Jc2JZTFE0akxwemZYMExVbGcxTFNiQWhwelFWT2hWa0VheC1IdmNCcHR4c054M3FabkJHQlZEeXY1UmJESXlvV2wta2xpTzdQRnR6VkNWcEJOWHdmeUhoVjZSX1ZjYjF0dmx3?oc=5",
+      "id": "us_726e78e38092",
+      "date": "2026-05-08",
+      "title": "Interroll expands conveyor business with Royal Apollo acquisition - Modern Materials Handling",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOG1PMXd2QWFUTWJRQmplQmxLcTUzNGJ3VjE4bzc4WHppYnZsZHBycEpfVEpRVk1iVWpJSlpqUVU5cFN1Q1NHeEx0bTRxWmdOM2luZGRvTjJRemlZeVZ5eS05enFJSHg5UTNQdGoybm42RHdBQnVwSnZTazBXN21XS2cyRmtNN2JWRlJN?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_726e78e38092",
-      "date": "2026-05-08",
-      "title": "Interroll expands conveyor business with Royal Apollo acquisition - Modern Materials Handling",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOG1PMXd2QWFUTWJRQmplQmxLcTUzNGJ3VjE4bzc4WHppYnZsZHBycEpfVEpRVk1iVWpJSlpqUVU5cFN1Q1NHeEx0bTRxWmdOM2luZGRvTjJRemlZeVZ5eS05enFJSHg5UTNQdGoybm42RHdBQnVwSnZTazBXN21XS2cyRmtNN2JWRlJN?oc=5",
+      "id": "us_332fb3b64423",
+      "date": "2026-05-09",
+      "title": "Carvana Stock Split Is Here: CVNA’s $78 Share Price Puts Profit Test Back in View - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbzRoSjVqS2RIakJPaDdjU0prNVUwQkluZUhNZ0d3cUduVm53X0pvemRlRWNzamxsR0p5LWdkZTZpUGdPUHRwblRoZG5XWk9RU0gxQ05qWVNTOVBiNWNRSlAxOExBNm1MOU1UWGFDQjV1dDFFLXE0eTRXdHRZUU1XNDgyeW5HMC1RdV81Yms3TDRqSy0xRm9RbzRZem1hdTVR?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_d32ef164669e",
+      "date": "2026-05-09",
+      "title": "SECURE April 2026 slides: GFL acquisition at 23% premium, Q1 EBITDA up 13% - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYnRVSV91M2RmUTVyVnloSk05RjlWNW1NWlZYVy1LeHpSeWhuSWlHUTR0a3BqSllsMG1tWXhMTFFrcDRDTHNseG1oYmxhajlvT3pTdjJlRzh6YjNHcldxdjJTcHpuM1Z3eXRhQWVpY250MGVValItanVVSWVJRUNqcTBvaDRHNWRoc2RkOC1EWVcybXg1UzZTTVRvV0RQTjNtRXdFamppQkdBMVF5MmdacGo1VDVvOVFFeGZ1LWE4aUwtbUJuQ2c?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2493,30 +1783,20 @@
       "score": 0
     },
     {
-      "id": "us_ef8519084c54",
-      "date": "2026-05-09",
-      "title": "BlueLinx Q1 2026 slides: specialty products drive earnings beat By Investing.com - Investing.com Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEFRZ3dPS2NpYktaZTkxbzQ0MXkyZ3p4S2FVaG4xb05fUmhmZGxrRDdYMjA3QUI4U25JX0loTDdYMUVYUEhKdEx1SGFiTWhvNVNZSGxHWW9FNGJXN2hMdkN2NlNVanM4UkQtR3JNVTkzbHNsLWx2SElSX2pQZ25yUFk4dl9XTjUxUHdSWU9FZTE5N3hrTG1MUktKaXo2M29wMW9sS1J2R1ozSlhYWXA2Tm5CZlVwUHUwOGc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_e89a9071a0f8",
-      "date": "2026-05-10",
-      "title": "1,437,500 Class B Common Stock of Blueport Acquisition Ltd are subject to a Lock-Up Agreement Ending on 10-MAY-2026. - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEl6RkdYU216VmRZTGZpbWEwaTVTQWhWMVNpNXlsNk9sWmE2MWFtQWdveHVRZ2ZRU1BPUUduWWl6YUNFNnlWSXVJTEhwT19velZadkxVYkoxWm5EVEpZRUxUN0ZsVzZlR29mNl9NZXRyU0lpVnF1LWFDME5KMnVsOWlwMmg5X1VIVldZSzktaTVCRUxLdXBsZk5qZzRyTUJBVGhodlpFS2ZBeEQ4dWJhamdwTGtzQ3dOcUwtTF8zbFZwYUJ3anJzLWZ1NUJvVTU3Y1pTQmstTFVoU1EtVl9jVVJJWjJwUDZl?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_a33fd0b59f5d",
       "date": "2026-05-08",
       "title": "Earnings Beat: The Kraft Heinz Company Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYjY2YmxPeTZMWjBaeEpDaHVqSlo0OWE3QWlEOHZRRWFUeF9IRU5TY3RVa0N5TGNZejJ3N1pUNGFNS3g0em10RFpLMElHRWdRU3Y3T3RrMmMzLXEtRTg1cGNqdmQwSm9GU3plRk1mNFF1MkpJdGp6MFM0UkJCMFpYZUtlNDJib3VCRnJ2ckFmZnp6R01hSHVQR1MzNllPSk0?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_ef8519084c54",
+      "date": "2026-05-09",
+      "title": "BlueLinx Q1 2026 slides: specialty products drive earnings beat By Investing.com - Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEFRZ3dPS2NpYktaZTkxbzQ0MXkyZ3p4S2FVaG4xb05fUmhmZGxrRDdYMjA3QUI4U25JX0loTDdYMUVYUEhKdEx1SGFiTWhvNVNZSGxHWW9FNGJXN2hMdkN2NlNVanM4UkQtR3JNVTkzbHNsLWx2SElSX2pQZ25yUFk4dl9XTjUxUHdSWU9FZTE5N3hrTG1MUktKaXo2M29wMW9sS1J2R1ozSlhYWXA2Tm5CZlVwUHUwOGc?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2557,6 +1837,16 @@
       "date": "2026-05-09",
       "title": "Alphabet Inc. (Class A) stock (US02079K3059): AI-driven earnings beat lifts shares near $400 level - AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNHNWRl95YTAtMVpSNjZIMzktVXBHOVdybzJtRjUwRHN6dzBkZkJ4Nmw5eTYxMDJOYUYzenJtZi1rRG9yMEkzbWc0bTlHZHVrUWRDNFJ5OXVsR3hNdXRscmQxTEw2V3hDRjZzazlPUkRzWi1HaVRFd280a2dRMkFEV29rUFBXNzNGRk95NTFuS2ZzNVNJR1VtQ0h1MDNTVkZORkw3M3k0WTdNcWhNYUFma3M5amJySmZRRnZnQ0Fnbw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_573ddf819693",
+      "date": "2026-05-08",
+      "title": "Meta Platforms, Inc. stock (US30303M1027): Q1 earnings beat lifts sentiment and investor interest - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWi1iRmtGOHk0bkR2c1dwUzlwS2o1N3RMQ0JzWFZhY1MxS0VQYmI0dy1pTGJ0am12a0FHcFdCVko1eWgxb1JCMXR6ajVQUkRkZmxrOHg3c0RfS25vTWZ3U0UxSHR2cHFxdUNPS0p2YVNVU1lHVjNjRVFmY1hrbVJ4V1pNdEJNeEtvRmtiOGpJZk1mUHdnYnE0Ri1ndFZfQ28yQUNaTWllUkhMcVg5Q0JaUC15blZjQUd3RWVr?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2843,20 +2133,20 @@
       "score": 0
     },
     {
-      "id": "us_d56b2373bc8f",
-      "date": "2026-05-09",
-      "title": "The Musashino Bank Ltd stock (JP3911600008): Share buyback progress reported for early May 2026 - AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa3JGbFhUbHpvdWZ1WVdxSGl1NHFpRXh0SkNycFhOSzdNcG85azZzdXVJTHE0N2laMThUVExqVmM5Z1ZRZXMybmZtZUV0NGUweFFWTEdEQ0drWU05Z1ZVYTdHbnJPbnlyQ0p6SGxNWjZjOS1Lc0lFVUktOTAxSVB3QUtyQ1E1d0VMYlNKSHlaMER5eDAyTFh4RENnRldQeUxsZGFIMnRubnNvSllaVEhhZG1jUE1QUm9keEJTbXFKYUQ?oc=5",
+      "id": "us_9252870a53ad",
+      "date": "2026-05-08",
+      "title": "Zions Bancorp Stock (US9897011071): Q1 2026 Earnings Beat and Share Buyback Announced - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX0xKVHhNd3FxdmtGTzBBNkZmU2s0U1hpbUFXSDRjbmxsRnlWYlNuUGltdVdZVW1RQnR1MnI3aDNlMlByb1dYSGtERkJrM2RPVW43U09MNDVRVWJkcWFwY3Zrak5FdkR1Y1lYYjJBUUV6b0I3enFRcG1ROWlJSThCTmZMMXNINGpWNTRkWkg4aGhQTnBxTnhIZWF1bVNkUmUtMEllYlJxMC1YNWRVdlAwU0sydHItLW5mOUx4OE5INDA?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_9252870a53ad",
-      "date": "2026-05-08",
-      "title": "Zions Bancorp Stock (US9897011071): Q1 2026 Earnings Beat and Share Buyback Announced - AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX0xKVHhNd3FxdmtGTzBBNkZmU2s0U1hpbUFXSDRjbmxsRnlWYlNuUGltdVdZVW1RQnR1MnI3aDNlMlByb1dYSGtERkJrM2RPVW43U09MNDVRVWJkcWFwY3Zrak5FdkR1Y1lYYjJBUUV6b0I3enFRcG1ROWlJSThCTmZMMXNINGpWNTRkWkg4aGhQTnBxTnhIZWF1bVNkUmUtMEllYlJxMC1YNWRVdlAwU0sydHItLW5mOUx4OE5INDA?oc=5",
+      "id": "us_d56b2373bc8f",
+      "date": "2026-05-09",
+      "title": "The Musashino Bank Ltd stock (JP3911600008): Share buyback progress reported for early May 2026 - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa3JGbFhUbHpvdWZ1WVdxSGl1NHFpRXh0SkNycFhOSzdNcG85azZzdXVJTHE0N2laMThUVExqVmM5Z1ZRZXMybmZtZUV0NGUweFFWTEdEQ0drWU05Z1ZVYTdHbnJPbnlyQ0p6SGxNWjZjOS1Lc0lFVUktOTAxSVB3QUtyQ1E1d0VMYlNKSHlaMER5eDAyTFh4RENnRldQeUxsZGFIMnRubnNvSllaVEhhZG1jUE1QUm9keEJTbXFKYUQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3103,20 +2393,20 @@
       "score": 0
     },
     {
-      "id": "us_f1ea489cdc6a",
-      "date": "2026-05-09",
-      "title": "China April exports rebound strongly after sluggish March, trade surplus widens - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2x1V2EwRzNqSUZpRGIwa2dlUFpSdmdqaUtuNDl3bVhjcmItMC12VXh2bWNkWlNPdkFMUnFCQnRJZFN0WEZsUDFZVFlqU3FfVWtRNXU1WGlJOThJWlpoTG1haUMtZmxyYVpNOGpTNjFaQkx4Zmx5TWU2Q2pwVnRHbTZhaUN3TmpPVUlOaVlIM2dFQVB4NVl2UGRR0gGfAUFVX3lxTE1CZlo3Nmh1UzVTMnRwVGN2VHJrQTc0dW1rbXhlaUozTnAwU2NoREpEdC1XazlXUi1tSDAwRTNaVjloWWxZQUtXVG4tQmZIekZXVFR1Y05JSTBiYWlsOWtkc3pISlBQcGgyY2hHaGpSWncxVTNEOTh6YVdDdVFZZmtLemN3TU5oamp0Y1FCT0lqYU9XLXM5ODZ5bnJKdTVMMA?oc=5",
+      "id": "us_31b63d92331b",
+      "date": "2026-05-08",
+      "title": "News | Retail sales in Dallas-Fort Worth begin to weigh on rent growth - CoStar",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZEd6RHAxUXRtQWQ5QWQ3aFpIOHQ1ZDJqTUd4RjBMcE9LNk9vXy1nWnhFaG5WMW96WmM4bnY2amdzUTVpSmhTUEVrSF9xUkJKVGtZLWxNQXpjTFFNbG5BMU9lOS1wSi1hWnNyU2ZNU2tJQXRrSmJ2dldEXzZMWHc1QXAxNWhlT3g4M3hpalNfcTRDbmZ0NTZVU0N6blB6WUJyVGJQUUNrYw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_31b63d92331b",
-      "date": "2026-05-08",
-      "title": "News | Retail sales in Dallas-Fort Worth begin to weigh on rent growth - CoStar",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZEd6RHAxUXRtQWQ5QWQ3aFpIOHQ1ZDJqTUd4RjBMcE9LNk9vXy1nWnhFaG5WMW96WmM4bnY2amdzUTVpSmhTUEVrSF9xUkJKVGtZLWxNQXpjTFFNbG5BMU9lOS1wSi1hWnNyU2ZNU2tJQXRrSmJ2dldEXzZMWHc1QXAxNWhlT3g4M3hpalNfcTRDbmZ0NTZVU0N6blB6WUJyVGJQUUNrYw?oc=5",
+      "id": "us_f1ea489cdc6a",
+      "date": "2026-05-09",
+      "title": "China April exports rebound strongly after sluggish March, trade surplus widens - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2x1V2EwRzNqSUZpRGIwa2dlUFpSdmdqaUtuNDl3bVhjcmItMC12VXh2bWNkWlNPdkFMUnFCQnRJZFN0WEZsUDFZVFlqU3FfVWtRNXU1WGlJOThJWlpoTG1haUMtZmxyYVpNOGpTNjFaQkx4Zmx5TWU2Q2pwVnRHbTZhaUN3TmpPVUlOaVlIM2dFQVB4NVl2UGRR0gGfAUFVX3lxTE1CZlo3Nmh1UzVTMnRwVGN2VHJrQTc0dW1rbXhlaUozTnAwU2NoREpEdC1XazlXUi1tSDAwRTNaVjloWWxZQUtXVG4tQmZIekZXVFR1Y05JSTBiYWlsOWtkc3pISlBQcGgyY2hHaGpSWncxVTNEOTh6YVdDdVFZZmtLemN3TU5oamp0Y1FCT0lqYU9XLXM5ODZ5bnJKdTVMMA?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3163,16 +2453,6 @@
       "score": 0
     },
     {
-      "id": "us_48eca3fe75ed",
-      "date": "2026-05-08",
-      "title": "Aritzia CEO Jen Wong Details U.S. Store Expansion and Revenue Growth - Retail TouchPoints",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeUhkS0UySkFobmV5VjIxeEU3VmVNYmZ6WWFObkcyQkt5WlVaZm5IYmhvTHRmenVjZDNuelRfNGEwZXl6eWpVLXN3YjVWbDRfYXZrY0VYRnI0NUNsWnI5Z1RHVjM0STc4Yno1Q0ZnM2hYbzJwaUU1MG1ra2NiWTBOeWYxNjZ2TXFnS1NRZHVJUG5CbWQ3ZzhBUlhlVEVTVExobkpzZElLMUlSSGU4R1ZNaTJ6aGc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_c2acc28fc837",
       "date": "2026-05-06",
       "title": "Brooks Running boasts global sales growth - Retail Dive",
@@ -3183,20 +2463,20 @@
       "score": 0
     },
     {
-      "id": "us_38798e9efc7f",
-      "date": "2026-05-09",
-      "title": "Multi Pack Packaging For Toddler Toys Market Growth Forecast to 2035 Amid Retail Bundling and E-Commerce Expansion - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcXFSZlpGYnRHZzg0blRZOFRITDFEY0hzRlVSa29sUV9XWW1qdzcyM01vWkxNWGJER2FuY19UcjAxMUk2YkRsQjQyWXZ0Mk5PV0tFaEUwWEh4eWxmeDl6S2VkOHgxVnNwWm1Fc2pQeEhoVDg2MFdFSDRCeWtka0FsOHlqckczWVNkc2txTmhIVEVwTGtjLXVZVzZ1Z1VneDdOOU5OZXFPQms5S3hHM3BsZ1pOSUdCR3F5eGtsUXJycjg4anJ3cjU3SGhOMmZUVS0tbWpyeXh0RGp6QU9GNm52NEdEbFVNZW9LNjZpX3pCYm5iZGdQSjlmNGg1bFc?oc=5",
+      "id": "us_92c3c3dd46a3",
+      "date": "2026-05-06",
+      "title": "Hong Kong's Q1 2026 GDP growth hits near 5-year high - People's Daily Online",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Bakp1cjFmS25SLTRHajZfdXE2MEdjRlA5bkw2UkpYTUxOY2VTbXVGYjJQa19TdmNybXhLMng0U1hrRlZfa3ZLeGM0dzJGTkxyMFEtNDhYXzRkRHVZTnYzM0RfNUk?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_92c3c3dd46a3",
-      "date": "2026-05-06",
-      "title": "Hong Kong's Q1 2026 GDP growth hits near 5-year high - People's Daily Online",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Bakp1cjFmS25SLTRHajZfdXE2MEdjRlA5bkw2UkpYTUxOY2VTbXVGYjJQa19TdmNybXhLMng0U1hrRlZfa3ZLeGM0dzJGTkxyMFEtNDhYXzRkRHVZTnYzM0RfNUk?oc=5",
+      "id": "us_38798e9efc7f",
+      "date": "2026-05-09",
+      "title": "Multi Pack Packaging For Toddler Toys Market Growth Forecast to 2035 Amid Retail Bundling and E-Commerce Expansion - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcXFSZlpGYnRHZzg0blRZOFRITDFEY0hzRlVSa29sUV9XWW1qdzcyM01vWkxNWGJER2FuY19UcjAxMUk2YkRsQjQyWXZ0Mk5PV0tFaEUwWEh4eWxmeDl6S2VkOHgxVnNwWm1Fc2pQeEhoVDg2MFdFSDRCeWtka0FsOHlqckczWVNkc2txTmhIVEVwTGtjLXVZVzZ1Z1VneDdOOU5OZXFPQms5S3hHM3BsZ1pOSUdCR3F5eGtsUXJycjg4anJ3cjU3SGhOMmZUVS0tbWpyeXh0RGp6QU9GNm52NEdEbFVNZW9LNjZpX3pCYm5iZGdQSjlmNGg1bFc?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3273,16 +2553,6 @@
       "score": 0
     },
     {
-      "id": "us_9cb8107594ae",
-      "date": "2026-05-09",
-      "title": "DOGE Eyes a Breakout, But AlphaPepe's 100+ Daily Holder Growth Gives Retail a Faster Meme-Coin Story - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNal9yamNtNzIzaUxUOXh0Z1JCTDQyZExtaEVBZjY3QkgyWDgzUllaZ3Q5NGN5MDlVbEJtSVItUG1YMXNBWC1Oa2dTeXNJamRMWmpvYnMzOTdYUl9Yd0Q2dXZsWll1SUJoMlpBMmp5S1FUVFBKbnk4N1QySHN0bGFtSjFobmVKd3YyTUJiaGVLZVh0RVJUMUVERjg1VEo?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_79b97ec298c0",
       "date": "2026-05-09",
       "title": "US job growth beats expectations but consumer confidence at all-time low - The Daily Star",
@@ -3293,10 +2563,10 @@
       "score": 0
     },
     {
-      "id": "us_3a56e31b497d",
-      "date": "2026-05-08",
-      "title": "GDP growth skids to 2.8 percent in first quarter of 2026 - ABS-CBN",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVBlcERUX0dTdjI4eUNocHpwbUVDRmJXbEYwSXZZYkU2eUR5a1A3UWZZd0xlWTJNTVdoNmJnUkdCN25UYlJxcFFlYjJQNy03OXlKNWRQX1JPRnFCX3JqUWlDcGZ5Z19ILTNtT21ET1dGcV8ta01GeFNnakRzTWxHVzEwcHpXMnQtcy1UV3BmM1dmX0k2OGxnUGp1S29Yd0R5TU5SWUxTbU9xSEFm?oc=5",
+      "id": "us_9cb8107594ae",
+      "date": "2026-05-09",
+      "title": "DOGE Eyes a Breakout, But AlphaPepe's 100+ Daily Holder Growth Gives Retail a Faster Meme-Coin Story - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNal9yamNtNzIzaUxUOXh0Z1JCTDQyZExtaEVBZjY3QkgyWDgzUllaZ3Q5NGN5MDlVbEJtSVItUG1YMXNBWC1Oa2dTeXNJamRMWmpvYnMzOTdYUl9Yd0Q2dXZsWll1SUJoMlpBMmp5S1FUVFBKbnk4N1QySHN0bGFtSjFobmVKd3YyTUJiaGVLZVh0RVJUMUVERjg1VEo?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
