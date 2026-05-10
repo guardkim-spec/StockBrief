@@ -111,8 +111,17 @@ def run_pipeline(date_str: str | None = None, dry_run: bool = False) -> bool:
     ctx["korea_news"] = _analyze_news(raw_korea_news, "ko", dry_run)
 
     # ── Step 3: US price ─────────────────────────────────────────────
-    from collectors.us_price import collect_us_top100
-    ctx["us_price"] = run_step("us_price", collect_us_top100, date_str) or []
+    import os as _os
+    if _os.getenv("SKIP_US_PRICE", "").lower() == "true":
+        logger.info("US price collection skipped (SKIP_US_PRICE=true)")
+        ctx["us_price"] = []
+        step_map["us_price"]["status"] = "skipped"
+        step_map["us_price"]["ran_at"] = datetime.now(KST).isoformat()
+        step_map["us_price"]["duration_sec"] = 0
+        update_status()
+    else:
+        from collectors.us_price import collect_us_top100
+        ctx["us_price"] = run_step("us_price", collect_us_top100, date_str) or []
 
     # ── Step 4: US news ──────────────────────────────────────────────
     from collectors.us_news import collect_us_news
@@ -253,14 +262,32 @@ def queue_resend(date_str: str) -> None:
             _resend_queue.append(date_str)
     logger.info("Queued resend for %s", date_str)
 
-    # Immediate resend attempt
-    from storage.github_storage import save_daily_file
-    from report.email_sender import send_report
-    from config.settings import settings
-    report_path = settings.data_dir / date_str / "report.html"
-    if report_path.exists():
-        html = report_path.read_text(encoding="utf-8")
-        send_report(date_str, html)
+    try:
+        from report.email_sender import send_report
+        from config.settings import settings
+        # If specified date has no report, fall back to latest available
+        report_path = settings.data_dir / date_str / "report.html"
+        if not report_path.exists():
+            data_dir = settings.data_dir
+            dates = sorted(
+                [d.name for d in data_dir.iterdir()
+                 if d.is_dir() and len(d.name) == 10 and d.name[4] == "-"],
+                reverse=True,
+            )
+            for d in dates:
+                candidate = settings.data_dir / d / "report.html"
+                if candidate.exists():
+                    report_path = candidate
+                    date_str = d
+                    break
+        if report_path.exists():
+            html = report_path.read_text(encoding="utf-8")
+            send_report(date_str, html)
+            logger.info("Resend complete for %s", date_str)
+        else:
+            logger.warning("No report.html found for resend")
+    except Exception as exc:
+        logger.warning("Resend attempt failed (non-fatal): %s", exc)
 
 
 # ── Helpers ─────────────────────────────────────────────────────────
@@ -327,7 +354,12 @@ def _load_backtest(date_str: str) -> list[dict]:
 
 
 def _to_ranking(scores: list[dict]) -> list[dict]:
-    return [{"sector": s["sector"], "score": s.get("avg_score", 0), "sentiment": "positive" if s.get("avg_score", 0) >= 6 else ("negative" if s.get("avg_score", 0) < 4 else "neutral")} for s in scores]
+    result = []
+    for s in scores:
+        score = s.get("net_score", s.get("avg_score", 0))
+        sentiment = "positive" if score >= 6 else ("negative" if score < 4 else "neutral")
+        result.append({"sector": s["sector"], "score": round(score, 1), "sentiment": sentiment})
+    return result
 
 
 def _wrap(date_str: str, data: Any) -> dict:
@@ -340,7 +372,7 @@ def _build_analysis_payload(date_str: str, ctx: dict) -> dict:
         sector = item["sector"]
         vol = next((v for v in ctx.get("korea_volume_dist", []) if v["sector"] == sector), {})
         trend = next((t for t in ctx.get("candle_data", []) if t["sector"] == sector), {})
-        news_score   = item.get("avg_score", 5)
+        news_score   = item.get("net_score", item.get("avg_score", 5))
         volume_score = round(vol.get("ratio", 0) * 100, 1)
         trend_score  = trend.get("momentum_score", 5)
         total        = round((news_score * 0.4 + volume_score * 0.3 + trend_score * 0.3), 2)

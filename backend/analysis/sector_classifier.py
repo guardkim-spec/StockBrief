@@ -44,25 +44,37 @@ def aggregate_sector_volume(stocks: list[dict[str, Any]]) -> list[dict[str, Any]
 
 
 def aggregate_sector_news_scores(news_items: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    """Aggregate news by sector -> average score and sentiment counts."""
+    """Aggregate news by sector -> net sentiment score and counts."""
     agg: dict[str, dict] = {}
     for item in news_items:
         sector = item.get("sector") or "기타"
         if sector not in agg:
-            agg[sector] = {"positive": 0, "negative": 0, "neutral": 0, "scores": []}
+            agg[sector] = {"positive": 0, "negative": 0, "neutral": 0, "scores": [], "pos_scores": [], "neg_scores": []}
         sentiment = item.get("sentiment", "neutral")
         score = item.get("score", 5)
         agg[sector][sentiment] = agg[sector].get(sentiment, 0) + 1
         agg[sector]["scores"].append(score)
+        if sentiment == "positive":
+            agg[sector]["pos_scores"].append(score)
+        elif sentiment == "negative":
+            agg[sector]["neg_scores"].append(score)
 
     result = []
-    for sector, data in sorted(agg.items(), key=lambda x: sum(x[1]["scores"]) / max(len(x[1]["scores"]), 1), reverse=True):
+    for sector, data in agg.items():
         scores = data["scores"]
         avg = round(sum(scores) / len(scores), 2) if scores else 0
+        # Net score: positive news adds, negative news subtracts. Base 5, range 0-10.
+        pos_sum = sum(data["pos_scores"])
+        neg_sum = sum(data["neg_scores"])
+        total = len(scores) or 1
+        net = round(max(0.0, min(10.0, 5 + (pos_sum - neg_sum) / total)), 2)
         result.append({
             "sector": sector,
             "positive_count": data.get("positive", 0),
             "negative_count": data.get("negative", 0),
             "avg_score": avg,
+            "net_score": net,
         })
+
+    result.sort(key=lambda x: x["net_score"], reverse=True)
     return result
