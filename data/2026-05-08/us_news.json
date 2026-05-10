@@ -8,9 +8,9 @@
       "title": "S&P 500 ends down as chip stocks give up gains",
       "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-hit-103448578.html",
       "source": "newsapi",
-      "sector": "반도체",
-      "sentiment": "negative",
-      "score": 7
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_dfb22b7905a9",
@@ -18,9 +18,9 @@
       "title": "Forget tracking AI use. Goldman's tech boss cares about this instead.",
       "url": "https://www.businessinsider.com/goldman-sachs-marco-argenti-ai-engineers-developers-effectiveness-productivity-2026-5",
       "source": "newsapi",
-      "sector": "IT/소프트웨어",
-      "sentiment": "neutral",
-      "score": 5
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_0e9afc724689",
@@ -28,19 +28,9 @@
       "title": "A top Wall Street firm has a new seasonal trading motto: 'Sell in July for a Big October Buy'",
       "url": "https://www.businessinsider.com/stock-market-investing-strategy-buy-sell-in-may-midterm-elections-2026-5",
       "source": "newsapi",
-      "sector": "금융",
-      "sentiment": "neutral",
-      "score": 5
-    },
-    {
-      "id": "us_1ecac49b93c8",
-      "date": "2026-05-08",
-      "title": "GameStop CEO Ryan Cohen Banned From eBay After Flexing His Meme-Stock Muscle",
-      "url": "https://gizmodo.com/gamestop-ceo-ryan-cohen-banned-from-ebay-after-flexing-his-meme-stock-muscle-2000755678",
-      "source": "newsapi",
-      "sector": "소비재",
-      "sentiment": "negative",
-      "score": 6
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_8812f694324f",
@@ -48,9 +38,19 @@
       "title": "French Prosecutors Want Elon Musk and Linda Yaccarino to Face Preliminary Charges",
       "url": "https://gizmodo.com/french-prosecutors-want-elon-musk-and-linda-yaccarino-to-face-preliminary-charges-2000755966",
       "source": "newsapi",
-      "sector": "통신/미디어",
-      "sentiment": "negative",
-      "score": 7
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_1ecac49b93c8",
+      "date": "2026-05-08",
+      "title": "GameStop CEO Ryan Cohen Banned From eBay After Flexing His Meme-Stock Muscle",
+      "url": "https://gizmodo.com/gamestop-ceo-ryan-cohen-banned-from-ebay-after-flexing-his-meme-stock-muscle-2000755678",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_4b55466db9b0",
@@ -58,9 +58,9 @@
       "title": "These hedge funds crushed it in April — and a key Liberation Day lesson helped them",
       "url": "https://www.businessinsider.com/april-hedge-fund-performance-tiger-global-castleknight-graham-2026-5",
       "source": "newsapi",
-      "sector": "금융",
-      "sentiment": "positive",
-      "score": 8
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_3bea43ab2feb",
@@ -68,9 +68,9 @@
       "title": "Why CEO Bill McDermott says ServiceNow’s 39% stock crash is Saaspocalypse ‘nonsense’ and why AI will make it a trillion-dollar company",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-ceo-bill-mcdermott-says-073000933.html",
       "source": "newsapi",
-      "sector": "IT/소프트웨어",
-      "sentiment": "positive",
-      "score": 7
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_8ef6e369a784",
@@ -78,9 +78,9 @@
       "title": "DOGE's Ethan Shaotran Is Now Running a Defense Tech Startup",
       "url": "https://www.wired.com/story/doges-ethan-shaotran-is-now-running-a-defense-tech-startup/",
       "source": "newsapi",
-      "sector": "조선/방산",
-      "sentiment": "neutral",
-      "score": 5
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_7d3ce9f95c22",
@@ -88,9 +88,9 @@
       "title": "Iran Says Its Reviewing 14-Point US Proposal to End the War",
       "url": "https://www.yahoo.com/news/videos/iran-says-reviewing-14-point-112807219.html",
       "source": "newsapi",
-      "sector": "에너지",
-      "sentiment": "positive",
-      "score": 6
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_32cb2e666f69",
@@ -98,9 +98,9 @@
       "title": "France summons Musk for X criminal charges",
       "url": "https://boingboing.net/2026/05/07/france-summons-musk-for-x-criminal-charges.html",
       "source": "newsapi",
-      "sector": "통신/미디어",
-      "sentiment": "negative",
-      "score": 8
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_6f42ba2592de",
@@ -108,9 +108,9 @@
       "title": "Apple and Intel have reached a deal to produce future chips: report",
       "url": "https://9to5mac.com/2026/05/08/apple-and-intel-have-reached-a-deal-to-produce-future-chips-report/",
       "source": "newsapi",
-      "sector": "반도체",
-      "sentiment": "positive",
-      "score": 8
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_7b2763fb4456",
@@ -118,9 +118,9 @@
       "title": "Why Rupert Murdoch is asking Donald Trump for help fighting the NFL",
       "url": "https://www.businessinsider.com/murdoch-trump-nfl-fox-streaming-netflix-fcc-doj-2026-5",
       "source": "newsapi",
-      "sector": "통신/미디어",
-      "sentiment": "neutral",
-      "score": 5
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_5de761b34106",
@@ -128,9 +128,9 @@
       "title": "Hershey Stock Outlook: Is Wall Street Bullish or Bearish?",
       "url": "https://www.barchart.com/story/news/1796551/hershey-stock-outlook-is-wall-street-bullish-or-bearish",
       "source": "newsapi",
-      "sector": "소비재",
-      "sentiment": "neutral",
-      "score": 5
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_59431947082b",
@@ -138,9 +138,9 @@
       "title": "S&P 500 call options volume surges to record $2.6 trillion. Here's what it means for bitcoin",
       "url": "https://www.coindesk.com/markets/2026/05/08/s-and-p-500-call-options-volume-surges-to-record-usd2-6-trillion-here-s-what-it-means-for-bitcoin",
       "source": "newsapi",
-      "sector": "금융",
-      "sentiment": "neutral",
-      "score": 5
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_d46eb104fbec",
@@ -148,9 +148,9 @@
       "title": "Swiss-based Terra Quantum lands US Air Force deal ahead of Nasdaq listing",
       "url": "https://www.yahoo.com/news/articles/swiss-based-terra-quantum-lands-103726873.html",
       "source": "newsapi",
-      "sector": "IT/소프트웨어",
-      "sentiment": "positive",
-      "score": 8
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_fa3fce23ff49",
@@ -158,9 +158,9 @@
       "title": "Campaign Staffers Say They’re Using Non-Public Poll Data to Profit on Prediction Markets",
       "url": "https://gizmodo.com/campaign-staffers-say-theyre-using-non-public-poll-data-to-profit-on-prediction-markets-2000755894",
       "source": "newsapi",
-      "sector": "금융",
-      "sentiment": "negative",
-      "score": 8
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_804265d6d257",
@@ -168,9 +168,9 @@
       "title": "Intel Reportedly Lands a Chip Deal With Apple Thanks to Trump",
       "url": "https://gizmodo.com/intel-reportedly-lands-a-chip-deal-with-apple-thanks-to-trump-2000756442",
       "source": "newsapi",
-      "sector": "반도체",
-      "sentiment": "positive",
-      "score": 8
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_f4443f62eded",
@@ -178,9 +178,9 @@
       "title": "A simple point about diversification",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-simple-point-about-diversification.html",
       "source": "newsapi",
-      "sector": "금융",
-      "sentiment": "neutral",
-      "score": 5
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_2c96a751d858",
@@ -188,9 +188,9 @@
       "title": "Meta's daily user count just dropped for the first time ever",
       "url": "https://boingboing.net/2026/05/08/metas-daily-user-count-just-dropped-for-the-first-time-ever.html",
       "source": "newsapi",
-      "sector": "통신/미디어",
-      "sentiment": "negative",
-      "score": 9
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_193d8a6c0b6e",
@@ -198,9 +198,9 @@
       "title": "Stocks edge up, oil prices continue pullback on peace optimism",
       "url": "https://www.channelnewsasia.com/business/stocks-edge-up-oil-prices-continue-pullback-peace-optimism-6105571",
       "source": "newsapi",
-      "sector": "금융",
-      "sentiment": "positive",
-      "score": 7
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_7f5ad9c2516f",
@@ -208,9 +208,9 @@
       "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Alcoa, Chiron Real Estate, Clear Secure, Fortinet, Fresh Pet, Kennametal, Oracle, PayPal, United Therapeutics, and More",
       "url": "https://247wallst.com/investing/2026/05/07/here-are-thursdays-top-wall-street-analyst-research-calls-alcoa-chiron-real-estate-clear-secure-fortinet-fresh-pet-kennametal-oracle-paypal-united-therapeutics-and-more/",
       "source": "newsapi",
-      "sector": "금융",
-      "sentiment": "neutral",
-      "score": 5
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_e7f2045b61bd",
@@ -218,9 +218,9 @@
       "title": "Investment banks are back on top as private equity loses its grip on Wall Street's biggest paydays",
       "url": "https://www.businessinsider.com/wall-street-banks-private-equity-bonus-compensation-ai-2026-5",
       "source": "newsapi",
-      "sector": "금융",
-      "sentiment": "positive",
-      "score": 7
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_316d904799a0",
@@ -228,9 +228,9 @@
       "title": "One of Disney's top AI users tells all: 'I'm pushing the bleeding edge'",
       "url": "https://www.businessinsider.com/disney-ai-super-user-agents-tokens-claude-cursor-josh-damaro-2026-5",
       "source": "newsapi",
-      "sector": "IT/소프트웨어",
-      "sentiment": "positive",
-      "score": 6
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_09643463127b",
@@ -238,9 +238,9 @@
       "title": "HNTI: Never Take Candy from Strangers",
       "url": "https://ritholtz.com/2026/05/hnti-candy-from-strangers/",
       "source": "newsapi",
-      "sector": "금융",
-      "sentiment": "negative",
-      "score": 6
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_3d6d613be650",
@@ -248,9 +248,9 @@
       "title": "Stocks mixed as oil prices continue pullback on hopes of US-Iran peace deal",
       "url": "https://www.channelnewsasia.com/business/stocks-mixed-oil-prices-continue-pullback-hopes-us-iran-peace-deal-6105571",
       "source": "newsapi",
-      "sector": "금융",
-      "sentiment": "positive",
-      "score": 6
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_1e8eff073154",
@@ -258,9 +258,9 @@
       "title": "Trump set to invite Tim Cook and other CEOs to upcoming China trip",
       "url": "https://9to5mac.com/2026/05/07/trump-set-to-invite-tim-cook-and-other-ceos-to-upcoming-china-trip/",
       "source": "newsapi",
-      "sector": "IT/소프트웨어",
-      "sentiment": "neutral",
-      "score": 5
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_717857b0c926",
@@ -268,9 +268,9 @@
       "title": "U.S. futures rise as investors focus on Iran peace prospects and oil volatility: Dow Jones, S&P, Nasdaq, Wall Street",
       "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_368e60ca-f2e4-43b4-abcf-0c3986cb97c3",
       "source": "newsapi",
-      "sector": "금융",
-      "sentiment": "positive",
-      "score": 7
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_3805bf4c4021",
@@ -278,9 +278,9 @@
       "title": "What Are Wall Street Analysts' Target Price for Cardinal Health Stock?",
       "url": "https://www.barchart.com/story/news/1796588/what-are-wall-street-analysts-target-price-for-cardinal-health-stock",
       "source": "newsapi",
-      "sector": "바이오/헬스케어",
-      "sentiment": "neutral",
-      "score": 5
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_45c5c8f733f5",
@@ -288,9 +288,9 @@
       "title": "Dollar Slides on Stock Strength and Weak Consumer Sentiment",
       "url": "https://www.barchart.com/story/news/1813506/dollar-slides-on-stock-strength-and-weak-consumer-sentiment",
       "source": "newsapi",
-      "sector": "금융",
-      "sentiment": "negative",
-      "score": 6
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_be58dd141b8d",
@@ -298,9 +298,9 @@
       "title": "The Fog Of More: Nexstar’s Efforts To Bulk Up Run Into Legal, Regulatory And Wall Street Uncertainty",
       "url": "http://deadline.com/2026/05/nexstar-tegna-merger-wall-street-fcc-1236886224/",
       "source": "newsapi",
-      "sector": "통신/미디어",
-      "sentiment": "negative",
-      "score": 7
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "us_7c7aa3237172",
@@ -333,20 +333,20 @@
       "score": 0
     },
     {
-      "id": "us_47f93aa804d1",
+      "id": "us_e176712e62ac",
       "date": "2026-05-08",
-      "title": "What Are Wall Street Analysts' Target Price for Sandisk Stock?",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_16bada4b-3f81-4340-838c-627bbf85fc4e",
+      "title": "Is Wall Street Bullish or Bearish on Applied Materials Stock?",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_394a7b20-1295-47a6-abb9-70febe921eeb",
       "source": "newsapi",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "us_e176712e62ac",
+      "id": "us_47f93aa804d1",
       "date": "2026-05-08",
-      "title": "Is Wall Street Bullish or Bearish on Applied Materials Stock?",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_394a7b20-1295-47a6-abb9-70febe921eeb",
+      "title": "What Are Wall Street Analysts' Target Price for Sandisk Stock?",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_16bada4b-3f81-4340-838c-627bbf85fc4e",
       "source": "newsapi",
       "sector": "",
       "sentiment": "",
@@ -393,26 +393,6 @@
       "score": 0
     },
     {
-      "id": "us_8bf6aa7ab2fc",
-      "date": "2026-05-08",
-      "title": "Wall Street banks plan final push on capital rules",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f6ad4d46-5443-4661-8b3a-1a1110cb433e",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c652ceb2c60a",
-      "date": "2026-05-08",
-      "title": "Is Wall Street Bullish or Bearish on T-Mobile Stock?",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7143c176-059e-436c-872a-fe2b2b7859dd",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "us_a7b0cd17b895",
       "date": "2026-05-08",
       "title": "Is Wall Street Bullish or Bearish on Salesforce Stock?",
@@ -437,6 +417,26 @@
       "date": "2026-05-08",
       "title": "Do Wall Street Analysts Like Regions Financial Stock?",
       "url": "https://www.barchart.com/story/news/1773384/do-wall-street-analysts-like-regions-financial-stock",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_c652ceb2c60a",
+      "date": "2026-05-08",
+      "title": "Is Wall Street Bullish or Bearish on T-Mobile Stock?",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7143c176-059e-436c-872a-fe2b2b7859dd",
+      "source": "newsapi",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "us_8bf6aa7ab2fc",
+      "date": "2026-05-08",
+      "title": "Wall Street banks plan final push on capital rules",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f6ad4d46-5443-4661-8b3a-1a1110cb433e",
       "source": "newsapi",
       "sector": "",
       "sentiment": "",
@@ -597,2146 +597,6 @@
       "date": "2026-05-08",
       "title": "Wall Street's 'Dr. Doom' economist lays out 4 scenarios for the Iran war and their impact on markets",
       "url": "https://www.businessinsider.com/stocks-bear-market-dr-doom-nouriel-roubini-iran-war-oil-2026-5",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f516397817cf",
-      "date": "2026-05-08",
-      "title": "DeFi Visa Card Takes Our Casino Economy to the Next Level With ‘Buy Now, Pay Maybe’ Scheme",
-      "url": "https://gizmodo.com/defi-visa-card-takes-our-casino-economy-to-the-next-level-with-buy-now-pay-maybe-scheme-2000756384",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_6a445ab70cdb",
-      "date": "2026-05-08",
-      "title": "Tech Companies Are Freaking Out About RAMageddon",
-      "url": "https://www.cnet.com/tech/computing/tech-companies-are-freaking-out-about-ramageddon/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_4f0059b7871e",
-      "date": "2026-05-08",
-      "title": "Liverpool reduce planned rise in ticket prices",
-      "url": "https://www.bbc.com/sport/football/articles/c2k2g90y931o",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_fd8e6e958b91",
-      "date": "2026-05-08",
-      "title": "Can Asian economies cope with the fallout from the Iran war?",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/7/can-asian-economies-cope-with-the-fallout-from-the-iran-war",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_00d1054472c0",
-      "date": "2026-05-08",
-      "title": "What are today's mortgage interest rates: May 7, 2026?",
-      "url": "https://www.cbsnews.com/news/todays-mortgage-interest-rates-may-7-2026/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_ffb897443d0e",
-      "date": "2026-05-08",
-      "title": "Business Cycle Indicators – Employment and Coincident Index",
-      "url": "https://econbrowser.com/archives/2026/05/business-cycle-indicators-employment-and-coincident-index",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_da048ff3139e",
-      "date": "2026-05-08",
-      "title": "Trump’s “affordability hoax” may doom him",
-      "url": "https://www.salon.com/2026/05/07/trumps-affordability-hoax-may-doom-him/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_fba1b12191ca",
-      "date": "2026-05-08",
-      "title": "Federal Reserve Is Buying Treasuries Again, But BlackRock's Rick Rieder Still Prefers Equities",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d87467e2-4d68-4d2e-bb79-ec710f0f2bc5",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_47308c8c337c",
-      "date": "2026-05-08",
-      "title": "On Vijayan turf, a question hovers: Did cadre revolt seal CPI(M) fate in Kannur",
-      "url": "https://indianexpress.com/article/political-pulse/on-vijayan-turf-a-question-hovers-did-cadre-revolt-seal-cpim-fate-in-kannur-10676668/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_53bfed36fdbf",
-      "date": "2026-05-08",
-      "title": "Gold And Silver Reach Highest Prices In Weeks Amid Iran Peace Hopes",
-      "url": "https://www.forbes.com/sites/conormurray/2026/05/07/gold-and-silver-reach-highest-prices-in-weeks-amid-iran-peace-hopes/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_9b94f32d312a",
-      "date": "2026-05-08",
-      "title": "Fed's Hammack says rates likely on hold 'for quite some time' - WOSU radio",
-      "url": "https://finance.yahoo.com/economy/policy/articles/feds-hammack-says-rates-likely-152808913.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c2dd154afbb4",
-      "date": "2026-05-08",
-      "title": "Bitcoin bulls battle for $80K control as US jobs data delivers surprise",
-      "url": "https://cointelegraph.com/markets/bitcoin-bulls-battle-80k-control-us-jobs-data-delivers-surprise",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_51337eecdbd8",
-      "date": "2026-05-08",
-      "title": "Swedish Riksbank leaves interest rate unchanged: 'Developments call for vigilance'",
-      "url": "https://www.thelocal.se/20260507/swedish-riksbank-leaves-interest-rate-unchanged-developments-call-for-vigilance",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_1bb117ecb6fa",
-      "date": "2026-05-08",
-      "title": "Architecture graduates have one of highest unemployment rates across college majors, study finds",
-      "url": "https://archinect.com/news/article/150541566/architecture-graduates-have-one-of-highest-unemployment-rates-across-college-majors-study-finds",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_0e3488187d07",
-      "date": "2026-05-08",
-      "title": "What are today's mortgage interest rates: May 8, 2026?",
-      "url": "https://www.cbsnews.com/news/todays-mortgage-interest-rates-may-8-2026/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_b3673ec498e6",
-      "date": "2026-05-08",
-      "title": "As Vijay hunts for numbers, TVK tries coalition-building through WhatsApp, Governor sticks to his stand",
-      "url": "https://indianexpress.com/article/political-pulse/vijay-tvk-tamil-nadu-government-formation-whatsapp-outreach-aiadmk-10677697/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_e13ab7aecac0",
-      "date": "2026-05-08",
-      "title": "They were told their private student loans were paid off. Then they were sued.",
-      "url": "https://www.businessinsider.com/student-loan-borrowers-communications-transfers-lawsuits-2026-5",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_6628b13e27d6",
-      "date": "2026-05-08",
-      "title": "Geopolitical risks, oil shock cited as top worries in Fed financial stability report",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/geopolitical-risks-oil-shock-cited-200603103.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_102201f0126d",
-      "date": "2026-05-08",
-      "title": "Chipotle's CEO says customers can just ask for extra food. I put it to the test.",
-      "url": "https://www.businessinsider.com/test-chipotle-portions-ceo-scott-boatwright-customers-request-extra-servings-2026-5",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_b957b4a96c0a",
-      "date": "2026-05-08",
-      "title": "We're Exactly 1 Week Away From a Historic Change at the Federal Reserve -- and It May End Up Costing the Stock Market Dearly",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bf58624c-910d-4cdc-b7c9-55c653eed9eb",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_15a75f8d4991",
-      "date": "2026-05-08",
-      "title": "Looking at the data behind prediction markets",
-      "url": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_0751955ce414",
-      "date": "2026-05-08",
-      "title": "U.S. Adds Nearly Double The Jobs Last Month Than Expected",
-      "url": "https://www.forbes.com/sites/tylerroush/2026/05/08/us-adds-nearly-double-the-jobs-last-month-than-expected/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c5201cd49063",
-      "date": "2026-05-08",
-      "title": "Ana Navarro Smacks Down Hassett’s ‘Shit Eating Grin’ Over Americans’ Debt",
-      "url": "https://crooksandliars.com/2026/05/ana-navarro-smacks-down-hassett-s-shit",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_61b6a4627ff8",
-      "date": "2026-05-08",
-      "title": "Beyond Bank Runs: The OCC Warns Of A More Complex Financial Threat",
-      "url": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/05/07/beyond-bank-runs-the-occ-warns-of-a-more-complex-financial-threat/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_a1005565c329",
-      "date": "2026-05-08",
-      "title": "US market today: Strong US jobs data complicates any Kevin Warsh push for lower rates",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-today-strong-us-jobs-data-complicates-any-kevin-warsh-push-for-lower-rates/articleshow/130965901.cms",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_e5f4ad8848c2",
-      "date": "2026-05-08",
-      "title": "U.S. hiring slowdown could be great for bitcoin — unless wages spoil the party",
-      "url": "https://www.coindesk.com/daybook-us/2026/05/08/u-s-hiring-slowdown-could-be-great-for-bitcoin-unless-wages-spoil-the-party",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_e4ff5d0227fb",
-      "date": "2026-05-08",
-      "title": "US Stock Market: Fed officials warn Iran War could trigger prolonged inflation shock",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-fed-officials-warn-iran-war-could-trigger-prolonged-inflation-shock/articleshow/130878680.cms",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_6b73601eb128",
-      "date": "2026-05-08",
-      "title": "US-Iran conflict impacts Fed rate cut prospects amid inflation concerns",
-      "url": "https://cryptobriefing.com/us-iran-conflict-impacts-fed-rate-cut-prospects-amid-inflation-concerns/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_fd76244905c3",
-      "date": "2026-05-08",
-      "title": "3 reverse mortgage advantages to know this May",
-      "url": "https://www.cbsnews.com/news/reverse-mortgage-advantages-may-2026/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f56e0a5879f8",
-      "date": "2026-05-08",
-      "title": "Voters ‘want us to do more,’ Republicans say. They’re just not sure what.",
-      "url": "https://www.politico.com/news/2026/05/08/gop-reconciliation-wishlist-affordability-00911021",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_7bcd7f5cbb96",
-      "date": "2026-05-08",
-      "title": "As Iran war continues, people across the US are feeling a strain from high gas prices",
-      "url": "https://abcnews.com/Politics/after-months-war-iran-people-us-feeling-strain/story?id=132760039",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_9dffacfc67c3",
-      "date": "2026-05-08",
-      "title": "Trump's Truth Social lays bare narrow obsessions of an extremely online president",
-      "url": "https://www.npr.org/2026/05/08/nx-s1-5749358/trump-truth-social-online-posts-iran-white-house-ballroom",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_41297384e156",
-      "date": "2026-05-08",
-      "title": "Britannia clocks 22% rise in March quarter profit",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/britannia-clocks-22-rise-in-march-quarter-profit/articleshow/130935621.cms",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_6aa2e574f93a",
-      "date": "2026-05-08",
-      "title": "Fed’s Collins Favored Changing FOMC Statement With Dissenters",
-      "url": "https://financialpost.com/pmn/business-pmn/feds-collins-favored-changing-fomc-statement-with-dissenters",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c79ca3888012",
-      "date": "2026-05-08",
-      "title": "Millions of Aussies in one state to get up to $700 in a cash handout from the government",
-      "url": "https://www.dailymail.com/news/article-15798129/WA-budget.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_3911bddcaf7f",
-      "date": "2026-05-08",
-      "title": "the Bitcoin strategy",
-      "url": "https://erickimphotography.com/blog/2026/05/07/the-bitcoin-strategy/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f9ad13298822",
-      "date": "2026-05-08",
-      "title": "Elon Musk called Anthropic ‘evil’ 3 months ago. Now he’s taking $4 billion to become its data landlord",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-called-anthropic-evil-194925519.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_1ae13b10ae3e",
-      "date": "2026-05-08",
-      "title": "Anthropic and Elon Musk Strike Unexpected Data Center Deal",
-      "url": "https://www.cnet.com/tech/services-and-software/elon-musk-and-anthropic-on-good-enough-terms-to-sign-a-major-data-center-deal/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_36536d615444",
-      "date": "2026-05-08",
-      "title": "Did Microsoft just tease a new Xbox UI?",
-      "url": "https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_7aab93a368b9",
-      "date": "2026-05-08",
-      "title": "Samsung’s flagship laptop is a MacBook Pro clone gone horribly wrong",
-      "url": "https://www.theverge.com/tech/925806/samsung-galaxy-book6-ultra-nvidia-rtx-5070-laptop-review",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_bc47ce2988c1",
-      "date": "2026-05-08",
-      "title": "Musk vs. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-      "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_978c681c54ed",
-      "date": "2026-05-08",
-      "title": "Apple’s $599 MacBook Neo could be at risk from rising RAM prices",
-      "url": "https://www.theverge.com/gadgets/925997/apple-macbook-neo-price-increase-ram",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_de8b982f11a3",
-      "date": "2026-05-08",
-      "title": "Spending Just 10 Minutes With AI Can Fry Your Brain, Researchers Find",
-      "url": "https://gizmodo.com/spending-just-10-minutes-with-ai-can-fry-your-brain-researchers-find-2000755701",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_57c1120eec79",
-      "date": "2026-05-08",
-      "title": "Fox News AI Newsletter: How Disney fans will experience AI",
-      "url": "https://www.foxnews.com/tech/ai-newsletter-disney-fans-experience-ai",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_ddd17ae94bc9",
-      "date": "2026-05-08",
-      "title": "AI Graveyard: 142 AI companies so far buried, many more to come",
-      "url": "https://boingboing.net/2026/05/07/ai-graveyard-142-ai-services-so-far-dead-many-more-to-come.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_30163c9028d6",
-      "date": "2026-05-08",
-      "title": "iFixit Is Ranking Wireless Headphones Now and It Just Crowned a Repairable King",
-      "url": "https://gizmodo.com/ifixit-is-ranking-wireless-headphones-now-and-it-just-crowned-a-repairable-king-2000755836",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_95c2f14c9e15",
-      "date": "2026-05-08",
-      "title": "The Golden Globes’ AI Rules Are Way Less Strict Than the Oscars’",
-      "url": "https://gizmodo.com/golden-globes-ai-rules-2000755850",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f1693b368cdf",
-      "date": "2026-05-08",
-      "title": "Apple chip rumor helps Samsung hit $1T valuation",
-      "url": "https://9to5mac.com/2026/05/07/apple-chip-rumor-helps-samsung-hit-1t-valuation/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_da879585f524",
-      "date": "2026-05-08",
-      "title": "The AI fitness instructors selling unreal gains",
-      "url": "https://www.bbc.com/sport/articles/c5ye7dnxv86o",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_4f770c5f219e",
-      "date": "2026-05-08",
-      "title": "You Should Check Out the Other ‘Severance’",
-      "url": "https://gizmodo.com/severance-ling-ma-the-memory-police-sci-fi-book-2000755656",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_a4892a9d7e0c",
-      "date": "2026-05-08",
-      "title": "Apple's Tim Cook Among CEOs Invited on Trump's Trip to China",
-      "url": "https://www.macrumors.com/2026/05/07/apple-tim-cook-trump-china/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_663c6138b1b9",
-      "date": "2026-05-08",
-      "title": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
-      "url": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_d7bdad762ff2",
-      "date": "2026-05-08",
-      "title": "AirPods With Cameras Won’t Let You Be a Total Creep",
-      "url": "https://gizmodo.com/airpods-with-cameras-wont-let-you-be-a-total-creep-2000756194",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_8e024c95f3f9",
-      "date": "2026-05-08",
-      "title": "Apple Adds Apple Watch to Education Store in Australia, China, Japan, and More",
-      "url": "https://www.macrumors.com/2026/05/07/apple-watch-education-store/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_24c2763f7096",
-      "date": "2026-05-08",
-      "title": "(g+) Consumer Tech: Apple's Camera-Equipped AirPods Reach Late Testing in AI Device Push",
-      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fconsumer-tech-apple-s-camera-equipped-airpods-reach-late-testing-in-ai-device-push-2605-208458.html&referer=https%3A%2F%2Ft.co%2Fe200f6cc2f",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_2dfa976c78ab",
-      "date": "2026-05-08",
-      "title": "Sony’s PS5 sales plummet amid price rises and a memory crisis",
-      "url": "https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_1f1cc0d8ad0f",
-      "date": "2026-05-08",
-      "title": "Google using Chrome to install AI files without permission",
-      "url": "https://boingboing.net/2026/05/07/google-using-chrome-to-install-ai-files-without-permission.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_31550a6404ba",
-      "date": "2026-05-08",
-      "title": "The MacRumors Show: Is Apple Downgrading iPhone 18 Due to Memory Shortage?",
-      "url": "https://www.macrumors.com/2026/05/08/the-macrumors-show-is-apple-downgrading-iphone-18/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_4b20aed48e19",
-      "date": "2026-05-08",
-      "title": "Internal Microsoft document spells out the company's buyout offer",
-      "url": "https://www.businessinsider.com/microsoft-internal-document-shows-buyout-offers-to-us-employees-2026-5",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_61efd9090d42",
-      "date": "2026-05-08",
-      "title": "Apple’s Camera-Equipped AirPods Reach Late Testing in AI Device Push",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/apple-camera-equipped-airpods-reach-182031892.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_dd16104a9558",
-      "date": "2026-05-08",
-      "title": "Apple, Intel Have Reached Preliminary Chip-Making Agreement",
-      "url": "https://hardware.slashdot.org/story/26/05/08/174203/apple-intel-have-reached-preliminary-chip-making-agreement",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_53e9ba4ce0f0",
-      "date": "2026-05-08",
-      "title": "Apple Sued for Pulling Co-Viewing App Rave From the App Store",
-      "url": "https://www.macrumors.com/2026/05/07/apple-rave-app-store-lawsuit/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_901f40b0f44c",
-      "date": "2026-05-08",
-      "title": "Sleep Number ComfortNext Lux Smart Bed: Redefining Support",
-      "url": "https://www.wired.com/review/sleep-number-comfortnext-lux-smart-bed/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_e0dbfdc54600",
-      "date": "2026-05-08",
-      "title": "Apple Seeds Second iOS 26.5 and iPadOS 26.5 Release Candidates to Developers",
-      "url": "https://www.macrumors.com/2026/05/08/apple-seeds-ios-26-5-rc-2/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_e8539e6e64c8",
-      "date": "2026-05-08",
-      "title": "WWDC 2026 is a Month Away: Apple Highlights 'Distinguished Winners'",
-      "url": "https://www.macrumors.com/2026/05/07/wwdc-2026-distinguished-winners/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_50f65fb4f061",
-      "date": "2026-05-08",
-      "title": "Apple TV Has Two Massive Hits Returning This Summer",
-      "url": "https://www.macrumors.com/2026/05/07/two-apple-tv-hits-return-this-summer/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c17739b3c22d",
-      "date": "2026-05-08",
-      "title": "Are the $599 MacBook Neo's Days Numbered?",
-      "url": "https://www.cnet.com/tech/computing/are-the-599-macbook-neos-days-numbered/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_67e72f21b018",
-      "date": "2026-05-08",
-      "title": "An LLM From “Scratch”",
-      "url": "https://hackaday.com/2026/05/07/an-llm-from-scratch/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_add4f839f7a6",
-      "date": "2026-05-08",
-      "title": "Apple Could Be Working on 'Spatial iPhone' With Holographic Display",
-      "url": "https://www.macrumors.com/2026/05/07/apple-working-on-spatial-iphone/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_5cb0197e266d",
-      "date": "2026-05-08",
-      "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_37c4fd4a0cc1",
-      "date": "2026-05-08",
-      "title": "This 130cm Robot Just Took Buddhist Vows at a Seoul Temple",
-      "url": "https://www.yankodesign.com/2026/05/07/this-130cm-robot-just-took-buddhist-vows-at-a-seoul-temple/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f869f3062544",
-      "date": "2026-05-08",
-      "title": "MacBook Neo Could Get New Colors to Cushion Potential Price Hike",
-      "url": "https://www.macrumors.com/2026/05/07/macbook-neo-new-colors-cushion-price-hike/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_5219ccb85af2",
-      "date": "2026-05-08",
-      "title": "Pennsylvania Sues Character.AI, Alleging Chatbots Posed as Doctors",
-      "url": "https://www.cnet.com/tech/services-and-software/pennsylvania-sues-character-ai-over-chatbots-posing-as-doctors/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_6ff1b2bbe659",
-      "date": "2026-05-08",
-      "title": "Apple Reportedly Working on All-New AirTag-Sized Wearable With iPhone Integration",
-      "url": "https://www.macrumors.com/2026/05/07/apple-still-working-on-pendant-report/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_6238f18433bd",
-      "date": "2026-05-08",
-      "title": "Nintendo is raising Switch 2 prices",
-      "url": "https://www.theverge.com/games/926606/nintendo-switch-2-price-hikes-earnings-results",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_311e44eb36e7",
-      "date": "2026-05-08",
-      "title": "Suspects arrested in $1M Apple delivery truck hijacking",
-      "url": "https://abcnews.com/US/suspects-arrested-1m-apple-delivery-truck-hijacking/story?id=132754138",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_dd0fddb6bbfa",
-      "date": "2026-05-08",
-      "title": "Ctrl-Alt-Speech: The Human Element In The Room",
-      "url": "https://www.techdirt.com/2026/05/07/ctrl-alt-speech-the-human-element-in-the-room/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_9788165e5f80",
-      "date": "2026-05-08",
-      "title": "Apple Suffers A Major Loss As U.S. Supreme Court Sides With Epic Over iOS Fees",
-      "url": "https://kotaku.com/epic-games-apple-lawsuit-supreme-court-refuses-appeal-2000693934",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_57a91e9ddc86",
-      "date": "2026-05-08",
-      "title": "Need Math Help? Try Using This iPhone Messages Feature",
-      "url": "https://www.cnet.com/tech/services-and-software/need-math-help-try-using-this-iphone-messages-feature/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_60ea8d24ba21",
-      "date": "2026-05-08",
-      "title": "Google’s Screenless Fitbit Air Relies on Gemini to Be Your Personal Health Coach",
-      "url": "https://gizmodo.com/googles-screenless-fitbit-air-relies-on-gemini-to-be-your-personal-health-coach-2000755566",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_4fb8c7530dc3",
-      "date": "2026-05-08",
-      "title": "Nintendo’s Switch 2 Is Getting a Price Hike—and It’s All AI’s Fault",
-      "url": "https://gizmodo.com/nintendos-switch-2-is-getting-a-price-hike-and-its-all-ais-fault-2000756161",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_593b594faba1",
-      "date": "2026-05-08",
-      "title": "Nintendo Announces The Switch 2 Is Getting A Hefty Price Hike Later This Year",
-      "url": "https://kotaku.com/switch-2-price-increase-nintendo-mario-stock-ram-crisis-2000694235",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c6e3a7f5addf",
-      "date": "2026-05-08",
-      "title": "Why the Hell Has It Taken So Long for Disneyland’s Autopia to Go Electric?",
-      "url": "https://gizmodo.com/why-the-hell-has-it-taken-so-long-for-disneylands-autopia-to-go-electric-2000755714",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_73e710186f65",
-      "date": "2026-05-08",
-      "title": "Super Micro Quietly Delivered a Major AI Surprise",
-      "url": "https://www.barchart.com/story/news/1810125/super-micro-quietly-delivered-a-major-ai-surprise",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c787de802517",
-      "date": "2026-05-08",
-      "title": "Sony's $565M Bungie hit has me wondering what's next — Destiny 2 feels strained, and Marathon's future suddenly looks fragile",
-      "url": "https://www.windowscentral.com/gaming/sonys-usd565m-bungie-hit-destiny-2-strained-and-marathon-fragile",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_1cd5a7c45cc0",
-      "date": "2026-05-08",
-      "title": "ChatGPT Adds ‘Trusted Contact’ Feature to Send Alerts When Conversations Get Dangerous",
-      "url": "https://gizmodo.com/chatgpt-adds-trusted-contact-feature-to-send-alerts-when-conversations-get-dangerous-2000755887",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_bb2b470db2eb",
-      "date": "2026-05-08",
-      "title": "NASA, Industry Advance High Performance Spaceflight Computing",
-      "url": "https://www.nasa.gov/directorates/stmd/nasa-industry-advance-high-performance-spaceflight-computing/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_e97f4833cb1f",
-      "date": "2026-05-08",
-      "title": "Upstart Stock Plunged on Earnings but Executives Say Investors Are Missing the Bigger Picture",
-      "url": "https://www.barchart.com/story/news/1779621/upstart-stock-plunged-on-earnings-but-executives-say-investors-are-missing-the-bigger-picture",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f9622b1896e8",
-      "date": "2026-05-08",
-      "title": "Counting on AI to Solve Problems Makes Us More Likely to Struggle and Give Up, Study Suggests",
-      "url": "https://www.cnet.com/tech/services-and-software/counting-on-ai-to-solve-problems-makes-us-more-likely-to-struggle-and-give-up-study-suggests/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_468766a0b3d2",
-      "date": "2026-05-08",
-      "title": "Zelda 2 Deserves Better",
-      "url": "https://kotaku.com/zelda-2-nintendo-series-miyamoto-is-it-good-link-past-breath-wild-2000694068",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_d1c8e794de9c",
-      "date": "2026-05-08",
-      "title": "Today's NYT Mini Crossword Answers for Friday, May 8",
-      "url": "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-8/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_918f1cfc3d73",
-      "date": "2026-05-08",
-      "title": "A Prayer For When You’re Ready To Stop Fighting God’s Plan",
-      "url": "https://thoughtcatalog.com/rebecca-simon/2026/05/a-prayer-for-when-youre-ready-to-stop-fighting-gods-plan/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f8b9974f0b76",
-      "date": "2026-05-08",
-      "title": "A Prayer To Let Go Of What God Is Asking You To Release",
-      "url": "https://thoughtcatalog.com/rebecca-simon/2026/05/a-prayer-to-let-go-of-what-god-is-asking-you-to-release/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_130fb3687865",
-      "date": "2026-05-08",
-      "title": "A Prayer To Lay Down The Things You Were Never Meant To Carry",
-      "url": "https://thoughtcatalog.com/rebecca-simon/2026/05/a-prayer-to-lay-down-the-things-you-were-never-meant-to-carry/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_43b3fd9a78be",
-      "date": "2026-05-08",
-      "title": "Assassin’s Creed Black Flag Resynced Is Getting Overhauled With Tons Of Modern Accessibility Features",
-      "url": "https://kotaku.com/assassins-creed-black-flag-resynced-colorblind-skippable-qtes-bigger-subtitles-accessibility-features-2000693687",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_ce31c2ddac30",
-      "date": "2026-05-08",
-      "title": "Coming up with a new password doesn't have to be hard – I'm a password expert, and these are my 5 top tips for crafting the perfect password",
-      "url": "https://www.techradar.com/pro/security/coming-up-with-a-new-password-doesnt-have-to-be-hard-im-a-password-expert-and-these-are-my-5-top-tips-for-crafting-the-perfect-password",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_32a35158511f",
-      "date": "2026-05-08",
-      "title": "Apple expands environmental initiatives in India with new partnerships",
-      "url": "https://9to5mac.com/2026/05/07/apple-expands-environmental-initiatives-in-india-with-new-partnerships/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_99e3e17e0d91",
-      "date": "2026-05-08",
-      "title": "911 Operators Explain 11 Dos And Don’ts For More Effective Emergency Calls",
-      "url": "https://www.boredpanda.com/efficient-emergency-information-911-operators-msn/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_0b186ccc49ef",
-      "date": "2026-05-08",
-      "title": "Limbach Talks Owner-Direct Shift, Data Center Upside and M&A Growth at Oppenheimer Conference",
-      "url": "https://www.marketbeat.com/instant-alerts/limbach-talks-owner-direct-shift-data-center-upside-and-ma-growth-at-oppenheimer-conference-2026-05-07/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_af2d98941467",
-      "date": "2026-05-08",
-      "title": "Wall Street's Next Blockbuster Stock Split Has Arrived -- and This Industry Leader Has Soared Over 10,000% in Less Than 4 Years",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f6e371c2-3779-4f21-b371-c652fa8c91f2",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_90133bbb512b",
-      "date": "2026-05-08",
-      "title": "Google's Biggest Health Announcements: New Fitbit Air, Goodbye Fitbit App and Hello 'Coach'",
-      "url": "https://www.cnet.com/tech/mobile/google-health-announcements-fitbit-air-redesigned-fitbit-health-app-new-coach/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_55414b2acc86",
-      "date": "2026-05-08",
-      "title": "AI-powered earbuds with built-in camera expand your capabilities in the real world",
-      "url": "https://www.yankodesign.com/2026/05/08/ai-powered-earbuds-with-built-in-camera-expand-your-capabilities-in-the-real-world/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f8900953b4e8",
-      "date": "2026-05-08",
-      "title": "Here is Why Emcor Group (EME) is One of the Best Engineering Stocks to Buy in 2026",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-emcor-group-eme-one-152910813.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_2140ca63ba83",
-      "date": "2026-05-08",
-      "title": "Whirlpool Q1 earnings miss, cuts 2026 guidance, suspends dividend",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5dd173cb-37db-46a4-8615-07ac7e421b5d",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_1465eb126480",
-      "date": "2026-05-08",
-      "title": "MNTN Wants Its AI Video Ad Generator To Stand Apart From Its CTV Platform",
-      "url": "http://www.adexchanger.com/tv/mntn-wants-its-ai-video-ad-generator-to-stand-apart-from-its-ctv-platform/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_def4add09556",
-      "date": "2026-05-08",
-      "title": "Fitbit Premium is becoming Google Health Premium and it’ll cost more",
-      "url": "https://www.androidauthority.com/google-health-premium-price-inclusions-features-3664507/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_b95c17b9a593",
-      "date": "2026-05-08",
-      "title": "Freedom Broker Upgrades Intel Corporation (INTC) to Buy, Lifts PT",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/freedom-broker-upgrades-intel-corporation-180313627.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_eb68428dba1e",
-      "date": "2026-05-08",
-      "title": "Nintendo’s Switch 2 Gets A $50 Price Hike—Company Blames ‘Market Conditions’",
-      "url": "https://www.forbes.com/sites/siladityaray/2026/05/08/nintendos-switch-2-gets-a-50-price-hike-company-blames-market-conditions/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_520c888e0061",
-      "date": "2026-05-08",
-      "title": "Warner Bros. Posts $2.9B Loss In First Quarter",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f4be7804-8141-4445-9ee7-09c2fd0e8856",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_cc8f76f31f38",
-      "date": "2026-05-08",
-      "title": "Trump Media, Parent of Truth Social, Reports Q1 Sales of $871,000 and $405.9 Million Net Loss",
-      "url": "https://variety.com/2026/digital/news/trump-media-truth-social-q1-2026-earnings-sales-net-loss-1236742097/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f83095621f6e",
-      "date": "2026-05-08",
-      "title": "The Trade Desk Has A Grand Vision, But Needs A New Breed Of CMO To Make It A Reality",
-      "url": "http://www.adexchanger.com/marketers/the-trade-desk-has-a-grand-vision-but-needs-a-new-breed-of-cmo-to-make-it-a-reality/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c2646cbb7296",
-      "date": "2026-05-08",
-      "title": "Google Health Coach Wants to Provide the Most Personalized AI Wellness Experience Yet",
-      "url": "https://www.cnet.com/health/google-health-coach/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f5f035d33cc9",
-      "date": "2026-05-08",
-      "title": "Your Fitness Tracker Has Too Much Screen, The $100 Fitbit Air Has None",
-      "url": "https://www.yankodesign.com/2026/05/08/your-fitness-tracker-has-too-much-screen-the-100-fitbit-air-has-none/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_0ea0f011353f",
-      "date": "2026-05-08",
-      "title": "CoreWeave (CRWV) shares decline after softer guidance and higher spending plans",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ccf3cd5d-229d-4af3-922c-12bd395712b4",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_fd2f652710df",
-      "date": "2026-05-08",
-      "title": "pg_flight_recorder: Continuously sample PostgreSQL system state via pg_cron",
-      "url": "https://github.com/dventimisupabase/pg_flight_recorder",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_1e00f1f3326b",
-      "date": "2026-05-08",
-      "title": "Anime Growth Helps Offset Sony Losses From Pixomondo Shutdown, Bungie Troubles",
-      "url": "https://www.cartoonbrew.com/business/sony-earnings-crunchyroll-pixomondo-bungie-260682.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_1d27bfc117cc",
-      "date": "2026-05-08",
-      "title": "A look ahead: Making it easier and faster to publish safer apps",
-      "url": "https://android-developers.googleblog.com/2026/05/making-it-easier-to-build-publish-safer-apps.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_5e102a0397fc",
-      "date": "2026-05-08",
-      "title": "20+ architecture & design job openings at San Francisco firms",
-      "url": "https://archinect.com/news/article/150541472/20-architecture-design-job-openings-at-san-francisco-firms",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_fc048ed98045",
-      "date": "2026-05-08",
-      "title": "EU hits snooze on AI Act rules after industry backlash",
-      "url": "https://www.theregister.com/ai-and-ml/2026/05/07/eu-hits-snooze-on-ai-act-rules-after-industry-backlash/5234530",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f4606e0595a6",
-      "date": "2026-05-08",
-      "title": "'We’re not just adding new features, we’re introducing a new format': Adobe is changing how PDF and other files get shared",
-      "url": "https://www.techradar.com/pro/were-not-just-adding-new-features-were-introducing-a-new-format-adobe-is-changing-how-pdf-and-other-files-get-shared",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_35229f6a19ca",
-      "date": "2026-05-08",
-      "title": "Daily briefing: A stunningly detailed map of the Universe and the month’s best science images",
-      "url": "https://www.nature.com/articles/d41586-026-01508-6",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_d97555191cc0",
-      "date": "2026-05-08",
-      "title": "15 Forbidden Places On Earth Most People Will Never Set Foot In",
-      "url": "https://www.boredpanda.com/forbidden-places-on-earth-msn/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c7ac9540265c",
-      "date": "2026-05-08",
-      "title": "Google Health Coach is officially here to replace generic fitness advice",
-      "url": "https://www.androidauthority.com/google-health-app-coach-rebrand-3664205/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_d760f4d44855",
-      "date": "2026-05-08",
-      "title": "Sony Reports 8% Rise in Revenue to $19.4 Billion",
-      "url": "https://www.thewrap.com/industry-news/business/sony-reports-8-rise-in-revenue-to-19-4-billion/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_197de8f62505",
-      "date": "2026-05-08",
-      "title": "DIY Electrolysis Machine Removes Hair Permanently",
-      "url": "https://hackaday.com/2026/05/07/diy-electrolysis-machine-removes-hair-permanently/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_4f0e174e2074",
-      "date": "2026-05-08",
-      "title": "Confused about the abortion pill news? Here's where things stand",
-      "url": "https://www.npr.org/2026/05/07/nx-s1-5815294/abortion-pill-mifepristone-supreme-court-telemedicine",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_32b8f4f4bfaa",
-      "date": "2026-05-08",
-      "title": "Exclusive-Kennedy's health officials explored US ban of some widely used antidepressants, sources say",
-      "url": "https://www.yahoo.com/news/articles/exclusive-kennedys-health-officials-explored-155656054.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_6d89df1a44f6",
-      "date": "2026-05-08",
-      "title": "What scientists found inside coral reefs could change the future of medicine",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260506225229.htm",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_71c0d3bc8f53",
-      "date": "2026-05-08",
-      "title": "This former a16z partner and solo VC has backed 6 unicorns. Now he's raised $50 million to invest in hard tech",
-      "url": "https://www.businessinsider.com/former-a16z-partner-with-6-unicorns-raises-50m-fifth-fund-2026-5",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_00d37331de52",
-      "date": "2026-05-08",
-      "title": "The science behind social media’s peptide obsession",
-      "url": "https://www.scientificamerican.com/podcast/episode/the-science-behind-social-medias-peptide-obsession/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c96f7778bf50",
-      "date": "2026-05-08",
-      "title": "Taimei Technology and C&R Research to develop AI clinical trial operations platform",
-      "url": "https://www.clinicaltrialsarena.com/news/taimei-cr-research-ai-clinical-trial-platform/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_82ef005d933d",
-      "date": "2026-05-08",
-      "title": "Scientists find a way to stop dangerous belly fat as we age",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260506225235.htm",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_61aa57f53241",
-      "date": "2026-05-08",
-      "title": "Risk-adapted therapy guided by human papillomavirus (HPV) circulating tumor DNA in HPV-positive oropharyngeal cancer (ReACT 1.0): an exploratory phase II trial",
-      "url": "https://www.nature.com/articles/s41467-026-72984-7",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_7f96539fd86e",
-      "date": "2026-05-08",
-      "title": "Nivolumab plus ipilimumab for chemotherapy-refractory metastatic castration-resistant prostate cancer: results from the randomized portion of the phase 2 CheckMate 650 trial",
-      "url": "https://www.nature.com/articles/s41467-026-72242-w",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_5db0aac07291",
-      "date": "2026-05-08",
-      "title": "New Trials: Moderna Performed About 27% Better Than Standard Flu Vaccines",
-      "url": "https://crooksandliars.com/2026/05/new-trials-moderna-performed-about-27",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_817fdf0688df",
-      "date": "2026-05-08",
-      "title": "Trump Plans to Fire FDA Chief Over MAHA Vaping War",
-      "url": "https://newrepublic.com/post/210186/trump-plans-fire-fda-chief-makary",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_048f4fa33929",
-      "date": "2026-05-08",
-      "title": "Angelini Pharma to acquire Catalyst Pharmaceuticals for equity value of $4.1bn",
-      "url": "https://www.pharmaceutical-technology.com/news/angelini-to-buy-catalyst-pharmaceuticals/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_2395e510de06",
-      "date": "2026-05-08",
-      "title": "Urogen Pharma Q1 Earnings Call Highlights",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_973fc596-ce22-4f88-8edf-7b03f5b9d860",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_4cccedebea00",
-      "date": "2026-05-08",
-      "title": "WATCH: Denali National Park introduces newest sled dog pups",
-      "url": "https://abcnews.com/video/132729934/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_8f42bd4bd456",
-      "date": "2026-05-08",
-      "title": "WATCH: ‘GMA’ goes whale watching in Washington",
-      "url": "https://abcnews.com/video/132739833/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_49a2c90cbfbe",
-      "date": "2026-05-08",
-      "title": "WATCH: Your hantavirus questions answered",
-      "url": "https://abcnews.com/video/132752883/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c19ee6d11bd0",
-      "date": "2026-05-08",
-      "title": "Opinion - Trump’s presidency has desiccated the conservative movement",
-      "url": "https://thehill.com/opinion/white-house/5867912-trump-destroys-conservative-movement/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_4b3e5078a5d3",
-      "date": "2026-05-08",
-      "title": "WATCH: Watch the sweet moment an Army son surprises mom at her college graduation",
-      "url": "https://abcnews.com/video/132747385/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_1ff769ffee35",
-      "date": "2026-05-08",
-      "title": "WATCH: Meet the new Denali Sled Dog puppies",
-      "url": "https://abcnews.com/video/132738078/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_e0c453fd1e94",
-      "date": "2026-05-08",
-      "title": "WATCH: CMA Foundation honors Nashville music teacher",
-      "url": "https://abcnews.com/video/132745765/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_a34e58ad40d3",
-      "date": "2026-05-08",
-      "title": "Lantheus Q1 Earnings Call Highlights",
-      "url": "https://www.marketbeat.com/instant-alerts/lantheus-q1-earnings-call-highlights-2026-05-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c98331fc372b",
-      "date": "2026-05-08",
-      "title": "10 Things You Didn't Know About Microdosing GLP-1s In Perimenopause",
-      "url": "https://www.mindbodygreen.com/articles/10-things-you-didnt-know-about-microdosing-glp-1s-in-perimenopause",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_b1fad22311e1",
-      "date": "2026-05-08",
-      "title": "Honor launched a $193 Kid-focused iPad Alternative with 22 Hours of Battery and Parental Controls Already Set Up",
-      "url": "https://www.yankodesign.com/2026/05/08/honor-launched-a-193-kid-focused-ipad-alternative-with-22-hours-of-battery-and-parental-controls-already-set-up/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_d014c722c847",
-      "date": "2026-05-08",
-      "title": "Why Pinnacle Food Group’s (PFAI) Latest Biotech Initiative Could Draw Attention",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_55adbc39-de3a-4d10-8a75-89f72b3d04a4",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_2e93a38ab9eb",
-      "date": "2026-05-08",
-      "title": "Chance Pharma Announces NMPA Acceptance of New Drug Application for Investigational Respiratory Drug CXG87",
-      "url": "https://www.prnewswire.com/news-releases/chance-pharma-announces-nmpa-acceptance-of-new-drug-application-for-investigational-respiratory-drug-cxg87-302766379.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f87acb6e5c6c",
-      "date": "2026-05-08",
-      "title": "The gut-healing power of nature’s bounty: Top fruits for digestive wellness",
-      "url": "https://www.naturalnews.com/2026-05-07-the-gut-healing-power-of-natures-bounty.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_e383f0acfecf",
-      "date": "2026-05-08",
-      "title": "4 Ways to Identify a Nightmare (and 4 Things to Do About It)",
-      "url": "https://www.psychologytoday.com/us/blog/mapping-your-mental-health-journey/202605/4-ways-to-identify-a-nightmare-and-4-things-to-do",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c9260b62ad52",
-      "date": "2026-05-08",
-      "title": "This 2,550-Hour Dress Blew Real Bubbles at the Met Gala",
-      "url": "https://www.yankodesign.com/2026/05/07/this-2550-hour-dress-blew-real-bubbles-at-the-met-gala/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_a8acbfd9906a",
-      "date": "2026-05-08",
-      "title": "The Mifepristone Briefs Are In, But One Dog Did Not (Yet) Bark",
-      "url": "https://reason.com/volokh/2026/05/08/the-mifepristone-briefs-are-in-but-one-dog-did-not-yet-bark/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_8f7a0b2d2efc",
-      "date": "2026-05-08",
-      "title": "​Following FDA Approval, Medtronic (MDT) Receives CE Mark For Stealth AXiS System",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7ee035a5-bcb2-4da7-9dbf-368db13a8539",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_45372b10a4e0",
-      "date": "2026-05-08",
-      "title": "Eli Lilly (LLY) Reports Q1 2026 Revenue Surge of 56% Following FDA Approval of Foundayo",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b7c2e7fe-b26d-4ae2-a6a2-134e7af881ef",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_1ff06b506c2b",
-      "date": "2026-05-08",
-      "title": "Cantor Fitzgerald Lifts PT on Eli Lilly and Company (LLY) on Q1 Earnings Call",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/cantor-fitzgerald-lifts-pt-eli-172611077.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_a0ec22b4c577",
-      "date": "2026-05-08",
-      "title": "Trump Reportedly Planning to Fire His FDA Commish in Latest High-Level Sacking",
-      "url": "https://www.mediaite.com/media/news/trump-reportedly-planning-to-fire-his-fda-commish-in-latest-high-level-sacking/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_1247057b1bdd",
-      "date": "2026-05-08",
-      "title": "Florida in Secret Talks With Trump on Closing “Alligator Alcatraz”",
-      "url": "https://newrepublic.com/post/210108/florida-close-alligator-alcatraz",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_fe5a19ae2f4d",
-      "date": "2026-05-08",
-      "title": "Doctors warn this popular vitamin may quietly disrupt cancer care",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260506225551.htm",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_59dc33365e5a",
-      "date": "2026-05-08",
-      "title": "Pfizer didn't say hantavirus is side effect of its COVID-19 vaccine, contrary to online claims",
-      "url": "https://www.snopes.com//fact-check/hantavirus-covid-vaccine-side-effects/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_ede46a6eb53e",
-      "date": "2026-05-08",
-      "title": "A common constipation drug shows surprising power to protect kidneys",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260508024740.htm",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_39aead609164",
-      "date": "2026-05-08",
-      "title": "The White House projects billions in drug pricing deals. Democrats are skeptical.",
-      "url": "https://theweek.com/politics/white-house-projects-billions-in-drug-pricing-deals-democrats-are-skeptical",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_97589f4f3df1",
-      "date": "2026-05-08",
-      "title": "Generate Biomedicines, Inc. Reports First Quarter 2026 Financial Results and Provides Business Update",
-      "url": "https://www.prnewswire.com/news-releases/generate-biomedicines-inc-reports-first-quarter-2026-financial-results-and-provides-business-update-302765449.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_d31f22a7d192",
-      "date": "2026-05-08",
-      "title": "Breaking down controversial FDA decision to approve fruit-flavored e-cigarettes",
-      "url": "https://www.cbsnews.com/video/breaking-down-controversial-fda-decision-to-approve-fruit-flavored-e-cigarettes/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c6da05431d8a",
-      "date": "2026-05-08",
-      "title": "Snack mixes recalled due to possible Salmonella contamination",
-      "url": "https://www.cbsnews.com/news/salmonella-snack-mix-recall-target/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_b3ac8dfa320a",
-      "date": "2026-05-08",
-      "title": "Why I Believe Red Light Therapy Is the Most Underrated Healing Toolâand Why the Establishment Wants You to Ignore It",
-      "url": "https://www.naturalnews.com/2026-05-07-red-light-therapy-most-underrated-healing-tool.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_b62722c26f05",
-      "date": "2026-05-08",
-      "title": "PARP Inhibitors Clinical Trial Pipeline Accelerates as 25+ Pharma Companies Rigorously Develop Drugs for Market Entry | DelveInsight",
-      "url": "https://www.globenewswire.com/news-release/2026/05/07/3290391/0/en/PARP-Inhibitors-Clinical-Trial-Pipeline-Accelerates-as-25-Pharma-Companies-Rigorously-Develop-Drugs-for-Market-Entry-DelveInsight.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_fdc508c725ce",
-      "date": "2026-05-08",
-      "title": "Improving immune function: Rapamycin clinical trial launched",
-      "url": "https://www.digitaljournal.com/tech-science/improving-immune-function-rapamycin-clinical-trial-launched/article",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f9cf4a0557b7",
-      "date": "2026-05-08",
-      "title": "Knives out for FDA head Marty Makary after he blocks, then OKs vape flavors",
-      "url": "https://nypost.com/2026/05/07/us-news/knives-out-for-fda-headmarty-makary-after-he-blocks-then-oks-vape-flavors/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_59f32f4d9a2d",
-      "date": "2026-05-08",
-      "title": "Mezzion Reports Pre-IND FDA Feedback on the Development of Udenafil in ADPKD",
-      "url": "https://www.prnewswire.com/news-releases/mezzion-reports-pre-ind-fda-feedback-on-the-development-of-udenafil-in-adpkd-302765688.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f43f16a6b5e2",
-      "date": "2026-05-08",
-      "title": "BMW’s New iX3 Gets Up to 434 Miles on a Charge, Will Retail for $63,000",
-      "url": "https://gizmodo.com/bmws-new-ix3-gets-up-to-434-miles-on-a-charge-will-retail-for-63000-2000756178",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_8926e58c9163",
-      "date": "2026-05-08",
-      "title": "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
-      "url": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_333d1d604622",
-      "date": "2026-05-08",
-      "title": "Tesla Recalls Cybertrucks Over Concerns Their Wheels Could Come Off",
-      "url": "https://gizmodo.com/tesla-recalls-cybertrucks-over-concerns-their-wheels-could-come-off-2000756284",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_3bebca3cfdd1",
-      "date": "2026-05-08",
-      "title": "Tesla filed a trademark for a new Roadster logo ahead of the EV's long-awaited reveal",
-      "url": "https://www.businessinsider.com/tesla-roadster-logo-trademark-2026-5",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_89789d3e93e6",
-      "date": "2026-05-08",
-      "title": "The $42 billion auto giant you've never heard of is building AI into its factories",
-      "url": "https://www.businessinsider.com/auto-giant-magna-ai-factories-2026-5",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_af42d0c2ac18",
-      "date": "2026-05-08",
-      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
-      "url": "https://www.bbc.com/news/articles/c626zyywxjno",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_6387c29687e3",
-      "date": "2026-05-08",
-      "title": "ASEAN summit ends with only a push to fast-track oil share pact",
-      "url": "https://www.yahoo.com/news/articles/southeast-asian-leaders-seek-strategy-034219221.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_3ee46a12e23f",
-      "date": "2026-05-08",
-      "title": "Only 173? Tesla Cybertruck RWD Recall Reveals Low Sales",
-      "url": "https://www.motortrend.com/news/tesla-cybertruck-rwd-recall-brake-rotor",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_94b1580207ad",
-      "date": "2026-05-08",
-      "title": "Five election moments you may have missed",
-      "url": "https://www.bbc.com/news/articles/c5y84453d9qo",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_a4f7e22e9142",
-      "date": "2026-05-08",
-      "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_34faa53b3b9a",
-      "date": "2026-05-08",
-      "title": "Local data center opposition claims its latest victim: Oracle's Project Jupiter gas plant",
-      "url": "https://www.businessinsider.com/oracle-cancels-project-jupiter-gas-plant-amid-local-pushback-2026-5",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c6ed5bef85a4",
-      "date": "2026-05-08",
-      "title": "How 8 million bars of olive oil soap are handmade at this factory in Turkey",
-      "url": "https://www.businessinsider.com/how-olive-oil-soap-is-handmade-in-turkey-2026-5",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_f1bef3a0f2bd",
-      "date": "2026-05-08",
-      "title": "4 phases of the Iran war: Key moments from start of 'Epic Fury' to 'Project Freedom'",
-      "url": "https://abcnews.com/International/4-phases-iran-war-key-moments-start-epic/story?id=132703824",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_e5cfb81929bb",
-      "date": "2026-05-08",
-      "title": "The U.S. awaits Iran's response as the UAE reports another missile barrage",
-      "url": "https://www.npr.org/2026/05/08/g-s1-121061/iran-war-updates",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_4ccda485c29c",
-      "date": "2026-05-08",
-      "title": "California leaders report four to six weeks worth of gasoline and diesel supply",
-      "url": "https://kmph.com/news/local/california-leaders-report-four-to-six-weeks-worth-of-gasoline-and-diesel-in-supply",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_35da3d407584",
-      "date": "2026-05-08",
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/05/07/nx-s1-5810086/morning-news-brief",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_2aec7114ed57",
-      "date": "2026-05-08",
-      "title": "Slay The Spire 2′s Latest Update Completely Removes Controversial Doormaker Boss",
-      "url": "https://kotaku.com/slay-the-spire-2-doormaker-boss-update-aeonglass-defect-regent-buff-nerf-2000694262",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c4cb29703b94",
-      "date": "2026-05-08",
-      "title": "What to watch for in high-stakes Trump-Xi meeting",
-      "url": "https://abcnews.com/Politics/watch-high-stakes-trump-xi-meeting/story?id=132746582",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_91dd83a53619",
-      "date": "2026-05-08",
-      "title": "Exclusive-Hungry to sell, UAE slips hidden oil tankers through Strait of Hormuz",
-      "url": "https://finance.yahoo.com/news/exclusive-hungry-sell-uae-slips-104739397.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_e28472f5ce7e",
-      "date": "2026-05-08",
-      "title": "Oil tanker arrives in South Korea after passing through the Strait of Hormuz in mid-April",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0719c1f7-2c6f-432c-9649-39811eeeffc4",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_50e43bf9994a",
-      "date": "2026-05-08",
-      "title": "Trump blockade squeezing Iran so hard regime may be dumping oil into Gulf, experts say",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f4626683-67d7-4a7f-b8b1-0cfe768ed490",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_84b3fa1072fb",
-      "date": "2026-05-08",
-      "title": "Crunchyroll Streaming Deal: Get a Fan Subscription for $2 Per Month for 3 Months",
-      "url": "https://www.cnet.com/deals/crunchyroll-streaming-deal-may-2026/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_878a974bc1f8",
-      "date": "2026-05-08",
-      "title": "DOJ probing $2.6 billion in oil trades related to Iran war, sources say",
-      "url": "https://abcnews.com/US/doj-probing-26-billion-oil-trades-related-iran/story?id=132738007",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_5420a270a5b8",
-      "date": "2026-05-08",
-      "title": "Prices are up, but Mother's Day still means brunch",
-      "url": "https://www.npr.org/2026/05/08/nx-s1-5813684/prices-mothers-day-brunch-restaurants-flowers",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_19c9e4b60733",
-      "date": "2026-05-08",
-      "title": "I made 3-ingredient Buffalo wings in my air fryer, and I'm never using an oven again",
-      "url": "https://www.businessinsider.com/best-way-to-make-chicken-wings-air-fryer-recipe-buffalo",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_7dbd42db4bd1",
-      "date": "2026-05-08",
-      "title": "Oil prices settle 1% lower in volatile trading after US mulls resuming Strait of Hormuz military escorts",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7403d2a2-2774-4185-8d33-879984974ba6",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_160857359387",
-      "date": "2026-05-08",
-      "title": "Researchers Found an Innovative Way to Cut Data Center Energy Use",
-      "url": "https://gizmodo.com/researchers-found-an-innovative-way-to-cut-data-center-energy-use-2000755543",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_5456a619864c",
-      "date": "2026-05-08",
-      "title": "Composite Artemis II Animation Shows Just How Much Stuff Is in Low Earth Orbit",
-      "url": "https://gizmodo.com/composite-artemis-ii-animation-shows-just-how-much-stuff-is-in-low-earth-orbit-2000755806",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_d5b4da76bd83",
-      "date": "2026-05-08",
-      "title": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
-      "url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c1b3eb23a859",
-      "date": "2026-05-08",
-      "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
-      "url": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_02ad81c11f99",
-      "date": "2026-05-08",
-      "title": "California has four to six weeks of gasoline left",
-      "url": "https://boingboing.net/2026/05/07/california-has-four-to-six-weeks-of-gasoline-left.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_612fd8d71c77",
-      "date": "2026-05-08",
-      "title": "Grok AI Voice Mode Arrives on Apple CarPlay",
-      "url": "https://www.macrumors.com/2026/05/08/grok-ai-voice-mode-apple-carplay/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_323b6dbc656c",
-      "date": "2026-05-08",
-      "title": "Iran war hits datacenter building supply chains, upping costs",
-      "url": "https://www.theregister.com/on-prem/2026/05/08/iran-war-disrupts-datacenter-construction-supply-chains-raises-material-costs/5235852",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_c7a71e3cb6d2",
-      "date": "2026-05-08",
-      "title": "McDonald's CEO just shared some bad news about the K-shaped economy",
-      "url": "https://www.businessinsider.com/mcdonalds-ceo-chris-kempczinski-bad-news-k-shaped-economy-2026-5",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_212493432461",
-      "date": "2026-05-08",
-      "title": "Africa sees winners and losers as Iran war pushes up oil prices",
-      "url": "https://www.aljazeera.com/news/2026/5/7/africa-sees-winners-and-losers-as-iran-war-pushes-up-oil-prices",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_3d9a47f899e6",
-      "date": "2026-05-08",
-      "title": "University of Utah’s TRIGA Research Reactor Set to Produce Electricity",
-      "url": "https://hackaday.com/2026/05/07/university-of-utahs-triga-research-reactor-set-to-produce-electricity/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_a7152a42670b",
-      "date": "2026-05-08",
-      "title": "US sanctions Iraqi minister accused of aiding Iran oil sales",
-      "url": "https://www.aljazeera.com/news/2026/5/7/us-sanctions-iraqi-minister-accused-of-aiding-iran-oil-sales",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_70abc7d097d9",
-      "date": "2026-05-08",
-      "title": "34 Products That’ll Be Fighting For The Title Of “Best Amazon Purchase You’ve Ever Made”",
-      "url": "https://www.buzzfeed.com/gabrielamanjarrez/best-amazon-purchase-title-winners",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_373e83a0af17",
-      "date": "2026-05-08",
-      "title": "US and Iran practicing an \"Israeli ceasefire,\" by shooting at one another",
-      "url": "https://boingboing.net/2026/05/08/us-and-iran-practicing-an-israeli-ceasefire-by-shooting-at-one-another.html",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_db1bdb27df4c",
-      "date": "2026-05-08",
-      "title": "Poop, stomach oil and ostrich eggshells keep records of Earth’s ancient climate",
-      "url": "https://www.scientificamerican.com/article/poop-stomach-oil-and-ostrich-eggshells-keep-records-of-earths-ancient-climate/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_645de54d28f1",
-      "date": "2026-05-08",
-      "title": "Viture already has the best smart glasses ecosystem, and these two new products somehow make it even better",
-      "url": "https://www.androidcentral.com/wearables/viture-beast-abxylute-s9v-launch",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_70f2858e7689",
-      "date": "2026-05-08",
-      "title": "The Hermès Birkin Finally Has a LEGO Version and It Opens to Reveal A Secret Runway Inside",
-      "url": "https://www.yankodesign.com/2026/05/08/the-hermes-birkin-finally-has-a-lego-version-and-it-opens-to-reveal-a-secret-runway-inside/",
-      "source": "newsapi",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "us_2d2b70d9fbba",
-      "date": "2026-05-08",
-      "title": "US issues new Cuba sanctions as UN experts warn of ‘energy starvation’",
-      "url": "https://www.aljazeera.com/news/2026/5/7/us-issues-new-cuba-sanctions-as-un-experts-warn-of-energy-starvation",
       "source": "newsapi",
       "sector": "",
       "sentiment": "",
