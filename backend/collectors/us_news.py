@@ -15,13 +15,16 @@ KST = pytz.timezone("Asia/Seoul")
 
 NEWSAPI_BASE = "https://newsapi.org/v2/everything"
 
+# Double-quoted phrases are preserved as Python strings with escaped quotes.
+# The requests library URL-encodes them automatically (%22) before sending.
+# Scheduler: cron "0 10 * * 1-5" → 1 run/day × 6 queries = 6 req/day (limit: 100/day).
 US_MARKET_QUERIES = [
-    "stock market earnings Wall Street",
-    "S&P 500 Nasdaq Dow Jones",
-    "Federal Reserve interest rate inflation",
-    "semiconductor chip AI technology",
-    "energy oil pharma biotech",
-    "consumer retail automotive",
+    '"S&P 500" OR Nasdaq OR "Dow Jones" OR "Wall Street"',
+    '"Federal Reserve" OR FOMC OR "interest rate" OR CPI OR inflation',
+    'Semiconductor OR "Artificial Intelligence" OR Nvidia OR Apple OR Microsoft',
+    '"earnings report" OR guidance OR "M&A" OR "stock split"',
+    'pharma OR biotech OR FDA OR "clinical trial"',
+    'Tesla OR EV OR Energy OR oil OR retail',
 ]
 
 HEADERS = {
@@ -55,7 +58,8 @@ def collect_us_news(date_str: str | None = None) -> list[dict[str, Any]]:
 
     all_items: list[dict] = []
     seen_ids: set[str] = set()
-    remaining_requests = 20  # stay well under 100/day free tier limit
+    # Hard cap well below 100/day free-tier limit (6 queries × 1 run/day = 6 req/day)
+    remaining_requests = 20
 
     for query in US_MARKET_QUERIES:
         if remaining_requests <= 0:
@@ -64,7 +68,7 @@ def collect_us_news(date_str: str | None = None) -> list[dict[str, Any]]:
             resp = requests.get(
                 NEWSAPI_BASE,
                 params={
-                    "q": query,
+                    "q": query,       # requests encodes quotes → %22 automatically
                     "from": from_date,
                     "to": to_date,
                     "language": "en",

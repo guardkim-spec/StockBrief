@@ -6,6 +6,7 @@ import hashlib
 import time as _time
 from datetime import datetime, timedelta
 from typing import Any
+from urllib.parse import urlencode
 
 import feedparser
 import pytz
@@ -15,19 +16,19 @@ from pipeline.retry import retry
 logger = logging.getLogger(__name__)
 KST = pytz.timezone("Asia/Seoul")
 
-GOOGLE_NEWS_RSS = [
-    # General market
-    "https://news.google.com/rss/search?q=주식+증시+한국&hl=ko&gl=KR&ceid=KR:ko",
-    "https://news.google.com/rss/search?q=코스피+코스닥+거래&hl=ko&gl=KR&ceid=KR:ko",
-    "https://news.google.com/rss/search?q=한국주식+실적+수주&hl=ko&gl=KR&ceid=KR:ko",
-    # Sector-specific
-    "https://news.google.com/rss/search?q=반도체+삼성전자+SK하이닉스&hl=ko&gl=KR&ceid=KR:ko",
-    "https://news.google.com/rss/search?q=바이오+제약+헬스케어+임상&hl=ko&gl=KR&ceid=KR:ko",
-    "https://news.google.com/rss/search?q=자동차+현대차+기아+전기차&hl=ko&gl=KR&ceid=KR:ko",
-    "https://news.google.com/rss/search?q=2차전지+배터리+LG에너지솔루션&hl=ko&gl=KR&ceid=KR:ko",
-    "https://news.google.com/rss/search?q=금융+은행+증권+보험&hl=ko&gl=KR&ceid=KR:ko",
-    "https://news.google.com/rss/search?q=IT+인터넷+카카오+네이버&hl=ko&gl=KR&ceid=KR:ko",
-    "https://news.google.com/rss/search?q=조선+방산+철강+소재&hl=ko&gl=KR&ceid=KR:ko",
+# Each string is passed as the `q` parameter; OR operators and spaces are
+# URL-encoded at runtime via _build_url() to avoid malformed query strings.
+KOREA_QUERIES = [
+    "코스피 OR 코스닥 증시 마감 시황",
+    "한국은행 OR 금통위 OR 기준금리 OR 환율",
+    "어닝서프라이즈 OR 흑자전환 OR 수주 OR 공급계약",
+    "삼성전자 OR SK하이닉스 OR 반도체 OR HBM OR 온디바이스",
+    "LG에너지솔루션 OR 에코프로 OR 2차전지 OR 전고체",
+    "현대차 OR 기아 OR 전기차 OR 자율주행",
+    "제약 OR 바이오 OR 임상 OR FDA OR 신약",
+    "네이버 OR 카카오 OR 플랫폼 OR 게임 OR AI",
+    "금융지주 OR 은행 OR 밸류업 OR 주주환원",
+    "방산 OR 조선 OR 원전 OR 수주",
 ]
 
 HEADERS = {
@@ -37,6 +38,12 @@ HEADERS = {
         "Chrome/124.0.0.0 Safari/537.36"
     )
 }
+
+
+def _build_url(query: str) -> str:
+    """Build a properly URL-encoded Google News RSS URL for the given query."""
+    params = urlencode({"q": query, "hl": "ko", "gl": "KR", "ceid": "KR:ko"})
+    return f"https://news.google.com/rss/search?{params}"
 
 
 def _make_id(url: str) -> str:
@@ -99,12 +106,12 @@ def collect_korea_news(date_str: str | None = None) -> list[dict[str, Any]]:
     all_items: list[dict] = []
     seen_ids: set[str] = set()
 
-    for url in GOOGLE_NEWS_RSS:
+    for query in KOREA_QUERIES:
+        url = _build_url(query)
         items = _parse_feed(url, cutoff)
         for item in items:
             if item["id"] not in seen_ids:
                 seen_ids.add(item["id"])
-                # Normalize date field to target date if unknown
                 if not item["date"]:
                     item["date"] = today
                 all_items.append(item)
