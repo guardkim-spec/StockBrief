@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 ET = pytz.timezone("America/New_York")
 
 US_QUERIES = [
-    "(\"S&P 500\" OR Nasdaq OR \"Dow Jones\" OR \"Wall Street\") (\"All-Time High\" OR Rally OR Bullish OR Breakout)",
+    "(Consumer OR Retail OR \"E-commerce\") (\"Earnings Beat\" OR \"Record Sales\" OR \"Revenue Growth\" OR Acquisition)",
     "(\"Federal Reserve\" OR FOMC OR CPI) (\"Rate Cut\" OR Dovish OR \"Soft Landing\")",
     "(Semiconductor OR Nvidia OR \"AI chip\" OR Apple OR Microsoft) (Breakthrough OR Partnership OR \"Record Profits\" OR \"Earnings Beat\")",
     "\"Earnings Beat\" OR \"Raised Guidance\" OR \"Share Buyback\" OR \"Stock Split\" OR Acquisition",

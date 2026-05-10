@@ -19,7 +19,7 @@ KST = pytz.timezone("Asia/Seoul")
 # Each string is passed as the `q` parameter; OR operators and spaces are
 # URL-encoded at runtime via _build_url() to avoid malformed query strings.
 KOREA_QUERIES = [
-    '(코스피 OR 코스닥) (급등 OR 랠리 OR "사상 최고치" OR 신고가)',
+    '(소비재 OR 유통 OR 식품 OR 화장품) (실적 OR 수출 OR 성장 OR 흑자전환 OR 어닝서프라이즈)',
     '(한국은행 OR 정부) ("금리 인하" OR "규제 완화" OR 부양책 OR "대규모 투자")',
     '어닝서프라이즈 OR 흑자전환 OR "사상 최대" OR "대규모 수주" OR "독점 공급" OR "M&A"',
     '(반도체 OR 삼성전자 OR SK하이닉스) ("세계 최초" OR 초격차 OR "대규모 수주" OR "독점 공급")',
