@@ -60,6 +60,9 @@ def append_rows(tab_name: str, rows: list[dict[str, Any]]) -> int:
     """Append rows to a Sheets tab, skipping duplicates. Returns count of inserted rows."""
     if not rows:
         return 0
+    if not settings.google_sheets_id:
+        logger.debug("GOOGLE_SHEETS_ID not set; skipping Sheets append for %s", tab_name)
+        return 0
 
     gc = _get_client()
     spreadsheet = gc.open_by_key(settings.google_sheets_id)

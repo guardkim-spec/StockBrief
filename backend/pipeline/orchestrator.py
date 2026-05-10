@@ -195,7 +195,6 @@ def run_pipeline(date_str: str | None = None, dry_run: bool = False) -> bool:
     def _save_all():
         from storage.github_storage import save_daily_file, save_latest
         from storage.sheets_client  import append_rows
-        from storage.drive_client   import upload_report_html
 
         save_daily_file(date_str, "korea_price.json",   _wrap(date_str, ctx["korea_price"]))
         save_daily_file(date_str, "us_price.json",       _wrap(date_str, ctx["us_price"]))
@@ -207,12 +206,9 @@ def run_pipeline(date_str: str | None = None, dry_run: bool = False) -> bool:
         save_daily_file(date_str, "pipeline-status.json",{"ok":True,"date":date_str,"data":{"date":date_str,"overall":"success","steps":steps}})
 
         if ctx.get("report_html"):
-            drive_url = ""
-            try:
-                drive_url = upload_report_html(date_str, ctx["report_html"])
-            except Exception as exc:
-                logger.warning("Drive upload failed (non-fatal): %s", exc)
-            report_payload = _build_report_payload(date_str, ctx, drive_url)
+            # Drive upload skipped: Service Accounts have no storage quota on regular Drive.
+            # HTML is persisted in report.json (html_content) and report.html locally.
+            report_payload = _build_report_payload(date_str, ctx, "")
             save_daily_file(date_str, "report.json", report_payload)
             report_html_path = settings.data_dir / date_str / "report.html"
             report_html_path.parent.mkdir(parents=True, exist_ok=True)
