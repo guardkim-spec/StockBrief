@@ -1,5 +1,286 @@
 {
   "ok": true,
   "date": "2026-05-07",
-  "data": []
+  "data": [
+    {
+      "id": "kr_ba9b5f2e269b",
+      "date": "2026-05-07",
+      "title": "한국 주식시장 시총, 캐나다 제치고 세계 7위 - KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mWlBQQVlabkM2SFRTZlV0bU5RTV9LeE9rMXJPNXgzRDgzWk9qWVJ5SkZMS0ZlS0lIcWtHWm1oSS13SWI2MWhNOGktNmNDRGRQb3JMNE4yc1pzRUk?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "kr_ee7cbed72206",
+      "date": "2026-05-07",
+      "title": "국내증시 호황에도 견조한 미국주식 투자 수요 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNLW5CbDB3NUdaN0E4UlhUNjhPcXJmbEp3bnlkT19pQW5RU2tSZHNPQVNMNzBseTltZFRoNERCZ3pQVzNhZ2d6LXU5RFprbnFzeHpjM0JKM0FTUWw5TUdnZXd4dzk?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "kr_0f62d6aed50c",
+      "date": "2026-05-07",
+      "title": "\"주식 대박나도 지갑 안 연다\"…무주택자 수익 70% '부동산' - mstoday.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EUnRGU211cnlKOFQ0MHNaVE1Bck5PZWdGaVUwUmtMb1luLWIxN2VlTWJSWnFDRU9nYWNDb255WWRUUFNMaFVRb0M2WFZabFh6UHRieVZQZ0doc19JWTFsRjVWZ2RBRUJWb0xMRw?oc=5",
+      "source": "google_news",
+      "sector": "부동산/건설",
+      "sentiment": "negative",
+      "score": 7
+    },
+    {
+      "id": "kr_49df1276ed30",
+      "date": "2026-05-07",
+      "title": "우리나라 주식 자산효과에 대한 평가 - KDI 경제교육·정보센터",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OOXhlMmF2bW1fYk5CbjVRUksyUDRVNEY2RFhwTjFVV1VpQ3JUMXBEUEVPOWNMeHJESms2dnViVXNYYl9sR0dEMWlhQXh3ekxCMWRFa3VzRE5PeXlUUkNlVFU2ajcyb3lkMVR3?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 3
+    },
+    {
+      "id": "kr_b48e0d912b78",
+      "date": "2026-05-07",
+      "title": "'250조' 벌었는데…코스피 폭주에 국민연금 고민하는 까닭 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2SzU0QlJqdmZtd3NmU1Yza1laaU95dVZJa3ZwYXhGRVhudDRnWHBIWnRzLVpYczg5YVBDdzlqNmtlQjI5WmJHT0kwT29qczQwRzZCc1pabXZkd9IBVEFVX3lxTE5aNUFabVBtLVhlcHI2VHRqUDRiNXI4cTFaaTJaT1M5N2NGZUdpTEZYQ2pJaHp0UjlkUk5vQmJTcU5Gc0pnd3ZONmxIUERnSDNNaWlzbQ?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "kr_4d535161509e",
+      "date": "2026-05-07",
+      "title": "한국 증시 시가총액, 캐나다 제치고 7위 - YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1heXItWjhCUC1wbVlGTmZUUXJNWFNRSFpuNjE0aV9jUURMNzFlTnVMQmFQbTRQaHEyc1Z3eTUzMEVVeWhXVEZRdGFoRTc3V3h1eVZqVTRDOGVjMG9Fdnc?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "kr_513fc57733df",
+      "date": "2026-05-07",
+      "title": "\"한국 증시 시총, 세계 7위‥캐나다 제쳐\" - MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1NWpYNVkwdUk3Q3ZvWXdKR1l6b1lqV1Y0RVh1VXZpRDNoM1dpY19yMUN4UDhmU3FscFZWUTVCZ0pmbWRiNlBBamdOaWNhaFM4OUxneG5Ud0d3Q0JtY0g3cTdneVhiWUpXWWxWNE83cmpTZ1B0d21Eb9IBeEFVX3lxTE9OMEx6SnlWWkpKME1nOTU3OTV3RzVPTFNuMXdjalJ5YVg4NFRoelZVMkxqc0dOczBJOGpVOU14Qlg2SG1TY0hReWJscE9VRDJtR3M5RFFMc3RxeTBIZnBLZWd6ZmphQ3E1RFI1RjE1Ul9kX19JbW03ag?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "kr_8b2d2d6b9dce",
+      "date": "2026-05-07",
+      "title": "한국 증시 시총, 캐나다 제치고 7위 - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPc3NLLS1QNXZ6bkd1UTh0M1lLY05aWDhWSVN5ekFsZ2RIMmJFWWNIQnNhYlRyaDhUSEpfd0NOUXBMNGNLdTg0R1dqT2dnMlBJNUE?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "kr_e8d8ed0e1093",
+      "date": "2026-05-07",
+      "title": "“돌고 돌아 부동산”…韓주식 수익 70%, ‘APT행’ - 한경매거진&북",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jLS1qNzBRS004Mm8zYXVpTGZ6dnlhbHZsUGxfbmg5NFpoTUdMb21QSTJDaU9LR2RwOHhjYmZWVHRjUzBwR1REMlNOZ2JJRzRSVVh4NUl4SURsWW5tMFlsTkdjaUNHdnpSekd1Mg?oc=5",
+      "source": "google_news",
+      "sector": "부동산/건설",
+      "sentiment": "negative",
+      "score": 7
+    },
+    {
+      "id": "kr_fb470c9881e9",
+      "date": "2026-05-07",
+      "title": "한국 증시 시총, 캐나다 제치고 7위 - MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CaThaa01mVXZKX0dkNnZCZUxSOHJvSXREV2JhLXpac2JyZXZ0X3VpMGNRaDlHV1VHVTZDSnUtS2JhWGlxbUVrUDZuQVBLQVd4WGxnb1AwX091TG5nTWhLbGcyX25JeHZyQ3F0ZVF6UDdMYzRW0gF0QVVfeXFMT1QzNC1xZXFLbUdFR3U0b1ZXRUZ6NzJpWWVhMHEtUlpSeTdoanNxTXBZT2FnVWREMFRxVXVxakhTdkRtbmhGd2k4RmVhMENmd3FqSjFKVlpDRnZzTFI3d0V6ZHFES0ZQUDAxRkRiRE10dElYZHg?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "kr_6ce49a7b26c6",
+      "date": "2026-05-07",
+      "title": "코스피 7000 돌파에…한국 증시 시총 세계 7위 올라 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oUnlkZjFfVzBYUVJHTnNxcHE3Rkt2azluTzhmQmFJV1NzOFhpUmV1VzU5NmNwYTZyQklFcFJPM3k1S1RSR1FTVVRKelozSzg?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_80ea96870887",
+      "date": "2026-05-07",
+      "title": "한국 증시 시총, 캐나다 제치고 세계 7위 올라 - 금융소비자뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10Q2IxUVZCS0haOTZvU1BBZUROb0tIV2xNQm9EQXFTSnVnc3V1SVpkcjFTLTZDaWg4Yk1kODItUzZqbHFoS0dSOVpld3pVS1lib2VEMzktWXhaTVZuQ3Z0T2JnaGROU2VRcHc?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "kr_ff6a9b46d6d4",
+      "date": "2026-05-07",
+      "title": "증시 활활 타는데 지갑은 꽁꽁?…7천피 시대, 돈 몰리는 곳 결국 `여기` - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hVFA0WkdMR1J2T3hIQXRYblQ3ZVMwb3lqckx1MlBfVm5wUFFrX0NfcFlSdmdpd1p2bmoyVnpIbEQ3MmtrcklLQTFkQnBKV3Z1dW5oZm91ekwxYmt4RlBESEhB?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 7
+    },
+    {
+      "id": "kr_50da647a7469",
+      "date": "2026-05-07",
+      "title": "한국 증시로 몰리는 미국 개미들. SK하이닉스 300만원. 삼전 50만 원도 가능 - 엠투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85YUZ3WFJGWG4tZGZzbWdyR3dSVldyMzNZamdMakxzejNjbFFnZ0s0d2hsdU4ySWxxRkEzc1YtclVmTVFhb3BaXzdvQzB5SmhFd0lOd1N3V3NEel9VSDhYRU1QajZqOGRIRkJZOTZTWdIBc0FVX3lxTFBqZmNJa0oxWTFnbXVDR2lGOE1lS0xjN3VwNk1vSmIxYllZTE04Ty1HZ1hkNlJhcWlmMUZObFJyR1ZoRnRtQkhFRDlPTWpheHJRMjJDck5BVXNQblV4NXdFM3g0YXZSX0NqN1hySVJRUjdWeEk?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_9f9ac4a68eb2",
+      "date": "2026-05-07",
+      "title": "아시아-태평양 증시 오늘 대체로 하방 압력; 일본, 한국 증시 고점 부근 등락; 시장은 최신 미-이란 갈등 주시 - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUGNZQW55R1NCWWIyU3laTl9TeF9jc1BidTJ2WlhLR19ERDNhVks4WlJWeVJLd0sxbmdtQXBEZERGM05PcVd2Wlh4M0c2MEZscXRHdDZjVEtJYV9lckFJM1d5SnBoT3hoUU9jZmdublZGTGVCcmVjT3l0YllYWWs1eHpKbFRsdGVFMGVYWGtjX0otajBuZWhyYjU4WTRsbURfNlhNTHk5enhRQklsREFsaXhLRUowaVVObWt0OHpR?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 6
+    },
+    {
+      "id": "kr_0bbec38663b1",
+      "date": "2026-05-07",
+      "title": "\"한국 증시 시총, 캐나다 제치고 7위\" - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GODlsa2g3T3ZkYkwzX0Jra3RiWmdzQTFwYjhEbkxpUkRBZjRzeTl6UlRDSzhvTWlqeTBwdFQ2eW9FSlhUNkpTVlVsa1J2YkpjZWQ4?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "kr_f0781975207e",
+      "date": "2026-05-07",
+      "title": "한국 증시, 캐나다 제치고 세계 시총 7위 올라 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54ZHEzUEdRbG16aXBSWlFhMnA3MnlIMmZQcVpGYk05eXlTeWE1ZDFBblJqcWNvS3Bac0hiRGI0M0E3em1UNmQtd091ODVyd1BsMzlv?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "kr_b5bb19538660",
+      "date": "2026-05-07",
+      "title": "'칠천피 시대' 반도체 쏠림에 커지는 코스닥 '소외감' - 서울파이낸스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51cnlJRHExTmJ4TVJGSDEtZFpsS1A4R216eG4yWm5DMElNaWdQRjdmVXRsWmFoRHBLdnN2aEdYOXc5WU5iQXpXVmJaQ09vc0tZQjZpbnYtaVN3OVZQaEJySUR5bkZJMlV5OHc?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 7
+    },
+    {
+      "id": "kr_d3f86fa1515b",
+      "date": "2026-05-07",
+      "title": "美 반도체 '훈풍'...코스피 '상승 출발', 코스닥은 '장초반 약세' - 초이스경제",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tcTg0OU1PMEhqc0RFd08ydm15U0RBejFwLUx1MHE5MENFeGhsLWhhb1NhWnZFWE0wRFJFMDd6NFRnWE1ZQnFLWDRkTjZRc0g1MktTMm5nUXBiZmkxZ1BVYkJkT1ZZSEk0VlI1SVdSWdIBc0FVX3lxTFBPRDFyeElUeVlqV25WLWRocTQybWk2VWF0MkdmQVpGbG5ScnBxbndncl9mVVZZYUxBd2JfeHlNd3A0MjQ2T2hZMWExYWV4ZElvTFpueURmN21SYV9ta1ZRX0l0N1RYTlRoNUhucG1fVjhpSGs?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 7
+    },
+    {
+      "id": "kr_11daae331033",
+      "date": "2026-05-07",
+      "title": "'삼전·닉스' 설비 확대 경쟁…반도체 소부장株 코스피보다 수익률 높다 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04Qm8zTUljOUg1NUhSU3NvSUxxd1U0eUtIUzdaRGp1aXphZ2JtWnRQeHJicGlTTWFLSEJiT1R3SngwWFU5Z1pUZEkxaURPTXhWb3RtQm94UW0zZXVLclZr?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_611851a080bb",
+      "date": "2026-05-07",
+      "title": "코스피, 반도체 혼조 속 자동차·조선 강세...코스닥은 2차전지 희비 - ebn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oZDdtT3pFRDR2WUQxeTRUNHNBVndzUmJXS1gzQXhUOGtiSUIwY1VIRTRodHNlc3ZubVF3Q09WUFJaeGZ0a2VHcGtqSHJ5QmpBUWhCTFNmeGYtUU4zOW9JNV9lUzhfQ3c3?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "kr_64b9a1fe2161",
+      "date": "2026-05-07",
+      "title": "[오늘증시] 코스피 장중 7500 돌파…외인 던질 때 개미 ‘반도체 풀매수’ - 오늘경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Ob2pzZUxLWXVwZUxrdUxDWTV3Z0dNWmI5c3BGcHMxdkpSbVRGMFlXWlNiamx5T1pYUmZCLXJJYmx4UFZ5MmVkbzNZX05ZOGtrODNCcm95d3dHcmNWQVhsanFNdHhVdkRvNHJ5N0JhdEc2T2c?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_8af6a1df9f9d",
+      "date": "2026-05-07",
+      "title": "'꿈의 칠천피? 삼전·닉스 빼면 4100'…돈 못 번 개미들 탄식 [분석+] - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBreFNIV0tOeTZJeWVFU1ZmLVdfVXBVT0VUZDNkT0lweXgySVRFTUhLSUVYZ29uRkdCVmxZU2VSQy1ubVdERFNUQnB1TDRiTkJJUXFTY21vQ192QdIBVEFVX3lxTFBGblFRTTFMRkpVb0FMOGI0TEZxMUpEaDRNRlpVNXdRaXppZjJpWWROOFFmeURhcW4xX2c3aUFTN3dDTjNIelYwYTY3SjkxQlFtM25idQ?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 8
+    },
+    {
+      "id": "kr_2cc40bbec1fe",
+      "date": "2026-05-07",
+      "title": "[7천피 시대] 코스닥은 여전히 제자리…반도체 쏠림에 커지는 박탈감 - ebn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04ektQY180Q01jcmtZZkFPOHpsbkoxSmVHV1VjYXNsa0hTcHFackI5R2RpUkNnbnlGMk1URVBLUDJLb3VxRGpZSnNuRXpscTM3eUtRUEloZm9iSnVnLWxqRGhSMkJUS0ky?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "negative",
+      "score": 8
+    },
+    {
+      "id": "kr_8b5ea9870828",
+      "date": "2026-05-07",
+      "title": "코스피 ‘블랙홀’에 마른침 삼키는 코스닥…2차전지 부진속 자금 이탈 가속 - thefairnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kdWwxczRSdmpYdXQ0QkNKQUxqcXI4VV9NRmVvYVRJZHE4UjQyd0tRbVFIVHY2bHY3ZjQ2c0ZZd3ZsWGxMY3BJNVhpaVNVQ0VhSnRkQV9qYkE1OEdtNGdvWUdfTm92N1NsUGdOaWJjWlnSAXRBVV95cUxQUkxkdkR0TVViWnhSRWFKVEFuWS1YSC1QSTB3Nno5aHRvRDlEZlF6RFFlVGhTMTJ1MXBaTUpBWVRIS3RjUEJDY2F4UUtSMmd4U1ppYjNWb1gyendKZnpkaEt1RXRuQi1Wb05mZU50Y2ZWWE5oZQ?oc=5",
+      "source": "google_news",
+      "sector": "2차전지",
+      "sentiment": "negative",
+      "score": 8
+    },
+    {
+      "id": "kr_8987c451d2f3",
+      "date": "2026-05-07",
+      "title": "\"하반기엔 계단식 실적 개선\"…올해 수주 3조원 여부 ‘주목’ - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XbUJwdEFtblJPRTJCZUFhTzkxX3lqVDYxWndXazlOQVQ1Uk5lQVlmZUdNbkMteFk0eTBVa3RsaGRjOF80cWxtTEJObHZmcDNveHU1QUJHXzYyd9IBVEFVX3lxTE9kQmtLaUtxcExwdlFhZjI5b0UxZHlLODJWakoyOVVRclhrRlRmNHp3ejV5UlFFTExXSEIzQkZtb3R0YTBTSmJrRlBVV2FxLTVQQ1Uyaw?oc=5",
+      "source": "google_news",
+      "sector": "조선/방산",
+      "sentiment": "positive",
+      "score": 7
+    },
+    {
+      "id": "kr_01d5af145302",
+      "date": "2026-05-07",
+      "title": "한국투자증권 “한국항공우주, 하반기 실적·수주 개선 본격화…KF-21 양산 본격화” - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBja195NnhjM1FRXzZlblpDdEJ6eHVhdnNER3RzaTcxVmFBZ3ZrVmdSa29MWFlnZkg1SzQ5dGxxbHMydjFZMllCcVR3bEJ4YVZrZG1yVg?oc=5",
+      "source": "google_news",
+      "sector": "조선/방산",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_c20613abffa0",
+      "date": "2026-05-07",
+      "title": "선별 수주 통했다···HD한국조선해양, 출범 후 최대 실적 - 뉴스웨이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XOW1QSVYtNFZOMGl0N1BRN2F2MVE1dGlEamxFemZjeEdydThreWxoZll1VlllVmZ0WFVGMzlRNGY4WU4zbFpjakFCWFZlN2lGdUZIeFRENGdYRjJIc2pYUHZHUUFhY3hZZ3c?oc=5",
+      "source": "google_news",
+      "sector": "조선/방산",
+      "sentiment": "positive",
+      "score": 10
+    }
+  ]
 }
