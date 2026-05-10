@@ -2,43 +2,59 @@
   "ok": true,
   "date": "2026-05-06",
   "data": {
-    "last_updated": "2026-05-10T08:28:26.158990+09:00",
+    "last_updated": "2026-05-10T10:15:10.491934+09:00",
     "pipeline_status": "success",
     "ai_recommendation": {
       "sectors": [
         "반도체",
-        "IT/소프트웨어",
-        "2차전지"
+        "금융",
+        "IT/소프트웨어"
       ],
-      "reason": "반도체는 미국에서 압도적인 긍정 뉴스 점수와 한국 시장 내 최고 거래대금을 기록하며 국내외 투자자들의 강력한 관심이 집중되고 있습니다. IT/소프트웨어는 미국에서 긍정적인 뉴스 흐름을 보이며 글로벌 기술 섹터의 강세가 예상되며, 반도체와 연관성이 높아 동반 상승을 기대합니다. 2차전지는 한국 시장에서 높은 거래대금을 유지하며 투자자들의 지속적인 관심과 활발한 매매가 예상됩니다.",
-      "confidence": 0.75,
-      "generated_at": "2026-05-10T08:28:26.158990+09:00"
+      "reason": "반도체는 국내외 긍정 뉴스, 압도적 거래대금, 높은 모멘텀으로 최우선. 금융은 국내외 호재 및 모멘텀 양호. IT/소프트웨어는 국내 뉴스 긍정적이나 미국은 혼조세.",
+      "confidence": 0.85,
+      "generated_at": "2026-05-10T10:15:10.491934+09:00"
     },
-    "korea_sector_ranking": [],
-    "us_sector_ranking": [
+    "korea_sector_ranking": [
       {
-        "sector": "자동차",
-        "score": 8.0,
-        "sentiment": "positive"
-      },
-      {
-        "sector": "반도체",
-        "score": 7.75,
+        "sector": "금융",
+        "score": 10.0,
         "sentiment": "positive"
       },
       {
         "sector": "IT/소프트웨어",
-        "score": 7.08,
+        "score": 10.0,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "반도체",
+        "score": 10.0,
+        "sentiment": "positive"
+      }
+    ],
+    "us_sector_ranking": [
+      {
+        "sector": "반도체",
+        "score": 10.0,
         "sentiment": "positive"
       },
       {
         "sector": "바이오/헬스케어",
-        "score": 6.5,
+        "score": 9.0,
         "sentiment": "positive"
       },
       {
-        "sector": "에너지",
-        "score": 5.5,
+        "sector": "금융",
+        "score": 7.2,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "IT/소프트웨어",
+        "score": 6.1,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "소비재",
+        "score": 5.0,
         "sentiment": "neutral"
       },
       {
@@ -47,17 +63,12 @@
         "sentiment": "neutral"
       },
       {
-        "sector": "소비재",
-        "score": 5.0,
-        "sentiment": "neutral"
-      },
-      {
-        "sector": "금융",
-        "score": 5.0,
-        "sentiment": "neutral"
-      },
-      {
         "sector": "기타",
+        "score": 5.0,
+        "sentiment": "neutral"
+      },
+      {
+        "sector": "자동차",
         "score": 0.0,
         "sentiment": "negative"
       }
@@ -129,72 +140,6 @@
         "ratio": 0.0022
       }
     ],
-    "us_sector_volume_distribution": [
-      {
-        "sector": "반도체",
-        "volume_amount": 92411743575,
-        "ratio": 0.3413
-      },
-      {
-        "sector": "기타",
-        "volume_amount": 54114054570,
-        "ratio": 0.1999
-      },
-      {
-        "sector": "IT/소프트웨어",
-        "volume_amount": 41544937854,
-        "ratio": 0.1534
-      },
-      {
-        "sector": "2차전지",
-        "volume_amount": 19849522132,
-        "ratio": 0.0733
-      },
-      {
-        "sector": "소비재",
-        "volume_amount": 18595895812,
-        "ratio": 0.0687
-      },
-      {
-        "sector": "통신/미디어",
-        "volume_amount": 15873955748,
-        "ratio": 0.0586
-      },
-      {
-        "sector": "바이오/헬스케어",
-        "volume_amount": 9972220180,
-        "ratio": 0.0368
-      },
-      {
-        "sector": "금융",
-        "volume_amount": 7745092090,
-        "ratio": 0.0286
-      },
-      {
-        "sector": "에너지",
-        "volume_amount": 3770683348,
-        "ratio": 0.0139
-      },
-      {
-        "sector": "조선/방산",
-        "volume_amount": 3638729299,
-        "ratio": 0.0134
-      },
-      {
-        "sector": "철강/소재",
-        "volume_amount": 1438574178,
-        "ratio": 0.0053
-      },
-      {
-        "sector": "자동차",
-        "volume_amount": 1174510956,
-        "ratio": 0.0043
-      },
-      {
-        "sector": "부동산/건설",
-        "volume_amount": 638145233,
-        "ratio": 0.0024
-      }
-    ]
+    "us_sector_volume_distribution": []
   }
 }
