@@ -17,16 +17,16 @@ logger = logging.getLogger(__name__)
 ET = pytz.timezone("America/New_York")
 
 US_QUERIES = [
-    "S&P 500 OR Nasdaq OR Dow Jones OR Wall Street stock market",
-    "Federal Reserve OR interest rate OR inflation OR CPI OR FOMC",
-    "Semiconductor OR Nvidia OR AI chip OR Apple OR Microsoft earnings",
-    "earnings report OR quarterly results OR revenue beat OR guidance",
-    "biotech OR pharma OR FDA approval OR clinical trial OR drug",
-    "Tesla OR electric vehicle OR EV OR battery technology",
-    "Amazon OR Google OR Meta OR Netflix OR tech stocks",
-    "oil price OR energy sector OR OPEC OR crude oil",
-    "JPMorgan OR Goldman Sachs OR bank OR financial sector",
-    "trade war OR tariff OR recession OR GDP OR economic data",
+    "(\"S&P 500\" OR Nasdaq OR \"Dow Jones\" OR \"Wall Street\") (\"All-Time High\" OR Rally OR Bullish OR Breakout)",
+    "(\"Federal Reserve\" OR FOMC OR CPI) (\"Rate Cut\" OR Dovish OR \"Soft Landing\")",
+    "(Semiconductor OR Nvidia OR \"AI chip\" OR Apple OR Microsoft) (Breakthrough OR Partnership OR \"Record Profits\" OR \"Earnings Beat\")",
+    "\"Earnings Beat\" OR \"Raised Guidance\" OR \"Share Buyback\" OR \"Stock Split\" OR Acquisition",
+    "(Biotech OR Pharma) (\"FDA Approval\" OR \"Clinical Trial Success\" OR Breakthrough)",
+    "(Tesla OR \"electric vehicle\" OR EV) (\"Record Deliveries\" OR Turnaround OR \"Guidance Hike\")",
+    "(Amazon OR Google OR Meta OR Netflix) (\"Earnings Beat\" OR \"Share Buyback\" OR \"Record Revenue\" OR \"Stock Split\")",
+    "(Energy OR \"crude oil\" OR OPEC) (\"Record Profits\" OR \"Dividend Hike\" OR Acquisition OR Turnaround)",
+    "(JPMorgan OR \"Goldman Sachs\" OR Bank) (\"Earnings Beat\" OR \"Dividend Hike\" OR \"Share Buyback\" OR \"Record Profits\")",
+    "(Economy OR GDP OR Retail) (\"Soft Landing\" OR Growth OR \"Better than expected\" OR Stimulus)",
 ]
 
 HEADERS = {
