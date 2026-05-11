@@ -1,9 +1,9 @@
 import { create } from 'zustand';
 import { fetchAnalysis } from '../api/analysis';
-import type { AnalysisRecord } from '../types/analysis';
+import type { AnalysisData } from '../types/analysis';
 
 interface AnalysisState {
-  data: AnalysisRecord[] | null;
+  data: AnalysisData | null;
   isLoading: boolean;
   error: string | null;
   fetchAnalysisData: (date?: string) => Promise<void>;
@@ -18,7 +18,7 @@ export const useAnalysisStore = create<AnalysisState>((set) => ({
     try {
       const response = await fetchAnalysis(date);
       if (response.ok && response.data) {
-        set({ data: response.data, isLoading: false });
+        set({ data: response.data as AnalysisData, isLoading: false });
       } else {
         set({ error: response.error || 'Failed to fetch analysis', isLoading: false });
       }

@@ -8,3 +8,14 @@ export interface AnalysisRecord {
   recommendation: boolean;
   confidence: number;
 }
+
+export interface UsSectorScore {
+  sector: string;
+  score: number;
+  sentiment: 'positive' | 'negative' | 'neutral';
+}
+
+export interface AnalysisData {
+  records: AnalysisRecord[];
+  us_ranking: UsSectorScore[];
+}
