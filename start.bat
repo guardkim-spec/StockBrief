@@ -13,8 +13,8 @@ start "StockBrief-Backend" /MIN cmd /k "cd /d %ROOT%backend && python -m uvicorn
 echo [2/3] Starting frontend...
 start "StockBrief-Frontend" /MIN cmd /k "cd /d %ROOT%frontend && npm run dev"
 
-echo [3/3] Waiting 10 seconds...
-timeout /t 10 /nobreak > nul
+echo [3/3] Waiting 3 seconds...
+timeout /t 3 /nobreak > nul
 
 echo.
 echo  Opening http://localhost:5173
