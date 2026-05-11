@@ -19,14 +19,14 @@ KST = pytz.timezone("Asia/Seoul")
 # Each string is passed as the `q` parameter; OR operators and spaces are
 # URL-encoded at runtime via _build_url() to avoid malformed query strings.
 KOREA_QUERIES = [
-    '(소비재 OR 유통 OR 식품 OR 화장품) (실적 OR 수출 OR 성장 OR 흑자전환 OR 어닝서프라이즈)',
-    '(한국은행 OR 정부 OR 미국 OR 중국) ("금리 인하" OR "규제 완화" OR 부양책 OR "대규모 투자" OR "수출 규제" OR "무역 합의" OR "관세")',
-    '어닝서프라이즈 OR 흑자전환 OR "사상 최대" OR "대규모 수주" OR "독점 공급" OR "M&A"',
     '(반도체 OR 삼성전자 OR SK하이닉스 OR HBM OR AI반도체) (실적 OR 수출 OR 상승 OR 호재 OR 수요 OR 투자)',
     '(반도체 OR 삼성전자 OR SK하이닉스) ("세계 최초" OR 초격차 OR "대규모 수주" OR "독점 공급" OR "수출 규제" OR "무역 합의")',
     '(2차전지 OR 배터리) ("대규모 수주" OR "공장 증설" OR 흑자전환 OR "독점 공급")',
     '(자동차 OR 현대차 OR 기아 OR 전기차) ("사상 최대" OR 어닝서프라이즈 OR "M&A")',
     '(제약 OR 바이오 OR 신약) ("FDA 승인" OR "임상 성공" OR "기술 수출" OR "세계 최초")',
+    '(소비재 OR 유통 OR 식품 OR 화장품) (실적 OR 수출 OR 성장 OR 흑자전환 OR 어닝서프라이즈)',
+    '(한국은행 OR 정부 OR 미국 OR 중국) ("금리 인하" OR "규제 완화" OR 부양책 OR "대규모 투자" OR "수출 규제" OR "무역 합의" OR "관세")',
+    '어닝서프라이즈 OR 흑자전환 OR "사상 최대" OR "대규모 수주" OR "독점 공급" OR "M&A"',
     '(AI OR 로봇 OR 소프트웨어) ("세계 최초" OR 흑자전환 OR "대규모 수주" OR "M&A")',
     '"자사주 소각" OR 무상증자 OR 특별배당 OR 액면분할 OR "주주환원 확대"',
     '(방산 OR 조선 OR 원전) ("수주 잭팟" OR "대규모 수주" OR 흑자전환 OR "사상 최대")',

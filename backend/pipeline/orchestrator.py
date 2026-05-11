@@ -298,15 +298,24 @@ def queue_resend(date_str: str) -> None:
 
 # ── Helpers ─────────────────────────────────────────────────────────
 
+_ANALYZE_BATCH_SIZE = 30
+
+
 def _analyze_news(raw: list[dict], lang: str, dry_run: bool) -> list[dict]:
     if dry_run or not raw:
         return raw
     from analysis.gemini_client import call_gemini_json
     from config.sectors import get_sector_list
+    import time
 
     sectors_str = ", ".join(get_sector_list())
-    prompt_lines = "\n".join(f'{i+1}. "{item["title"]}"' for i, item in enumerate(raw[:30]))
-    prompt = f"""다음 뉴스 제목들을 분석하여 각각에 대해 섹터, 감성, 점수를 JSON 배열로 반환하세요.
+
+    for batch_start in range(0, len(raw), _ANALYZE_BATCH_SIZE):
+        batch = raw[batch_start: batch_start + _ANALYZE_BATCH_SIZE]
+        prompt_lines = "\n".join(
+            f'{i+1}. "{item["title"]}"' for i, item in enumerate(batch)
+        )
+        prompt = f"""다음 뉴스 제목들을 분석하여 각각에 대해 섹터, 감성, 점수를 JSON 배열로 반환하세요.
 섹터는 반드시 다음 중 하나: {sectors_str}
 감성: positive, negative, neutral
 점수: 1~10 (10이 가장 강한 호재/악재)
@@ -317,16 +326,20 @@ def _analyze_news(raw: list[dict], lang: str, dry_run: bool) -> list[dict]:
 JSON 배열 형식:
 [{{"index": 1, "sector": "...", "sentiment": "...", "score": 5}}, ...]"""
 
-    result = call_gemini_json(prompt, cache_key=f"news_analysis_{lang}")
-    if not result or not isinstance(result, list):
-        return raw
+        result = call_gemini_json(prompt, cache_key=f"news_analysis_{lang}_{batch_start}")
+        if not result or not isinstance(result, list):
+            continue
 
-    result_map = {item.get("index"): item for item in result if isinstance(item, dict)}
-    for i, news in enumerate(raw[:30], 1):
-        if i in result_map:
-            news["sector"]    = result_map[i].get("sector", "기타")
-            news["sentiment"] = result_map[i].get("sentiment", "neutral")
-            news["score"]     = int(result_map[i].get("score", 5))
+        result_map = {item.get("index"): item for item in result if isinstance(item, dict)}
+        for i, news in enumerate(batch, 1):
+            if i in result_map:
+                news["sector"]    = result_map[i].get("sector", "기타")
+                news["sentiment"] = result_map[i].get("sentiment", "neutral")
+                news["score"]     = int(result_map[i].get("score", 5))
+
+        if batch_start + _ANALYZE_BATCH_SIZE < len(raw):
+            time.sleep(1.0)
+
     return raw
 
 
