@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "date": "2026-05-11",
+  "data": {
+    "date": "2026-05-11",
+    "linkage_cards": [
+      {
+        "us_sector": "철강/소재",
+        "us_sentiment": "positive",
+        "us_score": 9.0,
+        "korea_sector": "철강/소재",
+        "predicted_impact": "positive",
+        "impact_strength": 0.9,
+        "summary": "미국 철강/소재 섹터의 강한 긍정적 흐름이 한국 관련주에 긍정적 영향을 미칠 것으로 예상됩니다.",
+        "reasoning": "미국 철강/소재 섹터가 견조한 실적 및 수요 증가 기대감으로 강한 긍정적 모멘텀을 보이고 있어, 이는 한국의 동종 섹터에도 투자 심리 개선 및 주가 상승 압력으로 작용할 것입니다."
+      },
+      {
+        "us_sector": "반도체",
+        "us_sentiment": "positive",
+        "us_score": 8.88,
+        "korea_sector": "반도체",
+        "predicted_impact": "positive",
+        "impact_strength": 0.89,
+        "summary": "미국 반도체 섹터의 강력한 상승세가 한국 반도체 시장에 긍정적 파급 효과를 가져올 것입니다.",
+        "reasoning": "미국 반도체 섹터는 AI 수요 증가와 기술 혁신에 힘입어 매우 긍정적인 흐름을 보이고 있습니다. 이는 글로벌 반도체 공급망의 핵심인 한국 반도체 기업들의 실적 기대감을 높여 주가에 긍정적인 영향을 줄 것입니다."
+      },
+      {
+        "us_sector": "IT/소프트웨어",
+        "us_sentiment": "positive",
+        "us_score": 8.0,
+        "korea_sector": "IT/소프트웨어",
+        "predicted_impact": "positive",
+        "impact_strength": 0.8,
+        "summary": "미국 IT/소프트웨어 섹터의 긍정적 분위기가 한국 IT/소프트웨어 관련주에 우호적으로 작용할 전망입니다.",
+        "reasoning": "미국 IT/소프트웨어 섹터는 클라우드, AI 등 신기술 성장 기대감으로 긍정적인 흐름을 유지하고 있습니다. 이는 한국의 IT 서비스 및 소프트웨어 기업들의 투자 심리 개선과 성장 기대감으로 이어질 수 있습니다."
+      },
+      {
+        "us_sector": "소비재",
+        "us_sentiment": "positive",
+        "us_score": 6.5,
+        "korea_sector": "소비재",
+        "predicted_impact": "positive",
+        "impact_strength": 0.65,
+        "summary": "미국 소비재 섹터의 완만한 긍정세가 한국 소비재 시장에 소폭 긍정적 영향을 줄 수 있습니다.",
+        "reasoning": "미국 소비재 섹터는 견조한 소비 심리에 힘입어 긍정적인 추세를 보이고 있습니다. 이는 한국 소비재 기업들의 수출 및 내수 회복 기대감을 높여 주가에 긍정적인 영향을 미칠 수 있습니다."
+      },
+      {
+        "us_sector": "금융",
+        "us_sentiment": "neutral",
+        "us_score": 5.6,
+        "korea_sector": "금융",
+        "predicted_impact": "neutral",
+        "impact_strength": 0.56,
+        "summary": "미국 금융 섹터는 혼조세를 보이며 한국 금융 시장에 제한적인 영향을 미칠 것으로 예상됩니다.",
+        "reasoning": "미국 금융 섹터는 긍정적 요인과 부정적 요인이 상존하며 뚜렷한 방향성을 보이지 않고 있습니다. 이에 따라 한국 금융 시장에 미치는 영향은 크지 않을 것으로 판단됩니다."
+      }
+    ],
+    "gemini_overall_summary": "미국 시장은 반도체, 철강/소재, IT/소프트웨어 등 주요 기술 및 산업재 섹터에서 강한 긍정적 모멘텀을 보이고 있습니다. 이는 한국의 동종 섹터에 강력한 매수 심리 유입과 주가 상승을 견인할 것으로 예상됩니다. 소비재 섹터도 긍정적 흐름을 이어가나, 금융 섹터는 혼조세로 제한적인 영향을 미칠 전망입니다. 전반적으로 미국 시장의 긍정적 분위기가 한국 증시의 기술 및 산업재 섹터 강세를 이끌 것으로 보입니다."
+  }
+}
