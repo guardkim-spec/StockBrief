@@ -57,6 +57,8 @@ def aggregate_sector_news_scores(news_items: list[dict[str, Any]]) -> list[dict[
 
     result = []
     for sector, data in sorted(agg.items(), key=lambda x: sum(x[1]["scores"]) / max(len(x[1]["scores"]), 1), reverse=True):
+        if not sector or sector == "기타":
+            continue
         scores = data["scores"]
         avg = round(sum(scores) / len(scores), 2) if scores else 0
         result.append({

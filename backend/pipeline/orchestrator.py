@@ -374,7 +374,15 @@ def _load_backtest(date_str: str) -> list[dict]:
 
 
 def _to_ranking(scores: list[dict]) -> list[dict]:
-    return [{"sector": s["sector"], "score": s.get("avg_score", 0), "sentiment": "positive" if s.get("avg_score", 0) >= 6 else ("negative" if s.get("avg_score", 0) < 4 else "neutral")} for s in scores]
+    return [
+        {
+            "sector": s["sector"],
+            "score": s.get("avg_score", 0),
+            "sentiment": "positive" if s.get("avg_score", 0) >= 6 else ("negative" if s.get("avg_score", 0) < 4 else "neutral"),
+        }
+        for s in scores
+        if s.get("sector") and s["sector"] != "기타"
+    ]
 
 
 def _wrap(date_str: str, data: Any) -> dict:

@@ -60,8 +60,10 @@ def recommend_sectors(
         logger.warning("Gemini recommendation failed; using score-based fallback")
         return _fallback_recommendation(korea_news_scores, korea_volume)
 
+    # Filter out catch-all '기타' — it's unsectored noise, not a real recommendation
+    valid_sectors = [s for s in result.get("sectors", []) if s and s != "기타"]
     return {
-        "sectors": result.get("sectors", [])[:TOP_N_SECTORS_RECOMMEND],
+        "sectors": valid_sectors[:TOP_N_SECTORS_RECOMMEND],
         "reason": result.get("reason", ""),
         "confidence": float(result.get("confidence", 0.5)),
     }
@@ -79,9 +81,15 @@ def _fallback_recommendation(news_scores: list[dict], volume_dist: list[dict]) -
     """Score-based fallback when Gemini is unavailable."""
     combined: dict[str, float] = {}
     for item in news_scores:
-        combined[item["sector"]] = combined.get(item["sector"], 0) + item.get("avg_score", 0) * 0.6
+        sector = item.get("sector", "")
+        if not sector or sector == "기타":
+            continue
+        combined[sector] = combined.get(sector, 0) + item.get("avg_score", 0) * 0.6
     for item in volume_dist:
-        combined[item["sector"]] = combined.get(item["sector"], 0) + item.get("ratio", 0) * 100 * 0.4
+        sector = item.get("sector", "")
+        if not sector or sector == "기타":
+            continue
+        combined[sector] = combined.get(sector, 0) + item.get("ratio", 0) * 100 * 0.4
 
     top = sorted(combined.items(), key=lambda x: x[1], reverse=True)[:TOP_N_SECTORS_RECOMMEND]
     return {

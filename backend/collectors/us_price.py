@@ -113,11 +113,10 @@ def collect_us_top100(date_str: str | None = None) -> list[dict[str, Any]]:
     else:
         target_kst = now_kst
 
+    # Convert KST pipeline date to ET, then roll back to the nearest US trading day.
+    # Do NOT do an early holiday check here — the pipeline runs Monday KST but
+    # the same midnight converts to Sunday ET, which would incorrectly skip collection.
     target_et = target_kst.astimezone(ET)
-    if _is_us_holiday(target_et):
-        logger.info("US market holiday: %s. Skipping.", target_et.date())
-        return []
-
     trading_date = _get_us_trading_date(target_et)
     logger.info("Collecting US top-100 for date: %s (via Yahoo Finance)", trading_date)
 
