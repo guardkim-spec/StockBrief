@@ -299,6 +299,7 @@ def queue_resend(date_str: str) -> None:
 # ── Helpers ─────────────────────────────────────────────────────────
 
 _ANALYZE_BATCH_SIZE = 30
+_GEMINI_MAX_ARTICLES = 90  # cap Gemini calls to 3 batches to stay within daily quota
 
 
 def _analyze_news(raw: list[dict], lang: str, dry_run: bool) -> list[dict]:
@@ -306,12 +307,17 @@ def _analyze_news(raw: list[dict], lang: str, dry_run: bool) -> list[dict]:
         return raw
     from analysis.gemini_client import call_gemini_json
     from config.sectors import get_sector_list
+    from analysis.keyword_classifier import apply_keyword_fallback
     import time
 
     sectors_str = ", ".join(get_sector_list())
 
-    for batch_start in range(0, len(raw), _ANALYZE_BATCH_SIZE):
-        batch = raw[batch_start: batch_start + _ANALYZE_BATCH_SIZE]
+    # Only send the first N articles to Gemini to conserve daily quota.
+    # Keyword fallback fills in the rest.
+    gemini_target = raw[:_GEMINI_MAX_ARTICLES]
+
+    for batch_start in range(0, len(gemini_target), _ANALYZE_BATCH_SIZE):
+        batch = gemini_target[batch_start: batch_start + _ANALYZE_BATCH_SIZE]
         prompt_lines = "\n".join(
             f'{i+1}. "{item["title"]}"' for i, item in enumerate(batch)
         )
@@ -337,9 +343,11 @@ JSON 배열 형식:
                 news["sentiment"] = result_map[i].get("sentiment", "neutral")
                 news["score"]     = int(result_map[i].get("score", 5))
 
-        if batch_start + _ANALYZE_BATCH_SIZE < len(raw):
-            time.sleep(1.0)
+        if batch_start + _ANALYZE_BATCH_SIZE < len(gemini_target):
+            time.sleep(2.0)
 
+    # Keyword fallback for articles Gemini didn't classify (quota limit or batch overflow)
+    apply_keyword_fallback(raw, lang)
     return raw
 
 
