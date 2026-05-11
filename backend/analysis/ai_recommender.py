@@ -77,21 +77,31 @@ def _summarize_backtest(records: list[dict]) -> str:
     return f"최근 {len(recent)}일 평균 정확도: {avg_acc:.1%}"
 
 
+_MIN_NEWS_SCORE_FOR_RECOMMENDATION = 2.0
+
+
 def _fallback_recommendation(news_scores: list[dict], volume_dist: list[dict]) -> dict[str, Any]:
     """Score-based fallback when Gemini is unavailable."""
     combined: dict[str, float] = {}
+    news_only: dict[str, float] = {}
     for item in news_scores:
         sector = item.get("sector", "")
         if not sector or sector == "기타":
             continue
-        combined[sector] = combined.get(sector, 0) + item.get("avg_score", 0) * 0.6
+        score = item.get("avg_score", 0)
+        combined[sector] = combined.get(sector, 0) + score * 0.6
+        news_only[sector] = score
     for item in volume_dist:
         sector = item.get("sector", "")
         if not sector or sector == "기타":
             continue
         combined[sector] = combined.get(sector, 0) + item.get("ratio", 0) * 100 * 0.4
 
-    top = sorted(combined.items(), key=lambda x: x[1], reverse=True)[:TOP_N_SECTORS_RECOMMEND]
+    # Only recommend sectors with a meaningful news signal
+    news_qualified = {s: v for s, v in combined.items()
+                      if news_only.get(s, 0) >= _MIN_NEWS_SCORE_FOR_RECOMMENDATION}
+    top = sorted(news_qualified.items(), key=lambda x: x[1], reverse=True)[:TOP_N_SECTORS_RECOMMEND]
+
     return {
         "sectors": [s for s, _ in top],
         "reason": "뉴스 점수와 거래대금 비중 기반 자동 선정 (Gemini 대체)",
