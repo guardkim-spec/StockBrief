@@ -2,28 +2,33 @@
   "ok": true,
   "date": "2026-05-11",
   "data": {
-    "last_updated": "2026-05-11T22:33:32.546561+09:00",
+    "last_updated": "2026-05-11T22:43:42.910061+09:00",
     "pipeline_status": "success",
     "ai_recommendation": {
       "sectors": [
         "반도체",
-        "바이오/헬스케어",
-        "소비재"
+        "소비재",
+        "바이오/헬스케어"
       ],
-      "reason": "반도체는 압도적인 국내 거래대금과 미국 시장의 긍정적인 뉴스 흐름으로 강력한 시장 관심이 예상됩니다. 바이오/헬스케어는 국내 뉴스 점수가 가장 높고 부정적인 뉴스가 없어 긍정적 모멘텀이 기대됩니다. 소비재는 국내외에서 모두 긍정적인 뉴스 흐름을 보이며 전반적인 관심이 유지될 것으로 보입니다.",
+      "reason": "반도체는 미국발 긍정적 뉴스 흐름과 국내 압도적인 거래대금으로 시장의 강력한 관심이 집중되고 있습니다. 소비재는 한미 양국에서 꾸준히 긍정적인 뉴스 점수를 기록하며 견조한 흐름을 보입니다. 바이오/헬스케어는 국내 뉴스 점수가 매우 긍정적이며 잠재적 상승 모멘텀을 기대할 수 있습니다.",
       "confidence": 0.85,
-      "generated_at": "2026-05-11T22:33:32.546561+09:00"
+      "generated_at": "2026-05-11T22:43:42.910061+09:00"
     },
     "korea_sector_ranking": [
       {
         "sector": "바이오/헬스케어",
-        "score": 8.14,
+        "score": 8.0,
         "sentiment": "positive"
       },
       {
         "sector": "소비재",
-        "score": 8.0,
+        "score": 7.71,
         "sentiment": "positive"
+      },
+      {
+        "sector": "통신/미디어",
+        "score": 5.0,
+        "sentiment": "neutral"
       },
       {
         "sector": "기타",
@@ -33,29 +38,29 @@
     ],
     "us_sector_ranking": [
       {
-        "sector": "IT/소프트웨어",
+        "sector": "반도체",
         "score": 8.56,
         "sentiment": "positive"
       },
       {
-        "sector": "반도체",
-        "score": 8.5,
-        "sentiment": "positive"
-      },
-      {
-        "sector": "소비재",
-        "score": 7.2,
+        "sector": "IT/소프트웨어",
+        "score": 8.09,
         "sentiment": "positive"
       },
       {
         "sector": "부동산/건설",
-        "score": 7.0,
+        "score": 7.5,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "소비재",
+        "score": 6.75,
         "sentiment": "positive"
       },
       {
         "sector": "금융",
-        "score": 5.57,
-        "sentiment": "neutral"
+        "score": 6.75,
+        "sentiment": "positive"
       },
       {
         "sector": "기타",
