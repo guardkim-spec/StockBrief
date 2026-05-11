@@ -3,6 +3,16 @@
   "date": "2026-05-11",
   "data": [
     {
+      "id": "kr_e45703043d2c",
+      "date": "2026-05-11",
+      "title": "파마리서치, 매출 6000억·영업익 2500억…최대 실적 예고 - 데일리팜",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00UXVIeDB5UUxEcUNzYWlrbExRZHJQc3hpcEdCZ3EwYkI2LWdMVVEtYkEyRFRjdEUzb0hKTGR1RHp6WlJDQ0FoV2ZGNmtNLXhp?oc=5",
+      "source": "google_news",
+      "sector": "바이오/헬스케어",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
       "id": "kr_27d73cd1e4ea",
       "date": "2026-05-11",
       "title": "파마리서치, 의료기기-화장품 시너지로 분기 기준 최대 실적 달성 - 헬스조선",
@@ -19,8 +29,8 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kMDdlTkJLc3ktREYyTGgzbkpTSDhJREZHQTlDeUJubDBYTDYzY2RpUGl1SjRNYjlJZjZIQTFLUVdiTU1VeWx1NzEzZXF6bHlwYW9YSFZR?oc=5",
       "source": "google_news",
       "sector": "소비재",
-      "sentiment": "negative",
-      "score": 4
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "kr_3577a61b94a1",
@@ -39,7 +49,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vLV94ZEZzNXZDcVdYTUxZb1U5OHpESExjMG4yYVNEUkxRS1JoNDdLUm0zaTdmUjRDd01fbS1lTEpaMjFUMXBVd3JGYXhnR3k1aU1oY0ljbUw1ckdwQ0FwN2VoWTQ2NU9mXzZRZzlzWdIBc0FVX3lxTE5INUNnMDc4ZXlMOTdVd0JZNzdLWU1kQ0UzQ0RIUWFTaGtlZkw1QlAxekh1dUhkWmJQYjRKX0VySFJjdEx3bUFvS1J5S3VVajRQNHpnbFFtdENUMFhMdy1hMmljS1BvcUF2Y05yU0pLU2pTOUk?oc=5",
       "source": "google_news",
       "sector": "바이오/헬스케어",
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 6
     },
     {
@@ -50,7 +60,7 @@
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "positive",
-      "score": 9
+      "score": 8
     },
     {
       "id": "kr_77b8fa471320",
@@ -88,7 +98,7 @@
       "title": "[트렌드 인사이트] 코스모닝 4월 독자의 관심기사 - 코스모닝",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14ZzNhb1BzeTRTVmJxVTh6RWxtRGFxSUVJdGUyckJtbU9kNFJZSUo2cjdia0FRaFRndjduQWxnMWpsOXdmcnpMTUhaenZQcFQwazBsOGtHRktJNTNvS1dDdXRHbw?oc=5",
       "source": "google_news",
-      "sector": "소비재",
+      "sector": "통신/미디어",
       "sentiment": "neutral",
       "score": 5
     },
@@ -100,7 +110,7 @@
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "positive",
-      "score": 9
+      "score": 8
     },
     {
       "id": "kr_6e904bac2711",
@@ -130,7 +140,7 @@
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "positive",
-      "score": 9
+      "score": 8
     },
     {
       "id": "kr_2b74cffb66e1",
@@ -159,8 +169,8 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14N2ZJTloyYzNDajBwYlUwLXRZY2lOQjhrOUppdmE0aHNYSVg1V295VTMxdDBBT0dpd2V4czg2NTdTbF9sX1pIaVh5aFZSN3ZzZktjWG1jcExDTHUwSGN1eVB2d2JkRUg1Wm9uYXpTb9IBc0FVX3lxTE9BVzJGTXlpbFluZFpZc3JacExoTFhJMlhZbzFMQ0hJc2lBQXJrMktoTWEwb1V2ZFNpVEc4RGlnODBRbFRUcUVTUkNMUWpxcDQzVjh4TW9hS2ZHYkRvcG9xQWFPb3k1VGt5eDdDTVlWN1Y1OHM?oc=5",
       "source": "google_news",
       "sector": "바이오/헬스케어",
-      "sentiment": "positive",
-      "score": 7
+      "sentiment": "neutral",
+      "score": 6
     },
     {
       "id": "kr_1163f9e87fba",
@@ -180,7 +190,7 @@
       "source": "google_news",
       "sector": "바이오/헬스케어",
       "sentiment": "positive",
-      "score": 8
+      "score": 7
     },
     {
       "id": "kr_2389903cd0ea",
@@ -189,7 +199,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlM1VxemhaMGhydTZjb0RDTXpIbkF5SFQtdE4ybHdQYVFxOEpMbi1ERlZveE9fbW5XaVJzbG5FVllzcml3SFJJMVNoNG1rdGlyZjJIRmV4QTduMXU2QVFlemJidXhGeFptWTVQTUVSYw?oc=5",
       "source": "google_news",
       "sector": "소비재",
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 6
     },
     {
@@ -210,7 +220,7 @@
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "positive",
-      "score": 8
+      "score": 7
     },
     {
       "id": "kr_707a2c27f26e",
@@ -220,7 +230,7 @@
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "positive",
-      "score": 9
+      "score": 8
     },
     {
       "id": "kr_bc6d7d2c4d4f",
@@ -250,7 +260,7 @@
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "positive",
-      "score": 9
+      "score": 8
     },
     {
       "id": "kr_4e99d041b38a",
@@ -259,8 +269,8 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsaVdPbEF1Z1RkRUQ5OXZBNUdYVUdoTGpTeVU1QktQYjBQTFNYMlYyRzB4ekRTRWdGbndaX3RUaGRJTDVXd1BEbzVac2tBU2htVXpOSVZHenRSc2RycUwwbktWaw?oc=5",
       "source": "google_news",
       "sector": "소비재",
-      "sentiment": "negative",
-      "score": 7
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "kr_c66439722150",
@@ -270,7 +280,7 @@
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "positive",
-      "score": 8
+      "score": 7
     },
     {
       "id": "kr_76103438c6e6",
@@ -298,9 +308,9 @@
       "title": "해외바이어, 전복 김 등 해조류에 높은 관심…사흘만에 7300만달러 수출협약 체결 - 부산일보",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80Z2MwYVAwSS1HYU1mWDFGQXpmYXRMaDlzQkZsc2pSeDdwdS12aVRZR3Q2YktmQmVEa0h3dDJNSHJDMHJWX2JWX0l1cTRub2J3eFhLZnA0aTdiUzhTQ2xveHptZFBLVy13T3BiRzNHZVM3aFJsSERKbQ?oc=5",
       "source": "google_news",
-      "sector": "소비재",
-      "sentiment": "positive",
-      "score": 9
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "kr_092754b1f18d",
@@ -553,6 +563,16 @@
       "score": 0
     },
     {
+      "id": "kr_1e243d173365",
+      "date": "2026-05-11",
+      "title": "롯데케미칼, 1Q 영업익 735억…전년대비 흑자전환 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUYzRhYUg1Rkpid1YxWUNocWZEb2tpV09yaUJQMG1uc0NGRl81QWhJREFBY2FSNUxaSGFLcm9vR1FEZHRpSVJ2QXZSdHZrNW5DbUU4bGt5MGQwLTZHNEljR05LLXFBdTdKUWJTRmlhREw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "kr_45229fc82821",
       "date": "2026-05-11",
       "title": "롯데케미칼, 공급망 위축 속 10분기만에 흑자전환 - 블로터",
@@ -567,16 +587,6 @@
       "date": "2026-05-11",
       "title": "롯데케미칼, 1분기 영업익 전년比 흑자 전환…재고·가격차액 ‘이중효과’ - 에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2YlRDYWozU1IxUkhITk5nTDlRWWJGd0M5UXE3U0hUcjdIOE4tdDI4TmNfT19pbUVrYTR6cDRBejktVk50MVlxV1RLMTh4VGhiZVllTXl2NmpnUjQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "kr_1e243d173365",
-      "date": "2026-05-11",
-      "title": "롯데케미칼, 1Q 영업익 735억…전년대비 흑자전환 - 신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUYzRhYUg1Rkpid1YxWUNocWZEb2tpV09yaUJQMG1uc0NGRl81QWhJREFBY2FSNUxaSGFLcm9vR1FEZHRpSVJ2QXZSdHZrNW5DbUU4bGt5MGQwLTZHNEljR05LLXFBdTdKUWJTRmlhREw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -663,10 +673,10 @@
       "score": 0
     },
     {
-      "id": "kr_0f9819ffe0a9",
+      "id": "kr_5d57957ebc0b",
       "date": "2026-05-11",
       "title": "롯데케미칼, 1분기 영업익 735억…래깅효과에 흑자 전환 - 딜사이트",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BRjRHQkdJcU9VM3Z4MHl5dVpNSV9Ec2I3X1MybnN1X0h0NVo2YWVtTXpsY2daZjZIZ0p3eldLNm4zMXBWYVRZbGp5RU9QX2V0N0thOW1nV20?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01QTRabVh1bDdnZHF1ZTg2ZUEyN0N5SGpUMUx0WXZaVnd5b29uaUQtRk53T3BPakRlSll5Q1o2NUxLQzJZQU51RnFmSFplN1E?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -763,16 +773,6 @@
       "score": 0
     },
     {
-      "id": "kr_d8c82ef7fa93",
-      "date": "2026-05-11",
-      "title": "하나은행, 기술보증기금과 기업승계·M&A 금융지원 협약 - 인더스트리뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHNkw5U054X0tTdVgwSXlFLTlPaGIzZmJFbnBzdE5QTEFLMlpYeWJNR194enFYTUZJYjAyTGt6RWtBdjNzSFRiUkxDajJIYXpBMFpkMUdJM0RVVnZnclNlcVNXcnJSZnE4THRYRnpiOVBMZw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "kr_e0d866977a0b",
       "date": "2026-05-11",
       "title": "티웨이항공, 1Q 영업익 199억…전년대비 흑자전환 - 신아일보",
@@ -793,6 +793,16 @@
       "score": 0
     },
     {
+      "id": "kr_61b2eacb1f6b",
+      "date": "2026-05-11",
+      "title": "백화점·마트 ‘쌍끌이’ 빛났다… 롯데쇼핑 ‘어닝서프라이즈’ - 아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQZDVsNkw4VjhNUWhxdWIycGVpZGt1bURlRG5JSTVFVEMteEFTR0VuSUQ4OFplQkpZODE0N01taS1pUWtVQ1BRaXV5ZHpNTzBOcEZmcWVzcWhPTmJrUVlvVW5HU1Z6UEFCUXVNU0lB?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "kr_e160d589e402",
       "date": "2026-05-11",
       "title": "롯데케미칼, 올 1분기 흑자전환 성공...'10분기만' - 더트래커",
@@ -803,10 +813,10 @@
       "score": 0
     },
     {
-      "id": "kr_61b2eacb1f6b",
+      "id": "kr_d8c82ef7fa93",
       "date": "2026-05-11",
-      "title": "백화점·마트 ‘쌍끌이’ 빛났다… 롯데쇼핑 ‘어닝서프라이즈’ - 아시아투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQZDVsNkw4VjhNUWhxdWIycGVpZGt1bURlRG5JSTVFVEMteEFTR0VuSUQ4OFplQkpZODE0N01taS1pUWtVQ1BRaXV5ZHpNTzBOcEZmcWVzcWhPTmJrUVlvVW5HU1Z6UEFCUXVNU0lB?oc=5",
+      "title": "하나은행, 기술보증기금과 기업승계·M&A 금융지원 협약 - 인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHNkw5U054X0tTdVgwSXlFLTlPaGIzZmJFbnBzdE5QTEFLMlpYeWJNR194enFYTUZJYjAyTGt6RWtBdjNzSFRiUkxDajJIYXpBMFpkMUdJM0RVVnZnclNlcVNXcnJSZnE4THRYRnpiOVBMZw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -873,20 +883,20 @@
       "score": 0
     },
     {
-      "id": "kr_bcbccc80a350",
+      "id": "kr_492a4fa15130",
       "date": "2026-05-11",
-      "title": "트리니티항공, 1분기 영업이익 199억원 '흑자 전환' - 서울파이낸스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vcGNoVmpQWnhXRWItS0FJY0ZaNjlzUFRiOVVOeHVJcnNuejZjSTJQWkphXzRhSmRrWUp6NGVJUzRpc0liUlhDWXhfelROQ2xKeDlHTE9lY0s1eXhhaldqM09IOHJKWldSTkE?oc=5",
+      "title": "에쓰오일, 1Q 영업익 1조2311억…전년대비 흑자전환 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MV0FyeGJlVndMNHhmLXY2ZDdGOTFwMmxBaGJaYzljUnpnWDBnejdQdXJJMnpyc014YkFkdzUtM1pYVEt5RndrRlByMWI1RG9FNUhXc2J5R0VWVUNva1hTVWlYbkNFMERmUVREeTljVy0?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "kr_492a4fa15130",
+      "id": "kr_bcbccc80a350",
       "date": "2026-05-11",
-      "title": "에쓰오일, 1Q 영업익 1조2311억…전년대비 흑자전환 - 신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MV0FyeGJlVndMNHhmLXY2ZDdGOTFwMmxBaGJaYzljUnpnWDBnejdQdXJJMnpyc014YkFkdzUtM1pYVEt5RndrRlByMWI1RG9FNUhXc2J5R0VWVUNva1hTVWlYbkNFMERmUVREeTljVy0?oc=5",
+      "title": "트리니티항공, 1분기 영업이익 199억원 '흑자 전환' - 서울파이낸스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vcGNoVmpQWnhXRWItS0FJY0ZaNjlzUFRiOVVOeHVJcnNuejZjSTJQWkphXzRhSmRrWUp6NGVJUzRpc0liUlhDWXhfelROQ2xKeDlHTE9lY0s1eXhhaldqM09IOHJKWldSTkE?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -943,10 +953,10 @@
       "score": 0
     },
     {
-      "id": "kr_7c4baa98fc08",
+      "id": "kr_3990fea3efdd",
       "date": "2026-05-11",
-      "title": "롯데케미칼, 10개 분기 만에 흑자전환…영업익 735억 - 아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UNkUzUm5WS2ZhdHdxNWVSbGRCd3VfTGhFVEUzQVltWU8xenZTbnJsbk1Rb2dZTGxhX0lrbHpIWDJINi1Td2twOGZWMHE?oc=5",
+      "title": "롯데케미칼, 1분기 영업익 735억…흑자전환 - 블로터",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2LUREN0dTRnhSMVNsUXB0SFlLV0RqZGZTanZzbWJPRUJqLVlqZWFpYU9FdmdRVkJjd0o1TDZpdVRlZDU5dDBQVHUtZ2NSUF93RkZoOEVtcVBjd1p2cmMwcDZnUTJxT1V40gFsQVVfeXFMT3JSc3A3MV9OU3RhTjF3V0tfTXVpMWdmVVU3eXl0S0RWZTk3Q2E3UFJaVi1RcjQwZ2xsdnhoaVBEajFJX3RES3ZpTk5uZmpZQUUyOHhiV1JaUzF5cHhCRlJoWVdRVW1mYnVtMUti?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -963,10 +973,10 @@
       "score": 0
     },
     {
-      "id": "kr_3990fea3efdd",
+      "id": "kr_241a3d86ee2f",
       "date": "2026-05-11",
-      "title": "롯데케미칼, 1분기 영업익 735억…흑자전환 - 블로터",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2LUREN0dTRnhSMVNsUXB0SFlLV0RqZGZTanZzbWJPRUJqLVlqZWFpYU9FdmdRVkJjd0o1TDZpdVRlZDU5dDBQVHUtZ2NSUF93RkZoOEVtcVBjd1p2cmMwcDZnUTJxT1V40gFsQVVfeXFMT3JSc3A3MV9OU3RhTjF3V0tfTXVpMWdmVVU3eXl0S0RWZTk3Q2E3UFJaVi1RcjQwZ2xsdnhoaVBEajFJX3RES3ZpTk5uZmpZQUUyOHhiV1JaUzF5cHhCRlJoWVdRVW1mYnVtMUti?oc=5",
+      "title": "티웨이항공, 8분기 만에 흑자 전환 - 이코노미스트",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2SlZES2xOSWE1blFPZFFUTnpPZmVWSWd0MDg3S3BCR3hxcVlpeDNob2ZTSGVyMlk3VEU4UWdtS2lEZzA5N2NtU0NfNGRXc09xRmhacW9qQk5mbzJfZXhycUl3?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -977,16 +987,6 @@
       "date": "2026-05-11",
       "title": "에쓰오일 1분기 1.2조 영업익 ‘어닝 서프라이즈’ - 중소기업신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEdWw4REVrMF9zVHNZQ3ExUHBveXp2bERPRWJ1SWZid3VzRXpuRUxCOGlIRjU3UXUtNDR6aXlUcWhtSkFfNDhEcDVzUFQ3eFU2NWdUN0ZSdURqYlNjX1BlTUdURXl3b1VGZDBZNA?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "kr_241a3d86ee2f",
-      "date": "2026-05-11",
-      "title": "티웨이항공, 8분기 만에 흑자 전환 - 이코노미스트",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2SlZES2xOSWE1blFPZFFUTnpPZmVWSWd0MDg3S3BCR3hxcVlpeDNob2ZTSGVyMlk3VEU4UWdtS2lEZzA5N2NtU0NfNGRXc09xRmhacW9qQk5mbzJfZXhycUl3?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1013,6 +1013,16 @@
       "score": 0
     },
     {
+      "id": "kr_7c4baa98fc08",
+      "date": "2026-05-11",
+      "title": "롯데케미칼, 10개 분기 만에 흑자전환…영업익 735억 - 아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UNkUzUm5WS2ZhdHdxNWVSbGRCd3VfTGhFVEUzQVltWU8xenZTbnJsbk1Rb2dZTGxhX0lrbHpIWDJINi1Td2twOGZWMHE?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "kr_9a3839422dd6",
       "date": "2026-05-11",
       "title": "불장 올라탄 삼성증권, 1분기 '어닝 서프라이즈' - 매일경제",
@@ -1033,6 +1043,16 @@
       "score": 0
     },
     {
+      "id": "kr_b7f20c5371c2",
+      "date": "2026-05-11",
+      "title": "프라이오리티 테크놀로지 홀딩스 주가, 어닝 서프라이즈에 8% 급등 - Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JS2JFTVVRTXoxY3hNbVo5Z1ZSb2V5SzVyYmxRTmhVM2pvbHRaR0RMUW9ZR0plbGlkcTZWaDlZWHVZOHV1Q3BvYVJ1SloxcnRmcFZmZU5DTzhFcGxEZXNQY3ZPY2pVSDc1ZW13?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "kr_d0908febe229",
       "date": "2026-05-11",
       "title": "S-Oil, 1분기 영업이익 흑자전환… 당기순이익도 흑자전환 - 디지털투데이",
@@ -1047,16 +1067,6 @@
       "date": "2026-05-11",
       "title": "티웨이항공, 1분기 영업익 199억 ‘흑자 전환’…“8분기 만의 결실” - 파이낸셜투데이",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrRHJzYXFwQU9rX2t4bHdqRmVUOUMtLTZBYWU0NnhSREx4SktIaVJhVXBHSVhLOXA1QVBjcHJJQzNGQmF2R1NFYWc2VFpVLXhFMjZmNDNVZVRPNWdPVlU2dkJQR3pBMlNhR0HSAW5BVV95cUxNRzNwQkFEZS1Nb040czVyaHZEczctZmtGUTJVR3Q2bkZ4RVBkQTVHV2Y3VVNxeWtHUGx1cFZURnF3d2VQV1BMOUgzSm9jY3BfLTFIWWEyVjE5SzJ1VFZIaG9wVS1URGJyay1XUFVfdw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "kr_b7f20c5371c2",
-      "date": "2026-05-11",
-      "title": "프라이오리티 테크놀로지 홀딩스 주가, 어닝 서프라이즈에 8% 급등 - Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JS2JFTVVRTXoxY3hNbVo5Z1ZSb2V5SzVyYmxRTmhVM2pvbHRaR0RMUW9ZR0plbGlkcTZWaDlZWHVZOHV1Q3BvYVJ1SloxcnRmcFZmZU5DTzhFcGxEZXNQY3ZPY2pVSDc1ZW13?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1103,20 +1113,20 @@
       "score": 0
     },
     {
-      "id": "kr_274f7b783b09",
+      "id": "kr_3c72fe06f29e",
       "date": "2026-05-11",
-      "title": "롯데케미칼, 1분기 영업익 735억 흑자전환 - 중소기업신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kc09tWkxNU0FNOE55VjlCN0stb1BpdmRJSUN0VlZXaDZ6TDUyazVlQTlBV3hWUjhEUTFpdzhjYUFnMGE1Vzd6U0NoalBaU2Jlb2tFWl9vc25NSWhmMjgzNV84bFlMVjZ0eEJIdA?oc=5",
+      "title": "하나은행-기술보증기금, 중소기업 승계 및 M&A 금융지원 협약 - BBS불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fZTNwdGtHY3F0ZHJoVnhKd0tueTcySWFEcVpZX0Vyakd1eXpZODhyZ1FwYVptclZIUGdGSkZITWdnRWxzaVgyWW1TV2J1V2RlY1JJckIxN2k2UU4zTUxaZF8yeUtLX1d0Skgw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "kr_3c72fe06f29e",
+      "id": "kr_274f7b783b09",
       "date": "2026-05-11",
-      "title": "하나은행-기술보증기금, 중소기업 승계 및 M&A 금융지원 협약 - BBS불교방송",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fZTNwdGtHY3F0ZHJoVnhKd0tueTcySWFEcVpZX0Vyakd1eXpZODhyZ1FwYVptclZIUGdGSkZITWdnRWxzaVgyWW1TV2J1V2RlY1JJckIxN2k2UU4zTUxaZF8yeUtLX1d0Skgw?oc=5",
+      "title": "롯데케미칼, 1분기 영업익 735억 흑자전환 - 중소기업신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kc09tWkxNU0FNOE55VjlCN0stb1BpdmRJSUN0VlZXaDZ6TDUyazVlQTlBV3hWUjhEUTFpdzhjYUFnMGE1Vzd6U0NoalBaU2Jlb2tFWl9vc25NSWhmMjgzNV84bFlMVjZ0eEJIdA?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1173,6 +1183,16 @@
       "score": 0
     },
     {
+      "id": "kr_01ce9d1441cc",
+      "date": "2026-05-11",
+      "title": "티웨이항공, 1분기 영업익 199억원…2년만 흑자 전환 - 스마트투데이",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoY2FuekZBSDJvdFFmekM2Qnl2c0U4WkVGQk9XNXVzZ0RtM2NXVlpXSTNZTnFmdUxlYWkzVTR2M3UtSWNyVGVjbEV4a2tnRnB1a3dUNzJISWVaZ0lnMjRz?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "kr_a6ec3b48e88d",
       "date": "2026-05-11",
       "title": "한국석유공업, 1분기 당기순이익 흑자전환…전년 동기 대비 회복 - 디지털투데이",
@@ -1213,16 +1233,6 @@
       "score": 0
     },
     {
-      "id": "kr_dc5478a0af89",
-      "date": "2026-05-11",
-      "title": "데브시스터즈, 신작 부진에 1Q 적자전환…“경영 쇄신 속도” - 서울경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTdTZZM0pCaHhaQkhEdldLRWtNcTJEM190ajhTbjlNallEVDBPbUp1c1FQYUNUc3lLb2gyWXJnRXRFY3JheXdma0VCNVNLQ1AzR1ZURzZueE5qbHJSREVwcGEwRVo?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "kr_4aed82d30202",
       "date": "2026-05-11",
       "title": "에쓰오일, 1분기 영업익 1.2조 '흑자전환'…\"유가상승 재고효과\" - v.daum.net",
@@ -1233,20 +1243,10 @@
       "score": 0
     },
     {
-      "id": "kr_01ce9d1441cc",
+      "id": "kr_dc5478a0af89",
       "date": "2026-05-11",
-      "title": "티웨이항공, 1분기 영업익 199억원…2년만 흑자 전환 - 스마트투데이",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoY2FuekZBSDJvdFFmekM2Qnl2c0U4WkVGQk9XNXVzZ0RtM2NXVlpXSTNZTnFmdUxlYWkzVTR2M3UtSWNyVGVjbEV4a2tnRnB1a3dUNzJISWVaZ0lnMjRz?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "kr_46687d4c339e",
-      "date": "2026-05-11",
-      "title": "에쓰오일, 1Q 영업익 1.2조 흑자전환…\"원유 공급 안정성 유지\"(종합) - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10M00zd2JvUVlaSzFsc3gzODVraTZrQ0hVUzdvQTJrQmFXZkRabVYwQmZVYkpsN3A2ZmdWVUhLdkZpMUhJYkRJTDNTck9mX3NpY2NYRXJRblFwVlNWT0pMS2V3OUE?oc=5",
+      "title": "데브시스터즈, 신작 부진에 1Q 적자전환…“경영 쇄신 속도” - 서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTdTZZM0pCaHhaQkhEdldLRWtNcTJEM190ajhTbjlNallEVDBPbUp1c1FQYUNUc3lLb2gyWXJnRXRFY3JheXdma0VCNVNLQ1AzR1ZURzZueE5qbHJSREVwcGEwRVo?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1267,6 +1267,26 @@
       "date": "2026-05-11",
       "title": "에쓰오일 1분기 영업익 1.2조 흑자전환…\"유가상승 재고효과\"(종합) - 연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pdkJ4aHlMNnFhaUJtdHB4bEhZYmtWeC1BYWlxaWVNNlo4bUROUG5aZ3QtUWVyQ3BLdHVSWEU3VDdpVXgtLU5yNVl0VmpTSDg4NVdteGJ0cmQtZWfSAWBBVV95cUxNQjVRYmV5azlTUF8xV2w0VXVWSEN1S011YjNKWjNIbU10T2lZMDlLR1lxR2tSWVg3WFgwV3BRd0d5M3dPTEIyTDNCLVBDZTA2ak0tUFVjNWNHZU9Nem9QMG4?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_46687d4c339e",
+      "date": "2026-05-11",
+      "title": "에쓰오일, 1Q 영업익 1.2조 흑자전환…\"원유 공급 안정성 유지\"(종합) - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10M00zd2JvUVlaSzFsc3gzODVraTZrQ0hVUzdvQTJrQmFXZkRabVYwQmZVYkpsN3A2ZmdWVUhLdkZpMUhJYkRJTDNTck9mX3NpY2NYRXJRblFwVlNWT0pMS2V3OUE?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_b967f7462ae3",
+      "date": "2026-05-11",
+      "title": "에스오일, 1Q 영업익 1조 2310억…흑자전환 성공 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jSmxON3pFM1lZV2V4WEJUeGlONnNOMHpScUhOMHZIaGJuT3FQb0xTUnBodW9ucWYyM0NhT19zdHJIZEZsM0JCUkl3NFBPb0N3ZDkwQVBMVl9jS2RvQnRvT3dZeWk?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1313,10 +1333,10 @@
       "score": 0
     },
     {
-      "id": "kr_e634df37bc75",
+      "id": "kr_2d28f86ccf17",
       "date": "2026-05-11",
-      "title": "'옛날통닭 프랜차이즈 신화' 가마치통닭, M&A 매물로 - 이데일리",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaTVydmg5R3BaVTVBeWxCYnhyQmxKNVBqbTZNZmJvcmZtc1NhMFBucE9wM1JBQi1Fa0FLSkRLZzJFVzJPdnh5bkRreFRxSHIwTUIyVFhWUEtyQ3NSbE5kU243N3NnWDVyOGVRWEw1bVpWbjlYbDVqTm1uRHphV1d4Tg?oc=5",
+      "title": "롯데케미칼, 10분기만에 깜짝 흑자전환…\"균형잡힌 포트폴리오 구축\" - MTN 머니투데이방송",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LRU94ZWhjSkMzTGNudjE4RVdEYzhxcUpXMVVvZ1JDa24tbGZFNl9XYkJlblZzaTl5cE45Ny1GalRBel9mZ0x0MkEya05pdm5hTXhIMXI2OXFvcmtBZklwSno3cDI?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1327,6 +1347,16 @@
       "date": "2026-05-11",
       "title": "애경산업, 2026년 1분기 영업손실 15억8800만원… 전년 동기 적자전환 - 디지털투데이",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hc1BVdDVRZ25DZ1dvNGtvdTJHRDNvcXppd1J5alVwaEx3dXBNZldtWkxaZG1wNWt1QTQ4VnZJMmkwY2h5UV9URXYzN3E0aURqOVFfbHlLNE5MdE5kTWs4RmpOWVlrb1NBTl90T0d6Y1JmZ2M?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_e634df37bc75",
+      "date": "2026-05-11",
+      "title": "'옛날통닭 프랜차이즈 신화' 가마치통닭, M&A 매물로 - 이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaTVydmg5R3BaVTVBeWxCYnhyQmxKNVBqbTZNZmJvcmZtc1NhMFBucE9wM1JBQi1Fa0FLSkRLZzJFVzJPdnh5bkRreFRxSHIwTUIyVFhWUEtyQ3NSbE5kU243N3NnWDVyOGVRWEw1bVpWbjlYbDVqTm1uRHphV1d4Tg?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1413,16 +1443,6 @@
       "score": 0
     },
     {
-      "id": "kr_2d28f86ccf17",
-      "date": "2026-05-11",
-      "title": "롯데케미칼, 10분기만에 깜짝 흑자전환…\"균형잡힌 포트폴리오 구축\" - MTN 머니투데이방송",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LRU94ZWhjSkMzTGNudjE4RVdEYzhxcUpXMVVvZ1JDa24tbGZFNl9XYkJlblZzaTl5cE45Ny1GalRBel9mZ0x0MkEya05pdm5hTXhIMXI2OXFvcmtBZklwSno3cDI?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "kr_e6186ac55ae0",
       "date": "2026-05-11",
       "title": "롯데케미칼, 1분기 영업익 735억 … 중동 변수에도 흑자전환 성공 - 뉴데일리 경제",
@@ -1467,16 +1487,6 @@
       "date": "2026-05-11",
       "title": "티웨이항공, 8분기 만에 흑자전환…유럽·화물 확대 효과 - 뉴스락",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nVTlSbFlHdkZKdUlfa3I1NWltYWRIMlY5UE1CUEZzMTA5ZEg3S0VoekRMVlVZRFlZcWpkYkQyZHRtbzdab0d2b2JyMnlOR0pjV2lkR2tRNlUyZ3pTSHlvNnEzdUFoUjN4MFcyXw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "kr_4bea6bbb5f0c",
-      "date": "2026-05-11",
-      "title": "데브시스터즈, 1분기 영업손실 174억원…적자전환 - 마켓인",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xcWlUbG9rT0JHYm1RZkpmRDZBNWZUTlJTRFVuZHdfTnJ2SzNQNEpkRnh6U3g5WmN2RFJFTmxGZ1k5V2RqQ2tkZVpnLWQ2Mm5EMnFoRmlyaExOYUxVanRzQ2g2b0tiOUNKTjE3alpDS1ozYkU?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1547,6 +1557,76 @@
       "date": "2026-05-10",
       "title": "프로이천, 세계 최초 기술력 앞세워 반도체·디스플레이 시장 정조준 - 핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00NndCQ2pTNDYwblp4VHN3UGFfQ3Q5WnhrdDUzM3JvNVJRdTlxYkRwZmZ2NFpUTk5UM2htMnlqNF9rRzJjREZVVTlHcUpOc3NiM1FhUGhTUjAteWllcncwWThxUm50X2k0dVYyZDA3NmNvaknSAXdBVV95cUxORjEyRzRscGhZVlBsbjB2SGl3ZVNjMlJlZ2g1VVBCQUtqam5nZ0M4Q0lVWHFsaktuQ3NZUC0zM2UzUkc2SHRuMVpMMUQ4dVZ4YkRzV2pPV0NYNUVGNjBmNzg4TS12VDlDalFxU3o1M0p0SGtNa0tWQQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_3c3dcf879ba0",
+      "date": "2026-05-10",
+      "title": "에이프릴·휴젤·코아스템켐온 급등…기술수출·실적·허가 기대감 폭발[바이오맥짚기] - 팜이데일리",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45aDRrMzg3TVhmRXdZb0d4NmlacVR2T29odUpYREdSSG5MR1lhN2JDVFJoZWZENDFDVkp1c1diSEFVYUwtT1ZfUWJrTVNwR2RiRWNNTTRuQURjaFY2SjlydlY4bk02aDJmSGFtdUZn?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_c91ae3372ca0",
+      "date": "2026-05-11",
+      "title": "“종이 한 장이 수조원 기술수출로”…A0 포스터에 숨은 신약 단서 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBYVBUSlJLZGxxVVd4M2JuMUxwODhLMnZvRlZnM3VhODBnX3lxRmc0c1h1anAyWXdqWmYteDZHc2NGSEFBbHhyWDAyLUlyWjFvR3RaODBXWm5PUdIBVEFVX3lxTE54MndoU0hqMmZWLWZpdU5JdmwwQ2VrZkxCelotdk9IeEh2dTk2Y1pCMXM3NTBublBwQmVNMlZ4QlpqamxKLXdUZXUtQVRwZGtYZmp6Vg?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_40aac6a95462",
+      "date": "2026-05-10",
+      "title": "伊안젤리니, 카탈리스트 41억弗 인수..\"뇌질환 강화\" - 바이오스펙테이터",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zRGJOaXhtT3cyNk5DYU1keG9GYUhaanZkWjZ6N0lyRGdaV0o2N2dJdGZ5cWpCSkhGb1hmei1KOGlOdHhUa0tqX0xaU1ZtZ082dTRmZFl0SQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_edd6a205958b",
+      "date": "2026-05-11",
+      "title": "큐라클·맵틱스, 안과 신약 후보물질 1.5조 기술수출 - 한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sX3hkREhsMUhKR2NCc09WU1FLaFhFQ0drWFd5b0lhbzY4MXp0ZUs3bkstcVoycjF1cDYzRUdJM2I4THpzcU5WY1FqYWtRVnBfQmloV3J0MHV4UFRZMU12cU9TNndLaVdRa3hN0gFvQVVfeXFMTlRKUTU0cDdFNVp0N0VoY1I3aXFuWVhhal9iNmtDWGJITFBYc1JWeFZGVWNGOWMyMGZScHQ3U05WYzRlTV96QVhWX3BOVExmSnp5NVlrNS1JcHZ1UXZLd2RzdDM5dHYwRTJwVjMwaDI4?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_c6dadab641bd",
+      "date": "2026-05-11",
+      "title": "큐라클, 최대 1조 5000억원 기술수출에 주가 급등 [Why 바이오] - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80WGxDNGxFODhzVEpwMjgtcWE1MHlOWnVDenhvaVdTa3pwWmdaX3I3TW1yaV9aMHpkZzQ3bE5lY1JCZ2lERHBHd1RhcWpZOW9WaUHSAVNBVV95cUxObFlyTkxJQVBfN1F0M2JfOUhpc3hWel9MYVcwXzBJcGxNU0tuaWNUVnl1Q083M1FMNGdzR09TOTJQY1FZUnJkRERhYktGY2FHRUljcw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_cb8650f76318",
+      "date": "2026-05-11",
+      "title": "큐라클·맵틱스 망막 치료제, 美 기업에 1.5조 기술수출 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IejRfZmpwNDhuUy1tRGhHTG9sMTVVRTg0NEphclpEVzRhdkg4VDYxblhRX0ZFWHI5SG12bC1JSkdqZnh2U1hGUWFnSlBxUTNVaExGYnY3RDZNQdIBVEFVX3lxTE5zZXBZM2hfNFVBR0p2QTl5WHRtSERSQ1VmaDdkMFJ2OGp3Q1BVeU5oV2VnZE9NWUZmRi1fUDh0a25nQnAzYmpfV3E1OUtmMUcxLVdVVg?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_bb101b0c5d49",
+      "date": "2026-05-11",
+      "title": "메디톡스, 세계 최초 콜산 성분 기반 지방개선주사제 ‘뉴비쥬’ 런칭 심포지엄 성료 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEOVE2S2dnZWNCOHA1aVMwYmkzcDhLWGlPbDlldml2bWdMVDVRc2lMTE94X1pTWjNIdEZOYW9GLWdHTjI1TVd1cDBYZ2RzYzJhZnNUejl3Y0NMZ9IBVEFVX3lxTFBkRjJERFpGLWRqQWlHcmpsOUlFLXoyVUdYUlNfUDM0dmlJdnZPeG9kc3hfaHA0Qzd1OWdxTjQwXy1EZXF3NEY5djgydHdBSzdpLTZucg?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",

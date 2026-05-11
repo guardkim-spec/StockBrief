@@ -5,21 +5,31 @@
     {
       "date": "2026-05-11",
       "sector": "바이오/헬스케어",
-      "news_score": 8.14,
+      "news_score": 8.0,
       "volume_score": 0.3,
       "trend_score": 3,
-      "total_score": 4.25,
+      "total_score": 4.19,
       "recommendation": true,
       "confidence": 0.85
     },
     {
       "date": "2026-05-11",
       "sector": "소비재",
-      "news_score": 8.0,
+      "news_score": 7.71,
       "volume_score": 0.2,
       "trend_score": 4,
-      "total_score": 4.46,
+      "total_score": 4.34,
       "recommendation": true,
+      "confidence": 0.85
+    },
+    {
+      "date": "2026-05-11",
+      "sector": "통신/미디어",
+      "news_score": 5.0,
+      "volume_score": 0.7,
+      "trend_score": 4,
+      "total_score": 3.41,
+      "recommendation": false,
       "confidence": 0.85
     },
     {

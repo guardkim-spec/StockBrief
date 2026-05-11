@@ -10,7 +10,8 @@
     ],
     "actual_top_sectors": [
       "바이오/헬스케어",
-      "소비재"
+      "소비재",
+      "통신/미디어"
     ],
     "accuracy": 0.67,
     "hit_sectors": [
