@@ -25,8 +25,8 @@
       },
       {
         "name": "us_news",
-        "status": "pending",
-        "ran_at": null,
+        "status": "running",
+        "ran_at": "2026-05-12T22:37:07.308863+09:00",
         "duration_sec": null
       },
       {
