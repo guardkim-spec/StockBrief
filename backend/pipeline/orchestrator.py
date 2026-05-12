@@ -106,33 +106,48 @@ def run_pipeline(date_str: str | None = None, dry_run: bool = False, force: bool
             notify_step_failure(name, exc)
             return None
 
-    # ── Step 1: Korea price ──────────────────────────────────────────
-    from collectors.korea_price import collect_korea_top100
-    ctx["korea_price"] = run_step("korea_price", collect_korea_top100, date_str) or []
-
-    # ── Step 2: Korea news ───────────────────────────────────────────
-    from collectors.korea_news import collect_korea_news
-    from analysis.gemini_client import call_gemini_json
-    raw_korea_news = run_step("korea_news", collect_korea_news, date_str) or []
-    ctx["korea_news"] = _analyze_news(raw_korea_news, "ko", dry_run)
-
-    # ── Step 3: US price ─────────────────────────────────────────────
+    # ── Steps 1-4: Korea and US pipelines run in parallel ────────────
     import os as _os
-    if _os.getenv("SKIP_US_PRICE", "").lower() == "true":
-        logger.info("US price collection skipped (SKIP_US_PRICE=true)")
-        ctx["us_price"] = []
-        step_map["us_price"]["status"] = "skipped"
-        step_map["us_price"]["ran_at"] = datetime.now(KST).isoformat()
-        step_map["us_price"]["duration_sec"] = 0
-        update_status()
-    else:
-        from collectors.us_price import collect_us_top100
-        ctx["us_price"] = run_step("us_price", collect_us_top100, date_str) or []
+    from concurrent.futures import ThreadPoolExecutor
 
-    # ── Step 4: US news ──────────────────────────────────────────────
-    from collectors.us_news import collect_us_news
-    raw_us_news = run_step("us_news", collect_us_news, date_str) or []
-    ctx["us_news"] = _analyze_news(raw_us_news, "en", dry_run)
+    from collectors.korea_price import collect_korea_top100
+    from collectors.korea_news  import collect_korea_news
+    from collectors.us_news     import collect_us_news
+
+    def _run_korea_pipeline():
+        try:
+            kr_price = run_step("korea_price", collect_korea_top100, date_str) or []
+            raw_kr_news = run_step("korea_news", collect_korea_news, date_str) or []
+            kr_news = _analyze_news(raw_kr_news, "ko", dry_run)
+            return kr_price, kr_news
+        except Exception as exc:
+            logger.error("Korea pipeline error: %s", exc)
+            return [], []
+
+    def _run_us_pipeline():
+        try:
+            if _os.getenv("SKIP_US_PRICE", "").lower() == "true":
+                logger.info("US price collection skipped (SKIP_US_PRICE=true)")
+                us_price = []
+                step_map["us_price"]["status"] = "skipped"
+                step_map["us_price"]["ran_at"] = datetime.now(KST).isoformat()
+                step_map["us_price"]["duration_sec"] = 0
+                update_status()
+            else:
+                from collectors.us_price import collect_us_top100
+                us_price = run_step("us_price", collect_us_top100, date_str) or []
+            raw_us_news = run_step("us_news", collect_us_news, date_str) or []
+            us_news = _analyze_news(raw_us_news, "en", dry_run)
+            return us_price, us_news
+        except Exception as exc:
+            logger.error("US pipeline error: %s", exc)
+            return [], []
+
+    with ThreadPoolExecutor(max_workers=2) as executor:
+        fut_korea = executor.submit(_run_korea_pipeline)
+        fut_us    = executor.submit(_run_us_pipeline)
+        ctx["korea_price"], ctx["korea_news"] = fut_korea.result()
+        ctx["us_price"],    ctx["us_news"]    = fut_us.result()
 
     # ── Step 5: Gemini sector analysis ───────────────────────────────
     from analysis.sector_classifier import aggregate_sector_volume, aggregate_sector_news_scores
