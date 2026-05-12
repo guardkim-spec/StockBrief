@@ -7,9 +7,9 @@
     "steps": [
       {
         "name": "korea_price",
-        "status": "running",
+        "status": "success",
         "ran_at": "2026-05-12T22:17:52.815107+09:00",
-        "duration_sec": null
+        "duration_sec": 6.1
       },
       {
         "name": "korea_news",
