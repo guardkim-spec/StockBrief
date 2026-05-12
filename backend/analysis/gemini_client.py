@@ -13,12 +13,12 @@ logger = logging.getLogger(__name__)
 
 _MODEL_NAME = "gemini-2.5-flash"
 _MAX_TOKENS = 16384
-_CALL_TIMEOUT_SEC = 90
+_CALL_TIMEOUT_MS = 90_000  # 90 seconds in milliseconds (http_options uses ms)
 _LAST_RESULT_CACHE: dict[str, Any] = {}
 
 
 def _get_client() -> genai.Client:
-    return genai.Client(api_key=settings.gemini_api_key, http_options={"timeout": _CALL_TIMEOUT_SEC})
+    return genai.Client(api_key=settings.gemini_api_key, http_options={"timeout": _CALL_TIMEOUT_MS})
 
 
 @retry(max_attempts=3, delay_sec=30.0, exceptions=(Exception,))
