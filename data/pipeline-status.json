@@ -19,9 +19,9 @@
       },
       {
         "name": "us_price",
-        "status": "running",
+        "status": "success",
         "ran_at": "2026-05-12T22:36:52.289206+09:00",
-        "duration_sec": null
+        "duration_sec": 10.2
       },
       {
         "name": "us_news",
