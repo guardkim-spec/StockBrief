@@ -43,8 +43,8 @@
       },
       {
         "name": "charts_report",
-        "status": "pending",
-        "ran_at": null,
+        "status": "running",
+        "ran_at": "2026-05-12T22:14:17.630419+09:00",
         "duration_sec": null
       },
       {
