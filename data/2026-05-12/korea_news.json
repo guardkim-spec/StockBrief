@@ -3,26 +3,24 @@
   "date": "2026-05-12",
   "data": [
     {
-      "id": "kr_9fef6f748652",
-      "date": "2026-05-12",
-      "title": "AI 반도체 호황, 사이클 넘어선 '수요 폭발'…대융합 시대 열린다 - 디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hTUtMdTBtXzRnMWNVZVA1bWRYNVdwWUNlTVpLMzBYaDE3ZkhZaEtpaHBmemgzNzJSSjdOUUhRTnM0Y3pKU0RvUzBNSmZRTFYyWW5hZlRtdnNaY3pFTmJZMG96NUgzZw?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
       "id": "kr_0e1de025d240",
       "date": "2026-05-12",
       "title": "반도체가 이끈 1분기 성장률... 한국, 中 제치고 주요국 1위 - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRE5qZEZHRWZWSW5LSnNYMDlZbVR0VGFVazZhOTZjUXRKUjFvQzNqOWxQaG9XeXkwVENxS2lIeU1qSWpDRDBFdjVQWk5qMlVkNGVyWGprR0RUZVRNYUtBdDVBQTVwUks1enU0VkpXSzVISmhQVDBjbVltZm1zUHlMam1CLWppeDVkaERV?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_9fef6f748652",
+      "date": "2026-05-12",
+      "title": "AI 반도체 호황, 사이클 넘어선 '수요 폭발'…대융합 시대 열린다 - 디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hTUtMdTBtXzRnMWNVZVA1bWRYNVdwWUNlTVpLMzBYaDE3ZkhZaEtpaHBmemgzNzJSSjdOUUhRTnM0Y3pKU0RvUzBNSmZRTFYyWW5hZlRtdnNaY3pFTmJZMG96NUgzZw?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 10
     },
     {
       "id": "kr_5472beb2f4ae",
@@ -31,9 +29,8 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oRzR4aWJST3RUcnhFN0NkSFFTdGd2QkVTeE5TTi1aVUctNVUtV3prMG11Z3FrQ0hCRHVnX0lFZUpOSDBmNTR1Ykl2UkFNZ1VENGdjRXc2dlU4c3dlYXM4SWRNVVB3SmZBcUtyVWxxRUlDZGQ4?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "kr_aba008c96a53",
@@ -42,9 +39,8 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90VV9FSFZWaDhjdkF6TVRxMl9KczBsRVRNcDlpQW1wM1hLLXpCM0t5ZC00bUU5ZUlNVnhEMTl1T1JURmVTVVpOaV95UkhFVmJTbVlfR3J0VDVYX19heEpj?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "kr_31a921dea0c1",
@@ -53,9 +49,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tTkd1ZnNfVDZCUVZvMVhodjNSTWlCdWJNRDBnRHh5REpibW83Z29Yek1xci1PWnVZcFNXc25iQWVqVEhtY0NOT1ZtamVKSjA?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "kr_dc65c3e92516",
@@ -64,9 +59,8 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aWk5kZUdfVy1xbWMwY0VxZGNtaWFtRG5hSzhTVTZSNllKOGNmZ1VUcTQxVElKWU5ENThyanlpODlDNVFYd3Fkd0sxaGZ1TVNBSXpPZ1N2SEw5d9IBVEFVX3lxTE5MTGZWVkI5WlhpVzdlMkxJQ2pWRi0wTEtBaF83ZWQybFJyUDVpV1ctel91ekRQN1JPUkM1V0JnZ29kc2FKRmFjbmJTU2xLc0tJcjRhZQ?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 10
     },
     {
       "id": "kr_e5a678f4f8e2",
@@ -75,9 +69,8 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EYk9wQVQtVUJzYmtydi1pMlF4eFdPbDFhV3RCUjhwZW9QV24xelRmY0Zaa2tDNXNMdWMtWl9MNjhMQWdnUUJROFAwbGxFYzE5ZENR?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "kr_dc645505ed58",
@@ -86,9 +79,8 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BVzFJbUM0UVJLcjNfUE1UQWdISFVZdGhGN2REZTJyVjVvOFJJZl92N3UwelZWWENpdVJFcUV0cFNnM29oQVc0blNlZ0wxc19jMzJVdVl0bw?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "kr_1cdd95a05041",
@@ -97,9 +89,8 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQTWsybDhiazlWY2Q0bml2NTJtaWUtUThGYXdjclQ4Q19hRjZaSXFDLVljTmFtMGlReExEa1pibjR2SU1qWWJqelVoNHZDaTllMUJ1cGZoaGdtTWhOTS01N0Z2S0hZNFRxUGQyME91R3A4aklX?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "kr_5e103670d55f",
@@ -108,9 +99,8 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kbUlMS3FSYk5mYXFlbFNMaHk0ZFhRRjBCekRELWlhV1JMelJzdEpXam53SV8zWW5IUTBVSFhkZnpYaTJwbzNLQ3RtekxnWld6SjZ2ZzRJYktxbnZhM05R?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "kr_299cf70ef251",
@@ -119,9 +109,8 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02dExVdmZXaVdhWDh0aURyTk9mTUJBZGtIejRycmt3WjF1V3JKQlEwZF9uRTZFZ2JrMTBIQ0c0NmlFV004amZGWUxuQnpGaUllanNhYWdnSFowQdIBX0FVX3lxTE5Wd2lNVkJCeG1pYW9NdG5uYmtCRmJfV0V0V1hvcTJ5M25xd29wUmRQdWN6X0ZtN3lkWGxHb2d6NVg5eHhnRjR0M1JvUFQ0RTllZ1Q2V1FNUERNTWU1QTNv?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "kr_3f44d5598d01",
@@ -130,9 +119,8 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wcHlNWVp4RHl4Mlg4Z1MtVzBLMm9nSXRnOEV3M3lVejg2azE2ZDBId0FiNVJvQ3B0NHcweDg2N1hyTXNlV1hFd0MxTEZibkl5TWZQbFBRSk9SdTlPR1lJWXpYZnJ5N0xlbzRUSEVB?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 10
     },
     {
       "id": "kr_04fc0875436f",
@@ -141,9 +129,8 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nSk8wWkF0aG9Rd3VKcWg5bDlCclhJSE1XZW00Y2FJcy1DcGdKaVBiZ0NOME9VWEI1Y3I1eld5cWhpVDB0NFdVWnNqUFZEMVZMa2ZMUGFxUUlLeGVDclFPM0Z3U1JTaFJNeGtn?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "kr_5b4d28add93f",
@@ -152,20 +139,8 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XeDF2NGJra242RmhkQlRWQ1gwTG1DN3FMRDdFbW1tcER5cXY0dTN6dk96em43M2V3V1V5MzRkSjZ1ZWRvME5NcUo3UVFkbUpiQVFWVWNzX0xxTm1LTXVYRmFveDVFTFFXdVAtTTdfVktTTE0?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_0a61856cccd9",
-      "date": "2026-05-12",
-      "title": "대우건설, 반도체 호재 품은 ‘용인 푸르지오 원클러스터파크’ 공급 - 에너지경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvR2pqOXVySktKRkpxd3A1T01iZC15MnZMLVFvd0RrUVFxYUdSNDJZQzY4akdncWlyVVMzdVdJQmIyQnFleVdWSEtubVhvSUFQN1FFdXRNWnh1ZjA?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "negative",
+      "score": 7
     },
     {
       "id": "kr_ae69709c8168",
@@ -174,9 +149,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyRmV1aV94VTlWQzNrQ3Z2Qzg3TUY4b3R1TlJuSVNMNnJTbTc1M2ZzUDd2R3dVVlBZMjlnLXNjdmJQRWI2bi00N05NcHFhbVk?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "kr_3c037d424abf",
@@ -185,42 +159,8 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUgwX00zVzFEYVdxWDJUUVBxNEhGT0czcEVQVmpUYzZMa3VKb0tlTVlsQUIxTTVPV05mVFZwTC1BN1JGb2ZOeHI2TWtuXzJXTG5KSVFlbmJBWFNydXRDTkJzVlhIdXIxZnBDQ2QyM1gtN1NOQTVSdFpFR0NMc3NOSVliemR4UdIBmgFBVV95cUxQRndTOERIeEh0Y3lBODBwUWM5d3liNmpXNjFqNVNSczhBRmdiTDlwZ3BkT0EzcVo4RlVXTHlyUzF0cnAxNG5zZkVkQTRnc1dhMHJ3c2hnUWFIb2Z2OE9kMm1PQjhJdWdSUHZ6QVQwRHQzWUF6M1FHTHRWd2ZZYmFudmtiYldsYi1vdGpMdjBPTF9PLU1RTkRPczhR?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_286e87ae45fb",
-      "date": "2026-05-12",
-      "title": "'HBM 아버지' 김정호 \"AI의 본질은 메모리, 향후 반도체 수요는 100배 그 이상\" - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LS1ZqV2tiTHFtU3M1YmwzdGFpSDBjcFdkU0JtWU1EYzdyUUFZd2RmUDJHcDdVZDFCYTdkaDNueGlnYkQwVHVEWllQU2RNRDQ?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_626f00e7e44c",
-      "date": "2026-05-12",
-      "title": "“단순 파업으로 반도체 공장 안 멈춰”... 삼성전자 노조의 딜레마 - 조선비즈 - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYjZHMnYxMzV5OGowZjIzMG53MEY5emNCM1pmMUJvVDVuX25fXzRlQmlIZHlLNTJNQmVicnU1VXprdWctNGIwTVVMOThhNW1kbVpKV28tQ1hEd3JWeEZaZUxKcHNMdXBmdjhOZEh4SUgzUGtmbEs4c3RnOHVWVUJKWkJ30gGWAUFVX3lxTE5YZXp1YTIzSGIzdHFGRjB5eWlXSVBaS2kyelNlTF9yemFQbGNvOE1EQTkzWHVOTkpoeHdTbldUOFlMOTNJa2tEa0JLWmJVeHVaV3lXMHBZcll6eXFYSUo3MklvakZqSHhyVTZqaHc2MnZRTlcwb1EyOEJhWnBydTI5enhKbDM3NlQ1Y2xvaFFrWjBIYTR6dw?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_24ba0faac9a8",
-      "date": "2026-05-12",
-      "title": "KDI \"반도체 호황에 경기 회복세… 중동발 위험 여전\" - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0ZMcktLTEkyaFFzdXY1eTF1MFR4LWJ6NTBPRXdPMXhwQlpXX3Y3TkVHNndKM1pDVHMwUTV2N1B6NU5HbFNlU2lYN0UtQ2RKMkFmLVFGUk56TDRmRmtvWjY3dEl2TlNORHFxLUU3Q3dqQ2Z2Y0ExLUQ3d21pNmxkcHMwLV9kS2xzanZaNjF3?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "kr_935a59cf4429",
@@ -229,9 +169,48 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NaDVRa0Q3aFpXcE5tWjRLbTJWX0kwQjNDMS1XMWVsbURSMnhvanVMVHk0X0htR1pwaHlRcWM2Vnl1V3hFWjNIT3p0am1VSTJaTVBtQks2SjcwV3F6N1E1bGJCb1dDc0U0R3E1U2NGYUk?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 7
+    },
+    {
+      "id": "kr_286e87ae45fb",
+      "date": "2026-05-12",
+      "title": "'HBM 아버지' 김정호 \"AI의 본질은 메모리, 향후 반도체 수요는 100배 그 이상\" - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LS1ZqV2tiTHFtU3M1YmwzdGFpSDBjcFdkU0JtWU1EYzdyUUFZd2RmUDJHcDdVZDFCYTdkaDNueGlnYkQwVHVEWllQU2RNRDQ?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 10
+    },
+    {
+      "id": "kr_626f00e7e44c",
+      "date": "2026-05-12",
+      "title": "“단순 파업으로 반도체 공장 안 멈춰”... 삼성전자 노조의 딜레마 - 조선비즈 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYjZHMnYxMzV5OGowZjIzMG53MEY5emNCM1pmMUJvVDVuX25fXzRlQmlIZHlLNTJNQmVicnU1VXprdWctNGIwTVVMOThhNW1kbVpKV28tQ1hEd3JWeEZaZUxKcHNMdXBmdjhOZEh4SUgzUGtmbEs4c3RnOHVWVUJKWkJ30gGWAUFVX3lxTE5YZXp1YTIzSGIzdHFGRjB5eWlXSVBaS2kyelNlTF9yemFQbGNvOE1EQTkzWHVOTkpoeHdTbldUOFlMOTNJa2tEa0JLWmJVeHVaV3lXMHBZcll6eXFYSUo3MklvakZqSHhyVTZqaHc2MnZRTlcwb1EyOEJhWnBydTI5enhKbDM3NlQ1Y2xvaFFrWjBIYTR6dw?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "neutral",
+      "score": 3
+    },
+    {
+      "id": "kr_24ba0faac9a8",
+      "date": "2026-05-12",
+      "title": "KDI \"반도체 호황에 경기 회복세… 중동발 위험 여전\" - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0ZMcktLTEkyaFFzdXY1eTF1MFR4LWJ6NTBPRXdPMXhwQlpXX3Y3TkVHNndKM1pDVHMwUTV2N1B6NU5HbFNlU2lYN0UtQ2RKMkFmLVFGUk56TDRmRmtvWjY3dEl2TlNORHFxLUU3Q3dqQ2Z2Y0ExLUQ3d21pNmxkcHMwLV9kS2xzanZaNjF3?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "kr_0a61856cccd9",
+      "date": "2026-05-12",
+      "title": "대우건설, 반도체 호재 품은 ‘용인 푸르지오 원클러스터파크’ 공급 - 에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvR2pqOXVySktKRkpxd3A1T01iZC15MnZMLVFvd0RrUVFxYUdSNDJZQzY4akdncWlyVVMzdVdJQmIyQnFleVdWSEtubVhvSUFQN1FFdXRNWnh1ZjA?oc=5",
+      "source": "google_news",
+      "sector": "부동산/건설",
+      "sentiment": "positive",
+      "score": 7
     },
     {
       "id": "kr_4bb1cf00157f",
@@ -240,9 +219,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYd2d6TjVSbzlqS3YwcDRsNVlQakpuclJHNm42NGxUQ000VnVWTWp4My1RdHVLRG40dkdsNlUzZV83YkxXaHV0azZtQ1NpWms?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "negative",
+      "score": 9
     },
     {
       "id": "kr_00cd26222d20",
@@ -251,20 +229,8 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4weFg0b1Jnd0pULU9qNlJNUXBiNDk4d3dDZXpSS3VuTnNyRnozN1J1Uy1RcUJMb1llMTZxVC1iSE03TVN6b0pnZjNhWEFMNFp0dVE2WFBFSmJfc2VOZml6Szh6Znltc3JvTTQtZVdWbmtpRjg?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_6996a65732fb",
-      "date": "2026-05-12",
-      "title": "반도체 수출 호조·소비 개선에 한국 경제 회복세 - 남도일보",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oYXhZOWZXSkFSa094eFpMRWNxUVIyNDhqaEhmZW81a2ljQ1VGWGN1cE5BSXlIUWxXWUNzYlFjTEVHUVRFbC1UY1JrUzVzdGVaUGcyZ2NMTHlYdDdqTTB4QWQwRXpDWkR0dS1oUdIBcEFVX3lxTE01VlFHV29PNVhOVHFOV3VtWGhpVDFhNHdzalVyTUhFdjNxcGJNS0oycms3V1hpdnlQQjlCR1lBMzU3T1poR25kQnFueFNwSndfVlZvV20yazVlaWlkQlg0dVRVVTFlcEJrcXl4NUNxelA?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "kr_9b1459697259",
@@ -273,9 +239,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HWjRhdnBDT05oeFBKcDFZOGZrak9VNWE3SXBfZUpaRE4yTkZZUzQxS1NlcVNNMzNqLWkwT0dBZWN5RnV6a3ROQ01fcW5fejNWd0lsTXZUdlkxM3p6Um81M1E4STlfTFFHa2JUTk1FSW9rT3ZrM1o4?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_6996a65732fb",
+      "date": "2026-05-12",
+      "title": "반도체 수출 호조·소비 개선에 한국 경제 회복세 - 남도일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oYXhZOWZXSkFSa094eFpMRWNxUVIyNDhqaEhmZW81a2ljQ1VGWGN1cE5BSXlIUWxXWUNzYlFjTEVHUVRFbC1UY1JrUzVzdGVaUGcyZ2NMTHlYdDdqTTB4QWQwRXpDWkR0dS1oUdIBcEFVX3lxTE01VlFHV29PNVhOVHFOV3VtWGhpVDFhNHdzalVyTUhFdjNxcGJNS0oycms3V1hpdnlQQjlCR1lBMzU3T1poR25kQnFueFNwSndfVlZvV20yazVlaWlkQlg0dVRVVTFlcEJrcXl4NUNxelA?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "kr_c7cd00017ef9",
@@ -284,337 +259,8 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GcjRsNjZvVmp3VDBndEZDUU1wQ3pHTzVhSFBGcjlDRUE4dS1YVjF2SnZWd0k1cmdtUUNPYnh5d2VuV1pRRmdGbnl3dHlWbTZqWWY3NUNLLWQzYUFXSWtJVjBzOGJXWktq?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_76bcaa60c48c",
-      "date": "2026-05-12",
-      "title": "삼성전자 성과급 갈등이 쏘아 올린 공 [뉴스룸에서] - 한겨레",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QT2hzVXI4Q0Vrdm1hYS0tWlJpUzZKVDdoc1QxVmNHVTA4SmM4SnJqN203OFd4cEI4eEd1TVItcjdMZnBoUXVucmpHYkFvMVFabjlzWHRIQTVUSDc1OEhCV0RVTWJwdw?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_af5990bd0e54",
-      "date": "2026-05-12",
-      "title": "‘영업익 15% 성과급’ 삼성전자 노조의 무리수…반도체 투자 엔진 꺼지나 - 인포스탁데일리",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHMmFEZnNxelBIcldsa21NUWxZWFpoRkY2SjFPWEM0Zjg3Q3RsSzhRY3BwNUt4OG5pcnNPbWNNVmVhRjY5NDUyUG9YdmI3bzBkNXBZUElWRG9pOV9LYjNrWEk1YlpBN1hEYnBNYlBQUlhfTy16SHc?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_d2724bf0706a",
-      "date": "2026-05-12",
-      "title": "“반도체가 단숨에 끌어올렸다”…韓 1분기 성장률 ‘세계 1위’ - 중앙일보",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBISFB5OUJNbk5JdmhYZVFlYWFlb2E3MEtoZVpRSndRMkkwY2hZYXVreWhMLXVfNG9YVmxILUZ2RjFhcHFxRDdLcVFXa1hOYjU0LVk1M1hB?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_ffa68b82ca05",
-      "date": "2026-05-12",
-      "title": "KDI \"반도체 수출 급증에 경기 회복세…중동 전쟁 하방 위험은 지속\" - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MYzZlVWZiRUY0amdoakdILTI4Nm1kZ2Rpd0tldGNOUy14TDE3aGoxVHBQN1lXWUQ2aGJEWjZHb1VPMHBBeUJ5LV9PRG42SHZwMjRMOA?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_d5034668c9d6",
-      "date": "2026-05-12",
-      "title": "[생생한 주식쇼 생쇼] 시장 변동성 활용, 반도체 수출 호조 속 로봇주 주목 - 매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0za19mdUhoeVdQaGF0Z1Z4ck1CdDM0eFEtUHlXVEFRaV84Um9ldU5VSnlmOGxpVGlpOHduRDRPdkk1QThsdDNvWGd2U0wyUTJPRmc?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_1aa7ca19765c",
-      "date": "2026-05-12",
-      "title": "삼성 저격수·출신도 한목소리...K-반도체 투자 삼키는 노조에 ‘서늘한 경고’ [삼성 노사협정 공전] - 이투데이",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13bTRmR2hUZ01YcWIzZlhmSDhyMXEzT2NpdndDVjN3Y1BON2s3dHZTZGxucThVME1jNHdTYzktYXNDY3lrSk9XMU9ueHpYV1JYemRqTg?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_4af73379e006",
-      "date": "2026-05-12",
-      "title": "반도체 슈퍼사이클로 수출 경기도 증가세 - fetv.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uWG1YR0dQZndnU3pybWJUQS1pdkR0MUNRb3FTZXdxSjV0N0RkTk44UmdEN0QwX2xEOGlKWGRWZUNMNEM2TkZCdWZONmxncGRKNktqbEhiekdpWldrc1pwR19ja2t2Vkwy?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_c86579bd9339",
-      "date": "2026-05-12",
-      "title": "\"D램 공급 부족, 최소 2027년까지 이어질 것\"[KIW 2026] - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VVTV2c0piOXVuRHl0aGMycXRZdWNBenVVa3U3V2o2VkZVTE0xcWZNLTZ6SXBpUlU0YXRVY2pZR2hENl9nX1FfSmFRMTdJd2otQmp5eGt0OHM1d9IBVEFVX3lxTE04UU9QOHpUeGVDUFN4VEFlX3QydHNjOWlFNGplUG8tNklUQmxPX1JZSUVIN2JzYU9sSzJ4aGtqZnN3QXg2RGpQNENwbHY0WkIyblJLUg?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "kr_dfab5824f1f3",
-      "date": "2026-05-12",
-      "title": "KDI “반도체 수출로 경기 회복세…중동 전쟁 위험 지속” - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wemczVUJWMV9fV2JIREVkdHZBdVBfSVpZWUtuN3h0RGsxZUE4RUlkN2laWTFlVjZZYWpBMG1ZUldOQkttb1p3Wkd4TzNhenc?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_760258c8e47c",
-      "date": "2026-05-11",
-      "title": "반도체와 AI를 품은 '투자 제국'의 설계자 - SK스퀘어 - 네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbktteXhsUHMtTXBXc1V4RXFoV05zcVl5SWgtRGUxdTNnUVRmOWt3VEhVUlB2Q2FqRUJGT3pYbzJ0TXRPQVVndktVYVhablBlMDJsNWV6dlJsZkhpZ0MwWENwWmx2dmFiWXRHX3dLczNDXzRFakJXbTJLaW44VEE1V0ZOem9RQQ?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_acc01ddffbb6",
-      "date": "2026-05-12",
-      "title": "KDI \"반도체 수출 증가, 경기회복세..중동전쟁 하방위험 여전\" - 부산일보",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pOWNHei1JS2o4N2tDU2x3SnpXV3VES0YwNHU0dUYxcEZLbzVuUWphSzRSMFdRNURPZnRtWm1mRzlMQklZODB5ZUg2UTZ0ZkVkN0NUeTZwR2dVM3ZBTWhPVmxsZ2ZkN0xEcG4yMUp4cWUxZnhm?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_0331b7981a91",
-      "date": "2026-05-12",
-      "title": "반도체가 떠받친 경기…고유가에 물가·건설은 흔들 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Mb1NibjJ3ZHBoRGtPNGF1aDR5ZVdpcy1zVDhBZDhselRaY05VZkdfXzljMko3MEd1c054VXBjWjl4MHExdTZSamlMckxhR0E?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_179e86f287b4",
-      "date": "2026-05-12",
-      "title": "\"온디바이스 AI 수요로 반도체 슈퍼사이클 계속된다\" - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uS1hfcEtZeEMzbmJHM1JZLVA0TmtDRi03WXhxYzV6YndVWGlLZHZrNUZEd0VfXzZWQWxUYlR4WTlyVVFWWmVtUUU2RU52cXR3RDU2UDBHM2paQdIBVEFVX3lxTE8tZEd2UEphV1VxMDBndDk4UmRMeGtGb1hjYUlDVjJ3UkdXLWRTdzM1UjQ1MHpjVnc4b1NzYi0xVEx0WEJRYl8waHNyanJwSzU5eEg0bg?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_362f208a98ea",
-      "date": "2026-05-12",
-      "title": "\"AI 혁명 초입\" vs \"닷컴버블 말기와 유사\" - 마켓인",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YaWl4VjgyZkY5V1d3c2xZcnJkUFFESHhxeWRQUGloT2Zpb0ZMLUhMeDhpUkFsS3AyUXVHeTV5OWRBaERIMG1aZENNZ0pQajhGUHI2NkY4Z2xiWWxZN1BDLXZ3YlJjX29QM2VVcG85Nk1VQVU?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "kr_f1a46e83ce6c",
-      "date": "2026-05-12",
-      "title": "틈새 노린 中 파운드리…삼성전자 2위 자리 넘본다 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RN0VjdXdLX1VaSjVRZWwycHhkYWFyT1d3Z25DOGxDc3FuRXlLN3ZhUzRPakVVN0ltbHpvWElNTk5nUlpUY01lVjNXeV9hODQ?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_05cfc6c4ea1c",
-      "date": "2026-05-12",
-      "title": "반도체 수출 호황 등 경기 회복세…중동전쟁發 고유가·물가 변수 - 뉴스피릿",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtaDdwUHAwLXQyb2hPcnNDYTRtem9NUjAwc21OM242dzdYTFAtYzlSR1ZlZWRaVjV0Y1MwMW5fbURFaElLVWstU3NYOE55YmNJM2xNVzhCT1Q1V2NnMlJBNlA5bjJWVEwwOVpN?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_d4acbbb9c422",
-      "date": "2026-05-11",
-      "title": "삼성·SK하이닉스 사상 최대 실적인데…공급망은 '지뢰밭'(3) - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDJpTWlSQ2JfQ2ozMWlHQ1g3dWlISlFSMTNyR2U0SExmSzdEdGFOVWxleFRKNS13UjM2d1RHS29qd1B5YlphMVZGT25RRS0zdW1aMGFJTmxkUVNfMDFUUlpfb0dtcnRBRXo5NlZIaTE5dkhkdndOc3NWT2otcl94SXhDemwwZ0Fo?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_e2ba5276fc92",
-      "date": "2026-05-12",
-      "title": "AI 메모리 반도체株 과열 경고…“마이크론 사고 샌디스크는 매도” - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPenhMUDZwdUtVSlYyOU1Ra2JqM3I0bFBva3Y4Mmd0VFAwU0xXMXR5MUZ5TGNmc2pHeWVtZVRBODg0R2lQRTZhcTVqeVphWlo2UTBIMTFHVjMwWFJTQ2lzMmg1c1Roc20wMFM0S2NXRF9PT0x5TllHeTVZNUFneUpWY0tNaHc1WnF6?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_8bcad2b5fe66",
-      "date": "2026-05-12",
-      "title": "KDI \"반도체 수출에 경기 회복세에도...중동사태로 하방 위험 여전\" - 이투데이",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXX3d0VXJ6dEpJaFQ1SFFGNWExM3VTR0ZwZjVaUXBWeVNJVTg0bmJJc2JBUWpzWTl0elNQQTlZcnNUMVVQazNMSTJQYmR5QTVLRnBCUg?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_bae856f04d87",
-      "date": "2026-05-11",
-      "title": "삼성전자 2분기 영업익 100조 전망까지…증권가 눈높이 더 높아졌다 - 연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1peVJpWnlyS3IxV09kMUdhbWRFUWF2alB6bnZGeFNUVHlSWXJKN2JSMUk2WGVxSVo5TzJ6dEVvX25hX3R5R0oxdnZBdzhCRGd6YmFXeWxBZkE4R2QyWFVXRnJha3FoY2t5Q3F5RmNQUlQ?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_7f36924b3570",
-      "date": "2026-05-11",
-      "title": "‘반도체 초호황’ 언제까지?…국내외 업계 “수요 더 늘 것” - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqNE9mUkhvVHh5c1RteEtSbVM4ZkxVR2dSQTF4R0UwclZjUHNPRl9JS0tjVGVFX1cwTERnM2FRZzMyb29HRldlbTItWTRmSVE?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_60c24f7427f9",
-      "date": "2026-05-12",
-      "title": "성장률 2% 상회 공식화 — 반도체 수출 85억 달러, 코스피 7800 돌파한 날 - 코리아비즈니스리뷰",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03WHdqalRXNlcwamVuMmlUZHFySGk5aU8tVlZlamZBRGtRRExTZ1BVa1NQZ25nWUE1Y2VUTmVmZndBOW5jcmZ4ckJSZGxNaUtWbnQtOXoxMjBGV3Z4ZlZUMUJJSkgyeld2VllfU2FXeEZxMU5k?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_411a86709efc",
-      "date": "2026-05-12",
-      "title": "네오티스, AI 반도체 수요 확대에 신공장 추진…180억원 투자 유치 - 데일리한국",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81dGxheUZMU2EtcnItdE5fQmR1LTJsb0F0X0FMWGlHU01XaU1ES0kycU1fSmN0ZmlwZ0lReEtoMU1EdFlBemNOSm9SSUVDYlc5M1VQeWE0azdHeHFMYW1XNkFiTm5peFJsei1IbjltUdIBc0FVX3lxTE84akF1cS1XN0R1UjVfWmRzRzk2UGJ2ZkQ3OWpFUEc1bFZsN095b3RKLXdpWW0xWWYzV2FHSGFzSk1feTBuX25vVVNKVTNOSXF3VFhuZ1loU0ZvR0dBTTlJb2ZzV01QbGdoUWM5TWllY2EtcUk?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_bd35ad606c0f",
-      "date": "2026-05-12",
-      "title": "글로벌 헤지펀드 자금 한국에 몰려, 삼성전자 SK하이닉스 등 기술주 상승 \"아직 초기 단계\" - 비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xUk11cWVFWjl4STB6TGxFVWJWR3VnYkM2RmZMcGlXYUNpUlJvMnI5ZldRQjREQ2x3LTJMQWFaRkFSQzFDcmRpbUt0NWxicWRzUFZqdnNpUTJaNHg0SXhZRXp4NzR6dmRuT2ZzTDY0bG9OZEE?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_f6f407427da0",
-      "date": "2026-05-12",
-      "title": "[AI픽] 버터 안 녹는 AI칩까지…정부, 국산 온디바이스 반도체 점검 - 연합뉴스 한민족센터",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUVEpFaGRSb2NnXzkxTGE4bU44cGpfZ0dMWE1oekpGTDhnOVpkQkZENkI0SWUtNHp2VXE3RW5ITC1LeTUzY3FpcF9Cc1gzVXZ1T1dHVm93R1BieVY3OHVhUXM0a1ZBNlB6ekg5aTUtS2RMY3E0?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_ff20b6abdf85",
-      "date": "2026-05-12",
-      "title": "[비티의 투자 일기] 반도체 성과급의 착시, 갭투자 설계자들의 완벽한 엑시트 무대 - 네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0tybnljWU1UakZVNGtBbGgxeEV1V2tDeUNVMk9NWXBNQmwtbkt4MkluN19DZmREOFpNUTBySnY4N2tVWGRURTB4YUZabGZFMTlmaDJkOWZQUGRkb2ZDTVB5UzFjOW5ucDMzdTAyMmN4ZnJDWmVudXF4TlZBX04zZg?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_b03dbd0aa133",
-      "date": "2026-05-12",
-      "title": "K-뷰티·반도체·AI까지…2030년까지 수출 1000만달러 기업 500개 키운다 - 산경e뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4aF9CSkZOUzNGN214cU9HXzB4LWVoMnZoYm5NMjFBTjMtNTF6T2pzYnh2MXJnVEJpaVR0QXpfbUxuLTNYSlZhYTdBZllUYzI2YWhycWdTLXhOM19iajZLUWlpRy0wVGM?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_8ab3e96c0939",
-      "date": "2026-05-11",
-      "title": "“미친 실적, 주가가 못따라가네”…SK하이닉스 목표주가 280만원으로 또 상향 - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ld0x5bE94YldsRXFHS3hYSldIVmJUNjhFMFROUWNpODE4RGNLaGE3RFM2TTVHb2RpTzQ2SkVsWFRtV2VNUGZGdzl2WWpXX2pLR3c?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_f69be112b1c7",
-      "date": "2026-05-11",
-      "title": "삼성 반도체 신사업, 투자시계 다시 돈다 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JWFl5b1lrMWVOaTg2TC1QNktlMkxnY0k4WlR4RDgxUGpXNkdiZTdWUDVyV3Z6NmFOY2xtMkNBR3B1d3JubVp6WWNXTU5tUQ?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_ed500509d592",
-      "date": "2026-05-11",
-      "title": "[기자수첩] '반도체 2강' 외치지만 한국 팹리스는 여전히 2% - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jS2steEdLM2ZXYlVzbU5vbGYxWFNEQnZMc2hVN3FpUjA2dWFjLWJPc2Q0cUp4aW84bnVNb1o3VFJRX1lTN2pFVUd0UW02a1E?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 7
     },
     {
       "id": "kr_ed556d2bb999",
@@ -623,9 +269,308 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WcHBWQlFfVmpqWmh0Wk1oekM1UHVhN1AzZnUxQXV3d1c1MjlGS1lUZ010eTNsb0F4bUhfVWMzSVBtSWF1cXMwVHljRmVuSl9FcUQtTlVUOGloS0UzS0l3QS0tMUJsYlJuTkoyX0JFQQ?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_76bcaa60c48c",
+      "date": "2026-05-12",
+      "title": "삼성전자 성과급 갈등이 쏘아 올린 공 [뉴스룸에서] - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QT2hzVXI4Q0Vrdm1hYS0tWlJpUzZKVDdoc1QxVmNHVTA4SmM4SnJqN203OFd4cEI4eEd1TVItcjdMZnBoUXVucmpHYkFvMVFabjlzWHRIQTVUSDc1OEhCV0RVTWJwdw?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "neutral",
+      "score": 3
+    },
+    {
+      "id": "kr_af5990bd0e54",
+      "date": "2026-05-12",
+      "title": "‘영업익 15% 성과급’ 삼성전자 노조의 무리수…반도체 투자 엔진 꺼지나 - 인포스탁데일리",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHMmFEZnNxelBIcldsa21NUWxZWFpoRkY2SjFPWEM0Zjg3Q3RsSzhRY3BwNUt4OG5pcnNPbWNNVmVhRjY5NDUyUG9YdmI3bzBkNXBZUElWRG9pOV9LYjNrWEk1YlpBN1hEYnBNYlBQUlhfTy16SHc?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "negative",
+      "score": 7
+    },
+    {
+      "id": "kr_d2724bf0706a",
+      "date": "2026-05-12",
+      "title": "“반도체가 단숨에 끌어올렸다”…韓 1분기 성장률 ‘세계 1위’ - 중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBISFB5OUJNbk5JdmhYZVFlYWFlb2E3MEtoZVpRSndRMkkwY2hZYXVreWhMLXVfNG9YVmxILUZ2RjFhcHFxRDdLcVFXa1hOYjU0LVk1M1hB?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_ffa68b82ca05",
+      "date": "2026-05-12",
+      "title": "KDI \"반도체 수출 급증에 경기 회복세…중동 전쟁 하방 위험은 지속\" - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MYzZlVWZiRUY0amdoakdILTI4Nm1kZ2Rpd0tldGNOUy14TDE3aGoxVHBQN1lXWUQ2aGJEWjZHb1VPMHBBeUJ5LV9PRG42SHZwMjRMOA?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 6
+    },
+    {
+      "id": "kr_d5034668c9d6",
+      "date": "2026-05-12",
+      "title": "[생생한 주식쇼 생쇼] 시장 변동성 활용, 반도체 수출 호조 속 로봇주 주목 - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0za19mdUhoeVdQaGF0Z1Z4ck1CdDM0eFEtUHlXVEFRaV84Um9ldU5VSnlmOGxpVGlpOHduRDRPdkk1QThsdDNvWGd2U0wyUTJPRmc?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 7
+    },
+    {
+      "id": "kr_4af73379e006",
+      "date": "2026-05-12",
+      "title": "반도체 슈퍼사이클로 수출 경기도 증가세 - fetv.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uWG1YR0dQZndnU3pybWJUQS1pdkR0MUNRb3FTZXdxSjV0N0RkTk44UmdEN0QwX2xEOGlKWGRWZUNMNEM2TkZCdWZONmxncGRKNktqbEhiekdpWldrc1pwR19ja2t2Vkwy?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "kr_1aa7ca19765c",
+      "date": "2026-05-12",
+      "title": "삼성 저격수·출신도 한목소리...K-반도체 투자 삼키는 노조에 ‘서늘한 경고’ [삼성 노사협정 공전] - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13bTRmR2hUZ01YcWIzZlhmSDhyMXEzT2NpdndDVjN3Y1BON2s3dHZTZGxucThVME1jNHdTYzktYXNDY3lrSk9XMU9ueHpYV1JYemRqTg?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "negative",
+      "score": 8
+    },
+    {
+      "id": "kr_dfab5824f1f3",
+      "date": "2026-05-12",
+      "title": "KDI “반도체 수출로 경기 회복세…중동 전쟁 위험 지속” - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wemczVUJWMV9fV2JIREVkdHZBdVBfSVpZWUtuN3h0RGsxZUE4RUlkN2laWTFlVjZZYWpBMG1ZUldOQkttb1p3Wkd4TzNhenc?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 6
+    },
+    {
+      "id": "kr_760258c8e47c",
+      "date": "2026-05-11",
+      "title": "반도체와 AI를 품은 '투자 제국'의 설계자 - SK스퀘어 - 네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbktteXhsUHMtTXBXc1V4RXFoV05zcVl5SWgtRGUxdTNnUVRmOWt3VEhVUlB2Q2FqRUJGT3pYbzJ0TXRPQVVndktVYVhablBlMDJsNWV6dlJsZkhpZ0MwWENwWmx2dmFiWXRHX3dLczNDXzRFakJXbTJLaW44VEE1V0ZOem9RQQ?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 7
+    },
+    {
+      "id": "kr_c86579bd9339",
+      "date": "2026-05-12",
+      "title": "\"D램 공급 부족, 최소 2027년까지 이어질 것\"[KIW 2026] - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VVTV2c0piOXVuRHl0aGMycXRZdWNBenVVa3U3V2o2VkZVTE0xcWZNLTZ6SXBpUlU0YXRVY2pZR2hENl9nX1FfSmFRMTdJd2otQmp5eGt0OHM1d9IBVEFVX3lxTE04UU9QOHpUeGVDUFN4VEFlX3QydHNjOWlFNGplUG8tNklUQmxPX1JZSUVIN2JzYU9sSzJ4aGtqZnN3QXg2RGpQNENwbHY0WkIyblJLUg?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_acc01ddffbb6",
+      "date": "2026-05-12",
+      "title": "KDI \"반도체 수출 증가, 경기회복세..중동전쟁 하방위험 여전\" - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pOWNHei1JS2o4N2tDU2x3SnpXV3VES0YwNHU0dUYxcEZLbzVuUWphSzRSMFdRNURPZnRtWm1mRzlMQklZODB5ZUg2UTZ0ZkVkN0NUeTZwR2dVM3ZBTWhPVmxsZ2ZkN0xEcG4yMUp4cWUxZnhm?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 6
+    },
+    {
+      "id": "kr_0331b7981a91",
+      "date": "2026-05-12",
+      "title": "반도체가 떠받친 경기…고유가에 물가·건설은 흔들 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Mb1NibjJ3ZHBoRGtPNGF1aDR5ZVdpcy1zVDhBZDhselRaY05VZkdfXzljMko3MEd1c054VXBjWjl4MHExdTZSamlMckxhR0E?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 7
+    },
+    {
+      "id": "kr_179e86f287b4",
+      "date": "2026-05-12",
+      "title": "\"온디바이스 AI 수요로 반도체 슈퍼사이클 계속된다\" - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uS1hfcEtZeEMzbmJHM1JZLVA0TmtDRi03WXhxYzV6YndVWGlLZHZrNUZEd0VfXzZWQWxUYlR4WTlyVVFWWmVtUUU2RU52cXR3RDU2UDBHM2paQdIBVEFVX3lxTE8tZEd2UEphV1VxMDBndDk4UmRMeGtGb1hjYUlDVjJ3UkdXLWRTdzM1UjQ1MHpjVnc4b1NzYi0xVEx0WEJRYl8waHNyanJwSzU5eEg0bg?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_362f208a98ea",
+      "date": "2026-05-12",
+      "title": "\"AI 혁명 초입\" vs \"닷컴버블 말기와 유사\" - 마켓인",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YaWl4VjgyZkY5V1d3c2xZcnJkUFFESHhxeWRQUGloT2Zpb0ZMLUhMeDhpUkFsS3AyUXVHeTV5OWRBaERIMG1aZENNZ0pQajhGUHI2NkY4Z2xiWWxZN1BDLXZ3YlJjX29QM2VVcG85Nk1VQVU?oc=5",
+      "source": "google_news",
+      "sector": "IT/소프트웨어",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "kr_f1a46e83ce6c",
+      "date": "2026-05-12",
+      "title": "틈새 노린 中 파운드리…삼성전자 2위 자리 넘본다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RN0VjdXdLX1VaSjVRZWwycHhkYWFyT1d3Z25DOGxDc3FuRXlLN3ZhUzRPakVVN0ltbHpvWElNTk5nUlpUY01lVjNXeV9hODQ?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "negative",
+      "score": 7
+    },
+    {
+      "id": "kr_05cfc6c4ea1c",
+      "date": "2026-05-12",
+      "title": "반도체 수출 호황 등 경기 회복세…중동전쟁發 고유가·물가 변수 - 뉴스피릿",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtaDdwUHAwLXQyb2hPcnNDYTRtem9NUjAwc21OM242dzdYTFAtYzlSR1ZlZWRaVjV0Y1MwMW5fbURFaElLVWstU3NYOE55YmNJM2xNVzhCT1Q1V2NnMlJBNlA5bjJWVEwwOVpN?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 6
+    },
+    {
+      "id": "kr_d4acbbb9c422",
+      "date": "2026-05-11",
+      "title": "삼성·SK하이닉스 사상 최대 실적인데…공급망은 '지뢰밭'(3) - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDJpTWlSQ2JfQ2ozMWlHQ1g3dWlISlFSMTNyR2U0SExmSzdEdGFOVWxleFRKNS13UjM2d1RHS29qd1B5YlphMVZGT25RRS0zdW1aMGFJTmxkUVNfMDFUUlpfb0dtcnRBRXo5NlZIaTE5dkhkdndOc3NWT2otcl94SXhDemwwZ0Fo?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "kr_8bcad2b5fe66",
+      "date": "2026-05-12",
+      "title": "KDI \"반도체 수출에 경기 회복세에도...중동사태로 하방 위험 여전\" - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXX3d0VXJ6dEpJaFQ1SFFGNWExM3VTR0ZwZjVaUXBWeVNJVTg0bmJJc2JBUWpzWTl0elNQQTlZcnNUMVVQazNMSTJQYmR5QTVLRnBCUg?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 6
+    },
+    {
+      "id": "kr_bae856f04d87",
+      "date": "2026-05-11",
+      "title": "삼성전자 2분기 영업익 100조 전망까지…증권가 눈높이 더 높아졌다 - 연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1peVJpWnlyS3IxV09kMUdhbWRFUWF2alB6bnZGeFNUVHlSWXJKN2JSMUk2WGVxSVo5TzJ6dEVvX25hX3R5R0oxdnZBdzhCRGd6YmFXeWxBZkE4R2QyWFVXRnJha3FoY2t5Q3F5RmNQUlQ?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_7f36924b3570",
+      "date": "2026-05-11",
+      "title": "‘반도체 초호황’ 언제까지?…국내외 업계 “수요 더 늘 것” - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqNE9mUkhvVHh5c1RteEtSbVM4ZkxVR2dSQTF4R0UwclZjUHNPRl9JS0tjVGVFX1cwTERnM2FRZzMyb29HRldlbTItWTRmSVE?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_60c24f7427f9",
+      "date": "2026-05-12",
+      "title": "성장률 2% 상회 공식화 — 반도체 수출 85억 달러, 코스피 7800 돌파한 날 - 코리아비즈니스리뷰",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03WHdqalRXNlcwamVuMmlUZHFySGk5aU8tVlZlamZBRGtRRExTZ1BVa1NQZ25nWUE1Y2VUTmVmZndBOW5jcmZ4ckJSZGxNaUtWbnQtOXoxMjBGV3Z4ZlZUMUJJSkgyeld2VllfU2FXeEZxMU5k?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "kr_bd35ad606c0f",
+      "date": "2026-05-12",
+      "title": "글로벌 헤지펀드 자금 한국에 몰려, 삼성전자 SK하이닉스 포함 기술주 상승 \"초기 단계\" 분석도 - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xUk11cWVFWjl4STB6TGxFVWJWR3VnYkM2RmZMcGlXYUNpUlJvMnI5ZldRQjREQ2x3LTJMQWFaRkFSQzFDcmRpbUt0NWxicWRzUFZqdnNpUTJaNHg0SXhZRXp4NzR6dmRuT2ZzTDY0bG9OZEE?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "kr_00b437731227",
+      "date": "2026-05-12",
+      "title": "[고유권 칼럼] 초과세수와 불황대비기금 - KB Think",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IWG40WUZIWVZFR3l1dVltdktwM09GWVYweG0ydnludkdYc3JDSzdodlBBaWRibmQtUWtIeHpZMGdCYkl0bk5aa1p2YVNqTXJ3elBSeHZxNXVXTW9LeHNUbnQ2ZE9jQlBTQXZablk2OHZsQQ?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "neutral",
+      "score": 5
+    },
+    {
+      "id": "kr_411a86709efc",
+      "date": "2026-05-12",
+      "title": "네오티스, AI 반도체 수요 확대에 신공장 추진…180억원 투자 유치 - 데일리한국",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81dGxheUZMU2EtcnItdE5fQmR1LTJsb0F0X0FMWGlHU01XaU1ES0kycU1fSmN0ZmlwZ0lReEtoMU1EdFlBemNOSm9SSUVDYlc5M1VQeWE0azdHeHFMYW1XNkFiTm5peFJsei1IbjltUdIBc0FVX3lxTE84akF1cS1XN0R1UjVfWmRzRzk2UGJ2ZkQ3OWpFUEc1bFZsN095b3RKLXdpWW0xWWYzV2FHSGFzSk1feTBuX25vVVNKVTNOSXF3VFhuZ1loU0ZvR0dBTTlJb2ZzV01QbGdoUWM5TWllY2EtcUk?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_f6f407427da0",
+      "date": "2026-05-12",
+      "title": "[AI픽] 버터 안 녹는 AI칩까지…정부, 국산 온디바이스 반도체 점검 - 연합뉴스 한민족센터",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUVEpFaGRSb2NnXzkxTGE4bU44cGpfZ0dMWE1oekpGTDhnOVpkQkZENkI0SWUtNHp2VXE3RW5ITC1LeTUzY3FpcF9Cc1gzVXZ1T1dHVm93R1BieVY3OHVhUXM0a1ZBNlB6ekg5aTUtS2RMY3E0?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 7
+    },
+    {
+      "id": "kr_ff20b6abdf85",
+      "date": "2026-05-12",
+      "title": "[비티의 투자 일기] 반도체 성과급의 착시, 갭투자 설계자들의 완벽한 엑시트 무대 - 네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0tybnljWU1UakZVNGtBbGgxeEV1V2tDeUNVMk9NWXBNQmwtbkt4MkluN19DZmREOFpNUTBySnY4N2tVWGRURTB4YUZabGZFMTlmaDJkOWZQUGRkb2ZDTVB5UzFjOW5ucDMzdTAyMmN4ZnJDWmVudXF4TlZBX04zZg?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "negative",
+      "score": 8
+    },
+    {
+      "id": "kr_f69be112b1c7",
+      "date": "2026-05-11",
+      "title": "삼성 반도체 신사업, 투자시계 다시 돈다 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JWFl5b1lrMWVOaTg2TC1QNktlMkxnY0k4WlR4RDgxUGpXNkdiZTdWUDVyV3Z6NmFOY2xtMkNBR3B1d3JubVp6WWNXTU5tUQ?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "kr_b03dbd0aa133",
+      "date": "2026-05-12",
+      "title": "K-뷰티·반도체·AI까지…2030년까지 수출 1000만달러 기업 500개 키운다 - 산경e뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4aF9CSkZOUzNGN214cU9HXzB4LWVoMnZoYm5NMjFBTjMtNTF6T2pzYnh2MXJnVEJpaVR0QXpfbUxuLTNYSlZhYTdBZllUYzI2YWhycWdTLXhOM19iajZLUWlpRy0wVGM?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 8
+    },
+    {
+      "id": "kr_8ab3e96c0939",
+      "date": "2026-05-11",
+      "title": "“미친 실적, 주가가 못따라가네”…SK하이닉스 목표주가 280만원으로 또 상향 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ld0x5bE94YldsRXFHS3hYSldIVmJUNjhFMFROUWNpODE4RGNLaGE3RFM2TTVHb2RpTzQ2SkVsWFRtV2VNUGZGdzl2WWpXX2pLR3c?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 10
+    },
+    {
+      "id": "kr_ed500509d592",
+      "date": "2026-05-11",
+      "title": "[기자수첩] '반도체 2강' 외치지만 한국 팹리스는 여전히 2% - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jS2steEdLM2ZXYlVzbU5vbGYxWFNEQnZMc2hVN3FpUjA2dWFjLWJPc2Q0cUp4aW84bnVNb1o3VFJRX1lTN2pFVUd0UW02a1E?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "negative",
+      "score": 7
     },
     {
       "id": "kr_0c02d2e6f39e",
@@ -634,9 +579,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QVXBZdGxCLUpOM05aNFZ5UzVYZXpiS0t6cHpMSDJseWxUYTZHR08xbVBseGZIcTBnM0pQaE9NQnpGcWw4T0kwWTYxcWcydkk?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 7
     },
     {
       "id": "kr_b5bef62b1141",
@@ -645,9 +589,8 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaVJXMFg1VzF3cml6Zl9sUlpTMjJwLUxYQlpCYWNBeTlNaGdBV3dvQndLbXl3MWZxbWJVUVF0MXozVjN5WmNBUWJ2NUlIUzhCNHhSeXJJWTV2UkI2WmQ2TGVYNG1Mb2FtZVNTYUZhMnlMOXlGRXZwWk9temdtMjZaZA?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "kr_5fde029b8edd",
@@ -656,9 +599,8 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJV3lQSzJJZUp4RTFZbXZBd3YyLU1Dc2pHaXE5dUxMY1o2RXprOWFfOVo4RG13NVZyMmxhbWpMTUFSc1VYZDFJck5HV3lzVExkNlluZ0NB?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "kr_9f85dfd9f357",
@@ -667,9 +609,8 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LTkhSS1BaOXc1R1ZyV0pGdmh5S1kyZlRwUU4yZGRIRVZhR21uVl9aMGw0YklIMnRxY3JpeTRqc1dhZXE5NFhfcHppMDU1enZlUEdHTnkybTU1eUpPVEF6NEtTUXZnTVpXbkFEbXJYaThIQkE?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "kr_b5d7cb07f761",
@@ -678,9 +619,8 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBycEtKRkpXU0NhWjZSZ1BOZDJyZFNfOG5zcm9qdzlWcm0xaTUyZElxZUZaNG8tNS1NbHY1ZTRaZUZGVVJfWkJKS2dMRTFDa2QtOUtiWVJfUlVoODRnc0pwclpWSmpPM2tCZnM5NmFWenJDSHV1bElOR2dULWNnUQ?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "kr_c04373aee47a",
@@ -689,9 +629,8 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LZjdubmk5OXVFVmdLWERzYlY5dmlOajFGMlQtS1oyWVQ1SUJ2TXU0ZC0weGJKY3lUaTlrLUpSUi1SU1k4V19CSWdqZHpBOVFCSkIzYlM3d1VKa2M?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 7
     },
     {
       "id": "kr_077586d712ce",
@@ -700,9 +639,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qTlR5ZWN0cGZQZk9MQjFKWnpyNXBGc3hYcmxhME9POHN5bDJ3a1Fta2N6WGo0UUg4b0U0NEhlTmNWMU9SVDFiSFJieFdBUUE?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "kr_5b300c3b0357",
@@ -711,9 +649,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CSXdoOFBiUFJXUl9OYjh3amFSNzdRLVRKMHlXemFYTF8yN3F6dXJpYXhaYUNuZVZMVXdkbTQ4LUhwRkN0c1VDbmV5cFlfVzQ?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "kr_bdb7056cb57e",
@@ -721,10 +658,9 @@
       "title": "\"노동시장 이중구조 고착화할 수\" 삼성전자 노조 '영업익 15%' 주장에 우려↑ - newsis.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNT1NtMF9UWHljZUxrQ2diSm5CUWxjd0hRekRfN2xPRHhWRi1GNDhia1dhOXA0bU5vZEk5OEgwbzVDc1ZaNV9TbERDOGx2LVRhNjlGRkNtX2l1bHV4a0ZtR9IBeEFVX3lxTE5QZm03M1FISXNmQ2FKeFBWSHNPZ2U1bWtXM2lSRmNiZ091MlAxX0YwcmxQNVNkeHNsNFNEdGw1UHgybzA2WGQ0WENjNldfYWZyLXRyZXREVDBFaW1kd21KSnpwd2dKYy1YMmpSdlozVEpKRV92dEdSMg?oc=5",
       "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sector": "IT/소프트웨어",
+      "sentiment": "negative",
+      "score": 6
     },
     {
       "id": "kr_b5b17fb6abbc",
@@ -733,9 +669,18 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HM0hERzRDM2U5N1pkUkxSY09uSE5jMHhEQ1lsZ0RJQm5SV0R0NFZHb2NKZE9NTUk1TjRNMFRhekotNXJtaUlDUEd5R1cxM2s4dlYzXzcyWXhOWWcxSFkxeXdMcmR0LUE3YVluNVh5cw?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_1d3ac777086e",
+      "date": "2026-05-11",
+      "title": "삼성전자 1주도 없다…강방천의 투자 기업 고르는 비법 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBdl9vR2ZnS2lXLWJhbzFYbzQ4aXMyaDFGT1VVY21Wb1BGNVlHd3hFdHhqOVVzb3hYYmlQMUN2YnJPNktaTHpkTDU2TWhUX0RzdWc?oc=5",
+      "source": "google_news",
+      "sector": "IT/소프트웨어",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "kr_af7922f30d9d",
@@ -744,9 +689,8 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kSVphY0VGOU91SEwyelc1S0h6dzBvVnVRbnpXT3JSYUpJRTI4UWhPOGZCSkpteTA4VHB4VnNSMGUwNmEtcXJnU21RNWhheTdhdlNNNmp2N0tnVDjSAWBBVV95cUxNSm81UnFtMER5Z05CM0xqMVRMejBmUVpnS0p6OHc1T2Vmb3lvWEEzWXRhendGbXNGdHUzMzh3RmFsVGhxWnRwOGlweVRtaHN4T0xpQkJqM044eGxyZDZiZ2o?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "kr_7eeacd634fc1",
@@ -755,9 +699,8 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HWmxaU19IY0NWbGRiOUF1SDRndkhSMEdlSlZtcFRhRjJrOE1DaFFwVWRxMDhPTkpnVUFXTTV2TUJubzBlSHJnbllNSVIxUWxPWTZoYXJtaUdtQzVjd2p4cHpR?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "negative",
+      "score": 7
     },
     {
       "id": "kr_49c056886b0c",
@@ -766,9 +709,8 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lUG5HMkhia2pCWUVDMzBIQjNMcVJfcFZZamIxcFRySGl6RU5BRDVCQjJtakpPb0JxR3FTeFBjMVVMWmVoU2dmdFVJYWtmZ1VNZUJhS1gxSEQwNU1TcE1KQU93dktjZk5OYkxPcmNGRWVWQdIBdkFVX3lxTE5xRUZPREtGZzZJeTVqMGJRQzZuSXdTeVpyc1RTRlc2QV9KREd0WUt4dEhIMlhzQWhiUW5ybUJTODNjNHVlN1ZEWFpiejh0cmhDYTBreWpjOEtlWGk0aF9DY3hHTHROWlBubzNzQXk2R3VSLXVEY0E?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 6
     },
     {
       "id": "kr_95387d093e24",
@@ -777,9 +719,8 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVcUtLNzV2eTRtQUxvQ05uaWZkY1daaVNSTHA1ZThrTjZLZm1jRXU5eXVWUm1ValRJX0RUUWplRHMxRFBWWlN4NVVydzZzLVc4MkxYM2JrUG5vamZSUEhyVXlSMXRwSTlMWURncGFZTjRiRklhd2c?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "kr_c8702f3229d9",
@@ -788,9 +729,8 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XSVpWaU90NTBmOG12bFJ5QVZGUXpXYnYzQkhXT0stU3dwQzVpMUgzdkJUNkpnNmRTM0hZellFSEhmVnFNei1hcUNkTllFVl84bjZUNDF5QU1SY3NUOF9IS2ZmT0Q1eHM?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "kr_e4ab90da4fff",
@@ -799,9 +739,8 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MLVNWZHhhRU15TWdWRXhVWURtS3lYdnhvVW1ILWNSdEYzYnFuLWhTMGVGSmRwYTJKS0NsZEpqdGVHUU1vaXRuNjlPVHZsNWdCaDU0TVRJdkl1ZDMwU2t1N9IBeEFVX3lxTE53Y1Q0SEgyaUJLaURBckV2LTI0QUUzYlpzLWFzQUZaZUt3NHFOZzJQdE5hUEVGSWNvZnZtSE5qYnpMU2tWRkh3LWh0Q2dCQ0NpQkViNUtTcGRUWTJ4RURHM0pPTjVWSU9lb2Z0bDZwOTlsdkdMRURXXw?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 6
     },
     {
       "id": "kr_016621748198",
@@ -810,9 +749,8 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tWE02MHkzSmQ2cGdiSXZUdTBJczBacndFT0NlejcybGhXSU95cGV3ZlpOMWRhUy04SUxfYzlRY2ZrYUlyZmtuc0pmQ1JDSGYtQWxFbk9DTGdIWVo4QVRrdmZzLWtobXBfZEtUbml0Y9IBc0FVX3lxTE9YVU93WVhGZ0RNVHhJRzN6U1RGUnl6VmpLTVFSUTZhZ1lNZnZJQ0QtWXY3YjBWTWJPb2RuNDEwX1FsSlZmNUgyampQSmVvWk5aeWxrNFVHLXUxNTh2eUJ6TGFhOG1LbUtsX1JWQ1FUOERwZEU?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 10
     },
     {
       "id": "kr_f38e40c98604",
@@ -821,9 +759,8 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DclN2UDMxdG96LVBYYS1KTVFVbzhpc0VlTHpVQ3lVcmRiU2hWUkpQWWNTb21CSFEzVU0tU0F1akhCbEFHbnlsZXJHc1dvVFFjQVVaLWFhbTNsYXA0S1c4WjFpNmdVMkRh?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 10
     },
     {
       "id": "kr_40fb45700d7a",
@@ -832,9 +769,8 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wRl8zNzdMQ0lkQVdIS0ktRmFnVnhWUktxQ3YyM3FkTHVMNW1xRWhFWkxKRGRNOXpabDFaZVdOZ0QzZTcwbWFZaG9FZkhyMUlqNXdr?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "kr_2af4a398fbe9",
@@ -843,9 +779,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwOWViOF90N0xQSUVxa25aSzVFdy1peXhGTGhraG0xSXNaVHRLVWpxUkJVWFViMzRCU0tQVGhhSWFYemxSMC1lMk9vS2xWejA?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "kr_0264ce5e3ae8",
@@ -854,20 +789,8 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTM2NYU0lFOWtBSWlIeTFXV2xnSFVtVXpmbjNZUnp6cmg5T3J5Q3E3V1BOLVVyRzVla3hTTzMxQ1hCMXFvTnNOd2FzQ0FTc25SenVj?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_d8c09eba814d",
-      "date": "2026-05-12",
-      "title": "반도체 수출 호조 덕분에…KDI, 한 달 만에 \"경기 회복세\" 진단 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfUlRKSzJpbjBnaWZjblZ1NjI2ZWdaZTV5aU1ZNzV6bHpjNXF5YUZNUjlzNktMeWVtVVF5Q04yNHc2NWhZS1ZkVkVIek15LS1tZHhB?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "kr_c04737a38562",
@@ -876,31 +799,18 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DQVZCMVRLQ1lVbW93SU9ndGx4cG5PQXVyb25lc3hHRzRwUFB0M0JhYmR4Z3ZvMGV6SEVJN1pLLXh6ZTZ1blNRd2I3WGlNWUpkRFE?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 8
     },
     {
-      "id": "kr_84a66ff6c065",
+      "id": "kr_d8c09eba814d",
       "date": "2026-05-12",
-      "title": "KDI \"경기 회복세 진입\"…반도체 호황에도 중동 리스크 경고 - 매일경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPbEpQQTFLTUNnMk5hRzB5WjlLdG5ncGZuR003eVgxcDNOcUc2TnVoMk9BTnBSdTVYTS1OSGxiWnRHdHEzS0dWR0NCT1duWE9MWUNsUnVmLUJINzk5TnJlcTF6NmhoeGFO?oc=5",
+      "title": "반도체 수출 호조 덕분에…KDI, 한 달 만에 \"경기 회복세\" 진단 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfUlRKSzJpbjBnaWZjblZ1NjI2ZWdaZTV5aU1ZNzV6bHpjNXF5YUZNUjlzNktMeWVtVVF5Q04yNHc2NWhZS1ZkVkVIek15LS1tZHhB?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_9cad3065f07c",
-      "date": "2026-05-11",
-      "title": "메모리 반도체株 랠리 지속…AI發 공급부족에 ‘슈퍼사이클’ 기대 - 마켓인",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02RzdHRjRfYWhNLVAxX2ZwTWNWS3pnMzBCWWY0ZmY2WVI1RFBqTVNVQzRCMUoyeUhydHhqeG4ybGJLcVFYWWhyUUpObkJSTTI5d0tRU3NtN3o4VHo1MlBHYk1Ecm12UFRaa2tEZC0zQm5odWM?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 8
     },
     {
       "id": "kr_ee7f74c99557",
@@ -909,9 +819,18 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WSEFwNGNzX0Fxbl9DUjNqWUpZcnV5YUlUUUZpLWxnSXJjM2hxUHBmNVo3SFUyUVp5Sjl1MEVvckxmU0stb2h6d3RVdjlCODQ?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_84a66ff6c065",
+      "date": "2026-05-12",
+      "title": "KDI \"경기 회복세 진입\"…반도체 호황에도 중동 리스크 경고 - 매일경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPbEpQQTFLTUNnMk5hRzB5WjlLdG5ncGZuR003eVgxcDNOcUc2TnVoMk9BTnBSdTVYTS1OSGxiWnRHdHEzS0dWR0NCT1duWE9MWUNsUnVmLUJINzk5TnJlcTF6NmhoeGFO?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "neutral",
+      "score": 5
     },
     {
       "id": "kr_97646228b7b1",
@@ -920,9 +839,18 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUWXpWcFNRU3VkV3NGaS1ybURlRTJ3WnVFVnF2V18yQ1FyX2ZRc0Q2Q1BfSmZOdTJaQkphSTE3WFVqR1lWT1FZdDdPTTNGZGRFZU9V?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_9cad3065f07c",
+      "date": "2026-05-11",
+      "title": "메모리 반도체株 랠리 지속…AI發 공급부족에 ‘슈퍼사이클’ 기대 - 마켓인",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02RzdHRjRfYWhNLVAxX2ZwTWNWS3pnMzBCWWY0ZmY2WVI1RFBqTVNVQzRCMUoyeUhydHhqeG4ybGJLcVFYWWhyUUpObkJSTTI5d0tRU3NtN3o4VHo1MlBHYk1Ecm12UFRaa2tEZC0zQm5odWM?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 10
     },
     {
       "id": "kr_0d0a30621e52",
@@ -931,9 +859,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SeEZybkZaSFR1VkZ0RFk1anJLWkFYRlFGNnJaaXRvWGwxajFXejRSMVhBWThZSmNLc2wxb21DcUphdzBuaEgxdEtIMUp6ZDNKWGZYZUMzYVhNWFJXMGlBd0hxdVktelhNa2Q1ajI5bVFsSHNmcEgwWkhYb2IyOWs?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
+    },
+    {
+      "id": "kr_d074411e3ea7",
+      "date": "2026-05-12",
+      "title": "“사상 최강의 기술 사이클”…골드만도 깜짝 놀란 한국 AI 수출 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41cGtLWERWcklHbF9FNlZrbDRuTTJYRWNRRWNpcHNxYkp1OUE0NnR3M0IxNWFpQllnWDdYUmgxQWxjcG16YWxQMFU4dkRyRC1QQnc?oc=5",
+      "source": "google_news",
+      "sector": "반도체",
+      "sentiment": "positive",
+      "score": 10
     },
     {
       "id": "kr_087784dc66a3",
@@ -942,9 +879,8 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wTU9VNVhpQjBPdmM2Vm5Ob1RycGo5d3ZpYjBZYUotQWZTZjVxQ0JPRmQ2NU9JQXE2UGJCM0pwS0haSVJKUDJmNlVTU3dway1KU09LOVUzUVdvWVlKZ2RQNEhIaWpXd0lPWmlNYjRPRGlkSmdOX1HSAWZBVV95cUxOQUhwOE9qb1VYYnotSnVyQVRzYk9Xd2JvWS1GYnR3TG01WS1xdVdoTjZaNF9QM1N2XzFhOXh5UjRoakd6bk05VEZXNjBSNm5XM3pONnBPSWI0SDF6MWxzVEluUDlocmc?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "kr_4634d9da4e82",
@@ -952,20 +888,9 @@
       "title": "[귀족노조 삼성전자] ⑨ \"영업익 15% 고정\" vs \"투자 흔들려\"… 노사 중노위 협상 공전 - 파이낸셜포스트",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tTVhSVGVHWF9BY21pbGpCTHlVWUhpT29VRVJiS1BUWVMxMkUtcXdfd053RnlCbV9NVzlLcE4tUUxDX29GWl81NFc1a20yekFEZzZoaTI3V09Dd2ZBek11aVk4Q2RmT19GZkUzak52UDFYZ0NB?oc=5",
       "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_d074411e3ea7",
-      "date": "2026-05-12",
-      "title": "“사상 최강의 기술 사이클”…골드만도 깜짝 놀란 한국 AI 수출 - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41cGtLWERWcklHbF9FNlZrbDRuTTJYRWNRRWNpcHNxYkp1OUE0NnR3M0IxNWFpQllnWDdYUmgxQWxjcG16YWxQMFU4dkRyRC1QQnc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
+      "sector": "IT/소프트웨어",
+      "sentiment": "negative",
+      "score": 7
     },
     {
       "id": "kr_72da467598c4",
@@ -974,9 +899,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SMkZ6c0VIbjRWb1ZsM1Q3cTlvOVlHcWh6X08wUEdVMWF2V0FKYTM3bUxJTFN1VFZ0b3VsX1pMV2FKNGhKLXN2UDNTR1g2TGs?oc=5",
       "source": "google_news",
       "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "sentiment": "positive",
+      "score": 9
     },
     {
       "id": "kr_237b038043b4",
@@ -1034,39 +958,6 @@
       "_inferred": true
     },
     {
-      "id": "kr_f764960582dd",
-      "date": "2026-05-11",
-      "title": "금융硏 \"올해 국내성장률 전망치 2.8%로 상향…반도체 수출 호조\" - MTN 머니투데이방송",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pV2Jud20yRndWUEZyZVNxTnphaHJXQmFkelV5V2FxZndGMUpRUVdyczg2bGVybWZSTVZlMWQyYzE0Vnl5R3ltSGt6NWZiNk90ZlNSODZuLWY1ZDh5RmFEY3RMVW4?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_90f99a588f12",
-      "date": "2026-05-12",
-      "title": "'반도체가 살렸다' 세계 1위…대한민국 '빛의 속도'로 반전 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFcG0tdlZjU3hRV0ItbVFJRmtZQllrSWUyU1UwZHowcUNnN09Lb1JiVXVJWGo4dlBmTUpWZjBpbXRUbEV6TVlXLUl3d2Q3VDZib09Z?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_d1fa885a39fe",
-      "date": "2026-05-12",
-      "title": "반도체 초격차 사수를 위한 지식재산 간담회 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZQUVWY0FyWGJkYXdtVHZaOFZTQ3M0WmlGWGNvQ2tKVEJHX3p0Y2R2bXI0amFsMmx2TktUQXBNcm9wbldFZkFaeloxY3NlM2pKRXN0MGNNeWNWaFZCY1VCWdIBYEFVX3lxTFBZQUVWY0FyWGJkYXdtVHZaOFZTQ3M0WmlGWGNvQ2tKVEJHX3p0Y2R2bXI0amFsMmx2TktUQXBNcm9wbldFZkFaeloxY3NlM2pKRXN0MGNNeWNWaFZCY1VCWQ?oc=5",
-      "source": "google_news",
-      "sector": "반도체",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
       "id": "kr_14c7990e08f1",
       "date": "2026-05-12",
       "title": "\"칩보다 먼저 싸운다\"... K-반도체 초격차, 특허 전쟁에서 갈린다 - 특허뉴스",
@@ -1089,10 +980,10 @@
       "_inferred": true
     },
     {
-      "id": "kr_ffe383dad239",
-      "date": "2026-05-11",
-      "title": "한국공학대, K-반도체 초격차 이끌 인재 양성…첨단 기술 교류의 장 열었다 - 한국대학신문",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4RmlDV2h4RmNSN1Uwc2d3MGM5QUlUdDhzVk5PSEkxWGFYQ1JNbzFlMjF0N0JLeG95VnAzSlFrZmd2UkVqenhKZWRXdGYwWHp5dmNXUmtQemtVZ1k1NVViSWNSc09UZw?oc=5",
+      "id": "kr_cbd4a3ba935b",
+      "date": "2026-05-12",
+      "title": "반도체 초격차 사수를 위한 지식재산 간담회 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CWF9ETmNhZ2d6Wm5hVnRiU3hzeE1wU3cxS2xnbFI4NExOZDlNenV1bmJlNjhpa20wSVVySlBabkJycXlpUkdTbzQ5UWdRaWY0Nm9B?oc=5",
       "source": "google_news",
       "sector": "반도체",
       "sentiment": "",
@@ -1100,10 +991,10 @@
       "_inferred": true
     },
     {
-      "id": "kr_cbd4a3ba935b",
-      "date": "2026-05-12",
-      "title": "반도체 초격차 사수를 위한 지식재산 간담회 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CWF9ETmNhZ2d6Wm5hVnRiU3hzeE1wU3cxS2xnbFI4NExOZDlNenV1bmJlNjhpa20wSVVySlBabkJycXlpUkdTbzQ5UWdRaWY0Nm9B?oc=5",
+      "id": "kr_ffe383dad239",
+      "date": "2026-05-11",
+      "title": "한국공학대, K-반도체 초격차 이끌 인재 양성…첨단 기술 교류의 장 열었다 - 한국대학신문",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4RmlDV2h4RmNSN1Uwc2d3MGM5QUlUdDhzVk5PSEkxWGFYQ1JNbzFlMjF0N0JLeG95VnAzSlFrZmd2UkVqenhKZWRXdGYwWHp5dmNXUmtQemtVZ1k1NVViSWNSc09UZw?oc=5",
       "source": "google_news",
       "sector": "반도체",
       "sentiment": "",
@@ -1122,10 +1013,10 @@
       "_inferred": true
     },
     {
-      "id": "kr_e035459f29b6",
+      "id": "kr_b86ace96c69a",
       "date": "2026-05-11",
-      "title": "삼성 출신 양향자, 삼성 기흥캠퍼스서 ‘반도체 초격차’ 선언…“규제 프리존 완성할 것” - 경기일보",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MVkY1cEtuUDVHUnNVZkdjLUNvUGY0MEtxSWhqZjJpbEVOemF6b0oyOHpLNjhGSzZrSzRYUlJIQlJYN2pNblFUNHhPVzRKWUZPSWtZME1sOWFUMFU?oc=5",
+      "title": "삼성 출신 양향자, 삼성 기흥캠퍼스서 ‘반도체 초격차’ 선언…“규제 프리존 완성할 것” - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0SFZFS2FvdzZOOGE5NWVMekZHLXJTcnBCS2ZJVDlJTlJsN1BWWmpMMEFVaS1tVVp3Ym5sNVBSSTRrWTJ5cW9JTFdWZw?oc=5",
       "source": "google_news",
       "sector": "반도체",
       "sentiment": "",
@@ -1143,10 +1034,10 @@
       "score": 0
     },
     {
-      "id": "kr_f638d238f733",
+      "id": "kr_c02a8c27ea98",
       "date": "2026-05-11",
-      "title": "삼성전자 출신 초격차 유통 미래반도체…세계 유일 AS센터로 신뢰 굳혔다 - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRMzVoam8tQnJTTmhiVFNQbWFvcmdXeG9yTmlBaFJnb1B6ODRmMFNVRXhyTEhqQ0x1NUowbi1ySlBfZ2FLMmFqbGQ5elpZVXo5ZVFfVS0xOXdOX3c0ZnZBZHoyZU1YOUhkdEhVSmNhdEs2TjTSAXdBVV95cUxOVWlCd1ZqcFZzTnV3Nm1rd0p5NGxneG85cWp3Z2xoUVRGSlBYYmRHbF9JYWxXZDllNVAyTXlBbUVSRldST3pkcHFyenBkSEp5QWd5R0xqSF84d1BZZmxEZUFCbzllX25JcktFRlNUMWh0THZWck5SYw?oc=5",
+      "title": "양향자 \"기흥은 반도체 기적의 성지…경기도를 '초격차' 전초기지로\" - 노컷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kTEpsRHBKaEhUZ0hJeG15R2hlVl9aTUUydjZPLWRITU1ZMlhxMWY0MGNXMUJnU3NoS1l1VGtvcmdDV2dKMzJhSkl6OXFsQy1vVEE?oc=5",
       "source": "google_news",
       "sector": "반도체",
       "sentiment": "",
@@ -1154,10 +1045,10 @@
       "_inferred": true
     },
     {
-      "id": "kr_c02a8c27ea98",
+      "id": "kr_f638d238f733",
       "date": "2026-05-11",
-      "title": "양향자 \"기흥은 반도체 기적의 성지…경기도를 '초격차' 전초기지로\" - 노컷뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kTEpsRHBKaEhUZ0hJeG15R2hlVl9aTUUydjZPLWRITU1ZMlhxMWY0MGNXMUJnU3NoS1l1VGtvcmdDV2dKMzJhSkl6OXFsQy1vVEE?oc=5",
+      "title": "삼성전자 출신 초격차 유통 미래반도체…세계 유일 AS센터로 신뢰 굳혔다 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRMzVoam8tQnJTTmhiVFNQbWFvcmdXeG9yTmlBaFJnb1B6ODRmMFNVRXhyTEhqQ0x1NUowbi1ySlBfZ2FLMmFqbGQ5elpZVXo5ZVFfVS0xOXdOX3c0ZnZBZHoyZU1YOUhkdEhVSmNhdEs2TjTSAXdBVV95cUxOVWlCd1ZqcFZzTnV3Nm1rd0p5NGxneG85cWp3Z2xoUVRGSlBYYmRHbF9JYWxXZDllNVAyTXlBbUVSRldST3pkcHFyenBkSEp5QWd5R0xqSF84d1BZZmxEZUFCbzllX25JcktFRlNUMWh0THZWck5SYw?oc=5",
       "source": "google_news",
       "sector": "반도체",
       "sentiment": "",
@@ -1264,17 +1155,6 @@
       "_inferred": true
     },
     {
-      "id": "kr_c91ae3372ca0",
-      "date": "2026-05-11",
-      "title": "\"종이 한 장이 수조원 기술수출로\"…A0 포스터에 숨은 신약 단서 - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBYVBUSlJLZGxxVVd4M2JuMUxwODhLMnZvRlZnM3VhODBnX3lxRmc0c1h1anAyWXdqWmYteDZHc2NGSEFBbHhyWDAyLUlyWjFvR3RaODBXWm5PUdIBVEFVX3lxTE54MndoU0hqMmZWLWZpdU5JdmwwQ2VrZkxCelotdk9IeEh2dTk2Y1pCMXM3NTBublBwQmVNMlZ4QlpqamxKLXdUZXUtQVRwZGtYZmp6Vg?oc=5",
-      "source": "google_news",
-      "sector": "바이오/헬스케어",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
       "id": "kr_0f4f64657ad5",
       "date": "2026-05-12",
       "title": "1.9조 기술수출 잭팟…릴리도 반한 ‘K바이오 기술’ 정체 - 리드경제",
@@ -1295,6 +1175,16 @@
       "sentiment": "",
       "score": 0,
       "_inferred": true
+    },
+    {
+      "id": "kr_cb8650f76318",
+      "date": "2026-05-11",
+      "title": "큐라클·맵틱스 망막 치료제, 美 기업에 1.5조 기술수출 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IejRfZmpwNDhuUy1tRGhHTG9sMTVVRTg0NEphclpEVzRhdkg4VDYxblhRX0ZFWHI5SG12bC1JSkdqZnh2U1hGUWFnSlBxUTNVaExGYnY3RDZNQdIBVEFVX3lxTE5zZXBZM2hfNFVBR0p2QTl5WHRtSERSQ1VmaDdkMFJ2OGp3Q1BVeU5oV2VnZE9NWUZmRi1fUDh0a25nQnAzYmpfV3E1OUtmMUcxLVdVVg?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "kr_04c6835ed7b3",
@@ -1330,10 +1220,10 @@
       "_inferred": true
     },
     {
-      "id": "kr_cb8650f76318",
+      "id": "kr_bb101b0c5d49",
       "date": "2026-05-11",
-      "title": "큐라클·맵틱스 망막 치료제, 美 기업에 1.5조 기술수출 - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IejRfZmpwNDhuUy1tRGhHTG9sMTVVRTg0NEphclpEVzRhdkg4VDYxblhRX0ZFWHI5SG12bC1JSkdqZnh2U1hGUWFnSlBxUTNVaExGYnY3RDZNQdIBVEFVX3lxTE5zZXBZM2hfNFVBR0p2QTl5WHRtSERSQ1VmaDdkMFJ2OGp3Q1BVeU5oV2VnZE9NWUZmRi1fUDh0a25nQnAzYmpfV3E1OUtmMUcxLVdVVg?oc=5",
+      "title": "메디톡스, 세계 최초 콜산 성분 기반 지방개선주사제 ‘뉴비쥬’ 런칭 심포지엄 성료 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEOVE2S2dnZWNCOHA1aVMwYmkzcDhLWGlPbDlldml2bWdMVDVRc2lMTE94X1pTWjNIdEZOYW9GLWdHTjI1TVd1cDBYZ2RzYzJhZnNUejl3Y0NMZ9IBVEFVX3lxTFBkRjJERFpGLWRqQWlHcmpsOUlFLXoyVUdYUlNfUDM0dmlJdnZPeG9kc3hfaHA0Qzd1OWdxTjQwXy1EZXF3NEY5djgydHdBSzdpLTZucg?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -1349,16 +1239,6 @@
       "sentiment": "",
       "score": 0,
       "_inferred": true
-    },
-    {
-      "id": "kr_bb101b0c5d49",
-      "date": "2026-05-11",
-      "title": "메디톡스, 세계 최초 콜산 성분 기반 지방개선주사제 ‘뉴비쥬’ 런칭 심포지엄 성료 - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEOVE2S2dnZWNCOHA1aVMwYmkzcDhLWGlPbDlldml2bWdMVDVRc2lMTE94X1pTWjNIdEZOYW9GLWdHTjI1TVd1cDBYZ2RzYzJhZnNUejl3Y0NMZ9IBVEFVX3lxTFBkRjJERFpGLWRqQWlHcmpsOUlFLXoyVUdYUlNfUDM0dmlJdnZPeG9kc3hfaHA0Qzd1OWdxTjQwXy1EZXF3NEY5djgydHdBSzdpLTZucg?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
     },
     {
       "id": "kr_c6dadab641bd",
@@ -1493,10 +1373,10 @@
       "_inferred": true
     },
     {
-      "id": "kr_9f44cabd122c",
-      "date": "2026-05-12",
-      "title": "하림, 글로벌 K-양계 수출 시동 - 농축유통신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jYjh4dkthSjJwdUhTaWx2dllqM0IxV3ZaeWZ5cjFBV3pvWVlhbE5EMXlqbzYyaTJIM1QyNy0taUswcldmaVVjaG1WaFc0ZGpWYmd6VU80bVNGcm5uYjdlOFFwRkZWQTQx?oc=5",
+      "id": "kr_3577a61b94a1",
+      "date": "2026-05-11",
+      "title": "화장품주, 사상 최대 수출에도 ‘선별적 상승’…에이피알·한국콜마 강세 흐름 이어져 - 코스인코리아닷컴",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13cjJxdmRBcjhXZi11S2Y5TlJFOTJhSzhNUVRyaFJpQ3Z0dzJYc1ZBSEFWMUxyd0VON1pZSjNCWTVwSlpPNVlkQlRvWnpnaFhBMVNTUXVUSUxxTk42bTJydEdtMA?oc=5",
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "",
@@ -1504,10 +1384,10 @@
       "_inferred": true
     },
     {
-      "id": "kr_3577a61b94a1",
-      "date": "2026-05-11",
-      "title": "화장품주, 사상 최대 수출에도 ‘선별적 상승’…에이피알·한국콜마 강세 흐름 이어져 - 코스인코리아닷컴",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13cjJxdmRBcjhXZi11S2Y5TlJFOTJhSzhNUVRyaFJpQ3Z0dzJYc1ZBSEFWMUxyd0VON1pZSjNCWTVwSlpPNVlkQlRvWnpnaFhBMVNTUXVUSUxxTk42bTJydEdtMA?oc=5",
+      "id": "kr_9f44cabd122c",
+      "date": "2026-05-12",
+      "title": "하림, 글로벌 K-양계 수출 시동 - 농축유통신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jYjh4dkthSjJwdUhTaWx2dllqM0IxV3ZaeWZ5cjFBV3pvWVlhbE5EMXlqbzYyaTJIM1QyNy0taUswcldmaVVjaG1WaFc0ZGpWYmd6VU80bVNGcm5uYjdlOFFwRkZWQTQx?oc=5",
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "",
@@ -1591,10 +1471,10 @@
       "_inferred": true
     },
     {
-      "id": "kr_872d99bd7ed6",
-      "date": "2026-05-11",
-      "title": "중진공, 산청서 '찾아가는 간담회' 개최…\"지역특화 식품산업 혁신성장 머리 맞대\" - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95V0VoTWhOLUstYkpjcDYxbVdfS0ZfNWE0eEItb2g1SG5NcmdGMmg5bmpBR1FfZ0JyNlp2QnlVOWZMMXBmaFhpVWRQMFVWcmVXeTRQbmtEeUJENHRJSmtMTTQ1WlNGUkF1dzJiMkRZRjB0WWs?oc=5",
+      "id": "kr_06fdaf86fb61",
+      "date": "2026-05-10",
+      "title": "“K-뷰티는 브랜드보다 레시피”… 화장품 ODM기업들 ‘만개’ - 브릿지경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lX1JNVW4yLTdJbGhVS3JZTDJxNTNrTjEtQ2txbS1qV21KSDVMbzJlejJIcDhGR0hscktSWW5SS2RkeTNmOHFnS0ZSRHZqUFdRZFVkSFR0bU1Ldw?oc=5",
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "",
@@ -1602,10 +1482,10 @@
       "_inferred": true
     },
     {
-      "id": "kr_06fdaf86fb61",
-      "date": "2026-05-10",
-      "title": "“K-뷰티는 브랜드보다 레시피”… 화장품 ODM기업들 ‘만개’ - 브릿지경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lX1JNVW4yLTdJbGhVS3JZTDJxNTNrTjEtQ2txbS1qV21KSDVMbzJlejJIcDhGR0hscktSWW5SS2RkeTNmOHFnS0ZSRHZqUFdRZFVkSFR0bU1Ldw?oc=5",
+      "id": "kr_872d99bd7ed6",
+      "date": "2026-05-11",
+      "title": "중진공, 산청서 '찾아가는 간담회' 개최…\"지역특화 식품산업 혁신성장 머리 맞대\" - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95V0VoTWhOLUstYkpjcDYxbVdfS0ZfNWE0eEItb2g1SG5NcmdGMmg5bmpBR1FfZ0JyNlp2QnlVOWZMMXBmaFhpVWRQMFVWcmVXeTRQbmtEeUJENHRJSmtMTTQ1WlNGUkF1dzJiMkRZRjB0WWs?oc=5",
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "",
@@ -1635,6 +1515,28 @@
       "_inferred": true
     },
     {
+      "id": "kr_e79a3e82a5e3",
+      "date": "2026-05-11",
+      "title": "[K-Trend] ‘메이드인코리아’ 해외서 잘 팔리네… K-뷰티·식품 수출 ‘승승장구’ - 시사캐스트",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SVDNsdzM2WVlWUnhLcURoVGpmWERhRkJCQjZ4b0FpcmpXWjR2ZmZNbnZRcVRyZVpVdllLYjlHd1d4RERSMkNvYWdZOUNiaXE0Ym05cks5ejNBNjQwem8xV2NiN2VzdnM?oc=5",
+      "source": "google_news",
+      "sector": "소비재",
+      "sentiment": "",
+      "score": 0,
+      "_inferred": true
+    },
+    {
+      "id": "kr_adda43963959",
+      "date": "2026-05-11",
+      "title": "고물가에도 통했다…컬리, 식품·뷰티 성장 힘입어 흑자 확대 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VbWc0cVpMMGxIdW82b3NVWHRnODhQOXhpeW9wYS1ZeUJfSXBuWjZYTTBNYXZpSG12WlBfRkQtSGtoN2xLV0JISXVLSGdad1VHTkdhdUUzaGpnYmFaS29OWlZpd3M?oc=5",
+      "source": "google_news",
+      "sector": "소비재",
+      "sentiment": "",
+      "score": 0,
+      "_inferred": true
+    },
+    {
       "id": "kr_b1e3ec393514",
       "date": "2026-05-12",
       "title": "CJ제일제당, 식품·바이오 외형 성장…수익은 '뚝' - 네이트",
@@ -1657,32 +1559,10 @@
       "_inferred": true
     },
     {
-      "id": "kr_e79a3e82a5e3",
-      "date": "2026-05-11",
-      "title": "[K-Trend] ‘메이드인코리아’ 해외서 잘 팔리네… K-뷰티·식품 수출 ‘승승장구’ - 시사캐스트",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SVDNsdzM2WVlWUnhLcURoVGpmWERhRkJCQjZ4b0FpcmpXWjR2ZmZNbnZRcVRyZVpVdllLYjlHd1d4RERSMkNvYWdZOUNiaXE0Ym05cks5ejNBNjQwem8xV2NiN2VzdnM?oc=5",
-      "source": "google_news",
-      "sector": "소비재",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
       "id": "kr_cfc319cb824b",
       "date": "2026-05-12",
       "title": "CJ대한통운, 아이허브와 동반성장 10년… 글로벌 유통·물류 협력 시너지 창출 – CJ미디어라이브러리 - CJ 뉴스룸",
       "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxORFd3bHFUV1pITXN5Z0VPWEEwSXBKY0xtQmxLQ01XWllYeHRBVUxvZ3hmTHBkb05felZLMkRqejlPM01xZ3kyQW9udDc0a1lKMEV1QlBBY0o5TzNabGM3WlY3ajltMHVaaFBFTjUzV3Q0b3ZKZWIwOWJSbExWQUtabGdjbG90ZVpyRFRuVlBDYWdnWllRUktDSHdFeGdZSlJIYWFnVWJDTEhFckNmSHFpd3FmWFlhczE1TXJ0V2NmR3kyN2lNRkE2Z3l3RWJzcXYxeFQ2UWZLT1B3RGxveTFtVlpENE9DY3BaVmFvUTZ2ODJHRG1yd3JsdWs4U2FlTHJQblluZC1BNVNPVmEtMEpRa0pfZ2U2Y050cG9JTVZGVkJ1UkxVSkYtV2R6Q3RKZUVINTcwNlZQTDgzTWdKT1B3d0FKTjd3dWliZ0F5MDN5MF9QV1NPUlRHeTBoMktQWUpJTmNSMkp0LS1UcG8xaDdJRF9HNWdiNkVr?oc=5",
-      "source": "google_news",
-      "sector": "소비재",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_adda43963959",
-      "date": "2026-05-11",
-      "title": "고물가에도 통했다…컬리, 식품·뷰티 성장 힘입어 흑자 확대 - 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VbWc0cVpMMGxIdW82b3NVWHRnODhQOXhpeW9wYS1ZeUJfSXBuWjZYTTBNYXZpSG12WlBfRkQtSGtoN2xLV0JISXVLSGdad1VHTkdhdUUzaGpnYmFaS29OWlZpd3M?oc=5",
       "source": "google_news",
       "sector": "소비재",
       "sentiment": "",
@@ -1754,6 +1634,17 @@
       "_inferred": true
     },
     {
+      "id": "kr_d590d0f90a0c",
+      "date": "2026-05-11",
+      "title": "파마리서치, 리쥬란 중심 의료기기 성장 공백…화장품 내수·수출 다 좋아 ‘채운다’ - 뉴스퀘스트",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14N2ZJTloyYzNDajBwYlUwLXRZY2lOQjhrOUppdmE0aHNYSVg1V295VTMxdDBBT0dpd2V4czg2NTdTbF9sX1pIaVh5aFZSN3ZzZktjWG1jcExDTHUwSGN1eVB2d2JkRUg1Wm9uYXpTb9IBc0FVX3lxTE9BVzJGTXlpbFluZFpZc3JacExoTFhJMlhZbzFMQ0hJc2lBQXJrMktoTWEwb1V2ZFNpVEc4RGlnODBRbFRUcUVTUkNMUWpxcDQzVjh4TW9hS2ZHYkRvcG9xQWFPb3k1VGt5eDdDTVlWN1Y1OHM?oc=5",
+      "source": "google_news",
+      "sector": "바이오/헬스케어",
+      "sentiment": "",
+      "score": 0,
+      "_inferred": true
+    },
+    {
       "id": "kr_477036f45527",
       "date": "2026-05-12",
       "title": "현대리바트 실적 반등 ‘안갯속’…민왕일 대표 수익성 시험대 - 스페셜경제",
@@ -1764,12 +1655,12 @@
       "score": 0
     },
     {
-      "id": "kr_d590d0f90a0c",
+      "id": "kr_8a5828cf87a8",
       "date": "2026-05-11",
-      "title": "파마리서치, 리쥬란 중심 의료기기 성장 공백…화장품 내수·수출 다 좋아 ‘채운다’ - 뉴스퀘스트",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14N2ZJTloyYzNDajBwYlUwLXRZY2lOQjhrOUppdmE0aHNYSVg1V295VTMxdDBBT0dpd2V4czg2NTdTbF9sX1pIaVh5aFZSN3ZzZktjWG1jcExDTHUwSGN1eVB2d2JkRUg1Wm9uYXpTb9IBc0FVX3lxTE9BVzJGTXlpbFluZFpZc3JacExoTFhJMlhZbzFMQ0hJc2lBQXJrMktoTWEwb1V2ZFNpVEc4RGlnODBRbFRUcUVTUkNMUWpxcDQzVjh4TW9hS2ZHYkRvcG9xQWFPb3k1VGt5eDdDTVlWN1Y1OHM?oc=5",
+      "title": "한국콜마 11%·에이피알 8% 급등…화장품주 강세[핫종목] - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uTmFzOTdjTjdqejctUTEtalduOGl3ZHpHa0dpZTJBVGFQMVRHNXY0VGUxdnVIcElrUERXRVVjUm9UQXFhY0l2UncwQkZsVnJBck1uT08ycE5PRy1fQ3hn?oc=5",
       "source": "google_news",
-      "sector": "바이오/헬스케어",
+      "sector": "소비재",
       "sentiment": "",
       "score": 0,
       "_inferred": true
@@ -1792,17 +1683,6 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zdXp5SGhObVVUNXVSVXhsTzN1RjZWaXZ0cWJTSnJjdE5NQnloSllfbkM2a2QybHdSZzBjNmoydGtZamZMM1l6WjcxUDc1MTZPQTNYT0Y3Ukl3YktyaDZBMnJxcm9zQ3NPSkxybk9zVXlhQlNh?oc=5",
       "source": "google_news",
       "sector": "바이오/헬스케어",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_8a5828cf87a8",
-      "date": "2026-05-11",
-      "title": "한국콜마 11%·에이피알 8% 급등…화장품주 강세[핫종목] - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uTmFzOTdjTjdqejctUTEtalduOGl3ZHpHa0dpZTJBVGFQMVRHNXY0VGUxdnVIcElrUERXRVVjUm9UQXFhY0l2UncwQkZsVnJBck1uT08ycE5PRy1fQ3hn?oc=5",
-      "source": "google_news",
-      "sector": "소비재",
       "sentiment": "",
       "score": 0,
       "_inferred": true
@@ -2065,16 +1945,6 @@
       "score": 0
     },
     {
-      "id": "kr_7e80be122d60",
-      "date": "2026-05-12",
-      "title": "이란戰·관세 부담 커진 트럼프…중국 찾는 이유 - 뉴스투데이",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xaG01aFBSejIxb3ZVZmF1MHV5bHYwbllrV0VWcjB5RURUMGpYWUtDdkJlQy01Y2ZpcXllXzVLa19tSDJLakFZNkpqTGk4Tzd4eFNVVm96NVE2S0FycHc?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "kr_80032badf4dd",
       "date": "2026-05-11",
       "title": "월가 대형은행들, 연준 금리인하 전망 줄줄이 후퇴…\"연내 인하 없다\" - 뉴스1",
@@ -2084,6 +1954,16 @@
       "sentiment": "",
       "score": 0,
       "_inferred": true
+    },
+    {
+      "id": "kr_7e80be122d60",
+      "date": "2026-05-12",
+      "title": "이란戰·관세 부담 커진 트럼프…중국 찾는 이유 - 뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xaG01aFBSejIxb3ZVZmF1MHV5bHYwbllrV0VWcjB5RURUMGpYWUtDdkJlQy01Y2ZpcXllXzVLa19tSDJLakFZNkpqTGk4Tzd4eFNVVm96NVE2S0FycHc?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "kr_76e7f99f719c",
@@ -2096,20 +1976,20 @@
       "score": 0
     },
     {
-      "id": "kr_e0c6d8045b18",
-      "date": "2026-05-12",
-      "title": "美, 연방 휘발유세 중단… 수입 소고기 관세완화 검토 - 문화일보",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ycHNpMkhyN2hBS25rcUVRZHNRQi14REpXMHIxdjZjMVpVX0w3NFNBWFVxOVpleGRzcTlwdkw5R3BGSVlTRXlGS3VqNlYwT0s5?oc=5",
+      "id": "kr_c3758b433606",
+      "date": "2026-05-11",
+      "title": "미중 정상회담, '관세 휴전' 넘어 동북아·중동 정세 안정 '시험대' 될까 - 인천투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qMk1Uc0F1Zm5jTFFHdUJtUmJHVEY0M2FySmxxNWVZR3pnbE1CWmJKVFcxelNBN0g4MTZCOVpKRXhLODE0ODJDbDhncEZkdWhnNzYtamsteUZxOFZXUEd5VUk2cm94REpyUzlYdFVoTVg?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "kr_c3758b433606",
-      "date": "2026-05-11",
-      "title": "미중 정상회담, '관세 휴전' 넘어 동북아·중동 정세 안정 '시험대' 될까 - 인천투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qMk1Uc0F1Zm5jTFFHdUJtUmJHVEY0M2FySmxxNWVZR3pnbE1CWmJKVFcxelNBN0g4MTZCOVpKRXhLODE0ODJDbDhncEZkdWhnNzYtamsteUZxOFZXUEd5VUk2cm94REpyUzlYdFVoTVg?oc=5",
+      "id": "kr_e0c6d8045b18",
+      "date": "2026-05-12",
+      "title": "美, 연방 휘발유세 중단… 수입 소고기 관세완화 검토 - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ycHNpMkhyN2hBS25rcUVRZHNRQi14REpXMHIxdjZjMVpVX0w3NFNBWFVxOVpleGRzcTlwdkw5R3BGSVlTRXlGS3VqNlYwT0s5?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2288,6 +2168,16 @@
       "score": 0
     },
     {
+      "id": "kr_dec7d47cbe38",
+      "date": "2026-05-10",
+      "title": "美 물가 다시 들썩…연준 금리인하 더 멀어지나 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbDJ6MjNQSlNOVzJ4WHVJbExmbUZ3YjNDR0NiRlN1LUdyNklvQTY3c19rUGlGbjJGbjgzZTRuT0pXWUJZOTdseWFRNnljYUlEeXc3a0FoaUxrdzA3Z25lWXpMSWpqcUt5UDBPZHNQTDQtTFFjWTNhWFpGbU1FVk1FM04yZ2Z6Nnox?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "kr_73e9ccb55e55",
       "date": "2026-05-12",
       "title": "'관세 50%'에도 잘 나간다…K철강 對美수출 70% 급증 - 네이트",
@@ -2309,16 +2199,6 @@
       "score": 0
     },
     {
-      "id": "kr_dec7d47cbe38",
-      "date": "2026-05-10",
-      "title": "美 물가 다시 들썩…연준 금리인하 더 멀어지나 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbDJ6MjNQSlNOVzJ4WHVJbExmbUZ3YjNDR0NiRlN1LUdyNklvQTY3c19rUGlGbjJGbjgzZTRuT0pXWUJZOTdseWFRNnljYUlEeXc3a0FoaUxrdzA3Z25lWXpMSWpqcUt5UDBPZHNQTDQtTFFjWTNhWFpGbU1FVk1FM04yZ2Z6Nnox?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "kr_356122006bf0",
       "date": "2026-05-12",
       "title": "[단독]관세·중동전쟁 이중고 직면한 해외법인…1조 경영자금 지원한다 - 네이트",
@@ -2327,17 +2207,6 @@
       "sector": "",
       "sentiment": "",
       "score": 0
-    },
-    {
-      "id": "kr_af9de3e93a65",
-      "date": "2026-05-10",
-      "title": "[경제] 전쟁, 한국의 금리 인상, 미국 관세 위법, 빅테크 인력 감축, 산업 흐름 - 네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTHBtSTFlTF9GeWNRQWVzYUFnWGpidEN6WVotakFWcEgybkEwWTNwMDR3ZWNwZ0FuYXBlVjdGR0dSa3E4Vjl3WlhYajhlU0ZDSmZzRXhGRGVDekJ1TEh2cld0czhTUGsxdGZhSWZZM0hWYlRhaDFGWU80Tndaa2Z5RzZR?oc=5",
-      "source": "google_news",
-      "sector": "IT/소프트웨어",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
     },
     {
       "id": "kr_13640c058743",
@@ -2421,20 +2290,20 @@
       "score": 0
     },
     {
-      "id": "kr_86ca6afdec22",
-      "date": "2026-05-12",
-      "title": "\"더는 못 버틴다\" 관세 감내하던 기업들, 물가 올리기 시작했다 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKNm5FR25iMXB3bmxQdHg5Rm9HcW5RaEI0NzBtYjlLYy1KbndoSklheXNZcm1DeTV0YXBSZFE2X1N6aUNqbngtSnVJTUhZRDAzSlk4?oc=5",
+      "id": "kr_9a8956cf3bba",
+      "date": "2026-05-10",
+      "title": "유럽 자동차 업계... 美 수입 관세 부과후 14조원 부담 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9leFpLX1FTSkNOSVJ0UWEyNU13QkFHRXRhTEIwQlNtek9OVndBQnVKNW5MdUdNQkVRSy12UHhDNFBtS1hmMURJazd6ejd2UWs?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "kr_9a8956cf3bba",
-      "date": "2026-05-10",
-      "title": "유럽 자동차 업계... 美 수입 관세 부과후 14조원 부담 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9leFpLX1FTSkNOSVJ0UWEyNU13QkFHRXRhTEIwQlNtek9OVndBQnVKNW5MdUdNQkVRSy12UHhDNFBtS1hmMURJazd6ejd2UWs?oc=5",
+      "id": "kr_86ca6afdec22",
+      "date": "2026-05-12",
+      "title": "\"더는 못 버틴다\" 관세 감내하던 기업들, 물가 올리기 시작했다 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKNm5FR25iMXB3bmxQdHg5Rm9HcW5RaEI0NzBtYjlLYy1KbndoSklheXNZcm1DeTV0YXBSZFE2X1N6aUNqbngtSnVJTUhZRDAzSlk4?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2503,20 +2372,20 @@
       "score": 0
     },
     {
-      "id": "kr_58a1a0d558bb",
+      "id": "kr_761c55ffb9a3",
       "date": "2026-05-11",
-      "title": "\"트럼프, 쇠고기 수입관세 한시 인하 추진\" - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zZ2xrOFFqWmxXNHFoTUE5dUVaTGVYamVuaFNnQkQ1clR0V1kzNkFrVUp2N2N6QjZoODY1azFrMWY4NjdSVU5ZTF9lVnNiOE1kdlFJ?oc=5",
+      "title": "[AI의 종목 이야기] 기술발전·규제완화에 날개, 중국 '로보택시 사업' - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9scG81LVBjaUxvaWx5VWVGQjdhQlhESXRXZXZDVkEzY3NWTnZvSkZtdkxaVWlpZVYycy1TUFB2Rm5EYVprbDQ2c3NjMk9fWENlN2VUbm93TVlZY0ZG?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "kr_761c55ffb9a3",
+      "id": "kr_58a1a0d558bb",
       "date": "2026-05-11",
-      "title": "[AI의 종목 이야기] 기술발전·규제완화에 날개, 중국 '로보택시 사업' - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9scG81LVBjaUxvaWx5VWVGQjdhQlhESXRXZXZDVkEzY3NWTnZvSkZtdkxaVWlpZVYycy1TUFB2Rm5EYVprbDQ2c3NjMk9fWENlN2VUbm93TVlZY0ZG?oc=5",
+      "title": "\"트럼프, 쇠고기 수입관세 한시 인하 추진\" - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zZ2xrOFFqWmxXNHFoTUE5dUVaTGVYamVuaFNnQkQ1clR0V1kzNkFrVUp2N2N6QjZoODY1azFrMWY4NjdSVU5ZTF9lVnNiOE1kdlFJ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2543,20 +2412,20 @@
       "score": 0
     },
     {
-      "id": "kr_3ff5a8233228",
+      "id": "kr_e9b70aef7378",
       "date": "2026-05-11",
-      "title": "다급한 트럼프, 느긋한 시진핑…관세· 이란 등 '세기의 담판 ' 주목(종합) - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VWWVxZGV4clJnZHBrU3kwYUVDTUtqQ1o1cmJ5Y2xJSFp4OVdoeGhQT3l3V3Ezbll2MExEUW9PaDBBa3BjcFhZR01wS2tkamtXQ0FB?oc=5",
+      "title": "\"관세는 위법 판결났지, 이란戰 출구는 안보이지\"…미중 정상회담 힘빠진 美 [디브리핑] - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qTFhQa1Z1bms1c2szN1pUaFo1dmhvTTlSSWxVQ1loUDg0SE1LVnVYeDBFYWU1OGhTejJPejVWRElfSTdmRDZpV2hTNVBienVIaEhr?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "kr_e9b70aef7378",
+      "id": "kr_3ff5a8233228",
       "date": "2026-05-11",
-      "title": "\"관세는 위법 판결났지, 이란戰 출구는 안보이지\"…미중 정상회담 힘빠진 美 [디브리핑] - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qTFhQa1Z1bms1c2szN1pUaFo1dmhvTTlSSWxVQ1loUDg0SE1LVnVYeDBFYWU1OGhTejJPejVWRElfSTdmRDZpV2hTNVBienVIaEhr?oc=5",
+      "title": "다급한 트럼프, 느긋한 시진핑…관세· 이란 등 '세기의 담판 ' 주목(종합) - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VWWVxZGV4clJnZHBrU3kwYUVDTUtqQ1o1cmJ5Y2xJSFp4OVdoeGhQT3l3V3Ezbll2MExEUW9PaDBBa3BjcFhZR01wS2tkamtXQ0FB?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2636,20 +2505,20 @@
       "_inferred": true
     },
     {
-      "id": "kr_c3f9b7f997ef",
+      "id": "kr_2cf0de97f1dd",
       "date": "2026-05-12",
-      "title": "\"비용 효율화 영향\" 위메이드, 1분기 영업익 85억원 '흑자전환' - 인더스트리뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJRURTeGFQTU1YOXFPdjdZWDZhdFBTNXRJNzFHcDh1cGYycGZJZGExb1VWei1oNXY4elVRWjlUdUtzZWx5MEQ0MmU2ZFJ3MVBFNkdScFEzQ0dPZmRVR2xULWIzWnJWSzY0bHFsdy14bHRiUQ?oc=5",
+      "title": "펄어비스, 1Q 영업익 2121억…흑자전환 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZYmU4aG9BM3pRYWRPdjlZLXpxZS00dHBIUy1KQzhKTTVkOU9sVklHcFJvNHF1Q2ViTzFreExGTXFvQjhnTG5LS0RWT3pZUGNuZ2xvandjZE0tU0JnRFVtdEpHUWFCWUZZUk5KcElVNFA?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "kr_4ff663c51bf4",
+      "id": "kr_c3f9b7f997ef",
       "date": "2026-05-12",
-      "title": "위메이드, 1분기 영업익 85억·흑자전환…'미르의 전설2' IP 효과 - 신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54R05idTNvdjZGekp1YmNSZ2dIQ0JkOHZmYVRFWkJKQUFHMEFXa0FHMmJrWE84eVI4aFBIVUtIdkpKYmtqNEEtanpOekwwZXpod3dPZF9SeXlXc09jRkM4TC11VllReVFPUUJ0Y0xxS28?oc=5",
+      "title": "\"비용 효율화 영향\" 위메이드, 1분기 영업익 85억원 '흑자전환' - 인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJRURTeGFQTU1YOXFPdjdZWDZhdFBTNXRJNzFHcDh1cGYycGZJZGExb1VWei1oNXY4elVRWjlUdUtzZWx5MEQ0MmU2ZFJ3MVBFNkdScFEzQ0dPZmRVR2xULWIzWnJWSzY0bHFsdy14bHRiUQ?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2697,6 +2566,16 @@
       "score": 0
     },
     {
+      "id": "kr_d4ec32137c2d",
+      "date": "2026-05-12",
+      "title": "위메이드, 1Q 영업익 85억원 … 전년비 흑자전환 - 뉴데일리 경제",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54MzhvY3AyZzFkaVh4YldxTTFkYW94QUYzQXdIMk1ZNVpkOERTbTU2d0J6eC1yM0MtaFFrRkh1eUZzOHVzakRrem8tYk83a0NCaG00U2VGUFhMb2VuNkFqLTcwdmJOLTc3amNjWEdzcDd1QkF5WXZjY3RXVQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "kr_e2df810fc490",
       "date": "2026-05-12",
       "title": "한화오션, 美 신규 조선소 투자 검토…\"M&A 등 염두\" [KIW 2026] - 한국경제",
@@ -2708,20 +2587,20 @@
       "_inferred": true
     },
     {
-      "id": "kr_73f36322da26",
+      "id": "kr_4320ce9a138d",
       "date": "2026-05-12",
-      "title": "위메이드, 1분기 영업이익 85억원...흑자전환 - 스마트투데이",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pZVpZQ2FYS3VIUm9PZHRwVGZlN1Jxdlg3NWVNMUNCck05UlIwY1d6RDRodWs1Ny1hTHJ6dFIzUnZNVGd6YVFUQm1tdFJNS0Z4MXMzSDZlQmVzcElnV2ZV?oc=5",
+      "title": "위메이드, 1분기 영업익 85억원 '흑자 전환'…3분기 연속 흑자 행진 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wYUktcDV2ZlpCeTROcnVxOURlOFJPbTYwYWY1Yy1iZnpRTWdjU0o4VHV1WU1rMHp3TGRrbTlXbW81LTI2WnZBVlBCSVo2R2FrWE5DdHZ4UUZDRWZrcGcwRzJ4am80bjdERVFQeVFQVzQ1VWc?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "kr_d4ec32137c2d",
+      "id": "kr_73f36322da26",
       "date": "2026-05-12",
-      "title": "위메이드, 1Q 영업익 85억원 … 전년비 흑자전환 - 뉴데일리 경제",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54MzhvY3AyZzFkaVh4YldxTTFkYW94QUYzQXdIMk1ZNVpkOERTbTU2d0J6eC1yM0MtaFFrRkh1eUZzOHVzakRrem8tYk83a0NCaG00U2VGUFhMb2VuNkFqLTcwdmJOLTc3amNjWEdzcDd1QkF5WXZjY3RXVQ?oc=5",
+      "title": "위메이드, 1분기 영업이익 85억원...흑자전환 - 스마트투데이",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pZVpZQ2FYS3VIUm9PZHRwVGZlN1Jxdlg3NWVNMUNCck05UlIwY1d6RDRodWs1Ny1hTHJ6dFIzUnZNVGd6YVFUQm1tdFJNS0Z4MXMzSDZlQmVzcElnV2ZV?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2739,20 +2618,10 @@
       "_inferred": true
     },
     {
-      "id": "kr_11088ca3787a",
+      "id": "kr_4ff663c51bf4",
       "date": "2026-05-12",
-      "title": "레이언스, 1분기 영업이익 35억8400만원 흑자전환 - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95NXhaa1E0WHMtODJCN0xaNkFZbWY2el94MTNIZ1NodTl5VzNRZFhFWGN1T1pGc1c5UU1kSndYaU9mZDVLNGdsc3RXRmtDXzh5dS1QZjVLR0tEOEE5T2FSNDlKNFVYejU1ODUyMl9OcFEwc1E?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "kr_2cf0de97f1dd",
-      "date": "2026-05-12",
-      "title": "펄어비스, 1Q 영업익 2121억…흑자전환 - 신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZYmU4aG9BM3pRYWRPdjlZLXpxZS00dHBIUy1KQzhKTTVkOU9sVklHcFJvNHF1Q2ViTzFreExGTXFvQjhnTG5LS0RWT3pZUGNuZ2xvandjZE0tU0JnRFVtdEpHUWFCWUZZUk5KcElVNFA?oc=5",
+      "title": "위메이드, 1분기 영업익 85억·흑자전환…'미르의 전설2' IP 효과 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54R05idTNvdjZGekp1YmNSZ2dIQ0JkOHZmYVRFWkJKQUFHMEFXa0FHMmJrWE84eVI4aFBIVUtIdkpKYmtqNEEtanpOekwwZXpod3dPZF9SeXlXc09jRkM4TC11VllReVFPUUJ0Y0xxS28?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2763,6 +2632,26 @@
       "date": "2026-05-12",
       "title": "'붉은사막' 효과…펄어비스 흑자전환, 매출 5배 - 신아일보",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FWjF6YlNvaDhjT2ZDZEN5SzNSVHpVYTJmY2h0TUtvWWdRRHUtbTZXZjRpM29GbDZVLUpHbFU1eWt1ZTdmZzk2MTItdzdWcUlxYW1TdzJEck9GSzhsN0I0WDFyY09wMTJoVTRqLXRnMG8?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_11088ca3787a",
+      "date": "2026-05-12",
+      "title": "레이언스, 1분기 영업이익 35억8400만원 흑자전환 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95NXhaa1E0WHMtODJCN0xaNkFZbWY2el94MTNIZ1NodTl5VzNRZFhFWGN1T1pGc1c5UU1kSndYaU9mZDVLNGdsc3RXRmtDXzh5dS1QZjVLR0tEOEE5T2FSNDlKNFVYejU1ODUyMl9OcFEwc1E?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_b0458e73b3a6",
+      "date": "2026-05-12",
+      "title": "[강송욱 변호사의 기업과 법] M&A를 통한 기업승계 성공전략 - fetv.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PbnhwSlQ1b2MtWkoxUmtsak1sQ0JSaVlRcjNKNjV2UjNGVkVjZzJkTExXS3FfZmNaZmtxU3NCU0d2bzdnby02dnplSDhmc1dFMjNCMWFkX2p0YmctUjNuakJ5dGFPTGFW?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2780,14 +2669,15 @@
       "_inferred": true
     },
     {
-      "id": "kr_b0458e73b3a6",
+      "id": "kr_a027dc477edb",
       "date": "2026-05-12",
-      "title": "[강송욱 변호사의 기업과 법] M&A를 통한 기업승계 성공전략 - fetv.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PbnhwSlQ1b2MtWkoxUmtsak1sQ0JSaVlRcjNKNjV2UjNGVkVjZzJkTExXS3FfZmNaZmtxU3NCU0d2bzdnby02dnplSDhmc1dFMjNCMWFkX2p0YmctUjNuakJ5dGFPTGFW?oc=5",
+      "title": "케이블TV 1위 헬로비전 흑자전환…희망퇴직 ‘착시효과’ - 에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HS3R6LVFXRmFVN242RkcwaE50azBsaElQR2xaT2NMRE9TQ2pxVWkzRXlHYmM5Ym9TQm8tNno4SjBYVWR4SFhIVkdUekZIS3RVMDVnMUJ2YXZOYVU?oc=5",
       "source": "google_news",
-      "sector": "",
+      "sector": "에너지",
       "sentiment": "",
-      "score": 0
+      "score": 0,
+      "_inferred": true
     },
     {
       "id": "kr_d58767de2232",
@@ -2798,17 +2688,6 @@
       "sector": "",
       "sentiment": "",
       "score": 0
-    },
-    {
-      "id": "kr_a027dc477edb",
-      "date": "2026-05-12",
-      "title": "케이블TV 1위 헬로비전 흑자전환…희망퇴직 ‘착시효과’ - 에너지경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HS3R6LVFXRmFVN242RkcwaE50azBsaElQR2xaT2NMRE9TQ2pxVWkzRXlHYmM5Ym9TQm8tNno4SjBYVWR4SFhIVkdUekZIS3RVMDVnMUJ2YXZOYVU?oc=5",
-      "source": "google_news",
-      "sector": "에너지",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
     },
     {
       "id": "kr_23bcb45c5553",
@@ -2822,23 +2701,23 @@
       "_inferred": true
     },
     {
-      "id": "kr_c7395230dcd2",
-      "date": "2026-05-11",
-      "title": "K-바이오, 1분기 어닝 서프라이즈…연간 실적도 '청신호' - 메디칼타임즈",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZLWZISW5VN25lY3gzUDFtTmI3VkRhYUZFVm5tTW5TRk5LbWplbWZIM1Z1NVp6R2FKZFlac0FWaXZtYmloenIxdTltc1YwWUYxNU96aWdzb3dYLWEyVzhta04tbkN5NWJVcGtBRkJaQWc?oc=5",
-      "source": "google_news",
-      "sector": "바이오/헬스케어",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
       "id": "kr_430c7e249f16",
       "date": "2026-05-12",
       "title": "서울반도체 1분기 영업이익 18억원… 흑자 전환 - 조선비즈 - Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmQ5bG9aMFFRSnlXU250dElCZzZ2cTFfTnowUTR2RkJ1dnp5b1M3UkQyMGhvOFFzdVlJOS1sWHpwX2ZhUGhjSVZabE90OVNWcGg3dmwwbUNGemFGTy01V0lFRDFWbFNQTXFucVVlTjdNYm1mcld0VnlXeUNSendIUkJB0gGWAUFVX3lxTE1kUjNTeTRyTUR4Y2tmUWVPdVZIa25CSm5oUXdlV1VTRURhUi05MFBnd1U1cFp3WlFvYW8tbU1YU2JzZUUxOXhEdnpLV3Vxb3ZScHRKTW93aWt6R0tVU2VEakUtOVJ5RG56dEM5YlBNa0FXMkhuWktlRlBPVTVXLTkyN1Q1UkdORDJPdEpEcEswNzZ4R1Jldw?oc=5",
       "source": "google_news",
       "sector": "반도체",
+      "sentiment": "",
+      "score": 0,
+      "_inferred": true
+    },
+    {
+      "id": "kr_c7395230dcd2",
+      "date": "2026-05-11",
+      "title": "K-바이오, 1분기 어닝 서프라이즈…연간 실적도 '청신호' - 메디칼타임즈",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZLWZISW5VN25lY3gzUDFtTmI3VkRhYUZFVm5tTW5TRk5LbWplbWZIM1Z1NVp6R2FKZFlac0FWaXZtYmloenIxdTltc1YwWUYxNU96aWdzb3dYLWEyVzhta04tbkN5NWJVcGtBRkJaQWc?oc=5",
+      "source": "google_news",
+      "sector": "바이오/헬스케어",
       "sentiment": "",
       "score": 0,
       "_inferred": true
@@ -2865,10 +2744,10 @@
       "_inferred": true
     },
     {
-      "id": "kr_4320ce9a138d",
-      "date": "2026-05-12",
-      "title": "위메이드, 1분기 영업익 85억원 '흑자 전환'…3분기 연속 흑자 행진 - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wYUktcDV2ZlpCeTROcnVxOURlOFJPbTYwYWY1Yy1iZnpRTWdjU0o4VHV1WU1rMHp3TGRrbTlXbW81LTI2WnZBVlBCSVo2R2FrWE5DdHZ4UUZDRWZrcGcwRzJ4am80bjdERVFQeVFQVzQ1VWc?oc=5",
+      "id": "kr_42532918af47",
+      "date": "2026-05-11",
+      "title": "임윤아 디티앤씨 사장 \"턴키 CRO로 차별화…흑자전환 승부\" - 데일리팜",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuUGpDNkRHNV81aWx6dE4xcFo0blVIY3N2ZTdqNEFnMkpJTmlzWlRIUUhFeWw3UFdnZGlLeWxaRXBSa2ozRHhNbDFJUEVrMXNNODF4TE9n?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2879,16 +2758,6 @@
       "date": "2026-05-12",
       "title": "위메이드, 1분기 영업익 85억원 흑자전환 - 매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03RGd4eUpSeVl6QkhkNERvQTZobld5UEd6QnJ4RE95dWJqMS0tWHRxTWlvbmE5c3UtSXNvWU5rb2dUNjJLOGRJLWk4ZThZcmNXWHBPTC1Ic1VFRUp0QW1oZFJyWmo?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "kr_42532918af47",
-      "date": "2026-05-11",
-      "title": "임윤아 디티앤씨 사장 \"턴키 CRO로 차별화…흑자전환 승부\" - 데일리팜",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuUGpDNkRHNV81aWx6dE4xcFo0blVIY3N2ZTdqNEFnMkpJTmlzWlRIUUhFeWw3UFdnZGlLeWxaRXBSa2ozRHhNbDFJUEVrMXNNODF4TE9n?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -2956,17 +2825,6 @@
       "score": 0
     },
     {
-      "id": "kr_5910b0e41958",
-      "date": "2026-05-12",
-      "title": "'흑자 전환' 롯데컬처웍스, 극장 넘어 ‘경험 플랫폼' 통했다 [엔터코노미] - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00VDRsaUNEMUlzcEVxMmlSLVllanFkcl9RSzNqU3hPMUVWSjFWUHAxellBTVdfX05jdkxwV3JPZnhaZ0VWcnBqN0VPU3lGQWc?oc=5",
-      "source": "google_news",
-      "sector": "IT/소프트웨어",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
       "id": "kr_01ef1c59ff55",
       "date": "2026-05-12",
       "title": "“또 사고 쳤다”…어닝 서프라이즈를 쇼크로 둔갑시킨 토스증권 - v.daum.net",
@@ -2978,20 +2836,31 @@
       "_inferred": true
     },
     {
-      "id": "kr_2bff46c88961",
+      "id": "kr_5910b0e41958",
       "date": "2026-05-12",
-      "title": "롯데케미칼 분기 흑자 전환에도 안심 못해, 이영준 동남아 사업 손실에 부담 - 비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUSFVtb3lGdEhxUmw0V1lzUkRuSi00X3YyMjBVaEdmVkJ5amk3a3Q3ZE9hM1pLeG5OUjY2OWtLaWU5SDE0MmVrNkRxQkRqUTFRM3JtN3ZzZTMxTUJlWTd2eFNETEl5TjVyY2ZldG83SXllTGM?oc=5",
+      "title": "'흑자 전환' 롯데컬처웍스, 극장 넘어 ‘경험 플랫폼' 통했다 [엔터코노미] - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00VDRsaUNEMUlzcEVxMmlSLVllanFkcl9RSzNqU3hPMUVWSjFWUHAxellBTVdfX05jdkxwV3JPZnhaZ0VWcnBqN0VPU3lGQWc?oc=5",
       "source": "google_news",
-      "sector": "",
+      "sector": "IT/소프트웨어",
       "sentiment": "",
-      "score": 0
+      "score": 0,
+      "_inferred": true
     },
     {
       "id": "kr_28c8d205e4d8",
       "date": "2026-05-12",
       "title": "스트래터스 프로퍼티즈, 1분기 흑자전환·주당 0.82달러..청산계획 의결 - 매일경제 마켓",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnel9jeWl2cEhuRVdqUHVQWnItQ2p2d3p2T21PTzJuTmRreHpZXzZuTmcxQXpQUmxwMnQ5cVpWRy16UUY1Mi0tX08zVFowMXh2b1E?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_2bff46c88961",
+      "date": "2026-05-12",
+      "title": "롯데케미칼 분기 흑자 전환에도 안심 못해, 이영준 동남아 사업 손실에 부담 - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUSFVtb3lGdEhxUmw0V1lzUkRuSi00X3YyMjBVaEdmVkJ5amk3a3Q3ZE9hM1pLeG5OUjY2OWtLaWU5SDE0MmVrNkRxQkRqUTFRM3JtN3ZzZTMxTUJlWTd2eFNETEl5TjVyY2ZldG83SXllTGM?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3008,6 +2877,16 @@
       "score": 0
     },
     {
+      "id": "kr_fd4d8ee3d191",
+      "date": "2026-05-12",
+      "title": "‘붉은사막’ 날아오른 펄어비스, 1분기 영업익 2121억 ‘어닝 서프라이즈’ - 국민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YMTlNbWlrWnV1dHREYXZxQTM2NlV2QkRLSThNTWhHbVFmdEJyc2hPajhyb2JaLXVLUmtSdmF4aFJVdFZUMmRHdkowUlR1NDE5RnVTYkl3OUJwOWZCdlluSXFXLW42eDTSAWxBVV95cUxQQ0kwNnJfWlNGd3UweXlVWlNIRWRvWkpid21ZbENpNlNhbTRDbU5xMnVuZ0ROTVQ2cmpaYU1fRmJ4WTlmSHVpWmhlNl9vR0dPbEt6RTM0dnZHdzZuWkw5RVVFN245eUxlQ1d6c1g?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "kr_601a32421ed4",
       "date": "2026-05-12",
       "title": "[저축銀 M&A 해부-①] 김희상의 애큐온저축은행, 1조 빅딜 중심에 서다 - 매일일보",
@@ -3017,16 +2896,6 @@
       "sentiment": "",
       "score": 0,
       "_inferred": true
-    },
-    {
-      "id": "kr_fd4d8ee3d191",
-      "date": "2026-05-12",
-      "title": "‘붉은사막’ 날아오른 펄어비스, 1분기 영업익 2121억 ‘어닝 서프라이즈’ - 국민일보",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YMTlNbWlrWnV1dHREYXZxQTM2NlV2QkRLSThNTWhHbVFmdEJyc2hPajhyb2JaLXVLUmtSdmF4aFJVdFZUMmRHdkowUlR1NDE5RnVTYkl3OUJwOWZCdlluSXFXLW42eDTSAWxBVV95cUxQQ0kwNnJfWlNGd3UweXlVWlNIRWRvWkpid21ZbENpNlNhbTRDbU5xMnVuZ0ROTVQ2cmpaYU1fRmJ4WTlmSHVpWmhlNl9vR0dPbEt6RTM0dnZHdzZuWkw5RVVFN245eUxlQ1d6c1g?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
     },
     {
       "id": "kr_d9736ef6e685",
@@ -3050,23 +2919,23 @@
       "_inferred": true
     },
     {
-      "id": "kr_92bfdb69a899",
-      "date": "2026-05-12",
-      "title": "신세계, 본업 경쟁력 강화 효과…백화점 최대 실적·면세 흑자전환 - 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Nc3NsSFdhMkVaUUtrSjZzZW5hRVBVcTJWak9wVEJJeS1vTXdXUkVURnQzSE0yNk8wVVFsUXg5M3dNc2dpTGxieXIxNWYwbXJXMXdoVkdfNG50bVUtTVFtRUtleS0?oc=5",
-      "source": "google_news",
-      "sector": "소비재",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
       "id": "kr_d4b750a41b60",
       "date": "2026-05-12",
       "title": "‘흑자 전환’ 원익IPS, 3분기부터 '신규 파운드리' 매출 반영 - 금융소비자뉴스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82UlNTVDJudjJnMGJuZDA0UlMtYUJXV3RHcWx1TldMcE9TYmYwSXdiV1JVRDJlZkItT2M5WllYREYxR0VYNEhieEpmY0loOU1yeTZBcFZHOG4xczV1WVRnZmJPamNyTnNfWnc?oc=5",
       "source": "google_news",
       "sector": "반도체",
+      "sentiment": "",
+      "score": 0,
+      "_inferred": true
+    },
+    {
+      "id": "kr_92bfdb69a899",
+      "date": "2026-05-12",
+      "title": "신세계, 본업 경쟁력 강화 효과…백화점 최대 실적·면세 흑자전환 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Nc3NsSFdhMkVaUUtrSjZzZW5hRVBVcTJWak9wVEJJeS1vTXdXUkVURnQzSE0yNk8wVVFsUXg5M3dNc2dpTGxieXIxNWYwbXJXMXdoVkdfNG50bVUtTVFtRUtleS0?oc=5",
+      "source": "google_news",
+      "sector": "소비재",
       "sentiment": "",
       "score": 0,
       "_inferred": true
@@ -3094,16 +2963,6 @@
       "_inferred": true
     },
     {
-      "id": "kr_f6718bfb849a",
-      "date": "2026-05-12",
-      "title": "레이언스, 1Q 연결 영업이익 35억...흑자전환 - 데이터투자",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVdnNBVTBZMTRkTnI0akxjQUhremJGXzJHbUM0R3FkcjA3REpmWjJIUDVHNndfajAwNEVhV1Jzb3NVOVlnMjdZbWtnNnBSVnJlUEVJOXlNOHlhWEJXM3V6NnhzelZXX3AxNHZvRW9mbDhDZw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "kr_c3d5035788f2",
       "date": "2026-05-12",
       "title": "하나은행·기보, 인수·합병(M&A) 중소기업 지원 확대 - 핸드메이커",
@@ -3115,10 +2974,30 @@
       "_inferred": true
     },
     {
+      "id": "kr_f6718bfb849a",
+      "date": "2026-05-12",
+      "title": "레이언스, 1Q 연결 영업이익 35억...흑자전환 - 데이터투자",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVdnNBVTBZMTRkTnI0akxjQUhremJGXzJHbUM0R3FkcjA3REpmWjJIUDVHNndfajAwNEVhV1Jzb3NVOVlnMjdZbWtnNnBSVnJlUEVJOXlNOHlhWEJXM3V6NnhzelZXX3AxNHZvRW9mbDhDZw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "kr_1040313ff86e",
       "date": "2026-05-12",
       "title": "위메이드, 1Q 연결 영업이익 84억...흑자전환 - 데이터투자",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByTjNhS3ZxZDVUYWg3V05GS3JPbFVlbTIwZ09GVlVMY09RM1FCdnJKejEtaExHdURYcS1nNUtURFdiaUxNVVFXdnVIODZsSVBieHYxV2Y1cWFBQnREal9nYkxNa2NINTdWVS1kanM3b1BzeGs?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_5a472d03e63e",
+      "date": "2026-05-12",
+      "title": "NHN벅스, 1Q 영업이익 1억...흑자전환 - 데이터투자",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMdVh4Mi03cUdrZy1iUzJyczFJRVNZZkRYYzdRTVBNazc4azkzVkdBWGttN2YyT3RPNnhYM1dWbHg2NE42Vm1jeTNXYWNFbFpkMnB5M3c4WGxWaDVmT2xFcFlJbTJjNmpFbmtxaThmNEFmdw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3146,33 +3025,23 @@
       "score": 0
     },
     {
-      "id": "kr_aca4dcdf6739",
-      "date": "2026-05-12",
-      "title": "신세계, 백화점 최대 실적·면세점 흑자전환…1분기 영업익 50% `껑충` - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TRVBWWFZNZVNDVnI5N1NrOU5aa0xMdm1seFhEU1I4OEZKb3ZOTkNhendmbnByOHVCcXhuWS1aZzl1cjd6Q09SU2EyU2Q1N1hvVlJjc29HWkRHbkdSRW9hTVIxQzU?oc=5",
-      "source": "google_news",
-      "sector": "소비재",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_5a472d03e63e",
-      "date": "2026-05-12",
-      "title": "NHN벅스, 1Q 영업이익 1억...흑자전환 - 데이터투자",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMdVh4Mi03cUdrZy1iUzJyczFJRVNZZkRYYzdRTVBNazc4azkzVkdBWGttN2YyT3RPNnhYM1dWbHg2NE42Vm1jeTNXYWNFbFpkMnB5M3c4WGxWaDVmT2xFcFlJbTJjNmpFbmtxaThmNEFmdw?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "kr_28052e9b418d",
       "date": "2026-05-12",
       "title": "삼성증권, 1분기 ‘어닝 서프라이즈’…증권가 목표가 줄상향 - S저널",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Bc0NHdTBMcjBDRUwxQXM4eUlNMS1JNGxNelljSjczR0JESFZoa1A5TWhVeWU0NGpPUHBQXzlCLTBSWTVveUdZMC1URm95dVRJbnQydFVUU0ZrNHhQNkVBMEhaQXozcmJkUHR5YlVR?oc=5",
       "source": "google_news",
       "sector": "금융",
+      "sentiment": "",
+      "score": 0,
+      "_inferred": true
+    },
+    {
+      "id": "kr_aca4dcdf6739",
+      "date": "2026-05-12",
+      "title": "신세계, 백화점 최대 실적·면세점 흑자전환…1분기 영업익 50% `껑충` - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TRVBWWFZNZVNDVnI5N1NrOU5aa0xMdm1seFhEU1I4OEZKb3ZOTkNhendmbnByOHVCcXhuWS1aZzl1cjd6Q09SU2EyU2Q1N1hvVlJjc29HWkRHbkdSRW9hTVIxQzU?oc=5",
+      "source": "google_news",
+      "sector": "소비재",
       "sentiment": "",
       "score": 0,
       "_inferred": true
@@ -3208,6 +3077,16 @@
       "score": 0
     },
     {
+      "id": "kr_d8dcf69d94ad",
+      "date": "2026-05-12",
+      "title": "롯데컬처웍스, 1분기 영업익 79억원 흑자전환… IP 기반 구조 강화 - 로이슈",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xWGFKSkthSFQ0bjcyV0ttWnVCMGtoaG4yOXozcmctcFZ0UzFXcUR4c09NbWthSFJnVjN1TkpZS1FfNTJiOTUtNFdjdkFOWThoNVhXYjlyMFJIdW1RRTduWkRsRlptelMtQ0VTUG9tOEhuUGhsLTVocE53?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "kr_4a5d41c3aaeb",
       "date": "2026-05-12",
       "title": "[12일 특징주] 롯데케미칼, 1분기 흑자전환에도 16% '급락'…하반기 업황 우려 - 뉴스웍스",
@@ -3218,10 +3097,10 @@
       "score": 0
     },
     {
-      "id": "kr_d8dcf69d94ad",
+      "id": "kr_393a53a65480",
       "date": "2026-05-12",
-      "title": "롯데컬처웍스, 1분기 영업익 79억원 흑자전환… IP 기반 구조 강화 - 로이슈",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xWGFKSkthSFQ0bjcyV0ttWnVCMGtoaG4yOXozcmctcFZ0UzFXcUR4c09NbWthSFJnVjN1TkpZS1FfNTJiOTUtNFdjdkFOWThoNVhXYjlyMFJIdW1RRTduWkRsRlptelMtQ0VTUG9tOEhuUGhsLTVocE53?oc=5",
+      "title": "2년반만 흑자전환에도…롯데케미칼, 하반기 불확실성에 '급락' - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GYTFnX19vQ25LSG5lOENoMDNtOGNQY2tSR08xc3hsNUI5NE5mWEU5d244cEVfUmJmbzVXSmtFYUVySGR3U0xrZXBvZWtkWHVhNmYteWY3LWRWUdIBVEFVX3lxTE52NEFveVlrcTdFamo1bDdQU3RDVFAyVGZ3cUdxOEoxdHZOUWRxT0hyamRhN0Fhb2NtV09kdHl4YVFkMHZNYUxMaHlQS1dLMnlweTRrdw?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3248,20 +3127,31 @@
       "score": 0
     },
     {
-      "id": "kr_393a53a65480",
+      "id": "kr_6a8d6e2108cb",
       "date": "2026-05-12",
-      "title": "2년반만 흑자전환에도…롯데케미칼, 하반기 불확실성에 '급락' - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GYTFnX19vQ25LSG5lOENoMDNtOGNQY2tSR08xc3hsNUI5NE5mWEU5d244cEVfUmJmbzVXSmtFYUVySGR3U0xrZXBvZWtkWHVhNmYteWY3LWRWUdIBVEFVX3lxTE52NEFveVlrcTdFamo1bDdQU3RDVFAyVGZ3cUdxOEoxdHZOUWRxT0hyamRhN0Fhb2NtV09kdHl4YVFkMHZNYUxMaHlQS1dLMnlweTRrdw?oc=5",
+      "title": "콜마홀딩스, 26년 1분기 영업이익 흑자전환… 당기순이익 132.93% 증가 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZUjN0Tm9ENjFuT0t2Umk4N2FKeDM4QU1HTWJlejgxUVN2QmRlU3Zya0FyUDI5XzBxRXhhN0hoTEpOZHdZQWwtLUNtVXZhODNBMHk2NmVuT1hScFpwWTQ3cmhDcGZYQWt2eUYzaWxOMEd2MDg?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "kr_6a8d6e2108cb",
+      "id": "kr_3dc1e8db0c88",
+      "date": "2026-05-11",
+      "title": "삼성증권, 시장 활황에 1분기 순익 4509억 '사상 최대' - 블로터",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOal83RmQ5NURlOFpQdUNpX01ZZlU0ZlBqbnZfcnoxeDBkVzlMTmdUN2xIb3R4QS1VdjV6V0o5TDVra2pqajFyc0hpRUVPV0pFUHgzOVdEMjZHWnRGQWVlSU5kVi05Qms00gFsQVVfeXFMTkJpYUZsdVk5LXV6cTJXUmtKaXdBNlFYWkwxRXhyRzNZT2p6U1JQaEpMSm1DOURwTkZTRGJHc1RtUENnQ3lsdnFZSFJOWlN6TDE3SEZ5cTVzX25iZDZZUkZILVNjMnJUMkFEWHpM?oc=5",
+      "source": "google_news",
+      "sector": "금융",
+      "sentiment": "",
+      "score": 0,
+      "_inferred": true
+    },
+    {
+      "id": "kr_c1827f5d5276",
       "date": "2026-05-12",
-      "title": "콜마홀딩스, 26년 1분기 영업이익 흑자전환… 당기순이익 132.93% 증가 - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZUjN0Tm9ENjFuT0t2Umk4N2FKeDM4QU1HTWJlejgxUVN2QmRlU3Zya0FyUDI5XzBxRXhhN0hoTEpOZHdZQWwtLUNtVXZhODNBMHk2NmVuT1hScFpwWTQ3cmhDcGZYQWt2eUYzaWxOMEd2MDg?oc=5",
+      "title": "1분기 흑자전환 성공 위메이드, 하반기 신작 라인업 출격 대기 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQUzBnYU4xV3BtbF9JUl85NEpORFpUendzODVvNFo5c2hUcS1FNWpvaWVJelNTN3JJR3lFdHYtTWJxZkRTWjJkT2hsdnRBMmxUdjluLXc4R3gybzdx?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3279,25 +3169,14 @@
       "_inferred": true
     },
     {
-      "id": "kr_c1827f5d5276",
-      "date": "2026-05-12",
-      "title": "1분기 흑자전환 성공 위메이드, 하반기 신작 라인업 출격 대기 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQUzBnYU4xV3BtbF9JUl85NEpORFpUendzODVvNFo5c2hUcS1FNWpvaWVJelNTN3JJR3lFdHYtTWJxZkRTWjJkT2hsdnRBMmxUdjluLXc4R3gybzdx?oc=5",
+      "id": "kr_262e545430ad",
+      "date": "2026-05-11",
+      "title": "롯데케미칼 1분기 영업익 735억원 흑자전환…\"운영최적화\"(종합) - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CWjN0NExMWnVPV056eGN6WTBaTW9mMWhJMWxUMnFPM0dBS2VhX0MyS1ZaMGIzVFJweDYxaFBndGZnQjhSNVl3SndPeXJ4TFZ3MFNPcjMtdDJwOWhoZzVhZtIBYEFVX3lxTE9CWjN0NExMWnVPV056eGN6WTBaTW9mMWhJMWxUMnFPM0dBS2VhX0MyS1ZaMGIzVFJweDYxaFBndGZnQjhSNVl3SndPeXJ4TFZ3MFNPcjMtdDJwOWhoZzVhZg?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
-    },
-    {
-      "id": "kr_3dc1e8db0c88",
-      "date": "2026-05-11",
-      "title": "삼성증권, 시장 활황에 1분기 순익 4509억 '사상 최대' - 블로터",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOal83RmQ5NURlOFpQdUNpX01ZZlU0ZlBqbnZfcnoxeDBkVzlMTmdUN2xIb3R4QS1VdjV6V0o5TDVra2pqajFyc0hpRUVPV0pFUHgzOVdEMjZHWnRGQWVlSU5kVi05Qms00gFsQVVfeXFMTkJpYUZsdVk5LXV6cTJXUmtKaXdBNlFYWkwxRXhyRzNZT2p6U1JQaEpMSm1DOURwTkZTRGJHc1RtUENnQ3lsdnFZSFJOWlN6TDE3SEZ5cTVzX25iZDZZUkZILVNjMnJUMkFEWHpM?oc=5",
-      "source": "google_news",
-      "sector": "금융",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
     },
     {
       "id": "kr_9c78867f8884",
@@ -3342,30 +3221,10 @@
       "score": 0
     },
     {
-      "id": "kr_262e545430ad",
-      "date": "2026-05-11",
-      "title": "롯데케미칼 1분기 영업익 735억원 흑자전환…\"운영최적화\"(종합) - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CWjN0NExMWnVPV056eGN6WTBaTW9mMWhJMWxUMnFPM0dBS2VhX0MyS1ZaMGIzVFJweDYxaFBndGZnQjhSNVl3SndPeXJ4TFZ3MFNPcjMtdDJwOWhoZzVhZtIBYEFVX3lxTE9CWjN0NExMWnVPV056eGN6WTBaTW9mMWhJMWxUMnFPM0dBS2VhX0MyS1ZaMGIzVFJweDYxaFBndGZnQjhSNVl3SndPeXJ4TFZ3MFNPcjMtdDJwOWhoZzVhZg?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "kr_5e7b18322006",
       "date": "2026-05-12",
       "title": "위메이드 1분기 흑자 전환…블록체인 매출 성장세 - 서울경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SVDJVTE1QdTNYdE1CVm0tQzlsSVdOMFBqd3JWTVZkNlU2NUQtaFlDenhHeDNNZ1gyMkhiZ2sxbXZaMk82YjNCM2N1ZTJmRC1nWlHSAVNBVV95cUxNeVpWSm1rVVZ5X2NnVEdDZ05PUnY2dUt2ZWhWLVJ4M0dUZTUtU3M0eE9mSjVUcGpZUDRDVlZpRFM0UFBPd296cVh3aDNSMXJGY01EUQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
-      "id": "kr_8338f42e5148",
-      "date": "2026-05-12",
-      "title": "딜라이트룸, M&A 사업부 딜라이트허브 통해 글로벌 학습 앱 ‘노지(noji)’ 인수 및 확장 본격화 - beSUCCESS",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE43MGE3Sy1GRC1fN3hyd3F5ZVdJeXJ3ZUE1ajZKV2cxTUlIZ3hKUmd2bDZlTVctTEd0bF9oNkpsOFRoWFQ5TVE?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3382,15 +3241,14 @@
       "score": 0
     },
     {
-      "id": "kr_43ea4e9fca93",
+      "id": "kr_8338f42e5148",
       "date": "2026-05-12",
-      "title": "루닛, 1분기 매출 240억원 ‘역대 최대’… 적자 폭 줄이며 흑자 전환 시동 - IT조선",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HbDRTR3FfcWVYeHNpT2RjQnh0ODRWcFFKdGpJc0pybkNtS184c1hGMmgtSjUySGVuYzJnMjk5V1FHc2F2YlR6TG5adnpyNzZUb2JJczI0Q2Utdl94OUNMWFdaZjlIQW4wVHB0OFNhV0_SAXRBVV95cUxNdXFCNC1yYXkyZWQ3R2ZKaVNienl0VFdFT3N5dlI4dVVYeVRCNjd1d19yZ011Q0NDOEdJQTZYcU9FT2Uwa2dLdDgyaTIzNmZoWVc2SHREV1Z6T3pBZW1zLTJ2THN6TTNBMlJHTmhTd0ktNGJnSg?oc=5",
+      "title": "딜라이트룸, M&A 사업부 딜라이트허브 통해 글로벌 학습 앱 ‘노지(noji)’ 인수 및 확장 본격화 - beSUCCESS",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE43MGE3Sy1GRC1fN3hyd3F5ZVdJeXJ3ZUE1ajZKV2cxTUlIZ3hKUmd2bDZlTVctTEd0bF9oNkpsOFRoWFQ5TVE?oc=5",
       "source": "google_news",
-      "sector": "조선/방산",
+      "sector": "",
       "sentiment": "",
-      "score": 0,
-      "_inferred": true
+      "score": 0
     },
     {
       "id": "kr_fd7daec8fa24",
@@ -3488,6 +3346,17 @@
       "score": 0
     },
     {
+      "id": "kr_86ffffff463b",
+      "date": "2026-05-12",
+      "title": "롯데케미칼·LG화학, 흑자 전환에도…석화업계 \"구조조정 불가피\" - newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkWEI5WkNBNER5a3dEOWpOOVBhWjRWLVpfZzllNnc1dG5CQVNFcldOT1FpNUpSMF9pUGJhQkNIU0ZwRW5fZ0pCYThydE5qb3RWSHJtekYwcmF0Ml9nZzA4dNIBeEFVX3lxTE4tTC05RXVmMjJuRkF0Xy1xVDQzQTdFVDBWcmJtLU0yNGkxbDZlbkZTOUluTUUwYUFmQ05acnMtX2ZHN2hCTmhUNlFXdDY3NHpueFVaaDRodS1Zc0xyd2xKSnh3N3FMb1ZJZS1aM2NGOEM3YVNGbElHUg?oc=5",
+      "source": "google_news",
+      "sector": "철강/소재",
+      "sentiment": "",
+      "score": 0,
+      "_inferred": true
+    },
+    {
       "id": "kr_8cd3662f5798",
       "date": "2026-05-12",
       "title": "위메이드, 1분기 영업익 85억원…흑자전환 - 뉴스핌",
@@ -3504,17 +3373,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JWDAtUm1MYk83YThNNWFvX0xNRG56NTF1emxfZ2xFdXNsQXhfQzRTWkVXVVRMWmpGQXNoUWN3NEJYSVVhNzFtTWdOR0d4Q0xFRjZ4bmFXSHdVQm5pWnlsWHFURmJ5b3lsRkFJ?oc=5",
       "source": "google_news",
       "sector": "소비재",
-      "sentiment": "",
-      "score": 0,
-      "_inferred": true
-    },
-    {
-      "id": "kr_86ffffff463b",
-      "date": "2026-05-12",
-      "title": "롯데케미칼·LG화학, 흑자 전환에도…석화업계 \"구조조정 불가피\" - newsis.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkWEI5WkNBNER5a3dEOWpOOVBhWjRWLVpfZzllNnc1dG5CQVNFcldOT1FpNUpSMF9pUGJhQkNIU0ZwRW5fZ0pCYThydE5qb3RWSHJtekYwcmF0Ml9nZzA4dNIBeEFVX3lxTE4tTC05RXVmMjJuRkF0Xy1xVDQzQTdFVDBWcmJtLU0yNGkxbDZlbkZTOUluTUUwYUFmQ05acnMtX2ZHN2hCTmhUNlFXdDY3NHpueFVaaDRodS1Zc0xyd2xKSnh3N3FMb1ZJZS1aM2NGOEM3YVNGbElHUg?oc=5",
-      "source": "google_news",
-      "sector": "철강/소재",
       "sentiment": "",
       "score": 0,
       "_inferred": true
@@ -3540,16 +3398,6 @@
       "score": 0
     },
     {
-      "id": "kr_a749d6821750",
-      "date": "2026-05-12",
-      "title": "[특징주] 달바글로벌, 1분기 어닝 서프라이즈에 14%대 급등…장중 사상 최고가 경신 - 와이드경제",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPRnF3LW9NdzZ6MjNZcTlFZGQ5WDNHc213ajV3UkdMM1REMy1KR0pvZWh2SWo5MUI3QjFfTGZxRWxOZWlDbWl1Q1lQSkY4R1RCei1GTFFJaFBBUUNwLTVHWF9Zb2pVdTJUWWxtNg?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "kr_f79ee627e933",
       "date": "2026-05-12",
       "title": "진에어, 1분기 영업익 576억…4개 분기 만에 흑자 전환 - 이데일리",
@@ -3560,20 +3408,20 @@
       "score": 0
     },
     {
-      "id": "kr_de96556b7de6",
+      "id": "kr_a749d6821750",
       "date": "2026-05-12",
-      "title": "위메이드, 1분기 영업익 85억원…흑자전환 - 데일리한국",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jdkhVMGdNV3drMTM5OW01d0hCSHNKY2tlMHpPMDVUSUl1bFZ6TTdKMzhEY1M5UlpzcExUNk01eGZVMk5Ya21yWkJNRlZjQkd1RE5IVXgxYmR6cDM1dU9fWUFKdFpoVTFyQ0FZZzFid9IBc0FVX3lxTE9maEJQbFV4cFNvbEVndGpzc3M4bW0ySlBYT01qMkdsZ09ubU5VcUQ2NWFYT0xlOE9pdDcwbzIyd2ktaEY0XzRlRDRYX0hsXzNJNHJDTFR0b3Z6Z3JSdVdXYndvMkxHc2xaN0tZSmo5bGYxME0?oc=5",
+      "title": "[특징주] 달바글로벌, 1분기 어닝 서프라이즈에 14%대 급등…장중 사상 최고가 경신 - 와이드경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPRnF3LW9NdzZ6MjNZcTlFZGQ5WDNHc213ajV3UkdMM1REMy1KR0pvZWh2SWo5MUI3QjFfTGZxRWxOZWlDbWl1Q1lQSkY4R1RCei1GTFFJaFBBUUNwLTVHWF9Zb2pVdTJUWWxtNg?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "kr_260908e6eea8",
+      "id": "kr_de96556b7de6",
       "date": "2026-05-12",
-      "title": "티센크루프 누세라 2026년 2분기: 사상 최대 수주에도 녹색수소 비용 부담 - Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ELUI5YlV1elo0OHd4ZUhqeVYzWnVFOE9vZlh4am03cDhiMXppUVFrbWp5WndwODRzOWNaNzJtaFpweDlEdXl0dUhMdVozOW54N3RQQmhaVHR6Wm1VUTNwdnl1Um41d2d4RE9tZ3FSNG4?oc=5",
+      "title": "위메이드, 1분기 영업익 85억원…흑자전환 - 데일리한국",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jdkhVMGdNV3drMTM5OW01d0hCSHNKY2tlMHpPMDVUSUl1bFZ6TTdKMzhEY1M5UlpzcExUNk01eGZVMk5Ya21yWkJNRlZjQkd1RE5IVXgxYmR6cDM1dU9fWUFKdFpoVTFyQ0FZZzFid9IBc0FVX3lxTE9maEJQbFV4cFNvbEVndGpzc3M4bW0ySlBYT01qMkdsZ09ubU5VcUQ2NWFYT0xlOE9pdDcwbzIyd2ktaEY0XzRlRDRYX0hsXzNJNHJDTFR0b3Z6Z3JSdVdXYndvMkxHc2xaN0tZSmo5bGYxME0?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3591,10 +3439,112 @@
       "_inferred": true
     },
     {
+      "id": "kr_260908e6eea8",
+      "date": "2026-05-12",
+      "title": "티센크루프 누세라 2026년 2분기: 사상 최대 수주에도 녹색수소 비용 부담 - Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ELUI5YlV1elo0OHd4ZUhqeVYzWnVFOE9vZlh4am03cDhiMXppUVFrbWp5WndwODRzOWNaNzJtaFpweDlEdXl0dUhMdVozOW54N3RQQmhaVHR6Wm1VUTNwdnl1Um41d2d4RE9tZ3FSNG4?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
       "id": "kr_e366dda1b109",
       "date": "2026-05-12",
       "title": "'사상 최대 실적' 민음사...책 안 읽는다는데 왜? - 이투데이",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzWDA1MTRUV2NqRUFnSncyb1FNdm9hWDBWVkpRYnQ2TUFvRnVMTk9TR194dHc3RE1tN3JGR2xoZ2p2bDFUZGlKY3hwTFo1RklfOWhjSg?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_a2a9f40ab16a",
+      "date": "2026-05-12",
+      "title": "[마켓포인트] 에쓰오일, 1분기 흑자 전환 성공...유가 상승 영향 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UQi10ajJ4UW5oTV9nbWFMeE1MQUVGeUh2TEdWUzd0SV9MQkw4WHMyUU8yb2JyZFR3VVloLXJSdmhlek1iYzdoOEZOYTgyZnZGQWNSdEpWRFN4OWpRTllCVWJpc2lvTTFKSzZYdTdxa1ozbEXSAXdBVV95cUxPWmd2aWdYVm1aRXQ0cXYwWDB4bjJrOXctODFCWXpfdjZORElYcGNZN1RXNlM2VG1TNldoRlhoZGRCM3hRUDRCM1hZUTBtb1U5aHo3S19hb2xCaXBqemlpYzBzLWhFckkzQnNqNWdEcnNxeTIzMjcwUQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_2ea16ebe772c",
+      "date": "2026-05-12",
+      "title": "씨어스, 1Q 흑자 전환·매출 700%↑···AI 병상 모니터링 플랫폼 사업성 입증 - 더바이오",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfRGpqRlZoV1JEdzZ0bnQ0amdac3BBSGU3cW5fYjN6ZktUYTljVW01TGFDM1RwYzFCZFFscHFIdTFvWGJFRnhOVEFKOHB4NEpLZjYyYzBQNXpFd1ZHUm9pQjZNUFNDT2JPSXdtVVVVVnDSAXBBVV95cUxQX0RqakZWaFdSRHc2dG50NGpnWnNwQUhlN3FuX2IzemZLVGE5Y1VtNUxhQzNUcGMxQmRRbHBxSHUxb1hiRUZ4TlRBSjhweDRKS2Y2MmMwUDV6RXdWR1JvaUI2TVBTQ09iT0l3bVVVVVZw?oc=5",
+      "source": "google_news",
+      "sector": "바이오/헬스케어",
+      "sentiment": "",
+      "score": 0,
+      "_inferred": true
+    },
+    {
+      "id": "kr_c7fa0d579fae",
+      "date": "2026-05-12",
+      "title": "HP, 세계 최초 키보드형 AI PC `엘리트보드 G1a` 인도 출시 [AI 인포그래픽] - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuQm9sLVhwb2c4ckh0S0M0LXNvVG5UUnh1bXpZWDIzUFpqSVN2QlJfV1pGMy1DclhyOHlyMFNacVRSMkxtOW9raFFVb01UaEVOUHVrelNac2JWRG5lMmU4amlZMUo?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_7d099a3b04c5",
+      "date": "2026-05-12",
+      "title": "[AI의 종목 이야기] 서비스나우, M&A 위해 40억달러 채권 발행 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtVGxHNEVUQlZlMXNhWHFXNDZBcWduU1JHeHpqdkV1YUtDd3RvdHVWUGxyX1g4cnNxaU9FZ25BRmR3dkVCSmZ3UDd6eHBjdDg1bnQ0M2tidGU5cWU0?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_597c51d2d03e",
+      "date": "2026-05-11",
+      "title": "AI가 직접 쇼핑하고 결제한다... 서클, 세계 최초 AI 전용 결제 스택 출시 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BSnRCWXczcmxJbi1rRDhNS1hyU25yMW9pU21Tai1Md1U0Zl85NnBCWHlvWlRJSzlxNUNFeVRLOWJud0pRZ1VSMUlfQURaMDU1VWw4dkZack5lQmxHQVZhdjRPODl3RURYbHpycU8xV0h4U03SAXdBVV95cUxPcEhvYjJNdnNEajJUd2lJTXJhbWpmN3Q5V1RBQk9uRlNBc3pyZVZEcU8wWDhaWHRSRWJtLThYV25JNExOcEV0REZGQjVsNllxbTh2R0Q5XzhLaFpTSDBhaVRPYzlBVGZKRGZjVEFpbW5McHhlWlBFZw?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_7fdc911c029f",
+      "date": "2026-05-10",
+      "title": "中 유니트리, 세계 최초 휴머노이드 '앱 스토어' 운영 개시 - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5U1VmU3QzczVwaFliSnpSeTRPM1J1ZnVpdWdWYjhZYUlBcDczd1h3YjZYU2dpaFhxV2EtSkJCYlVicTlGOGxuZzluSFZvQ3JEMDRkU1ZNU2ZRZjQwOF9BcDJJVVZKZ2dySE82TQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_daedd4e5759d",
+      "date": "2026-05-10",
+      "title": "[한미재무학회] AI시대 성공적 M&A, 소유권 아닌 '잔여 통제권'이 판가름 - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44QnloZFZkdVJJV201SnlVY3hWdVFjcy1lM3hmVWhORjZxRkVhUjJUdmVvYXZnbGZlV2ZoSG1PMzY5cUU5Si1ib3BrdTRIdklCMjQtTGhuQnlpZ9IBXkFVX3lxTE1yMjZYbTJFYU9seGFKQzRRbklzN005QVhHUXJnZXJsRkFhR3M5M05heTdBdm5QRldzRG1VVV9Dajd3eXdTVGNHd21iVU5oYi1JcTdZWFUzTElyeTlCTEE?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
+    },
+    {
+      "id": "kr_30214534d3fc",
+      "date": "2026-05-11",
+      "title": "세계 최초 개발, 생성 엔진 최적화(GEO) & AI 최적화(AIO) 콘텐츠 생성 및 분석 플랫폼 - 에스비컨설팅 - 브랜드뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83eFBwU2RSY0wwZU4tcVFuSjJFV0xqRlNDYWg2OV9PRWdFdFlzU3h0SjMxc3lIbXZ3X0RPVjJkQlJyZzFwbWxvd3kwcWU0VjIzVHJVOFdQOWtucDlRamRnY2t2MTVHR2JLNnNFdw?oc=5",
+      "source": "google_news",
+      "sector": "IT/소프트웨어",
+      "sentiment": "",
+      "score": 0,
+      "_inferred": true
+    },
+    {
+      "id": "kr_5fbf14a55a04",
+      "date": "2026-05-11",
+      "title": "[K-AI 돋보기]③ 리벨리온·퓨리오사 '쩐의 전쟁'…결론은 M&A [넘버스] - 블로터",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tWWpnQTBNS2JnTEc4dzF1MGVaRExSZFlUZmRtcU1YdlJoSzNSUnB0OXRMcVh4N1NRelVVM3pFVVV5M0lBUGs5VldnVE1PRW84WXhjcmtfdGNueTJ5Yi1IS2FXQjl6Q05C0gFsQVVfeXFMT0VPdE90NGc1R2dCWDRjbXlUSWs2OTZkSDl5WmYwa25za3JOQVdyTGdTQjhLbF95ZURSdlF4dWN5RWFFUEp0UEJDaEJhUklZdWVuZ0dITzhxOGYxbTljV2NaWnVEWC1Nb1dlZnRy?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3621,20 +3571,20 @@
       "score": 0
     },
     {
-      "id": "kr_d9188d358987",
+      "id": "kr_3703eea61e85",
       "date": "2026-05-12",
-      "title": "영원무역홀딩스, 주주가치 제고 '1118억 자사주' 소각 결정 - 블로터",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05a2VZYmdtRmtjVW1VZzcxVmh6R0JsNDZlc1hZdEdEZzc3N3hHaEN2OXRaNFBCY2oxOHpyejlfbERwd3plOC1xaHFfekpiWWxoMUdPQ085cmJkTkxXR2lRamE4THJ3bGxu0gFsQVVfeXFMTTZyUWpoTmNOWGtCWjlQQ2JMR2tXVXRTZ211Q1ZwX1h2R3RNc2c1NEFCWHMtMjJGZDk0ZS1WMGN5eXFWYk1uQVB5QXM1SHc5NHA3bG9XUmdsX19MMURNZjliaDk5Q1FadWl2LS1I?oc=5",
+      "title": "7000피 질주에 황제주 속출…액면분할론 다시 고개 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIeTQydmlNNTJ4dUpHeUVrVDQ1VVRlRGlFLWdybGxFSWRvWWRTYmx6MWMxcEZZelJrMnNtdnczbFVxTlNPcUdZNjg4NU13Tjg?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
       "score": 0
     },
     {
-      "id": "kr_3703eea61e85",
+      "id": "kr_d9188d358987",
       "date": "2026-05-12",
-      "title": "7000피 질주에 황제주 속출…액면분할론 다시 고개 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIeTQydmlNNTJ4dUpHeUVrVDQ1VVRlRGlFLWdybGxFSWRvWWRTYmx6MWMxcEZZelJrMnNtdnczbFVxTlNPcUdZNjg4NU13Tjg?oc=5",
+      "title": "영원무역홀딩스, 주주가치 제고 '1118억 자사주' 소각 결정 - 블로터",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05a2VZYmdtRmtjVW1VZzcxVmh6R0JsNDZlc1hZdEdEZzc3N3hHaEN2OXRaNFBCY2oxOHpyejlfbERwd3plOC1xaHFfekpiWWxoMUdPQ085cmJkTkxXR2lRamE4THJ3bGxu0gFsQVVfeXFMTTZyUWpoTmNOWGtCWjlQQ2JMR2tXVXRTZ211Q1ZwX1h2R3RNc2c1NEFCWHMtMjJGZDk0ZS1WMGN5eXFWYk1uQVB5QXM1SHc5NHA3bG9XUmdsX19MMURNZjliaDk5Q1FadWl2LS1I?oc=5",
       "source": "google_news",
       "sector": "",
       "sentiment": "",
@@ -3827,16 +3777,6 @@
       "_inferred": true
     },
     {
-      "id": "kr_3d37db2b1590",
-      "date": "2026-05-12",
-      "title": "코미코, 무상증자 시행→주권매매거래 정지 - 톱스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WSjFJR0diMTN4WC1YRTBadFAtMnN1cmhwZElseUFBMDNsdVRBRFh5S0pmbWxGR3dUajZGU3pBN3FQY3JCRGhveEdNeW9xcTEtSTR5d0x5cHdFN2hkWDNseUVfeTh3TmtJSm9LSGkxTzVNUQ?oc=5",
-      "source": "google_news",
-      "sector": "",
-      "sentiment": "",
-      "score": 0
-    },
-    {
       "id": "kr_49ebacd09140",
       "date": "2026-05-10",
       "title": "[금융 Pick] 진옥동 회장 “성장할수록 주주환원 확대”…신한금융, 북중미서 ‘밸류업 2.0’ IR - 라이센스뉴스",
@@ -3846,6 +3786,16 @@
       "sentiment": "",
       "score": 0,
       "_inferred": true
+    },
+    {
+      "id": "kr_3d37db2b1590",
+      "date": "2026-05-12",
+      "title": "코미코, 무상증자 시행→주권매매거래 정지 - 톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WSjFJR0diMTN4WC1YRTBadFAtMnN1cmhwZElseUFBMDNsdVRBRFh5S0pmbWxGR3dUajZGU3pBN3FQY3JCRGhveEdNeW9xcTEtSTR5d0x5cHdFN2hkWDNseUVfeTh3TmtJSm9LSGkxTzVNUQ?oc=5",
+      "source": "google_news",
+      "sector": "",
+      "sentiment": "",
+      "score": 0
     },
     {
       "id": "kr_669f8c584d90",
