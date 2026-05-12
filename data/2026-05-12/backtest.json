@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "date": "2026-05-12",
+  "data": {
+    "date": "2026-05-12",
+    "recommended_sectors": [
+      "반도체",
+      "자동차",
+      "부동산/건설"
+    ],
+    "actual_top_sectors": [
+      "반도체",
+      "바이오/헬스케어",
+      "소비재"
+    ],
+    "accuracy": 0.33,
+    "hit_sectors": [
+      "반도체"
+    ],
+    "miss_sectors": [
+      "자동차",
+      "부동산/건설"
+    ]
+  }
+}
