@@ -2,17 +2,236 @@
   "ok": true,
   "date": "2026-05-12",
   "data": {
-    "last_updated": "2026-05-12T22:14:37.990157+09:00",
+    "last_updated": "2026-05-12T22:19:04.716532+09:00",
     "pipeline_status": "success",
     "ai_recommendation": {
       "sectors": [],
-      "reason": "",
-      "confidence": 0,
-      "generated_at": "2026-05-12T22:14:37.990157+09:00"
+      "reason": "뉴스 점수와 거래대금 비중 기반 자동 선정 (Gemini 대체)",
+      "confidence": 0.5,
+      "generated_at": "2026-05-12T22:19:04.716532+09:00"
     },
-    "korea_sector_ranking": [],
-    "us_sector_ranking": [],
-    "korea_sector_volume_distribution": [],
-    "us_sector_volume_distribution": []
+    "korea_sector_ranking": [
+      {
+        "sector": "반도체",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "바이오/헬스케어",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "소비재",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "조선/방산",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "금융",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "IT/소프트웨어",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "에너지",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "철강/소재",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "부동산/건설",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "2차전지",
+        "score": 0.0,
+        "sentiment": "negative"
+      }
+    ],
+    "us_sector_ranking": [
+      {
+        "sector": "소비재",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "금융",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "IT/소프트웨어",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "반도체",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "철강/소재",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "바이오/헬스케어",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "자동차",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "에너지",
+        "score": 0.0,
+        "sentiment": "negative"
+      }
+    ],
+    "korea_sector_volume_distribution": [
+      {
+        "sector": "반도체",
+        "volume_amount": 30196272719015,
+        "ratio": 0.4436
+      },
+      {
+        "sector": "기타",
+        "volume_amount": 25827312363327,
+        "ratio": 0.3794
+      },
+      {
+        "sector": "자동차",
+        "volume_amount": 4724537223185,
+        "ratio": 0.0694
+      },
+      {
+        "sector": "2차전지",
+        "volume_amount": 2035315800200,
+        "ratio": 0.0299
+      },
+      {
+        "sector": "조선/방산",
+        "volume_amount": 2008740653000,
+        "ratio": 0.0295
+      },
+      {
+        "sector": "부동산/건설",
+        "volume_amount": 932256810200,
+        "ratio": 0.0137
+      },
+      {
+        "sector": "금융",
+        "volume_amount": 725570054360,
+        "ratio": 0.0107
+      },
+      {
+        "sector": "철강/소재",
+        "volume_amount": 631616796500,
+        "ratio": 0.0093
+      },
+      {
+        "sector": "통신/미디어",
+        "volume_amount": 435909634350,
+        "ratio": 0.0064
+      },
+      {
+        "sector": "바이오/헬스케어",
+        "volume_amount": 225496250200,
+        "ratio": 0.0033
+      },
+      {
+        "sector": "IT/소프트웨어",
+        "volume_amount": 187562481800,
+        "ratio": 0.0028
+      },
+      {
+        "sector": "에너지",
+        "volume_amount": 135970707175,
+        "ratio": 0.002
+      }
+    ],
+    "us_sector_volume_distribution": [
+      {
+        "sector": "반도체",
+        "volume_amount": 159507691086,
+        "ratio": 0.4522
+      },
+      {
+        "sector": "기타",
+        "volume_amount": 57778736057,
+        "ratio": 0.1638
+      },
+      {
+        "sector": "IT/소프트웨어",
+        "volume_amount": 43380425008,
+        "ratio": 0.123
+      },
+      {
+        "sector": "2차전지",
+        "volume_amount": 28950866000,
+        "ratio": 0.0821
+      },
+      {
+        "sector": "통신/미디어",
+        "volume_amount": 15713004483,
+        "ratio": 0.0445
+      },
+      {
+        "sector": "소비재",
+        "volume_amount": 15344644888,
+        "ratio": 0.0435
+      },
+      {
+        "sector": "금융",
+        "volume_amount": 9754901984,
+        "ratio": 0.0277
+      },
+      {
+        "sector": "바이오/헬스케어",
+        "volume_amount": 9684390913,
+        "ratio": 0.0275
+      },
+      {
+        "sector": "에너지",
+        "volume_amount": 5197043896,
+        "ratio": 0.0147
+      },
+      {
+        "sector": "조선/방산",
+        "volume_amount": 4495076073,
+        "ratio": 0.0127
+      },
+      {
+        "sector": "철강/소재",
+        "volume_amount": 1368925659,
+        "ratio": 0.0039
+      },
+      {
+        "sector": "부동산/건설",
+        "volume_amount": 1090412028,
+        "ratio": 0.0031
+      },
+      {
+        "sector": "자동차",
+        "volume_amount": 473747108,
+        "ratio": 0.0013
+      }
+    ]
   }
 }
