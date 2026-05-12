@@ -43,9 +43,9 @@
       },
       {
         "name": "charts_report",
-        "status": "running",
+        "status": "success",
         "ran_at": "2026-05-12T22:14:17.630419+09:00",
-        "duration_sec": null
+        "duration_sec": 0.2
       },
       {
         "name": "storage",
