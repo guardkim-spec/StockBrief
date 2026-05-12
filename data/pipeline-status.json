@@ -13,8 +13,8 @@
       },
       {
         "name": "korea_news",
-        "status": "pending",
-        "ran_at": null,
+        "status": "running",
+        "ran_at": "2026-05-12T22:11:39.896214+09:00",
         "duration_sec": null
       },
       {
