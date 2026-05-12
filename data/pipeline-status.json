@@ -55,9 +55,9 @@
       },
       {
         "name": "email",
-        "status": "running",
+        "status": "success",
         "ran_at": "2026-05-12T22:14:43.850025+09:00",
-        "duration_sec": null
+        "duration_sec": 2.3
       }
     ]
   }
