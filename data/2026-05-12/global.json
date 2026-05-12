@@ -5,56 +5,86 @@
     "date": "2026-05-12",
     "linkage_cards": [
       {
-        "us_sector": "소비재",
-        "us_sentiment": "neutral",
-        "us_score": 5,
-        "korea_sector": "소비재",
-        "predicted_impact": "neutral",
-        "impact_strength": 0.6,
-        "summary": "미국 소비재 동향이 한국 소비재 섹터에 영향을 줄 수 있습니다.",
-        "reasoning": "동일 섹터 글로벌 공급망 연계 (Gemini 대체)"
+        "us_sector": "바이오/헬스케어",
+        "us_sentiment": "positive",
+        "us_score": 7.0,
+        "korea_sector": "바이오/헬스케어",
+        "predicted_impact": "positive",
+        "impact_strength": 0.7,
+        "summary": "미국 바이오/헬스케어 강세, 한국 관련주 긍정적 영향 기대.",
+        "reasoning": "미국 바이오/헬스케어 섹터의 긍정적 뉴스 및 높은 평균 점수는 한국 바이오/헬스케어 섹터에 대한 투자 심리를 개선하고 관련 기업들의 주가 상승을 견인할 가능성이 높습니다."
       },
       {
-        "us_sector": "금융",
-        "us_sentiment": "neutral",
-        "us_score": 5,
-        "korea_sector": "금융",
-        "predicted_impact": "neutral",
+        "us_sector": "통신/미디어",
+        "us_sentiment": "negative",
+        "us_score": 7.0,
+        "korea_sector": "통신/미디어",
+        "predicted_impact": "negative",
         "impact_strength": 0.6,
-        "summary": "미국 금융 동향이 한국 금융 섹터에 영향을 줄 수 있습니다.",
-        "reasoning": "동일 섹터 글로벌 공급망 연계 (Gemini 대체)"
+        "summary": "미국 통신/미디어 섹터 약세, 한국 관련주에 부정적 영향 예상.",
+        "reasoning": "미국 통신/미디어 섹터의 부정적 뉴스 동향은 한국 통신/미디어 관련 기업들의 투자 심리를 위축시키고 주가 하락 압력으로 작용할 수 있습니다."
       },
       {
-        "us_sector": "IT/소프트웨어",
-        "us_sentiment": "neutral",
-        "us_score": 5,
-        "korea_sector": "IT/소프트웨어",
-        "predicted_impact": "neutral",
+        "us_sector": "부동산/건설",
+        "us_sentiment": "positive",
+        "us_score": 5.5,
+        "korea_sector": "부동산/건설",
+        "predicted_impact": "positive",
         "impact_strength": 0.6,
-        "summary": "미국 IT/소프트웨어 동향이 한국 IT/소프트웨어 섹터에 영향을 줄 수 있습니다.",
-        "reasoning": "동일 섹터 글로벌 공급망 연계 (Gemini 대체)"
-      },
-      {
-        "us_sector": "반도체",
-        "us_sentiment": "neutral",
-        "us_score": 5,
-        "korea_sector": "반도체",
-        "predicted_impact": "neutral",
-        "impact_strength": 0.6,
-        "summary": "미국 반도체 동향이 한국 반도체 섹터에 영향을 줄 수 있습니다.",
-        "reasoning": "동일 섹터 글로벌 공급망 연계 (Gemini 대체)"
+        "summary": "미국 부동산/건설 섹터 호조, 한국 관련주에 긍정적 모멘텀 제공.",
+        "reasoning": "미국 부동산/건설 섹터의 긍정적 흐름은 한국 부동산/건설 섹터의 기존 긍정적 분위기를 더욱 강화하며, 투자 심리 개선에 기여할 것으로 보입니다."
       },
       {
         "us_sector": "철강/소재",
-        "us_sentiment": "neutral",
-        "us_score": 5,
+        "us_sentiment": "positive",
+        "us_score": 4.0,
         "korea_sector": "철강/소재",
+        "predicted_impact": "positive",
+        "impact_strength": 0.5,
+        "summary": "미국 철강/소재 섹터 강세, 한국 관련주에 완만한 긍정적 영향 기대.",
+        "reasoning": "미국 철강/소재 섹터의 긍정적 동향은 글로벌 원자재 시장에 대한 긍정적 시그널로 작용하여 한국 철강/소재 관련 기업들의 주가에 완만한 상승 압력을 줄 수 있습니다."
+      },
+      {
+        "us_sector": "에너지",
+        "us_sentiment": "positive",
+        "us_score": 2.47,
+        "korea_sector": "에너지",
+        "predicted_impact": "positive",
+        "impact_strength": 0.5,
+        "summary": "미국 에너지 섹터 상승세, 한국 에너지 관련주에 긍정적 영향 예상.",
+        "reasoning": "미국 에너지 섹터의 긍정적 흐름은 국제 유가 및 에너지 관련 산업 전반에 대한 기대감을 높여 한국 에너지 관련 기업들의 투자 심리 개선에 기여할 수 있습니다."
+      },
+      {
+        "us_sector": "소비재",
+        "us_sentiment": "positive",
+        "us_score": 1.69,
+        "korea_sector": "소비재",
         "predicted_impact": "neutral",
-        "impact_strength": 0.6,
-        "summary": "미국 철강/소재 동향이 한국 철강/소재 섹터에 영향을 줄 수 있습니다.",
-        "reasoning": "동일 섹터 글로벌 공급망 연계 (Gemini 대체)"
+        "impact_strength": 0.3,
+        "summary": "미국 소비재 섹터 약한 긍정, 한국 관련주에 제한적인 영향 예상.",
+        "reasoning": "미국 소비재 섹터는 긍정적 뉴스가 부정적 뉴스보다 많지만 평균 점수가 낮아, 한국 소비재 섹터에 미치는 영향은 제한적일 것으로 판단됩니다."
+      },
+      {
+        "us_sector": "반도체",
+        "us_sentiment": "positive",
+        "us_score": 1.5,
+        "korea_sector": "반도체",
+        "predicted_impact": "positive",
+        "impact_strength": 0.8,
+        "summary": "미국 반도체 섹터 강세, 한국 반도체 시장의 긍정적 흐름 지속 예상.",
+        "reasoning": "미국 반도체 섹터의 긍정적 뉴스 동향은 이미 강세를 보이는 한국 반도체 시장에 추가적인 긍정적 모멘텀을 제공하며, 투자 심리를 더욱 강화할 것입니다."
+      },
+      {
+        "us_sector": "자동차",
+        "us_sentiment": "positive",
+        "us_score": 1.33,
+        "korea_sector": "자동차",
+        "predicted_impact": "neutral",
+        "impact_strength": 0.2,
+        "summary": "미국 자동차 섹터 약한 긍정, 한국 관련주에 미미한 영향 예상.",
+        "reasoning": "미국 자동차 섹터의 긍정적 뉴스는 있으나 그 강도가 매우 약하고, 한국 시장에 미치는 직접적인 영향은 제한적일 것으로 판단됩니다."
       }
     ],
-    "gemini_overall_summary": "Gemini API 미사용 — 규칙 기반 연계 분석 결과입니다."
+    "gemini_overall_summary": "미국 시장은 바이오/헬스케어, 부동산/건설, 반도체 등 주요 섹터에서 긍정적 흐름을 보이며 한국 관련 섹터에 전반적으로 긍정적인 영향을 미칠 것으로 예상됩니다. 특히 반도체와 바이오/헬스케어는 강한 연계성을 보이며 한국 시장의 투자 심리를 견인할 가능성이 높습니다. 반면, 통신/미디어 섹터의 미국 내 약세는 한국 시장에도 부정적 영향을 줄 수 있습니다."
   }
 }
