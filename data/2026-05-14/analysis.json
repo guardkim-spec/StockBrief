@@ -1,0 +1,126 @@
+{
+  "ok": true,
+  "date": "2026-05-14",
+  "data": [
+    {
+      "date": "2026-05-14",
+      "sector": "반도체",
+      "news_score": 5.35,
+      "volume_score": 47.4,
+      "trend_score": 3,
+      "total_score": 17.26,
+      "recommendation": true,
+      "confidence": 0.75
+    },
+    {
+      "date": "2026-05-14",
+      "sector": "에너지",
+      "news_score": 1.75,
+      "volume_score": 0.4,
+      "trend_score": 4,
+      "total_score": 2.02,
+      "recommendation": true,
+      "confidence": 0.75
+    },
+    {
+      "date": "2026-05-14",
+      "sector": "금융",
+      "news_score": 1.05,
+      "volume_score": 1.6,
+      "trend_score": 2,
+      "total_score": 1.5,
+      "recommendation": false,
+      "confidence": 0.75
+    },
+    {
+      "date": "2026-05-14",
+      "sector": "2차전지",
+      "news_score": 0.0,
+      "volume_score": 2.6,
+      "trend_score": 5,
+      "total_score": 2.28,
+      "recommendation": false,
+      "confidence": 0.75
+    },
+    {
+      "date": "2026-05-14",
+      "sector": "부동산/건설",
+      "news_score": 0.0,
+      "volume_score": 2.3,
+      "trend_score": 5,
+      "total_score": 2.19,
+      "recommendation": true,
+      "confidence": 0.75
+    },
+    {
+      "date": "2026-05-14",
+      "sector": "조선/방산",
+      "news_score": 0.0,
+      "volume_score": 2.7,
+      "trend_score": 5,
+      "total_score": 2.31,
+      "recommendation": false,
+      "confidence": 0.75
+    },
+    {
+      "date": "2026-05-14",
+      "sector": "바이오/헬스케어",
+      "news_score": 0.0,
+      "volume_score": 0.5,
+      "trend_score": 5,
+      "total_score": 1.65,
+      "recommendation": false,
+      "confidence": 0.75
+    },
+    {
+      "date": "2026-05-14",
+      "sector": "소비재",
+      "news_score": 0.0,
+      "volume_score": 0.3,
+      "trend_score": 5,
+      "total_score": 1.59,
+      "recommendation": false,
+      "confidence": 0.75
+    },
+    {
+      "date": "2026-05-14",
+      "sector": "통신/미디어",
+      "news_score": 0.0,
+      "volume_score": 1.2,
+      "trend_score": 5,
+      "total_score": 1.86,
+      "recommendation": false,
+      "confidence": 0.75
+    },
+    {
+      "date": "2026-05-14",
+      "sector": "철강/소재",
+      "news_score": 0.0,
+      "volume_score": 1.0,
+      "trend_score": 5,
+      "total_score": 1.8,
+      "recommendation": false,
+      "confidence": 0.75
+    },
+    {
+      "date": "2026-05-14",
+      "sector": "자동차",
+      "news_score": 0.0,
+      "volume_score": 5.9,
+      "trend_score": 5,
+      "total_score": 3.27,
+      "recommendation": false,
+      "confidence": 0.75
+    },
+    {
+      "date": "2026-05-14",
+      "sector": "IT/소프트웨어",
+      "news_score": 0.0,
+      "volume_score": 1.1,
+      "trend_score": 5,
+      "total_score": 1.83,
+      "recommendation": false,
+      "confidence": 0.75
+    }
+  ]
+}
