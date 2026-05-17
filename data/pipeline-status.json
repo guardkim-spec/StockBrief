@@ -13,15 +13,15 @@
       },
       {
         "name": "korea_news",
-        "status": "pending",
-        "ran_at": null,
+        "status": "running",
+        "ran_at": "2026-05-17T18:38:49.532974+09:00",
         "duration_sec": null
       },
       {
         "name": "us_price",
-        "status": "running",
+        "status": "success",
         "ran_at": "2026-05-17T18:38:37.575743+09:00",
-        "duration_sec": null
+        "duration_sec": 10.0
       },
       {
         "name": "us_news",
