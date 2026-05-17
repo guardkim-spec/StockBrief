@@ -1,0 +1,90 @@
+{
+  "ok": true,
+  "date": "2026-05-14",
+  "data": {
+    "date": "2026-05-14",
+    "linkage_cards": [
+      {
+        "us_sector": "부동산/건설",
+        "us_sentiment": "positive",
+        "us_score": 8.0,
+        "korea_sector": "부동산/건설",
+        "predicted_impact": "positive",
+        "impact_strength": 0.7,
+        "summary": "미국 부동산/건설 섹터의 강세는 한국 관련 섹터에 긍정적 영향을 미칠 것으로 예상됩니다.",
+        "reasoning": "미국 부동산/건설 섹터의 긍정적 뉴스 및 높은 평균 점수는 한국 부동산/건설 관련 기업들의 투자 심리 개선에 기여할 수 있습니다. 한국 내 자체 모멘텀은 부재하나, 미국발 긍정 기조가 영향을 줄 것입니다."
+      },
+      {
+        "us_sector": "반도체",
+        "us_sentiment": "positive",
+        "us_score": 7.0,
+        "korea_sector": "반도체",
+        "predicted_impact": "positive",
+        "impact_strength": 0.9,
+        "summary": "미국 반도체 섹터의 강력한 상승세는 한국 반도체 시장의 긍정적 흐름을 더욱 강화할 것입니다.",
+        "reasoning": "미국 반도체 섹터의 압도적인 긍정적 뉴스 흐름과 높은 점수는 한국 반도체 시장의 기존 긍정적 모멘텀을 더욱 부추길 것입니다. 글로벌 반도체 수요 회복 기대감이 커질 수 있습니다."
+      },
+      {
+        "us_sector": "금융",
+        "us_sentiment": "negative",
+        "us_score": 5.33,
+        "korea_sector": "금융",
+        "predicted_impact": "neutral",
+        "impact_strength": 0.5,
+        "summary": "미국 금융 섹터의 부정적 기조는 한국 금융 시장에 제한적인 하방 압력을 가할 수 있습니다.",
+        "reasoning": "미국 금융 섹터의 부정적 뉴스 비중이 높으나, 평균 점수는 중립에 가까워 강한 하락 압력보다는 투자 심리 위축에 영향을 줄 수 있습니다. 한국 금융 섹터는 자체 모멘텀이 약합니다."
+      },
+      {
+        "us_sector": "IT/소프트웨어",
+        "us_sentiment": "negative",
+        "us_score": 3.26,
+        "korea_sector": "IT/소프트웨어",
+        "predicted_impact": "negative",
+        "impact_strength": 0.8,
+        "summary": "미국 IT/소프트웨어 섹터의 부진은 한국 관련 기술주 전반에 부정적 영향을 미칠 수 있습니다.",
+        "reasoning": "미국 IT/소프트웨어 섹터의 압도적인 부정적 뉴스 및 낮은 점수는 글로벌 기술주 투자 심리를 위축시키며, 한국 기술 관련 기업들에도 하방 압력을 가할 가능성이 높습니다."
+      },
+      {
+        "us_sector": "소비재",
+        "us_sentiment": "neutral",
+        "us_score": 3.25,
+        "korea_sector": "소비재",
+        "predicted_impact": "neutral",
+        "impact_strength": 0.2,
+        "summary": "미국 소비재 섹터의 혼조세는 한국 소비재 시장에 제한적인 영향을 미칠 것으로 보입니다.",
+        "reasoning": "미국 소비재 섹터는 긍정적 뉴스가 있으나 평균 점수가 낮아 전반적인 모멘텀이 약합니다. 한국 소비재 시장에 직접적인 강한 영향보다는 중립적인 흐름을 예상합니다."
+      },
+      {
+        "us_sector": "바이오/헬스케어",
+        "us_sentiment": "neutral",
+        "us_score": 2.17,
+        "korea_sector": "바이오/헬스케어",
+        "predicted_impact": "neutral",
+        "impact_strength": 0.1,
+        "summary": "미국 바이오/헬스케어 섹터의 미약한 긍정 흐름은 한국 시장에 큰 영향을 주지 않을 것입니다.",
+        "reasoning": "미국 바이오/헬스케어 섹터는 긍정적 뉴스가 있으나 평균 점수가 매우 낮아 시장 전반에 미치는 영향이 미미할 것으로 판단됩니다. 한국 관련 섹터에도 중립적 영향을 예상합니다."
+      },
+      {
+        "us_sector": "통신/미디어",
+        "us_sentiment": "neutral",
+        "us_score": 0.0,
+        "korea_sector": "통신/미디어",
+        "predicted_impact": "neutral",
+        "impact_strength": 0.0,
+        "summary": "미국 통신/미디어 섹터는 특별한 동향이 없어 한국 시장에 미치는 영향이 없을 것입니다.",
+        "reasoning": "미국 통신/미디어 섹터는 관련 뉴스나 시세 동향이 없어 한국 시장에 직접적인 영향을 미치지 않을 것으로 예상됩니다."
+      },
+      {
+        "us_sector": "에너지",
+        "us_sentiment": "neutral",
+        "us_score": 0.0,
+        "korea_sector": "에너지",
+        "predicted_impact": "neutral",
+        "impact_strength": 0.0,
+        "summary": "미국 에너지 섹터의 중립적 흐름은 한국 에너지 시장에 큰 영향을 주지 않을 것입니다.",
+        "reasoning": "미국 에너지 섹터는 특별한 동향이 없어 한국 시장에 직접적인 영향을 미치지 않을 것입니다. 한국 에너지 섹터는 자체적인 약세 흐름을 보이고 있습니다."
+      }
+    ],
+    "gemini_overall_summary": "미국 반도체 섹터의 강력한 긍정적 흐름은 한국 반도체 시장의 상승세를 견인할 것으로 보입니다. 반면, 미국 IT/소프트웨어 섹터의 부진은 한국 기술주 전반에 하방 압력을 가할 수 있습니다. 금융 섹터는 미국 내 부정적 기조가 한국 시장에 제한적 영향을 줄 것으로 예상됩니다. 전반적으로 미국 주요 기술 섹터의 엇갈린 흐름이 한국 시장에 혼조세를 야기할 수 있습니다."
+  }
+}
