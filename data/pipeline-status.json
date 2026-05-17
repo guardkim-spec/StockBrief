@@ -13,9 +13,9 @@
       },
       {
         "name": "korea_news",
-        "status": "running",
+        "status": "success",
         "ran_at": "2026-05-17T18:51:07.464703+09:00",
-        "duration_sec": null
+        "duration_sec": 21.2
       },
       {
         "name": "us_price",
