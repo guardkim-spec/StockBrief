@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "date": "2026-05-12",
+  "date": "2026-05-15",
   "data": {
-    "last_updated": "2026-05-12T22:40:15.051626+09:00",
+    "last_updated": "2026-05-17T18:19:36.401270+09:00",
     "pipeline_status": "success",
     "ai_recommendation": {
       "sectors": [
@@ -10,15 +10,15 @@
         "부동산/건설",
         "IT/소프트웨어"
       ],
-      "reason": "뉴스 점수와 거래대금 비중 기반 자동 선정 (Gemini 대체)",
-      "confidence": 0.5,
-      "generated_at": "2026-05-12T22:40:15.051626+09:00"
+      "reason": "반도체는 국내외 긍정적 뉴스 및 압도적 거래대금으로 최우선 주목. 부동산/건설은 미국 섹터의 강한 호재가 국내에 긍정적 영향을 줄 가능성. IT/소프트웨어는 미국 시장의 긍정적 흐름에 힘입어 동반 상승 기대.",
+      "confidence": 0.85,
+      "generated_at": "2026-05-17T18:19:36.401270+09:00"
     },
     "korea_sector_ranking": [
       {
         "sector": "반도체",
-        "score": 6.0,
-        "sentiment": "positive"
+        "score": 5.83,
+        "sentiment": "neutral"
       },
       {
         "sector": "부동산/건설",
@@ -26,13 +26,18 @@
         "sentiment": "negative"
       },
       {
-        "sector": "IT/소프트웨어",
-        "score": 2.09,
+        "sector": "에너지",
+        "score": 1.75,
         "sentiment": "negative"
       },
       {
         "sector": "금융",
-        "score": 0.18,
+        "score": 0.62,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "2차전지",
+        "score": 0.0,
         "sentiment": "negative"
       },
       {
@@ -51,7 +56,7 @@
         "sentiment": "negative"
       },
       {
-        "sector": "에너지",
+        "sector": "통신/미디어",
         "score": 0.0,
         "sentiment": "negative"
       },
@@ -61,190 +66,200 @@
         "sentiment": "negative"
       },
       {
-        "sector": "2차전지",
+        "sector": "자동차",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "IT/소프트웨어",
         "score": 0.0,
         "sentiment": "negative"
       }
     ],
     "us_sector_ranking": [
       {
-        "sector": "바이오/헬스케어",
-        "score": 7.0,
-        "sentiment": "positive"
-      },
-      {
-        "sector": "통신/미디어",
-        "score": 7.0,
-        "sentiment": "positive"
-      },
-      {
         "sector": "부동산/건설",
-        "score": 5.5,
+        "score": 9.0,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "반도체",
+        "score": 7.84,
+        "sentiment": "positive"
+      },
+      {
+        "sector": "IT/소프트웨어",
+        "score": 5.97,
         "sentiment": "neutral"
       },
       {
-        "sector": "철강/소재",
-        "score": 4.0,
+        "sector": "금융",
+        "score": 4.3,
         "sentiment": "neutral"
       },
       {
-        "sector": "에너지",
-        "score": 2.47,
+        "sector": "바이오/헬스케어",
+        "score": 3.5,
         "sentiment": "negative"
       },
       {
         "sector": "소비재",
-        "score": 1.69,
+        "score": 3.21,
         "sentiment": "negative"
       },
       {
-        "sector": "반도체",
-        "score": 1.5,
+        "sector": "통신/미디어",
+        "score": 0.0,
+        "sentiment": "negative"
+      },
+      {
+        "sector": "에너지",
+        "score": 0.0,
         "sentiment": "negative"
       },
       {
         "sector": "자동차",
-        "score": 1.33,
+        "score": 0.0,
         "sentiment": "negative"
       },
       {
-        "sector": "금융",
-        "score": 1.0,
-        "sentiment": "negative"
-      },
-      {
-        "sector": "IT/소프트웨어",
-        "score": 0.83,
+        "sector": "철강/소재",
+        "score": 0.0,
         "sentiment": "negative"
       }
     ],
     "korea_sector_volume_distribution": [
       {
         "sector": "반도체",
-        "volume_amount": 30196272719015,
-        "ratio": 0.4436
+        "volume_amount": 25459782452654,
+        "ratio": 0.422
       },
       {
         "sector": "기타",
-        "volume_amount": 25827312363327,
-        "ratio": 0.3794
+        "volume_amount": 22468798467473,
+        "ratio": 0.3725
       },
       {
         "sector": "자동차",
-        "volume_amount": 4724537223185,
-        "ratio": 0.0694
+        "volume_amount": 4765084054984,
+        "ratio": 0.079
       },
       {
         "sector": "2차전지",
-        "volume_amount": 2035315800200,
-        "ratio": 0.0299
+        "volume_amount": 1721390832800,
+        "ratio": 0.0285
       },
       {
         "sector": "조선/방산",
-        "volume_amount": 2008740653000,
-        "ratio": 0.0295
-      },
-      {
-        "sector": "부동산/건설",
-        "volume_amount": 932256810200,
-        "ratio": 0.0137
-      },
-      {
-        "sector": "금융",
-        "volume_amount": 725570054360,
-        "ratio": 0.0107
+        "volume_amount": 1341777017700,
+        "ratio": 0.0222
       },
       {
         "sector": "철강/소재",
-        "volume_amount": 631616796500,
-        "ratio": 0.0093
-      },
-      {
-        "sector": "통신/미디어",
-        "volume_amount": 435909634350,
-        "ratio": 0.0064
-      },
-      {
-        "sector": "바이오/헬스케어",
-        "volume_amount": 225496250200,
-        "ratio": 0.0033
+        "volume_amount": 1141495314315,
+        "ratio": 0.0189
       },
       {
         "sector": "IT/소프트웨어",
-        "volume_amount": 187562481800,
-        "ratio": 0.0028
+        "volume_amount": 929129253413,
+        "ratio": 0.0154
+      },
+      {
+        "sector": "부동산/건설",
+        "volume_amount": 902291437050,
+        "ratio": 0.015
+      },
+      {
+        "sector": "금융",
+        "volume_amount": 721045626250,
+        "ratio": 0.012
+      },
+      {
+        "sector": "바이오/헬스케어",
+        "volume_amount": 405519650550,
+        "ratio": 0.0067
+      },
+      {
+        "sector": "통신/미디어",
+        "volume_amount": 208052660000,
+        "ratio": 0.0034
+      },
+      {
+        "sector": "소비재",
+        "volume_amount": 140991514625,
+        "ratio": 0.0023
       },
       {
         "sector": "에너지",
-        "volume_amount": 135970707175,
+        "volume_amount": 121427742450,
         "ratio": 0.002
       }
     ],
     "us_sector_volume_distribution": [
       {
         "sector": "반도체",
-        "volume_amount": 159507691086,
-        "ratio": 0.4522
+        "volume_amount": 125872928251,
+        "ratio": 0.3828
       },
       {
         "sector": "기타",
-        "volume_amount": 57778736057,
-        "ratio": 0.1638
+        "volume_amount": 59268146034,
+        "ratio": 0.1802
       },
       {
         "sector": "IT/소프트웨어",
-        "volume_amount": 43380425008,
-        "ratio": 0.123
+        "volume_amount": 46345346993,
+        "ratio": 0.1409
       },
       {
         "sector": "2차전지",
-        "volume_amount": 28950866000,
-        "ratio": 0.0821
-      },
-      {
-        "sector": "통신/미디어",
-        "volume_amount": 15713004483,
-        "ratio": 0.0445
+        "volume_amount": 30821934284,
+        "ratio": 0.0937
       },
       {
         "sector": "소비재",
-        "volume_amount": 15344644888,
-        "ratio": 0.0435
+        "volume_amount": 16628227553,
+        "ratio": 0.0506
       },
       {
-        "sector": "금융",
-        "volume_amount": 9754901984,
-        "ratio": 0.0277
+        "sector": "통신/미디어",
+        "volume_amount": 15894780254,
+        "ratio": 0.0483
       },
       {
         "sector": "바이오/헬스케어",
-        "volume_amount": 9684390913,
-        "ratio": 0.0275
+        "volume_amount": 11785845475,
+        "ratio": 0.0358
+      },
+      {
+        "sector": "금융",
+        "volume_amount": 8119074368,
+        "ratio": 0.0247
       },
       {
         "sector": "에너지",
-        "volume_amount": 5197043896,
-        "ratio": 0.0147
-      },
-      {
-        "sector": "조선/방산",
-        "volume_amount": 4495076073,
-        "ratio": 0.0127
-      },
-      {
-        "sector": "철강/소재",
-        "volume_amount": 1368925659,
-        "ratio": 0.0039
-      },
-      {
-        "sector": "부동산/건설",
-        "volume_amount": 1090412028,
-        "ratio": 0.0031
+        "volume_amount": 3795857611,
+        "ratio": 0.0115
       },
       {
         "sector": "자동차",
-        "volume_amount": 473747108,
-        "ratio": 0.0013
+        "volume_amount": 3548846694,
+        "ratio": 0.0108
+      },
+      {
+        "sector": "조선/방산",
+        "volume_amount": 3312819445,
+        "ratio": 0.0101
+      },
+      {
+        "sector": "철강/소재",
+        "volume_amount": 1954152199,
+        "ratio": 0.0059
+      },
+      {
+        "sector": "부동산/건설",
+        "volume_amount": 1465978024,
+        "ratio": 0.0045
       }
     ]
   }
